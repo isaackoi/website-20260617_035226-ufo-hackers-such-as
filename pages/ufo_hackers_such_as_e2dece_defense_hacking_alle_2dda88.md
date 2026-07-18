@@ -447,19 +447,19 @@ image: /assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-ove
 
 ## Introduction
 
-Gary McKinnon’s case became famous because he said he was searching for UFO evidence, but the Pentagon and Defense Department allegations are what made it a national-security cybercrime case. US prosecutors did not describe his conduct as harmless curiosity. They alleged unauthorised access to Army, Navy, Air Force, Department of Defense and NASA systems, installation of remote-access tools, copying of password files, deletion of system data and disruption to military networks. The most serious claims concerned defence computers used for national defence, the US Army’s [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network, and Naval Weapons Station Earle, a Navy facility involved in munitions and supply support for the Atlantic Fleet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+Gary McKinnon’s case became famous because he said he was searching for UFO evidence, but the Pentagon and Defense Department allegations are what made it a national-security cybercrime case. US prosecutors did not describe his conduct as harmless curiosity. They alleged unauthorised access to Army, Navy, Air Force, Department of Defense and NASA systems, installation of remote-access tools, copying of password files, deletion of system data and disruption to military networks. The most serious claims concerned defence computers used for national defence, the US Army’s [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network, and Naval Weapons Station Earle, a Navy facility involved in munitions and supply support for the Atlantic Fleet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-overview.webp" | relative_url }}" alt="Overview image for Defense Targets" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters. The UFO [motive]({{ 'motive/' | relative_url }}) explains why McKinnon entered the story as the “UFO hacker”, but the defence-system allegations explain why the United States pursued extradition and framed the case as one of the largest military computer [intrusions]({{ 'intrusions/' | relative_url }}) of its time. McKinnon admitted unauthorised access but disputed the prosecution’s portrayal of damage. The result was a case in which motive, harm and proportionality were fiercely contested, while the identity of the alleged targets gave the matter its political weight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+That distinction matters. The UFO [motive]({{ 'motive/' | relative_url }}) explains why McKinnon entered the story as the “UFO hacker”, but the defence-system allegations explain why the United States pursued extradition and framed the case as one of the largest military computer [intrusions]({{ 'intrusions/' | relative_url }}) of its time. McKinnon admitted unauthorised access but disputed the prosecution’s portrayal of damage. The result was a case in which motive, harm and proportionality were fiercely contested, while the identity of the alleged targets gave the matter its political weight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
 ## Why the targets changed the meaning of the case
 
-The central legal and public dispute was not simply that McKinnon entered computers without permission. It was that the named targets were defence and space-agency systems, including machines at military bases and the Pentagon. The US Department of Justice said the 2002 Virginia [indictment]({{ 'indictment/' | relative_url }}) charged him with seven counts of computer fraud and related activity after he allegedly accessed and damaged 92 computers belonging to the US Army, Navy, Air Force, Department of Defense and NASA, as well as six private-business computers. One count specifically concerned a computer used by the military for national defence and security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The central legal and public dispute was not simply that McKinnon entered computers without permission. It was that the named targets were defence and space-agency systems, including machines at military bases and the Pentagon. The US Department of Justice said the 2002 Virginia [indictment]({{ 'indictment/' | relative_url }}) charged him with seven counts of computer fraud and related activity after he allegedly accessed and damaged 92 computers belonging to the US Army, Navy, Air Force, Department of Defense and NASA, as well as six private-business computers. One count specifically concerned a computer used by the military for national defence and security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-The later House of Lords judgment, summarising the US extradition case, set out a slightly different total: 97 US Government computers. It broke those down as 53 Army computers, 26 Navy computers, 16 NASA computers, one Department of Defense computer and one US Air Force computer. The Army machines included systems connected with the Military District of Washington, while the Navy machines included systems at Naval Weapons Station Earle in New Jersey. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+The later House of Lords judgment, summarising the US extradition case, set out a slightly different total: 97 US Government computers. It broke those down as 53 Army computers, 26 Navy computers, 16 NASA computers, one Department of Defense computer and one US Air Force computer. The Army machines included systems connected with the Military District of Washington, while the Navy machines included systems at Naval Weapons Station Earle in New Jersey.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
-This is why “Pentagon hacker” became a shorthand in press coverage, even though the alleged intrusions were wider than the Pentagon itself. The prosecution picture was of a roaming intrusion through government and military networks, not a single break-in to one famous building. The Justice Department said McKinnon scanned large numbers of computers in the “.mil” network, obtained administrative privileges, installed tools, copied password files and used compromised computers to find further military and NASA victims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+This is why “Pentagon hacker” became a shorthand in press coverage, even though the alleged intrusions were wider than the Pentagon itself. The prosecution picture was of a roaming intrusion through government and military networks, not a single break-in to one famous building. The Justice Department said McKinnon scanned large numbers of computers in the “.mil” network, obtained administrative privileges, installed tools, copied password files and used compromised computers to find further military and NASA victims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-1-dark.svg" | relative_url }}" alt="Defense Targets illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -467,34 +467,34 @@ This is why “Pentagon hacker” became a shorthand in press coverage, even tho
 
 The allegations named several categories of defence-related systems, each carrying a different kind of risk.
 
-The **Army systems** mattered because they were linked to national defence and command support. According to the House of Lords summary, some of the Army computers controlled the US Army’s Military District of Washington network and were used in furtherance of national defence and security. Prosecutors alleged that deleted operating-system files shut down that network of more than 2,000 computers for 24 hours, disrupting government functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+The **Army systems** mattered because they were linked to national defence and command support. According to the House of Lords summary, some of the Army computers controlled the US Army’s Military District of Washington network and were used in furtherance of national defence and security. Prosecutors alleged that deleted operating-system files shut down that network of more than 2,000 computers for 24 hours, disrupting government functions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
-The **Navy systems** mattered because Naval Weapons Station Earle was not just an ordinary office network. The US Attorney’s New Jersey release described Earle as a Navy command responsible for replenishing munitions and supplies for the Atlantic Fleet. It alleged that McKinnon broke into the Earle network, stole approximately 950 passwords from server computers and later used previously installed remote-access software and stolen passwords to re-enter the network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</span><span class="citation-popover-meta">Published: November 18, 2002</span></span></span>
+The **Navy systems** mattered because Naval Weapons Station Earle was not just an ordinary office network. The US Attorney’s New Jersey release described Earle as a Navy command responsible for replenishing munitions and supplies for the Atlantic Fleet. It alleged that McKinnon broke into the Earle network, stole approximately 950 passwords from server computers and later used previously installed remote-access software and stolen passwords to re-enter the network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</span><span class="citation-popover-meta">Published: November 18, 2002</span></span></span>
 
-The **Pentagon and Department of Defense references** added symbolic and institutional weight. The Justice Department said the hacked computers included systems at military bases across the United States and the Pentagon, while the New Jersey release said the Virginia indictment charged intrusions into two computers located at the Pentagon. The House of Lords summary separately listed one Department of Defense computer among the 97 accessed systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The **Pentagon and Department of Defense references** added symbolic and institutional weight. The Justice Department said the hacked computers included systems at military bases across the United States and the Pentagon, while the New Jersey release said the Virginia indictment charged intrusions into two computers located at the Pentagon. The House of Lords summary separately listed one Department of Defense computer among the 97 accessed systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-The **NASA systems** were important to McKinnon’s own story because he linked them to his UFO search. But within the defence-allegation frame, NASA was part of a broader US Government target set rather than the sole centre of the case. The indictment and court summaries repeatedly paired NASA with Army, Navy, Air Force and Department of Defense computers, which is why the case moved from UFO folklore into extradition, cybercrime and national-security politics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The **NASA systems** were important to McKinnon’s own story because he linked them to his UFO search. But within the defence-allegation frame, NASA was part of a broader US Government target set rather than the sole centre of the case. The indictment and court summaries repeatedly paired NASA with Army, Navy, Air Force and Department of Defense computers, which is why the case moved from UFO folklore into extradition, cybercrime and national-security politics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ## What prosecutors said McKinnon did inside the systems
 
-The prosecution theory was not limited to “logging in” or looking around. It alleged a pattern of access, persistence, copying and deletion. The House of Lords summary said McKinnon identified US Government computers with open Microsoft Windows connections, extracted administrative account names and passwords, then installed unauthorised remote-access software called “[RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }})”. That software allegedly allowed him to access and alter data on the American computers later, while masquerading as part of the Windows operating system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+The prosecution theory was not limited to “logging in” or looking around. It alleged a pattern of access, persistence, copying and deletion. The House of Lords summary said McKinnon identified US Government computers with open Microsoft Windows connections, extracted administrative account names and passwords, then installed unauthorised remote-access software called “[RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }})”. That software allegedly allowed him to access and alter data on the American computers later, while masquerading as part of the Windows operating system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
-The same judgment said he installed additional software to help further compromises and conceal his activity, then scanned more than 73,000 US Government computers for other vulnerable systems. In modern terms, the allegation was lateral movement: using one compromised machine to find and reach others. The Justice Department made a similar claim in 2002, saying that once inside a network, McKinnon used the hacked computer to find additional military and NASA victims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+The same judgment said he installed additional software to help further compromises and conceal his activity, then scanned more than 73,000 US Government computers for other vulnerable systems. In modern terms, the allegation was lateral movement: using one compromised machine to find and reach others. The Justice Department made a similar claim in 2002, saying that once inside a network, McKinnon used the hacked computer to find additional military and NASA victims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
-The copying allegations were also specific. The House of Lords summary said he copied operating-system files containing account names and encrypted passwords from 22 computers: 189 files from Army computers, 35 from Navy computers, including about 950 passwords from Naval Weapons Station Earle server computers, and six from NASA computers. These allegations helped the US frame the conduct as more than trespass: copied credentials can be used for future access and can leave a network exposed even after an intruder has left. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+The copying allegations were also specific. The House of Lords summary said he copied operating-system files containing account names and encrypted passwords from 22 computers: 189 files from Army computers, 35 from Navy computers, including about 950 passwords from Naval Weapons Station Earle server computers, and six from NASA computers. These allegations helped the US frame the conduct as more than trespass: copied credentials can be used for future access and can leave a network exposed even after an intruder has left.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
 ## Operational disruption claims
 
-The most consequential part of the Defense Department allegations was operational disruption. The Justice Department said McKinnon caused a network in the Washington, DC area to shut down, with loss of internet access and email service to about 2,000 users for three days. The House of Lords summary described the Military District of Washington disruption differently, saying deletion of critical operating-system files from nine computers shut down the network of more than 2,000 computers for 24 hours. The exact duration varies across official summaries, but both versions present the incident as a large-scale outage affecting a military network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The most consequential part of the Defense Department allegations was operational disruption. The Justice Department said McKinnon caused a network in the Washington, DC area to shut down, with loss of internet access and email service to about 2,000 users for three days. The House of Lords summary described the Military District of Washington disruption differently, saying deletion of critical operating-system files from nine computers shut down the network of more than 2,000 computers for 24 hours. The exact duration varies across official summaries, but both versions present the incident as a large-scale outage affecting a military network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-The Earle Naval Weapons Station allegation was even more pointed because of timing. The New Jersey US Attorney’s release said the Earle network was effectively shut down for an entire week in the immediate aftermath of the 11 September 2001 attacks, and that for another three weeks staff could send and receive only internal email. It added that automatic routing of Naval message traffic and internet access were not restored until about a month after McKinnon’s last intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</span><span class="citation-popover-meta">Published: November 18, 2002</span></span></span>
+The Earle Naval Weapons Station allegation was even more pointed because of timing. The New Jersey US Attorney’s release said the Earle network was effectively shut down for an entire week in the immediate aftermath of the 11 September 2001 attacks, and that for another three weeks staff could send and receive only internal email. It added that automatic routing of Naval message traffic and internet access were not restored until about a month after McKinnon’s last intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</span><span class="citation-popover-meta">Published: November 18, 2002</span></span></span>
 
-The indictment summary described the Earle “Port Services” computer as the primary computer used for monitoring the identity, location, physical condition, staffing, battle readiness and resupply of Navy ships in and near the pier complex. That made the allegation sharper than a generic office-computer incident: prosecutors were saying that the intrusion affected a support system tied to ship readiness and resupply information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</span><span class="citation-popover-meta">Published: November 18, 2002</span></span></span>
+The indictment summary described the Earle “Port Services” computer as the primary computer used for monitoring the identity, location, physical condition, staffing, battle readiness and resupply of Navy ships in and near the pier complex. That made the allegation sharper than a generic office-computer incident: prosecutors were saying that the intrusion affected a support system tied to ship readiness and resupply information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</span><span class="citation-popover-meta">Published: November 18, 2002</span></span></span>
 
-McKinnon and his supporters disputed the scale and interpretation of the damage. He admitted responsibility for intrusions in interviews under caution, according to the House of Lords summary, but did not admit that he had caused damage. This distinction became one of the case’s defining tensions: the US emphasised impaired integrity, availability and reliability of defence systems, while McKinnon’s side portrayed the intrusions as unauthorised but not maliciously destructive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+McKinnon and his supporters disputed the scale and interpretation of the damage. He admitted responsibility for intrusions in interviews under caution, according to the House of Lords summary, but did not admit that he had caused damage. This distinction became one of the case’s defining tensions: the US emphasised impaired integrity, availability and reliability of defence systems, while McKinnon’s side portrayed the intrusions as unauthorised but not maliciously destructive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-2-dark.svg" | relative_url }}" alt="Defense Targets illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -502,11 +502,11 @@ McKinnon and his supporters disputed the scale and interpretation of the damage.
 
 The national-security framing came from three overlapping features: the target list, the timing and the alleged conduct after access.
 
-First, the target list included systems “concerned with national defence and security”, as the UK Home Office later put it when summarising the US accusations. The Home Office also specifically mentioned naval munitions supply, the Military District of Washington network and the allegation that Army and Naval Weapons Station systems were rendered inoperable after the 11 September attacks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Latest on Gary Mc Kinnon case</span><span class="citation-popover-snippet">Latest on Gary Mc Kinnon case</span></span></span>
+First, the target list included systems “concerned with national defence and security”, as the UK Home Office later put it when summarising the US accusations. The Home Office also specifically mentioned naval munitions supply, the Military District of Washington network and the allegation that Army and Naval Weapons Station systems were rendered inoperable after the 11 September attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Latest on Gary Mc Kinnon case</span><span class="citation-popover-snippet">Latest on Gary Mc Kinnon case</span></span></span>
 
-Second, the timing made the case politically sensitive. Some alleged disruption occurred in the months around, and shortly after, the 11 September 2001 attacks, when US defence and security institutions were on heightened alert. The New Jersey release explicitly used that context, calling the Earle intrusion serious because it allegedly affected a vital military system when the United States was trying to guard against further attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</span><span class="citation-popover-meta">Published: November 18, 2002</span></span></span>
+Second, the timing made the case politically sensitive. Some alleged disruption occurred in the months around, and shortly after, the 11 September 2001 attacks, when US defence and security institutions were on heightened alert. The New Jersey release explicitly used that context, calling the Earle intrusion serious because it allegedly affected a vital military system when the United States was trying to guard against further attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</span><span class="citation-popover-meta">Published: November 18, 2002</span></span></span>
 
-Third, prosecutors pointed to McKinnon’s own alleged message on an Army computer. The House of Lords judgment recorded that he admitted leaving a note that criticised US foreign policy, referred to the September 11 security stand-down and said: “I am SOLO. I will continue to disrupt at the highest levels.” The judgment said the US alleged his conduct was intentional and calculated to influence the US Government by intimidation and coercion, and that it impaired the integrity, availability and operation of programmes, systems, information and data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+Third, prosecutors pointed to McKinnon’s own alleged message on an Army computer. The House of Lords judgment recorded that he admitted leaving a note that criticised US foreign policy, referred to the September 11 security stand-down and said: “I am SOLO. I will continue to disrupt at the highest levels.” The judgment said the US alleged his conduct was intentional and calculated to influence the US Government by intimidation and coercion, and that it impaired the integrity, availability and operation of programmes, systems, information and data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
 This does not mean every prosecution characterisation was accepted as fact by a trial court; McKinnon was not ultimately tried in the United States. But it explains why American authorities did not treat the case as a quirky UFO search. In their account, the conduct combined unauthorised access, credential theft, remote-control software, deletion of system files, impaired military networks and defence-related targets.
 
@@ -515,17 +515,17 @@ This does not mean every prosecution characterisation was accepted as fact by a 
 
 ## Damage figures and why they vary
 
-Readers often encounter different damage figures in McKinnon coverage. The Justice Department’s Virginia release gave an estimated loss of about $900,000 across military organisations, NASA and private businesses. The House of Lords summary gave a repair-cost allegation of more than $700,000. The New Jersey release separately alleged about $290,431 in damage to Naval Weapons Station Earle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+Readers often encounter different damage figures in McKinnon coverage. The Justice Department’s Virginia release gave an estimated loss of about $900,000 across military organisations, NASA and private businesses. The House of Lords summary gave a repair-cost allegation of more than $700,000. The New Jersey release separately alleged about $290,431 in damage to Naval Weapons Station Earle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-Those figures are not necessarily direct contradictions. They appear in different legal and public summaries, sometimes covering different sets of counts, agencies, jurisdictions or repair calculations. The Virginia release included military organisations, NASA and private businesses. The New Jersey release focused on the Earle charge. Later extradition summaries often used the “over $700,000” figure for repair costs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+Those figures are not necessarily direct contradictions. They appear in different legal and public summaries, sometimes covering different sets of counts, agencies, jurisdictions or repair calculations. The Virginia release included military organisations, NASA and private businesses. The New Jersey release focused on the Earle charge. Later extradition summaries often used the “over $700,000” figure for repair costs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-The dispute over damage mattered because it shaped public perceptions of proportionality. A case framed as careless browsing through poorly secured systems looks very different from one framed as a costly impairment of defence networks. McKinnon’s side challenged the portrayal of harm, while prosecutors used the loss estimates and operational claims to justify extradition and serious sentencing exposure. The House of Lords summary recorded both sides of the divide: admissions of intrusion on one hand, denial of actual damage on the other. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+The dispute over damage mattered because it shaped public perceptions of proportionality. A case framed as careless browsing through poorly secured systems looks very different from one framed as a costly impairment of defence networks. McKinnon’s side challenged the portrayal of harm, while prosecutors used the loss estimates and operational claims to justify extradition and serious sentencing exposure. The House of Lords summary recorded both sides of the divide: admissions of intrusion on one hand, denial of actual damage on the other.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
 ## What the allegations did not prove about UFOs
 
 The Pentagon and Defense Department allegations do not authenticate McKinnon’s UFO claims. They show that US authorities alleged unauthorised access to defence, military and NASA systems; they do not prove that those systems contained evidence of extraterrestrial craft, “non-terrestrial officers” or hidden anti-gravity programmes.
 
-McKinnon’s UFO motive is documented through interviews. In Wired, he said hacking was a “means to an end” and described a belief that governments were suppressing UFO-related technologies, anti-gravity and free energy. He also claimed to have viewed NASA images and other material. But those claims were not substantiated in the legal materials as verified UFO evidence. The government case was about computer intrusion, damage and defence-system disruption, not about whether any UFO material existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span></span></span>
+McKinnon’s UFO motive is documented through interviews. In Wired, he said hacking was a “means to an end” and described a belief that governments were suppressing UFO-related technologies, anti-gravity and free energy. He also claimed to have viewed NASA images and other material. But those claims were not substantiated in the legal materials as verified UFO evidence. The government case was about computer intrusion, damage and defence-system disruption, not about whether any UFO material existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span></span></span>
 
 That separation is essential for understanding the case fairly. The UFO story explains McKinnon’s stated motive and the public fascination around him. The Pentagon and Defense Department allegations explain the severity of the US response. Treating those as the same question leads to confusion: a person can hack defence systems while looking for UFO evidence, yet the fact of the hacking does not validate what he hoped or claimed to find.
 
@@ -533,15 +533,15 @@ That separation is essential for understanding the case fairly. The UFO story ex
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-3-dark.svg" | relative_url }}" alt="Defense Targets illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The extradition stakes created by defence-system allegations
 
-The defence framing had practical consequences. In 2002, the Justice Department said each of the seven [Virginia counts]({{ 'virginia-counts/' | relative_url }}) carried a maximum sentence of ten years and a $250,000 fine, and that the United States intended to request extradition. The House of Lords later summarised plea discussions in which McKinnon was allegedly told that cooperation and a guilty plea could lead to a predicted sentence of 37 to 46 months, with likely repatriation after six to twelve months, while contesting extradition and being convicted could mean eight to ten years or longer in a US prison. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The defence framing had practical consequences. In 2002, the Justice Department said each of the seven [Virginia counts]({{ 'virginia-counts/' | relative_url }}) carried a maximum sentence of ten years and a $250,000 fine, and that the United States intended to request extradition. The House of Lords later summarised plea discussions in which McKinnon was allegedly told that cooperation and a guilty plea could lead to a predicted sentence of 37 to 46 months, with likely repatriation after six to twelve months, while contesting extradition and being convicted could mean eight to ten years or longer in a US prison.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-The extradition battle eventually turned less on whether the United States regarded the allegations as serious and more on McKinnon’s health and human rights. In 2012, Home Secretary Theresa May said McKinnon was accused of serious crimes, but withdrew the extradition order because extradition would create such a high suicide risk that it would be incompatible with his human rights. She stated that it would then be for the Director of Public Prosecutions to decide whether he had a case to answer in a UK court. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span><span class="citation-popover-snippet">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span></span></span>
+The extradition battle eventually turned less on whether the United States regarded the allegations as serious and more on McKinnon’s health and human rights. In 2012, Home Secretary Theresa May said McKinnon was accused of serious crimes, but withdrew the extradition order because extradition would create such a high suicide risk that it would be incompatible with his human rights. She stated that it would then be for the Director of Public Prosecutions to decide whether he had a case to answer in a UK court.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span><span class="citation-popover-snippet">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span></span></span>
 
-In December 2012, UK police and the Crown Prosecution Service decided no further legal action would be taken in Britain. The Guardian reported that a joint police-CPS panel advised against a new criminal investigation and that the chances of conviction would be poor. That outcome ended the legal process without a US trial, leaving the Pentagon and Defense Department allegations publicly important but not tested through a full American criminal trial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span></span></span>
+In December 2012, UK police and the Crown Prosecution Service decided no further legal action would be taken in Britain. The Guardian reported that a joint police-CPS panel advised against a new criminal investigation and that the chances of conviction would be poor. That outcome ended the legal process without a US trial, leaving the Pentagon and Defense Department allegations publicly important but not tested through a full American criminal trial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span></span></span>
 
 ## The lasting risk lesson
 
-The McKinnon case is still remembered in UFO culture because of what he said he was looking for. But the defence-allegation record is more concrete and more sobering: prosecutors alleged open Windows connections, weak administrative access, installed remote-control software, copied password files and deleted system data across sensitive US Government networks. Even where McKinnon disputed the damage, the case exposed how a determined outsider using ordinary tools could allegedly move through a large number of defence-linked systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
+The McKinnon case is still remembered in UFO culture because of what he said he was looking for. But the defence-allegation record is more concrete and more sobering: prosecutors alleged open Windows connections, weak administrative access, installed remote-control software, copied password files and deleted system data across sensitive US Government networks. Even where McKinnon disputed the damage, the case exposed how a determined outsider using ordinary tools could allegedly move through a large number of defence-linked systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK Parliament House of Lords</span></span></span>
 
 The most reasonable reading is neither the most romantic nor the most alarmist. McKinnon was not publicly shown to have uncovered verified UFO secrets, but neither was the case merely a harmless digital trespass. The named targets — Pentagon computers, Department of Defense systems, Army and Navy networks, and a naval weapons station tied to fleet support — are what raised the stakes. They turned a UFO-motivated intrusion story into a test case for cybercrime, extradition, national-security sensitivity and the risks created when poorly protected systems sit inside institutions that cannot afford disruption.
 
@@ -550,194 +550,194 @@ The most reasonable reading is neither the most romantic nor the most alarmist. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Pentagon Intrusions Raised the Stakes. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Pentagon Intrusions Raised the Stakes. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
-        </h4>
-        <p class="fr-book-author">By Andy Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
+</h4>
+<p class="fr-book-author">By Andy Greenberg</p>
         
-        <p class="fr-book-desc">Directly connects cyber intrusions with national-security concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects cyber intrusions with national-security concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Explains the strategic significance of government network breaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the strategic significance of government network breaches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
-        </h4>
-        <p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
+</h4>
+<p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
         
-        <p class="fr-book-desc">Provides military and defense cyber context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides military and defense cyber context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how defense-related intrusions become major investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Shows how defense-related intrusions become major investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity and Cyberwar</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity and Cyberwar</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="defense-targets-why-pentagon-intrusions-raised-the-stakes-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -753,7 +753,7 @@ The most reasonable reading is neither the most romantic nor the most alarmist. 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -773,7 +773,7 @@ The most reasonable reading is neither the most romantic nor the most alarmist. 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -805,7 +805,7 @@ The most reasonable reading is neither the most romantic nor the most alarmist. 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -857,7 +857,7 @@ The most reasonable reading is neither the most romantic nor the most alarmist. 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -902,7 +902,7 @@ The most reasonable reading is neither the most romantic nor the most alarmist. 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -943,171 +943,171 @@ The most reasonable reading is neither the most romantic nor the most alarmist. 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</p></details>
    Published: November 12, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament House of Lords  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justice.gov  
    Title: Department of Justice  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British National Charged with Hacking Into N.J. Naval Weapons Station Computers, Disabling Network After Sept. 11 (November 18, 2002)...</p></details>
    Published: November 18, 2002  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) extradition case: Home Secretary's statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found | WIRED  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: Latest on Gary Mc Kinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: Mc Kinnon comphacker  
-   Link: <a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
+   Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: time.com  
    Title: hack attack 2  
-   Link: <a href="https://time.com/archive/6943962/hack-attack-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943962/hack-attack-2/</a>  
+   Link:<a href="https://time.com/archive/6943962/hack-attack-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943962/hack-attack-2/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
    Title: mckinnon extradition win  
-   Link: <a href="https://www.wired.com/2012/10/mckinnon-extradition-win/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/10/mckinnon-extradition-win/</a>  
+   Link:<a href="https://www.wired.com/2012/10/mckinnon-extradition-win/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/10/mckinnon-extradition-win/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-[uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-[uk-charges</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-[uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-[uk-charges</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition computer hacker  
-   Link: <a href="https://www.theguardian.com/technology/2009/jan/12/gary-mckinnon-extradition-computer-hacker" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2009/jan/12/gary-mckinnon-extradition-computer-hacker</a>  
+   Link:<a href="https://www.theguardian.com/technology/2009/jan/12/gary-mckinnon-extradition-computer-hacker" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2009/jan/12/gary-mckinnon-extradition-computer-hacker</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
+   Link:<a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
+   Link:<a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition timeline  
-   Link: <a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
+   Link:<a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: gary mckinnon hacker sparked storm  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: film scottish hacker gary mckinnon fight against us extradition  
-   Link: <a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
+   Link:<a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
+   Link:<a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2005/jun/08/usa.uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2005/jun/08/usa.uk</a>  
+   Link:<a href="https://www.theguardian.com/world/2005/jun/08/usa.uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2005/jun/08/usa.uk</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: gary mckinnon timeline extradition  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: gary mckinnon lodges challenge extradition  
-   Link: <a href="https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition</a>  
+   Link:<a href="https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition theresa may  
-   Link: <a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: gary mckinnon hacker aspergers us  
-   Link: <a href="https://www.theguardian.com/world/2009/jul/31/gary-mckinnon-hacker-aspergers-us" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/jul/31/gary-mckinnon-hacker-aspergers-us</a>  
+   Link:<a href="https://www.theguardian.com/world/2009/jul/31/gary-mckinnon-hacker-aspergers-us" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/jul/31/gary-mckinnon-hacker-aspergers-us</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: media.techtarget.com  
-   Link: <a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
+   Link:<a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: criminal.laws.com  
    Title: gary mckinnon  
-   Link: <a href="https://criminal.laws.com/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://criminal.laws.com/gary-mckinnon</a>  
+   Link:<a href="https://criminal.laws.com/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://criminal.laws.com/gary-mckinnon</a>  
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/kfvs12/posts/american-authorities-have-charged-him-with-conspiring-to-break-into-a-pentagon-c/10156498722717602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kfvs12/posts/american-authorities-have-charged-him-with-conspiring-to-break-into-a-pentagon-c/10156498722717602/</a>  
+   Link:<a href="https://www.facebook.com/kfvs12/posts/american-authorities-have-charged-him-with-conspiring-to-break-into-a-pentagon-c/10156498722717602/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/kfvs12/posts/american-authorities-have-charged-him-with-conspiring-to-break-into-a-pentagon-c/10156498722717602/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: guinnessworldrecords.de  
-   Link: <a href="https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack</a>  
+   Link:<a href="https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html</a>  
+   Link:<a href="https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/article/world/uk/hacker-waits-for-us-extradition-ruling-idUSL17571899/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/uk/hacker-waits-for-us-extradition-ruling-idUSL17571899/</a>  
+   Link:<a href="https://www.reuters.com/article/world/uk/hacker-waits-for-us-extradition-ruling-idUSL17571899/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/uk/hacker-waits-for-us-extradition-ruling-idUSL17571899/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript</a>  
+   Link:<a href="https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: iowastatedaily.com  
-   Link: <a href="https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/" target="_blank" rel="noopener noreferrer nofollow">https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/</a>  
+   Link:<a href="https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/" target="_blank" rel="noopener noreferrer nofollow">https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/report-on-hacking/70755651" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/report-on-hacking/70755651</a>  
+   Link:<a href="https://www.slideshare.net/slideshow/report-on-hacking/70755651" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/report-on-hacking/70755651</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  

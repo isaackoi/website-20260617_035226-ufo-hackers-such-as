@@ -447,7 +447,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-ove
 
 ## Introduction
 
-Gary McKinnon’s UFO-motivated hacking became a major security case not because it proved the existence of hidden alien technology, but because it exposed how ordinary access failures could open sensitive US military and NASA systems to a curious outsider. The weakness was mechanical rather than exotic: exposed machines, weak or unchanged passwords, insufficiently restricted remote access, and trusted internal pathways that let one compromised computer become a stepping stone to another. US prosecutors alleged that between 2001 and 2002 McKinnon accessed and damaged dozens of Army, Navy, Air Force, Department of Defense and NASA computers; UK court records also described copied account and password files from military and NASA systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+Gary McKinnon’s UFO-motivated hacking became a major security case not because it proved the existence of hidden alien technology, but because it exposed how ordinary access failures could open sensitive US military and NASA systems to a curious outsider. The weakness was mechanical rather than exotic: exposed machines, weak or unchanged passwords, insufficiently restricted remote access, and trusted internal pathways that let one compromised computer become a stepping stone to another. US prosecutors alleged that between 2001 and 2002 McKinnon accessed and damaged dozens of Army, Navy, Air Force, Department of Defense and NASA computers; UK court records also described copied account and password files from military and NASA systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-overview.webp" | relative_url }}" alt="Overview image for Weak Security" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,11 +455,11 @@ That is why the case matters beyond UFO culture. McKinnon’s stated [motive]({{
 
 ## Password and Access Failures
 
-The central security failure in the McKinnon case was not a cinematic breakthrough into an impenetrable fortress. Contemporary reporting and later accounts consistently describe a much more mundane route: finding systems with weak, default or blank credentials, then using those systems as points of entry. The Guardian reported McKinnon’s claim that users had failed to follow basic measures such as changing default passwords, leaving a “backdoor” open to remote control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — The biggest loopholes had been created...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span> Wired’s 2002 reporting on the [indictment]({{ 'indictment/' | relative_url }}) similarly stated that many of the computers he entered were protected by easy-to-guess passwords after he scanned large numbers of military networks for vulnerable machines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/brit-fights-hacking-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Brit Fights Hacking Extradition</span><span class="citation-popover-snippet">Brit Fights Hacking Extradition</span></span></span>
+The central security failure in the McKinnon case was not a cinematic breakthrough into an impenetrable fortress. Contemporary reporting and later accounts consistently describe a much more mundane route: finding systems with weak, default or blank credentials, then using those systems as points of entry. The Guardian reported McKinnon’s claim that users had failed to follow basic measures such as changing default passwords, leaving a “backdoor” open to remote control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — The biggest loopholes had been created...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span> Wired’s 2002 reporting on the [indictment]({{ 'indictment/' | relative_url }}) similarly stated that many of the computers he entered were protected by easy-to-guess passwords after he scanned large numbers of military networks for vulnerable machines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/brit-fights-hacking-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Brit Fights Hacking Extradition</span><span class="citation-popover-snippet">Brit Fights Hacking Extradition</span></span></span>
 
 This was embarrassing because it shifted attention from secret files to basic administration. Password weakness is not a sophisticated vulnerability in itself; it is a failure of policy, enforcement and verification. In a military environment, the same mistake has larger consequences because a poorly secured workstation may sit near logistics, personnel, engineering or administrative systems that matter to operations.
 
-The UK House of Lords judgment gives a concrete sense of why access control became such a serious part of the case. It records allegations that McKinnon copied operating-system files containing account names and encrypted passwords from 22 computers, including Army, Navy and NASA machines, and that Navy server material included around 950 passwords from Naval Weapons Station Earle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">It damaged...Read more...</span></span></span> Even encrypted passwords can be dangerous when removed from their intended environment, because they may be attacked offline, reused elsewhere, or used to map user accounts and network structure.
+The UK House of Lords judgment gives a concrete sense of why access control became such a serious part of the case. It records allegations that McKinnon copied operating-system files containing account names and encrypted passwords from 22 computers, including Army, Navy and NASA machines, and that Navy server material included around 950 passwords from Naval Weapons Station Earle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">It damaged...Read more...</span></span></span> Even encrypted passwords can be dangerous when removed from their intended environment, because they may be attacked offline, reused elsewhere, or used to map user accounts and network structure.
 
 The weakness was therefore not only that individual passwords may have been poor. It was also that account information and password files were reachable after initial compromise. In a properly hardened environment, one weak endpoint should not readily expose broad credential stores or give an intruder reusable knowledge about other systems. The McKinnon allegations suggested a looser environment: exposed access points, insufficient separation, and files valuable enough to help further intrusion.
 
@@ -467,11 +467,11 @@ The weakness was therefore not only that individual passwords may have been poor
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-1-dark.svg" | relative_url }}" alt="Weak Security illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Remote-Control Tools Made the Breach Persistent
 
-The second major mechanism was the use of ordinary remote-administration software. Wired reported that McKinnon allegedly installed [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}) on Navy and other military systems. The significance was that this was not an obvious criminal “backdoor” tool: it was commercial remote-access software, useful for legitimate administration and therefore less likely at the time to trigger antivirus alerts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/dot-mil-hackers-download-mistake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Dot-Mil Hacker&#x27;s Download Mistake</span><span class="citation-popover-snippet">Dot-Mil Hacker&#x27;s Download Mistake</span></span></span>
+The second major mechanism was the use of ordinary remote-administration software. Wired reported that McKinnon allegedly installed [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}) on Navy and other military systems. The significance was that this was not an obvious criminal “backdoor” tool: it was commercial remote-access software, useful for legitimate administration and therefore less likely at the time to trigger antivirus alerts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/dot-mil-hackers-download-mistake" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Dot-Mil Hacker&#x27;s Download Mistake</span><span class="citation-popover-snippet">Dot-Mil Hacker&#x27;s Download Mistake</span></span></span>
 
-That detail made the case bigger. Once installed, a remote-access tool can turn a one-time password failure into continuing control. It may let an intruder browse files, transfer data, watch activity, return later, and disconnect when a legitimate user appears. IEEE Spectrum later described the alleged pattern in similar terms: McKinnon installed RemotelyAnywhere on unsecured machines, used it to control computers over the internet, and could log off when he saw someone else logging on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-title">Spectrum Gary Mc Kinnon: The Autistic Hacker</span><span class="citation-popover-snippet">Spectrum Gary Mc Kinnon: The Autistic Hacker</span></span></span>
+That detail made the case bigger. Once installed, a remote-access tool can turn a one-time password failure into continuing control. It may let an intruder browse files, transfer data, watch activity, return later, and disconnect when a legitimate user appears. IEEE Spectrum later described the alleged pattern in similar terms: McKinnon installed RemotelyAnywhere on unsecured machines, used it to control computers over the internet, and could log off when he saw someone else logging on.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-title">Spectrum Gary Mc Kinnon: The Autistic Hacker</span><span class="citation-popover-snippet">Spectrum Gary Mc Kinnon: The Autistic Hacker</span></span></span>
 
-The tool also blurred the line between “hacking software” and normal administration. The Guardian later corrected an article to clarify that RemotelyAnywhere was not itself a hacking programme but a legitimate remote-access and administration product. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The Guardian Game over &#124; Gary Mc Kinnon</span></span></span> That distinction matters. The security failure was not the existence of remote access as such; it was the failure to control who could install it, where it could run, how it was monitored, and whether remote sessions were expected or suspicious.
+The tool also blurred the line between “hacking software” and normal administration. The Guardian later corrected an article to clarify that RemotelyAnywhere was not itself a hacking programme but a legitimate remote-access and administration product.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The Guardian Game over &#124; Gary Mc Kinnon</span></span></span> That distinction matters. The security failure was not the existence of remote access as such; it was the failure to control who could install it, where it could run, how it was monitored, and whether remote sessions were expected or suspicious.
 
 For military networks, legitimate tools can be especially dangerous when used without strict governance. A remote-control programme may be essential for system support, but if it is installed by an unauthorised user, permitted through firewalls, left unmonitored, or reachable from the public internet, it becomes a durable access path. The McKinnon case showed that a network can be compromised not only by malware but also by ordinary software used outside its intended trust model.
 
@@ -480,23 +480,23 @@ For military networks, legitimate tools can be especially dangerous when used wi
 
 ## Trusted Systems Became Stepping Stones
 
-McKinnon’s alleged route also exposed the danger of excessive trust between connected machines. The Guardian reported his claim that he worked when US staff were asleep and moved from less secure systems into more secure ones that were closed to outsiders but open to “trusted” users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — The biggest loopholes had been created...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span> This is a classic [lateral-movement]({{ 'lateral-movement/' | relative_url }}) problem: once an intruder controls one accepted machine, the network may treat that machine as more trustworthy than the person actually operating it.
+McKinnon’s alleged route also exposed the danger of excessive trust between connected machines. The Guardian reported his claim that he worked when US staff were asleep and moved from less secure systems into more secure ones that were closed to outsiders but open to “trusted” users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — The biggest loopholes had been created...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span> This is a classic [lateral-movement]({{ 'lateral-movement/' | relative_url }}) problem: once an intruder controls one accepted machine, the network may treat that machine as more trustworthy than the person actually operating it.
 
 This matters because military and government networks are often made up of many layers: desktops, servers, local base networks, administrative domains, contractor systems, and specialist mission-support environments. A breach in one weak area may not immediately expose the most sensitive system, but it can provide information, credentials or network position that helps an intruder move closer. That is why segmentation, least-privilege access, and internal monitoring are as important as perimeter defence.
 
-US prosecutors alleged that McKinnon accessed computers at military bases, the Pentagon, NASA and private companies, and that one count involved a computer used for national defence and security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span> The number of systems was not the only issue. The more important security lesson was that a distributed set of weakly protected machines can produce a larger operational problem than any one weak computer suggests.
+US prosecutors alleged that McKinnon accessed computers at military bases, the Pentagon, NASA and private companies, and that one count involved a computer used for national defence and security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span> The number of systems was not the only issue. The more important security lesson was that a distributed set of weakly protected machines can produce a larger operational problem than any one weak computer suggests.
 
-Earlier US government work had already warned that Department of Defense systems were repeatedly attacked and sometimes successfully penetrated. A 1996 GAO assessment reported that DOD computer systems faced large numbers of attacks, successful penetrations, data risks and re-entry devices, with weaknesses including password management and administrator capability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/t-aimd-96-92" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span> McKinnon’s case did not introduce the problem; it made it visible through a named, media-salient intrusion campaign tied to UFO belief.
+Earlier US government work had already warned that Department of Defense systems were repeatedly attacked and sometimes successfully penetrated. A 1996 GAO assessment reported that DOD computer systems faced large numbers of attacks, successful penetrations, data risks and re-entry devices, with weaknesses including password management and administrator capability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/products/t-aimd" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span> McKinnon’s case did not introduce the problem; it made it visible through a named, media-salient intrusion campaign tied to UFO belief.
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-2-dark.svg" | relative_url }}" alt="Weak Security illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Operational Damage Claim Changed the Meaning of “Curiosity”
 
-McKinnon and supporters often emphasised his motive: he said he was searching for UFO evidence, anti-gravity technology and suppressed energy research. Wired’s 2006 interview is central to that self-description, presenting him as an obsessive UFO seeker rather than a conventional spy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found</span></span></span> But prosecutors and courts assessed the conduct by what it allegedly did to systems, not by whether the claimed purpose sounded political, eccentric or non-commercial.
+McKinnon and supporters often emphasised his motive: he said he was searching for UFO evidence, anti-gravity technology and suppressed energy research. Wired’s 2006 interview is central to that self-description, presenting him as an obsessive UFO seeker rather than a conventional spy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found</span></span></span> But prosecutors and courts assessed the conduct by what it allegedly did to systems, not by whether the claimed purpose sounded political, eccentric or non-commercial.
 
-The US Department of Justice alleged that McKinnon accessed and damaged 92 computers belonging to the Army, Navy, Air Force, Department of Defense and NASA, plus six private-sector computers, and that each count carried a possible ten-year sentence and fine. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span> The UK government later summarised the US accusation as involving unauthorised access to 97 government computers concerned with national defence, security and naval munitions supply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">latest on gary mckinnon case</span></span></span>
+The US Department of Justice alleged that McKinnon accessed and damaged 92 computers belonging to the Army, Navy, Air Force, Department of Defense and NASA, plus six private-sector computers, and that each count carried a possible ten-year sentence and fine.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span> The UK government later summarised the US accusation as involving unauthorised access to 97 government computers concerned with national defence, security and naval munitions supply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">latest on gary mckinnon case</span></span></span>
 
-The operational allegations were serious. The Home Office summary stated that US authorities alleged he deleted critical data, causing the US Army’s [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network of more than 2,000 computers to shut down. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">latest on gary mckinnon case</span></span></span> Wired’s 2002 report added that prosecutors alleged disruption to the Military District of Washington and Naval Weapons Station Earle, including loss of email and internet access and a network shutdown affecting the naval station shortly after 11 September 2001. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/brit-fights-hacking-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Brit Fights Hacking Extradition</span><span class="citation-popover-snippet">Brit Fights Hacking Extradition</span></span></span>
+The operational allegations were serious. The Home Office summary stated that US authorities alleged he deleted critical data, causing the US Army’s [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network of more than 2,000 computers to shut down.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">latest on gary mckinnon case</span></span></span> Wired’s 2002 report added that prosecutors alleged disruption to the Military District of Washington and Naval Weapons Station Earle, including loss of email and internet access and a network shutdown affecting the naval station shortly after 11 September 2001.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/brit-fights-hacking-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Brit Fights Hacking Extradition</span><span class="citation-popover-snippet">Brit Fights Hacking Extradition</span></span></span>
 
 This is the point at which the UFO story becomes secondary. A person looking for UFO files may not intend to damage munitions, logistics or administrative systems, but unauthorised access can still cause damage through deletion, misconfiguration, software installation, data copying or forced recovery work. Security risk is judged partly by capability and consequence, not only by declared motive.
 
@@ -507,19 +507,19 @@ This is the point at which the UFO story becomes secondary. A person looking for
 
 The weakness of the systems did not make the intrusion harmless. In fact, it made the legal and political argument sharper. McKinnon’s defenders could argue that he had revealed poor security rather than penetrated world-class defences; US prosecutors could respond that weak doors into national-defence networks were exactly why the behaviour was dangerous.
 
-Wired reported in 2002 that some civilian experts were astonished that so many military systems were vulnerable to techniques considered basic, while US officials stressed that the vulnerable systems were only a small fraction of the many networks scanned. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/brit-fights-hacking-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Brit Fights Hacking Extradition</span><span class="citation-popover-snippet">Brit Fights Hacking Extradition</span></span></span> Those two interpretations are not mutually exclusive. A large institution may block most attacks and still leave enough weak systems exposed for a serious incident.
+Wired reported in 2002 that some civilian experts were astonished that so many military systems were vulnerable to techniques considered basic, while US officials stressed that the vulnerable systems were only a small fraction of the many networks scanned.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/brit-fights-hacking-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Brit Fights Hacking Extradition</span><span class="citation-popover-snippet">Brit Fights Hacking Extradition</span></span></span> Those two interpretations are not mutually exclusive. A large institution may block most attacks and still leave enough weak systems exposed for a serious incident.
 
-The case also came at a sensitive time. The alleged intrusion period ran from 2001 into 2002, including the period after the 11 September attacks, when US national-security systems were under intense scrutiny. Wired’s 2006 interview noted that McKinnon had picked a particularly poor time to expose national-security failings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found</span></span></span> In that context, a message left on a military system, copied passwords, remote-control tools and alleged service disruption were unlikely to be treated as mere trespass.
+The case also came at a sensitive time. The alleged intrusion period ran from 2001 into 2002, including the period after the 11 September attacks, when US national-security systems were under intense scrutiny. Wired’s 2006 interview noted that McKinnon had picked a particularly poor time to expose national-security failings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found</span></span></span> In that context, a message left on a military system, copied passwords, remote-control tools and alleged service disruption were unlikely to be treated as mere trespass.
 
-The extradition fight later became dominated by [human-rights]({{ 'human-rights/' | relative_url }}), health and proportionality issues. In 2012, Home Secretary Theresa May blocked extradition on human-rights grounds because of the assessed risk to McKinnon’s life, while still stating that he was accused of serious crimes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Theresa May statement on Gary Mc Kinnon extradition</span><span class="citation-popover-snippet">Theresa May statement on Gary Mc Kinnon extradition</span></span></span> That decision did not erase the security lesson. It separated the question of extradition from the question of whether military networks had been exposed through avoidable weaknesses.
+The extradition fight later became dominated by [human-rights]({{ 'human-rights/' | relative_url }}), health and proportionality issues. In 2012, Home Secretary Theresa May blocked extradition on human-rights grounds because of the assessed risk to McKinnon’s life, while still stating that he was accused of serious crimes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Theresa May statement on Gary Mc Kinnon extradition</span><span class="citation-popover-snippet">Theresa May statement on Gary Mc Kinnon extradition</span></span></span> That decision did not erase the security lesson. It separated the question of extradition from the question of whether military networks had been exposed through avoidable weaknesses.
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-3-dark.svg" | relative_url }}" alt="Weak Security illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Revealed About Early-2000s Government Security
 
-McKinnon’s alleged methods belong to an early period in public cyber-security history when internet-connected government systems were expanding faster than their security discipline. The relevant failures were familiar: weak passwords, exposed services, uneven patching, limited monitoring, excessive trust, and poor control over administrative tools. A 2001 GAO testimony on federal information security warned that weak access controls could allow individuals or groups to modify, destroy or disclose sensitive data or programmes, and found access-control weaknesses across major agencies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-231T/pdf/GAOREPORTS-GAO-02-231T.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS GAO 02 231T</span><span class="citation-popover-snippet">GAOREPORTS GAO 02 231T</span></span></span>
+McKinnon’s alleged methods belong to an early period in public cyber-security history when internet-connected government systems were expanding faster than their security discipline. The relevant failures were familiar: weak passwords, exposed services, uneven patching, limited monitoring, excessive trust, and poor control over administrative tools. A 2001 GAO testimony on federal information security warned that weak access controls could allow individuals or groups to modify, destroy or disclose sensitive data or programmes, and found access-control weaknesses across major agencies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-231T/pdf/GAOREPORTS-GAO-02-231T.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govinfo.gov">[GovInfo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govinfo.gov</span><span class="citation-popover-title">GAOREPORTS GAO 02 231T</span><span class="citation-popover-snippet">GAOREPORTS GAO 02 231T</span></span></span>
 
-That broader federal context helps explain why the McKinnon case resonated. It was not just a strange UFO story. It was a public example of a known institutional problem: basic cyber hygiene failing in organisations whose missions made failure costly. Later GAO work continued to identify access-control weaknesses as a recurring problem across federal agencies, including user authentication and password control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/a292630.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span>
+That broader federal context helps explain why the McKinnon case resonated. It was not just a strange UFO story. It was a public example of a known institutional problem: basic cyber hygiene failing in organisations whose missions made failure costly. Later GAO work continued to identify access-control weaknesses as a recurring problem across federal agencies, including user authentication and password control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/a292630.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-snippet">Open source on gao.gov.</span></span></span>
 
 The case also demonstrated a practical asymmetry. The intruder did not need to compromise every system, defeat every administrator, or understand every mission. He needed to find enough weak points. Defenders, by contrast, had to maintain consistent controls across sprawling networks, many users and many local administrators. That imbalance is why “just a few” neglected machines can matter.
 
@@ -536,194 +536,194 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Weak Security Made the Case Bigger. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Weak Security Made the Case Bigger. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Illustrates how weak security can enable major intrusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Illustrates how weak security can enable major intrusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Shows practical exploitation of security weaknesses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows practical exploitation of security weaknesses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
-        </h4>
-        <p class="fr-book-author">By Andy Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
+</h4>
+<p class="fr-book-author">By Andy Greenberg</p>
         
-        <p class="fr-book-desc">Demonstrates the consequences of vulnerable critical systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the consequences of vulnerable critical systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Explains why access failures create national-security risks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why access failures create national-security risks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team"><img src="{{ '/assets/images/marketplace-covers/17d6a0be2ac4f9bfeff0.jpg' | relative_url }}" alt="Listing image for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team"><img src="{{ '/assets/images/marketplace-covers/17d6a0be2ac4f9bfeff0.jpg' | relative_url }}" alt="Listing image for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security"><img src="{{ '/assets/images/marketplace-covers/7759b108d0dc1cbdadcc.jpg' | relative_url }}" alt="Listing image for Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security"><img src="{{ '/assets/images/marketplace-covers/7759b108d0dc1cbdadcc.jpg' | relative_url }}" alt="Listing image for Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship"><img src="{{ '/assets/images/marketplace-covers/67ee874ffa3a18ac2478.jpg' | relative_url }}" alt="Listing image for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship"><img src="{{ '/assets/images/marketplace-covers/67ee874ffa3a18ac2478.jpg' | relative_url }}" alt="Listing image for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="weak-security-how-weak-security-made-the-case-bigger-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -739,7 +739,7 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -759,7 +759,7 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -791,7 +791,7 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -843,7 +843,7 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -888,7 +888,7 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -929,212 +929,212 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It damaged...Read more...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It damaged...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: Brit Fights Hacking Extradition  
-   Link: <a href="https://www.wired.com/2002/11/brit-fights-hacking-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/brit-fights-hacking-extradition</a>  
+   Link:<a href="https://www.wired.com/2002/11/brit-fights-hacking-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/brit-fights-hacking-extradition</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: Dot-Mil Hacker's Download Mistake  
-   Link: <a href="https://www.wired.com/2002/11/dot-mil-hackers-download-mistake" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/dot-mil-hackers-download-mistake</a>  
+   Link:<a href="https://www.wired.com/2002/11/dot-mil-hackers-download-mistake" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/dot-mil-hackers-download-mistake</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: spectrum.ieee.org  
    Title: Spectrum Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;): The Autistic Hacker  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/products/t-aimd-96-92" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/t-aimd-96-92</a>  
+   Link:<a href="https://www.gao.gov/products/t-aimd" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/products/t-aimd</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found</a>  
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: Theresa May statement on Gary Mc Kinnon extradition  
-   Link: <a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
+   Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: gary mckinnon extradition case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS GAO 02 231T  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-231T/pdf/GAOREPORTS-GAO-02-231T.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-231T/pdf/GAOREPORTS-GAO-02-231T.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-231T/pdf/GAOREPORTS-GAO-02-231T.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-231T/pdf/GAOREPORTS-GAO-02-231T.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: gao.gov  
-   Link: <a href="https://www.gao.gov/assets/a292630.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a292630.html</a>  
+   Link:<a href="https://www.gao.gov/assets/a292630.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/a292630.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gao.gov  
    Title: gao 07 837  
-   Link: <a href="https://www.gao.gov/assets/gao-07-837.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-07-837.pdf</a>  
+   Link:<a href="https://www.gao.gov/assets/gao-07-837.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-07-837.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: gao.gov  
    Title: gao 04 467  
-   Link: <a href="https://www.gao.gov/assets/gao-04-467.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-04-467.pdf</a>  
+   Link:<a href="https://www.gao.gov/assets/gao-04-467.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-04-467.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gao.gov  
    Title: new items d07751t  
-   Link: <a href="https://www.gao.gov/pdf/product/new-items-d07751t" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/pdf/product/new-items-d07751t</a>  
+   Link:<a href="https://www.gao.gov/pdf/product/new-items-d07751t" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/pdf/product/new-items-d07751t</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: media.defense.gov  
    Title: Mc Kinnon comphacker  
-   Link: <a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
+   Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: media.defense.gov  
    Title: DODIG 2015 180  
-   Link: <a href="https://media.defense.gov/2016/Jul/18/2001774199/-1/-1/1/DODIG-2015-180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2016/Jul/18/2001774199/-1/-1/1/DODIG-2015-180.pdf</a>  
+   Link:<a href="https://media.defense.gov/2016/Jul/18/2001774199/-1/-1/1/DODIG-2015-180.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2016/Jul/18/2001774199/-1/-1/1/DODIG-2015-180.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: parliament.uk  
-   Link: <a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
+   Link:<a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hansard.parliament.uk  
    Title: uk Gary Mc Kinnon (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: govinfo.gov  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-589/html/GAOREPORTS-GAO-02-589.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-589/html/GAOREPORTS-GAO-02-589.htm</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-589/html/GAOREPORTS-GAO-02-589.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-02-589/html/GAOREPORTS-GAO-02-589.htm</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: govinfo.gov  
    Title: GAOREPORTS GAO 01 155  
-   Link: <a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-01-155/pdf/GAOREPORTS-GAO-01-155.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-01-155/pdf/GAOREPORTS-GAO-01-155.pdf</a>  
+   Link:<a href="https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-01-155/pdf/GAOREPORTS-GAO-01-155.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.govinfo.gov/content/pkg/GAOREPORTS-GAO-01-155/pdf/GAOREPORTS-GAO-01-155.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: assets.publishing.service.gov.uk  
    Title: public views 3  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: open.edu  
    Title: altformat ouxml  
-   Link: <a href="https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/altformat-ouxml" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/altformat-ouxml</a>  
+   Link:<a href="https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/altformat-ouxml" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/science-maths-technology/introduction-cyber-security-stay-safe-online/altformat-ouxml</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
    Title: The Guardian Hacker's progress: how Mc Kinnon pierced Pentagon security  
-   Link: <a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — The biggest loopholes had been created...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — The biggest loopholes had been created...</p></details>
    Published: April 3, 2007  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
    Title: The Guardian Game over | Gary Mc Kinnon  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: media.techtarget.com  
-   Link: <a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
+   Link:<a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
+   Link:<a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
+   Link:<a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
+   Link:<a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: theguardian.com  
    Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition theresa may  
-   Link: <a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
+   Link:<a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: guinnessworldrecords.de  
-   Link: <a href="https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack</a>  
+   Link:<a href="https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: guinnessworldrecords.com  
-   Link: <a href="https://www.guinnessworldrecords.com/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/90133-biggest-military-computer-hack</a>  
+   Link:<a href="https://www.guinnessworldrecords.com/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/90133-biggest-military-computer-hack</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/72391270/Hackers_beware_the_cautionary_story_of_Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/72391270/Hackers_beware_the_cautionary_story_of_Gary_McKinnon</a>  
+   Link:<a href="https://www.academia.edu/72391270/Hackers_beware_the_cautionary_story_of_Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/72391270/Hackers_beware_the_cautionary_story_of_Gary_McKinnon</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: vps.net  
-   Link: <a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
+   Link:<a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: legistorm.com  
-   Link: <a href="https://www.legistorm.com/reports/view/gao/30548/Weaknesses_at_22_Agencies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/reports/view/gao/30548/Weaknesses_at_22_Agencies.html</a>  
+   Link:<a href="https://www.legistorm.com/reports/view/gao/30548/Weaknesses_at_22_Agencies.html" target="_blank" rel="noopener noreferrer nofollow">https://www.legistorm.com/reports/view/gao/30548/Weaknesses_at_22_Agencies.html</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: casemine.com  
-   Link: <a href="https://www.casemine.com/judgement/uk/5a8ff75e60d03e7f57eabd29" target="_blank" rel="noopener noreferrer nofollow">https://www.casemine.com/judgement/uk/5a8ff75e60d03e7f57eabd29</a>  
+   Link:<a href="https://www.casemine.com/judgement/uk/5a8ff75e60d03e7f57eabd29" target="_blank" rel="noopener noreferrer nofollow">https://www.casemine.com/judgement/uk/5a8ff75e60d03e7f57eabd29</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  

@@ -271,7 +271,7 @@ For readers interested in how UFO [secrecy narratives]({{ 'secrecy-logic/' | rel
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_mckinnon_breach_vs_c_12ce52-Illustration-1-dark.svg" | relative_url }}" alt="Mckinnon Breach illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_mckinnon_breach_vs_c_12ce52-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_mckinnon_breach_vs_c_12ce52-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What prosecutors said was documented
 
-The strongest evidence in the McKinnon story concerns the [intrusions]({{ 'intrusions/' | relative_url }}) themselves. In 2002, the US Department of Justice announced an [indictment]({{ 'indictment/' | relative_url }}) alleging that McKinnon had unlawfully accessed military computer systems and committed multiple computer-fraud offences. Prosecutors alleged that he accessed dozens of government computers, obtained administrative privileges, copied information and caused operational disruptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The strongest evidence in the McKinnon story concerns the [intrusions]({{ 'intrusions/' | relative_url }}) themselves. In 2002, the US Department of Justice announced an [indictment]({{ 'indictment/' | relative_url }}) alleging that McKinnon had unlawfully accessed military computer systems and committed multiple computer-fraud offences. Prosecutors alleged that he accessed dozens of government computers, obtained administrative privileges, copied information and caused operational disruptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 Over the following years, government statements and parliamentary discussions repeatedly described the alleged intrusion campaign in concrete terms:
 
@@ -281,20 +281,20 @@ Over the following years, government statements and parliamentary discussions re
 * Access to military and NASA systems over an extended period.
 * Alleged compromise of approximately 97 government computers.
 * Claims that files and system functions were disrupted or deleted.
-* Significant estimated costs associated with investigation and recovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</span></span></span>
+* Significant estimated costs associated with investigation and recovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</span></span></span>
 
 </div>
 
-Importantly, these allegations concerned computer misuse and network damage. They did not include charges related to discovering hidden extraterrestrial programmes, secret spacecraft fleets or non-human technology. The [legal record]({{ 'legal-record/' | relative_url }}) focused on unauthorised access and its consequences, not on validating the content of any UFO-related files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+Importantly, these allegations concerned computer misuse and network damage. They did not include charges related to discovering hidden extraterrestrial programmes, secret spacecraft fleets or non-human technology. The [legal record]({{ 'legal-record/' | relative_url }}) focused on unauthorised access and its consequences, not on validating the content of any UFO-related files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-Even McKinnon himself publicly acknowledged gaining unauthorised access to US systems. The central dispute in the legal case was not whether he had entered government networks, but how serious the conduct was and whether he should be extradited to face prosecution in the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+Even McKinnon himself publicly acknowledged gaining unauthorised access to US systems. The central dispute in the legal case was not whether he had entered government networks, but how serious the conduct was and whether he should be extradited to face prosecution in the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
 
 ## What McKinnon said he saw
 
-The UFO dimension comes primarily from McKinnon’s own [interviews]({{ 'interviews/' | relative_url }}) and later retellings. He stated that his goal was to search for evidence relating to UFOs, anti-gravity technology and alleged government suppression of advanced technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+The UFO dimension comes primarily from McKinnon’s own [interviews]({{ 'interviews/' | relative_url }}) and later retellings. He stated that his goal was to search for evidence relating to UFOs, anti-gravity technology and alleged government suppression of advanced technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 Among his most frequently repeated claims were:
 
@@ -304,13 +304,13 @@ Among his most frequently repeated claims were:
 * Seeing a high-resolution image of a large object that he believed was not a conventional aircraft.
 * Viewing supposedly “raw” NASA imagery before it had been processed.
 * Finding a spreadsheet that allegedly contained references to “Non-Terrestrial Officers”.
-* Encountering references to unusual spacecraft-related projects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+* Encountering references to unusual spacecraft-related projects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 </div>
 
 These claims became famous within UFO culture because they appeared to originate from inside government systems rather than from ordinary witness testimony. The story suggested that hidden information had been discovered through direct access rather than hearsay.
 
-However, the evidentiary basis is narrow. No publicly verified screenshots, copied files, forensic images, metadata records or independently authenticated documents have emerged to confirm the specific UFO-related material McKinnon described. The public largely has access only to his recollections and descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+However, the evidentiary basis is narrow. No publicly verified screenshots, copied files, forensic images, metadata records or independently authenticated documents have emerged to confirm the specific UFO-related material McKinnon described. The public largely has access only to his recollections and descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_mckinnon_breach_vs_c_12ce52-Illustration-2-dark.svg" | relative_url }}" alt="Mckinnon Breach illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_mckinnon_breach_vs_c_12ce52-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_mckinnon_breach_vs_c_12ce52-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -328,7 +328,7 @@ Several evidential gaps separate McKinnon's UFO claims from the documented hacki
 
 **Context can be lost.** A spreadsheet title or image viewed remotely may appear significant when separated from surrounding documentation. A term such as “Non-Terrestrial Officers” sounds extraordinary, but without accompanying records its intended meaning cannot be established.
 
-**Remote viewing is vulnerable to misunderstanding.** McKinnon described examining systems over relatively slow remote connections. In such conditions, partial images, incomplete loading and limited context can increase the risk of misinterpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+**Remote viewing is vulnerable to misunderstanding.** McKinnon described examining systems over relatively slow remote connections. In such conditions, partial images, incomplete loading and limited context can increase the risk of misinterpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 For investigators, authentication normally requires corroborating evidence: preserved files, chain-of-custody records, [independent witnesses]({{ 'witness-check/' | relative_url }}), forensic analysis or official documentation. Those elements are largely absent from the UFO portion of the story.
 
@@ -339,7 +339,7 @@ For investigators, authentication normally requires corroborating evidence: pres
 
 The credibility debate is not simply a clash between believers and sceptics. It reflects differing standards of evidence.
 
-Supporters argue that McKinnon had unusual access and lacked an obvious financial incentive to invent the story. They note that his search for UFO-related information predated the publicity surrounding the case and appears consistent with his stated motivations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+Supporters argue that McKinnon had unusual access and lacked an obvious financial incentive to invent the story. They note that his search for UFO-related information predated the publicity surrounding the case and appears consistent with his stated motivations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 Critics respond that sincerity is not the same as accuracy. A person may honestly report what they think they saw while still being mistaken about its nature, significance or context. Without independently verifiable records, the claims remain difficult to test.
 
@@ -355,7 +355,7 @@ The result is that the hacking allegations and the UFO claims occupy different e
 
 The McKinnon case demonstrates that government computer systems were vulnerable enough to be accessed by an outsider during the period in question. It also demonstrates how a documented security breach can lend credibility to claims that remain unverified.
 
-What it does not prove is the existence of extraterrestrial spacecraft, a hidden [space fleet]({{ 'space-fleet/' | relative_url }}), or official UFO cover-up programmes. Those conclusions require evidence beyond the fact of access itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+What it does not prove is the existence of extraterrestrial spacecraft, a hidden [space fleet]({{ 'space-fleet/' | relative_url }}), or official UFO cover-up programmes. Those conclusions require evidence beyond the fact of access itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 The enduring fascination of the case comes from this tension. The breach is real and extensively documented. The UFO story attached to it remains largely a matter of reported observation rather than authenticated evidence. Understanding that distinction is essential when assessing claims that emerge from hacked systems, because gaining entry to a network and proving the meaning of what was allegedly found inside are two very different things.
 
@@ -364,194 +364,194 @@ The enduring fascination of the case comes from this tension. The breach is real
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Mckinnon Breach. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Mckinnon Breach. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Shows how real intrusions can create an aura of authority and insider access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how real intrusions can create an aura of authority and insider access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why compelling stories, secrecy claims, and belief formation can feel convincing even when evidence is weak.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why compelling stories, secrecy claims, and belief formation can feel convincing even when evidence is weak.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
-        </h4>
-        <p class="fr-book-author">By Rob Brotherton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Suspicious Minds on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jQdbEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Suspicious Minds" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suspicious Minds">Suspicious Minds</a>
+</h4>
+<p class="fr-book-author">By Rob Brotherton</p>
         
-        <p class="fr-book-desc">Directly addresses how secrecy narratives and hidden-knowledge claims gain traction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how secrecy narratives and hidden-knowledge claims gain traction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Suspicious+Minds+by+Rob+Brotherton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a contrast between documented testimony and unsupported image claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a contrast between documented testimony and unsupported image claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Suspicious+Minds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Suspicious Minds</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="https://i.ebayimg.com/images/g/q24AAeSwJRppoW0o/s-l225.jpg" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/WyIAAOSwhFdn3E~e/s-l225.jpg" alt="Listing image for Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Alien Landscape Poster Sci-Fi Home Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S"><img src="https://i.ebayimg.com/images/g/yRcAAOSwWhdmw231/s-l225.jpg" alt="Listing image for Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer">Dinky toys Thunderbird&#x27;s, Captain Scarlet UFO Ad d Vintage Poster Art Print 60&#x27;S</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mckinnon-breach-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="mckinnon-breach-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ufo-hackers-such-as-e2dece-hacked-secrecy-narra-139e1d-mckinnon-breach-vs-c-12ce52-ufo-poster-series-television-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ The enduring fascination of the case comes from this tension. The breach is real
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ The enduring fascination of the case comes from this tension. The breach is real
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ The enduring fascination of the case comes from this tension. The breach is real
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ The enduring fascination of the case comes from this tension. The breach is real
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ The enduring fascination of the case comes from this tension. The breach is real
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,122 +757,122 @@ The enduring fascination of the case comes from this tension. The breach is real
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</p></details>
    Published: November 12, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justice.gov  
    Title: edva mckinnon indictment  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentFrom in or about September 2001, through on or about March 19, 2002, within the Eastern District of Virgin...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentFrom in or about September 2001, through on or about March 19, 2002, within the Eastern District of Virgin...</p></details>
    Published: March 19, 2002  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</p></details>
    Published: June 21, 2006  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Gary (The Bear episode)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (The Bear episode)&quot;Gary&quot; is a special episode of the American comedy-drama series The Bear, written by and starring cast members...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (The Bear episode)&quot;Gary&quot; is a special episode of the American comedy-drama series The Bear, written by and starring cast members...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Gary (given name)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_%28given_name%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_%28given_name%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (given name)Gary and Garry are English language masculine given names. Gary or Garry. Gender, Male. Origin. Language, Germanic la...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_%28given_name%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_%28given_name%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (given name)Gary and Garry are English language masculine given names. Gary or Garry. Gender, Male. Origin. Language, Germanic la...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Gary Mc Kinnon (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — He is alleged to have repeatedly hacked into US Government computer networks...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — He is alleged to have repeatedly hacked into US Government computer networks...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mjk3vaXbjAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mjk3vaXbjAM</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GARY | Official Trailer | Peacock OriginalGARY is streaming August 29th on Peacock: [https://pck.tv/45hBP6q](https://pck.tv/45hBP6q) Synopsis: GARY follows the ext...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mjk3vaXbjAM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mjk3vaXbjAM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GARY | Official Trailer | Peacock OriginalGARY is streaming August 29th on Peacock: [https://pck.tv/45hBP6q](https://pck.tv/45hBP6q) Synopsis: GARY follows the ext...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: film-authority.com  
-   Link: <a href="https://film-authority.com/2026/05/12/gary/" target="_blank" rel="noopener noreferrer nofollow">https://film-authority.com/2026/05/12/gary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 May 2026 — Written by Moss-Bachrach and Bernthal, this feels like an actors workshop,but a good one; the performers are natural and th...</p></details>
+   Link:<a href="https://film-authority.com/2026/05/12/gary/" target="_blank" rel="noopener noreferrer nofollow">https://film-authority.com/2026/05/12/gary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 May 2026 — Written by Moss-Bachrach and Bernthal, this feels like an actors workshop,but a good one; the performers are natural and th...</p></details>
    Published: May 2026  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: journals.law.unc.edu  
    Title: u k ends 10 year extradition battle of hacker gary mckinnon  
-   Link: <a href="https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ends 10 Year Extradition Battle of Hacker Gary McKinnon17 Oct 2012 — During those alleged invasions, McKinnon crashed certain systems, ca...</p></details>
+   Link:<a href="https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ends 10 Year Extradition Battle of Hacker Gary McKinnon17 Oct 2012 — During those alleged invasions, McKinnon crashed certain systems, ca...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pinsentmasons.com  
    Title: pentagon hacker mckinnon fights extradition  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pentagon hacker&#x27; McKinnon fights extradition28 Jul 2005 — Gary McKinnon (AKA Solo), 39, of Wood Green, north London, allegedly hacked in...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pentagon hacker&#x27; McKinnon fights extradition28 Jul 2005 — Gary McKinnon (AKA Solo), 39, of Wood Green, north London, allegedly hacked in...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: gary mckinnon lodges challenge extradition  
-   Link: <a href="https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon challenges extradition10 Dec 2009 — McKinnon, from north London, was accused in 2002 of using his home computer to hack int...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon challenges extradition10 Dec 2009 — McKinnon, from north London, was accused in 2002 of using his home computer to hack int...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: redhotcyber.com  
    Title: famous hackers the story of gary mckinnon  
-   Link: <a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.1 Jul 2025 — A few months after the attack on the Twin Towers, a strange message appeared on a...</p></details>
+   Link:<a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.1 Jul 2025 — A few months after the attack on the Twin Towers, a strange message appeared on a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: disneyplus.com  
-   Link: <a href="https://www.disneyplus.com/en-gb/browse/entity-a28327ab-0812-4da4-ad69-63844e206092" target="_blank" rel="noopener noreferrer nofollow">https://www.disneyplus.com/en-gb/browse/entity-a28327ab-0812-4da4-ad69-63844e206092</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>trip to Gary, Indiana in this flashback...Read more...</p></details>
+   Link:<a href="https://www.disneyplus.com/en-gb/browse/entity-a28327ab-0812-4da4-ad69-63844e206092" target="_blank" rel="noopener noreferrer nofollow">https://www.disneyplus.com/en-gb/browse/entity-a28327ab-0812-4da4-ad69-63844e206092</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>trip to Gary, Indiana in this flashback...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cybereason.com  
    Title: Malicious Life Podcast: The U.S  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and U.S. Army networks to find evidence of UFO coverup...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and U.S. Army networks to find evidence of UFO coverup...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History  
-   Link: <a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&#x27;s SHOCKING UFO Discovery That Almost Took His Life...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&#x27;s SHOCKING UFO Discovery That Almost Took His Life...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Game over | Gary McKinnon9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of all time&#x27;, and...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Game over | Gary McKinnon9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of all time&#x27;, and...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rottentomatoes.com  
    Title: gary 2026  
-   Link: <a href="https://www.rottentomatoes.com/m/gary_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/gary_2026</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (2026)Two friends, Richard &#x27;Richie&#x27; Jerimovich and Michael &#x27;Mikey&#x27; Berzatto, go on a work trip to Gary, Indiana in this flashback ep...</p></details>
+   Link:<a href="https://www.rottentomatoes.com/m/gary_2026" target="_blank" rel="noopener noreferrer nofollow">https://www.rottentomatoes.com/m/gary_2026</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (2026)Two friends, Richard &#x27;Richie&#x27; Jerimovich and Michael &#x27;Mikey&#x27; Berzatto, go on a work trip to Gary, Indiana in this flashback ep...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: The Bear  
-   Link: <a href="https://www.reddit.com/r/TheBear/comments/1t4msd8/the_bear_gary_discussion_thread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheBear/comments/1t4msd8/the_bear_gary_discussion_thread/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Discussion Thread: r/TheBearHe is an amazing guy that everyone wants to be around: fun, funny, chill and charismatic, but his dark...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheBear/comments/1t4msd8/the_bear_gary_discussion_thread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheBear/comments/1t4msd8/the_bear_gary_discussion_thread/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Discussion Thread: r/TheBearHe is an amazing guy that everyone wants to be around: fun, funny, chill and charismatic, but his dark...</p></details>

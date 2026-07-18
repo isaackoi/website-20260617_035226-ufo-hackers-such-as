@@ -451,16 +451,16 @@ The “Non-Terrestrial Officers” claim is one of the most memorable parts of t
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c-overview.webp" | relative_url }}" alt="Overview image for Officers Claim" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters. McKinnon’s unauthorised access to US military and NASA computers is documented in official US allegations, including indictments over [intrusions]({{ 'intrusions/' | relative_url }}) into Army, Navy, Air Force, Department of Defense and NASA systems. The “Non-Terrestrial Officers” material, by contrast, rests on McKinnon’s later descriptions in [interviews]({{ 'interviews/' | relative_url }}), with no original document available for inspection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+That distinction matters. McKinnon’s unauthorised access to US military and NASA computers is documented in official US allegations, including indictments over [intrusions]({{ 'intrusions/' | relative_url }}) into Army, Navy, Air Force, Department of Defense and NASA systems. The “Non-Terrestrial Officers” material, by contrast, rests on McKinnon’s later descriptions in [interviews]({{ 'interviews/' | relative_url }}), with no original document available for inspection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
 
 ## The spreadsheet claim
 
-McKinnon’s clearest account appeared in a 2006 Wired interview. He said he had accessed Excel spreadsheets, one of which was titled “Non-Terrestrial Officers”. According to him, it contained names and ranks of US Air Force personnel “not registered anywhere else” and included “ship-to-ship [transfers]({{ 'transfers/' | relative_url }})” involving ship names he had not seen elsewhere. When Wired asked whether this could have been a military strategy game or a hypothetical planning exercise, McKinnon did not rule that out. His answer was that the military wanted dominance of space, and that what he found “could be a game” because it was hard to know for certain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+McKinnon’s clearest account appeared in a 2006 Wired interview. He said he had accessed Excel spreadsheets, one of which was titled “Non-Terrestrial Officers”. According to him, it contained names and ranks of US Air Force personnel “not registered anywhere else” and included “ship-to-ship [transfers]({{ 'transfers/' | relative_url }})” involving ship names he had not seen elsewhere. When Wired asked whether this could have been a military strategy game or a hypothetical planning exercise, McKinnon did not rule that out. His answer was that the military wanted dominance of space, and that what he found “could be a game” because it was hard to know for certain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
-A Guardian profile from 2005 recorded an earlier, shorter version of the same theme: McKinnon claimed that the most exciting thing he saw was a list of officers’ names under the heading “Non-Terrestrial Officers”. That account is important because it shows the phrase was not only a later internet embellishment; it was already part of McKinnon’s public story before the Wired interview developed the detail about ranks, missing registrations and transfers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+A Guardian profile from 2005 recorded an earlier, shorter version of the same theme: McKinnon claimed that the most exciting thing he saw was a list of officers’ names under the heading “Non-Terrestrial Officers”. That account is important because it shows the phrase was not only a later internet embellishment; it was already part of McKinnon’s public story before the Wired interview developed the detail about ranks, missing registrations and transfers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 Still, the evidential shape is narrow. The public record contains McKinnon’s recollection of a title and contents, not the spreadsheet. There is no disclosed filename, directory path, screenshot, hash, server log, recipient list, classification marking, metadata, or corroborating witness who can confirm that the file existed in the form described. That absence does not prove the claim false, but it means the phrase cannot carry the weight often placed on it in UFO retellings.
 
@@ -470,13 +470,13 @@ Still, the evidential shape is narrow. The public record contains McKinnon’s r
 
 The phrase “Non-Terrestrial Officers” invites an extraterrestrial reading because “terrestrial” commonly means Earth-based or land-based, and “non-terrestrial” sounds like “not of Earth”. In a UFO context, that wording naturally becomes dramatic. But without the original file, the phrase has several more ordinary or ambiguous possible meanings.
 
-One possibility is that “non-terrestrial” referred to space-related duties rather than non-human identity. The United States has long had military personnel working on satellites, missile warning, space surveillance, communications and orbital systems. Today, the US Space Force describes its role in organising, training and equipping forces for space operations, and says all Space Force personnel, civilian and military, are called “Guardians”. That modern terminology did not exist when McKinnon claimed to have seen the spreadsheet, but it illustrates the broader point: military space work can involve officers without implying that those officers are aliens or stationed on alien craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[U.S. Space Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">Open source on spaceforce.mil.</span></span></span>
+One possibility is that “non-terrestrial” referred to space-related duties rather than non-human identity. The United States has long had military personnel working on satellites, missile warning, space surveillance, communications and orbital systems. Today, the US Space Force describes its role in organising, training and equipping forces for space operations, and says all Space Force personnel, civilian and military, are called “Guardians”. That modern terminology did not exist when McKinnon claimed to have seen the spreadsheet, but it illustrates the broader point: military space work can involve officers without implying that those officers are aliens or stationed on alien craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[U.S. Space Force]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">Open source on spaceforce.mil.</span></span></span>
 
-Another possibility is that the wording referred to people not assigned to land-based units. In military and naval contexts, “ship-to-ship transfers” need not mean spacecraft. “Ship” can be a literal sea vessel, a placeholder in a planning document, a simulated asset, or a label inside a training scenario. McKinnon himself accepted the possibility that the material could have been a game or hypothetical outline when the interviewer raised it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
+Another possibility is that the wording referred to people not assigned to land-based units. In military and naval contexts, “ship-to-ship transfers” need not mean spacecraft. “Ship” can be a literal sea vessel, a placeholder in a planning document, a simulated asset, or a label inside a training scenario. McKinnon himself accepted the possibility that the material could have been a game or hypothetical outline when the interviewer raised it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
 
-A third possibility is administrative or database shorthand. The prefix “non-” can simply mean “not” or “other than”, as in non-combatant or non-operational. A spreadsheet title could therefore indicate an exclusion category: officers not attached to a terrestrial command, not assigned to terrestrial assets, not in one personnel registry, or not part of a normal land-based listing. That interpretation is not proven either, but it is a reminder that a striking title can be less precise than readers assume. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merriam-webster.com/dictionary/non-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merriam-webster.com">[Merriam-Webster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merriam-webster.com</span><span class="citation-popover-snippet">Open source on merriam-webster.com.</span></span></span>
+A third possibility is administrative or database shorthand. The prefix “non-” can simply mean “not” or “other than”, as in non-combatant or non-operational. A spreadsheet title could therefore indicate an exclusion category: officers not attached to a terrestrial command, not assigned to terrestrial assets, not in one personnel registry, or not part of a normal land-based listing. That interpretation is not proven either, but it is a reminder that a striking title can be less precise than readers assume.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.merriam-webster.com/dictionary/non-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: merriam-webster.com">[Merriam-Webster]</a><span class="citation-popover" role="note"><span class="citation-popover-source">merriam-webster.com</span><span class="citation-popover-snippet">Open source on merriam-webster.com.</span></span></span>
 
-There is also a records problem hidden inside McKinnon’s statement that the names were “not registered anywhere else”. Public absence is not surprising for many current or recent military personnel records. The US National Archives explains that military personnel records are generally open to the public only 62 years after a service member leaves the military; more recent records are subject to access restrictions under privacy rules. So “I could not find these names elsewhere” would not, on its own, prove a secret extraterrestrial assignment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/veterans/military-service-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Request Military Service Records</span><span class="citation-popover-snippet">National Archives Request Military Service Records</span></span></span>
+There is also a records problem hidden inside McKinnon’s statement that the names were “not registered anywhere else”. Public absence is not surprising for many current or recent military personnel records. The US National Archives explains that military personnel records are generally open to the public only 62 years after a service member leaves the military; more recent records are subject to access restrictions under privacy rules. So “I could not find these names elsewhere” would not, on its own, prove a secret extraterrestrial assignment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/veterans/military-service-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Request Military Service Records</span><span class="citation-popover-snippet">National Archives Request Military Service Records</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ttdlCa5ZCI" title="The Lone Hacker That Found NASA’s Secret Space Fleet [Gary McKinnon Interview]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer">The Lone Hacker That Found NASA’s Secret Space Fleet [Gary McKinnon Interview]</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 651.4K &middot; Uploaded: March 2026 &middot; Length: 2 hours 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ttdlCa5ZCI">Open on YouTube</a></p></div></div></div>
@@ -485,9 +485,9 @@ There is also a records problem hidden inside McKinnon’s statement that the na
 
 The phrase spread because it compresses a whole UFO mythology into three words. It sounds bureaucratic rather than theatrical, which makes it feel more plausible to some readers: not “alien pilots” or “space marines”, but a dull spreadsheet heading. That is exactly the sort of mundane-seeming label that conspiracy narratives often treat as more convincing than an explicitly sensational claim.
 
-It also fits the surrounding McKinnon story. He said he was looking for evidence of UFO secrecy, anti-gravity technology and suppressed energy research. The US authorities, meanwhile, described his activity as serious computer intrusion against defence and space systems. That combination gave the “Non-Terrestrial Officers” phrase a ready-made interpretive frame: if a UFO believer was inside military and NASA networks and saw an odd personnel spreadsheet, readers already sympathetic to UFO secrecy would be primed to interpret it as confirmation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+It also fits the surrounding McKinnon story. He said he was looking for evidence of UFO secrecy, anti-gravity technology and suppressed energy research. The US authorities, meanwhile, described his activity as serious computer intrusion against defence and space systems. That combination gave the “Non-Terrestrial Officers” phrase a ready-made interpretive frame: if a UFO believer was inside military and NASA networks and saw an odd personnel spreadsheet, readers already sympathetic to UFO secrecy would be primed to interpret it as confirmation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
-The phrase later became attached to broader “secret space programme” narratives, including claims about fleets and off-world operations. But that secondary mythology goes beyond what McKinnon’s own most cautious interview answer supports. In the Wired exchange, he did not say he had proved the file described aliens, a deployed space navy, or a named secret fleet. He said the file was hard to interpret and could have been a game. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
+The phrase later became attached to broader “secret space programme” narratives, including claims about fleets and off-world operations. But that secondary mythology goes beyond what McKinnon’s own most cautious interview answer supports. In the Wired exchange, he did not say he had proved the file described aliens, a deployed space navy, or a named secret fleet. He said the file was hard to interpret and could have been a game.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
 
 That is why the phrase has two different meanings depending on the audience. For UFO [believers]({{ 'believers/' | relative_url }}), it is a tantalising fragment that seems to have escaped from a hidden system. For a critical reader, it is an example of how one ambiguous label can become more famous than the missing document it supposedly came from.
 
@@ -527,194 +527,194 @@ The phrase “Non-Terrestrial Officers” remains compelling because it is ambig
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c-Illustration-3-dark.svg" | relative_url }}" alt="Officers Claim illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Could Non Terrestrial Officers Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Could Non Terrestrial Officers Mean?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines claims and evidence rather than relying on isolated anecdotes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines claims and evidence rather than relying on isolated anecdotes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating UFO reports and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating UFO reports and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XeE9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By C. G. Jung</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XeE9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By C. G. Jung</p>
         
-        <p class="fr-book-desc">Useful for interpreting symbolic or ambiguous claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for interpreting symbolic or ambiguous claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+C.+G.+Jung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how unusual claims evolve into larger narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how unusual claims evolve into larger narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="officers-claim-what-could-non-terrestrial-officers-mean-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ The phrase “Non-Terrestrial Officers” remains compelling because it is ambig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ The phrase “Non-Terrestrial Officers” remains compelling because it is ambig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ The phrase “Non-Terrestrial Officers” remains compelling because it is ambig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ The phrase “Non-Terrestrial Officers” remains compelling because it is ambig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ The phrase “Non-Terrestrial Officers” remains compelling because it is ambig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -920,179 +920,179 @@ The phrase “Non-Terrestrial Officers” remains compelling because it is ambig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval...Christie. The seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Arm...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval...Christie. The seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Arm...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/non-" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/non-</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/non-" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/non-</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: archives.gov  
    Title: National Archives Request Military Service Records  
-   Link: <a href="https://www.archives.gov/veterans/military-service-records" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/veterans/military-service-records</a>  
+   Link:<a href="https://www.archives.gov/veterans/military-service-records" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/veterans/military-service-records</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: militarys own u  
-   Link: <a href="https://www.wired.com/2008/07/militarys-own-u/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/militarys-own-u/</a>  
+   Link:<a href="https://www.wired.com/2008/07/militarys-own-u/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/militarys-own-u/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/reference/astronaut-fact-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/astronaut-fact-book/</a>  
+   Link:<a href="https://www.nasa.gov/reference/astronaut-fact-book/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/astronaut-fact-book/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/humans-in-space/astronauts/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/humans-in-space/astronauts/</a>  
+   Link:<a href="https://www.nasa.gov/humans-in-space/astronauts/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/humans-in-space/astronauts/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
    Title: WIRE D  
-   Link: <a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
+   Link:<a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: military.com  
-   Link: <a href="https://www.military.com/space-force/ranks.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/space-force/ranks.html</a>  
+   Link:<a href="https://www.military.com/space-force/ranks.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/space-force/ranks.html</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: archives.gov  
    Title: ompf access public  
-   Link: <a href="https://www.archives.gov/personnel-records-center/ompf-access-public" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/personnel-records-center/ompf-access-public</a>  
+   Link:<a href="https://www.archives.gov/personnel-records-center/ompf-access-public" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/personnel-records-center/ompf-access-public</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/browse-by-topic/exploration-and-innovation/navy-and-space-exploration.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/exploration-and-innovation/navy-and-space-exploration.html</a>  
+   Link:<a href="https://www.history.navy.mil/browse-by-topic/exploration-and-innovation/navy-and-space-exploration.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/browse-by-topic/exploration-and-innovation/navy-and-space-exploration.html</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: spaceforce.mil  
-   Link: <a href="https://www.spaceforce.mil/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/about-us/</a>  
+   Link:<a href="https://www.spaceforce.mil/about-us/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/about-us/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spaceforce.com  
    Title: Join as an Enlisted Guardian  
-   Link: <a href="https://www.spaceforce.com/how-to-join/enlisted-guardians" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/how-to-join/enlisted-guardians</a>  
+   Link:<a href="https://www.spaceforce.com/how-to-join/enlisted-guardians" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/how-to-join/enlisted-guardians</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/kgcuut/us_space_force_members_will_now_be_called/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/kgcuut/us_space_force_members_will_now_be_called/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/kgcuut/us_space_force_members_will_now_be_called/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/kgcuut/us_space_force_members_will_now_be_called/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://de.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spaceforce.com  
-   Link: <a href="https://www.spaceforce.com/careers" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/careers</a>  
+   Link:<a href="https://www.spaceforce.com/careers" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/careers</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: GOV.UK  
    Title: gary mckinnon extradition case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: usa.gov  
    Title: military records  
-   Link: <a href="https://www.usa.gov/military-records" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/military-records</a>  
+   Link:<a href="https://www.usa.gov/military-records" target="_blank" rel="noopener noreferrer nofollow">https://www.usa.gov/military-records</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking</a>  
+   Link:<a href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: gary mckinnon case double standards  
-   Link: <a href="https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards</a>  
+   Link:<a href="https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hackstory.net  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://hackstory.net/Gary_McKinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://hackstory.net/Gary_McKinnon.html</a>  
+   Link:<a href="https://hackstory.net/Gary_McKinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://hackstory.net/Gary_McKinnon.html</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: uapmurders.com  
-   Link: <a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
+   Link:<a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: spaceforce.mil  
-   Link: <a href="https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf</a>  
+   Link:<a href="https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rand.org  
-   Link: <a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2300/RRA2324-1/RAND_RRA2324-1.summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2300/RRA2324-1/RAND_RRA2324-1.summary.pdf</a>  
+   Link:<a href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2300/RRA2324-1/RAND_RRA2324-1.summary.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2300/RRA2324-1/RAND_RRA2324-1.summary.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: nationalarchives.gov.uk  
-   Link: <a href="https://www.nationalarchives.gov.uk/about-us/how-we-work/plans-policies-performance-and-projects/our-projects/ministry-of-defence-service-records-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/about-us/how-we-work/plans-policies-performance-and-projects/our-projects/ministry-of-defence-service-records-project/</a>  
+   Link:<a href="https://www.nationalarchives.gov.uk/about-us/how-we-work/plans-policies-performance-and-projects/our-projects/ministry-of-defence-service-records-project/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/about-us/how-we-work/plans-policies-performance-and-projects/our-projects/ministry-of-defence-service-records-project/</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: The Lone Hacker That Found NASA's Secret Space Fleet [Gary Mc Kinnon Interview]  
-   Link: <a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/USAirForceRecruiting/posts/6-years-of-guardians-securing-our-nations-interests-in-from-and-to-space-/1241901644639470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USAirForceRecruiting/posts/6-years-of-guardians-securing-our-nations-interests-in-from-and-to-space-/1241901644639470/</a>  
+   Link:<a href="https://www.facebook.com/USAirForceRecruiting/posts/6-years-of-guardians-securing-our-nations-interests-in-from-and-to-space-/1241901644639470/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USAirForceRecruiting/posts/6-years-of-guardians-securing-our-nations-interests-in-from-and-to-space-/1241901644639470/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: usafa.edu  
-   Link: <a href="https://www.usafa.edu/astronauts/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafa.edu/astronauts/</a>  
+   Link:<a href="https://www.usafa.edu/astronauts/" target="_blank" rel="noopener noreferrer nofollow">https://www.usafa.edu/astronauts/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYi0BQcJ5HI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYi0BQcJ5HI/</a>  
+   Link:<a href="https://www.instagram.com/p/DYi0BQcJ5HI/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYi0BQcJ5HI/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NASA/videos/nasa-honors-our-servicemembers-this-veterans-day/1456322248201939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASA/videos/nasa-honors-our-servicemembers-this-veterans-day/1456322248201939/</a>  
+   Link:<a href="https://www.facebook.com/NASA/videos/nasa-honors-our-servicemembers-this-veterans-day/1456322248201939/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASA/videos/nasa-honors-our-servicemembers-this-veterans-day/1456322248201939/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTLv5tVEVNU/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTLv5tVEVNU/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DTLv5tVEVNU/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTLv5tVEVNU/?hl=en</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61585381075847/posts/gary-mckinnon-was-not-a-trained-spy-or-intelligence-operative-he-was-a-civilian-/122110786047179369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61585381075847/posts/gary-mckinnon-was-not-a-trained-spy-or-intelligence-operative-he-was-a-civilian-/122110786047179369/</a>  
+   Link:<a href="https://www.facebook.com/61585381075847/posts/gary-mckinnon-was-not-a-trained-spy-or-intelligence-operative-he-was-a-civilian-/122110786047179369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61585381075847/posts/gary-mckinnon-was-not-a-trained-spy-or-intelligence-operative-he-was-a-civilian-/122110786047179369/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  

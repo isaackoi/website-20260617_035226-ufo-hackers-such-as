@@ -280,41 +280,41 @@ image: /assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_gua
 
 ## Introduction
 
-Among the many [interviews]({{ 'interviews/' | relative_url }}) that helped shape Gary McKinnon’s public image, Jon Ronson’s 2005 profile in *The Guardian* was one of the most influential. At a time when US prosecutors were describing McKinnon as the perpetrator of the “biggest military computer hack of all time”, Ronson presented a very different picture: a socially awkward, UFO-obsessed computer enthusiast facing the possibility of extradition and a severe prison sentence. The article did not absolve McKinnon of responsibility, but it reframed him as a recognisable human being rather than a distant cyber-villain. That shift proved important because public attitudes toward the case were still forming, and media narratives often shape sympathy long before courts reach their final conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+Among the many [interviews]({{ 'interviews/' | relative_url }}) that helped shape Gary McKinnon’s public image, Jon Ronson’s 2005 profile in *The Guardian* was one of the most influential. At a time when US prosecutors were describing McKinnon as the perpetrator of the “biggest military computer hack of all time”, Ronson presented a very different picture: a socially awkward, UFO-obsessed computer enthusiast facing the possibility of extradition and a severe prison sentence. The article did not absolve McKinnon of responsibility, but it reframed him as a recognisable human being rather than a distant cyber-villain. That shift proved important because public attitudes toward the case were still forming, and media narratives often shape sympathy long before courts reach their final conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-1-dark.svg" | relative_url }}" alt="Guardian Profile illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Human-Interest Framing
 
-Ronson’s profile, published as “Game Over” in *The Guardian*, focused heavily on McKinnon’s personality, motivations and everyday life. Instead of opening with technical details of network [intrusions]({{ 'intrusions/' | relative_url }}), the article introduced readers to a man whose interests included UFOs, conspiracy theories and computers, and who appeared ill-equipped for the enormous legal battle ahead of him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+Ronson’s profile, published as “Game Over” in *The Guardian*, focused heavily on McKinnon’s personality, motivations and everyday life. Instead of opening with technical details of network [intrusions]({{ 'intrusions/' | relative_url }}), the article introduced readers to a man whose interests included UFOs, conspiracy theories and computers, and who appeared ill-equipped for the enormous legal battle ahead of him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
-This approach mattered because public understanding of cybercrime was still relatively limited in the mid-2000s. Many readers were more likely to connect emotionally with an individual story than with discussions of network security or military systems. By depicting McKinnon in domestic and personal terms, Ronson transformed an abstract hacking case into a narrative about a person confronting the power of the state. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+This approach mattered because public understanding of cybercrime was still relatively limited in the mid-2000s. Many readers were more likely to connect emotionally with an individual story than with discussions of network security or military systems. By depicting McKinnon in domestic and personal terms, Ronson transformed an abstract hacking case into a narrative about a person confronting the power of the state.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
-The article also highlighted the disparity between McKinnon’s appearance and the allegations against him. Readers encountered a figure who seemed more like an eccentric enthusiast than a sophisticated criminal mastermind. Whether or not that impression accurately reflected the seriousness of the offences, it encouraged audiences to consider proportionality and fairness rather than focusing exclusively on the accusations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+The article also highlighted the disparity between McKinnon’s appearance and the allegations against him. Readers encountered a figure who seemed more like an eccentric enthusiast than a sophisticated criminal mastermind. Whether or not that impression accurately reflected the seriousness of the offences, it encouraged audiences to consider proportionality and fairness rather than focusing exclusively on the accusations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ## Balancing Allegations and Personality
 
-A key reason the profile had lasting influence was that it did not simply celebrate McKinnon or repeat his claims uncritically. Ronson included the US allegations in substantial detail, noting the charges and the potential consequences if extradition succeeded. The article therefore maintained a tension between two competing images: the dangerous hacker described by prosecutors and the unusual, obsessive individual described by friends, family and McKinnon himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+A key reason the profile had lasting influence was that it did not simply celebrate McKinnon or repeat his claims uncritically. Ronson included the US allegations in substantial detail, noting the charges and the potential consequences if extradition succeeded. The article therefore maintained a tension between two competing images: the dangerous hacker described by prosecutors and the unusual, obsessive individual described by friends, family and McKinnon himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
-This balance gave the story credibility. Readers were not asked to ignore the accusations. Instead, they were encouraged to weigh them against the person sitting at the centre of the case. The resulting portrait left room for disagreement about guilt while generating sympathy about punishment and extradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+This balance gave the story credibility. Readers were not asked to ignore the accusations. Instead, they were encouraged to weigh them against the person sitting at the centre of the case. The resulting portrait left room for disagreement about guilt while generating sympathy about punishment and extradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
-The profile also helped popularise McKinnon’s own explanation for his actions. Rather than portraying himself as motivated by money, espionage or sabotage, he described a search for information about UFOs, [hidden technology]({{ 'hidden-tech/' | relative_url }}) and government secrecy. Those claims became central to the emerging “UFO hacker” legend, but within Ronson’s article they also functioned as character evidence: they suggested an eccentric quest rather than a conventional criminal enterprise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+The profile also helped popularise McKinnon’s own explanation for his actions. Rather than portraying himself as motivated by money, espionage or sabotage, he described a search for information about UFOs, [hidden technology]({{ 'hidden-tech/' | relative_url }}) and government secrecy. Those claims became central to the emerging “UFO hacker” legend, but within Ronson’s article they also functioned as character evidence: they suggested an eccentric quest rather than a conventional criminal enterprise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-2-dark.svg" | relative_url }}" alt="Guardian Profile illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Readers Responded Sympathetically
 
-Public sympathy was not generated solely by the UFO angle. In fact, the article’s emotional force came largely from the contrast between McKinnon’s apparent ordinariness and the scale of the legal threat he faced. Ronson emphasised that extradition could expose him to decades of imprisonment in the United States, creating a David-versus-Goliath dynamic that many readers found compelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+Public sympathy was not generated solely by the UFO angle. In fact, the article’s emotional force came largely from the contrast between McKinnon’s apparent ordinariness and the scale of the legal threat he faced. Ronson emphasised that extradition could expose him to decades of imprisonment in the United States, creating a David-versus-Goliath dynamic that many readers found compelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
 Several features of the profile reinforced that response:
 
 * **The individual versus institutions:** McKinnon appeared as a lone figure confronting the US justice system.
 * **Questions of proportionality:** Readers were invited to consider whether the potential punishment matched the conduct alleged.
 * **Personal vulnerability:** The profile focused on the emotional and practical consequences of extradition rather than treating the case as a purely technical security issue.
-* **Unusual motivation:** The UFO search made the story memorable and distinguished it from ordinary hacking cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+* **Unusual motivation:** The UFO search made the story memorable and distinguished it from ordinary hacking cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
 The cumulative effect was to encourage readers to think about consequences and fairness, not merely legality.
 
@@ -323,213 +323,213 @@ The cumulative effect was to encourage readers to think about consequences and f
 
 ## Influence on Later Coverage
 
-The Guardian profile established many of the themes that later journalists, [campaigners]({{ 'campaigners/' | relative_url }}) and commentators would revisit. Subsequent reporting often returned to the image of McKinnon as an unconventional individual facing extraordinary legal pressure rather than concentrating exclusively on the alleged intrusions themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+The Guardian profile established many of the themes that later journalists, [campaigners]({{ 'campaigners/' | relative_url }}) and commentators would revisit. Subsequent reporting often returned to the image of McKinnon as an unconventional individual facing extraordinary legal pressure rather than concentrating exclusively on the alleged intrusions themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
-As the extradition dispute continued for years, public campaigns increasingly relied on personal narratives. Arguments about mental health, vulnerability and the human impact of extradition gained prominence in coverage. While those later developments involved evidence and issues beyond Ronson’s article, the profile had already created a framework through which many readers understood the case: a story about a person, not just a cybercrime file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+As the extradition dispute continued for years, public campaigns increasingly relied on personal narratives. Arguments about mental health, vulnerability and the human impact of extradition gained prominence in coverage. While those later developments involved evidence and issues beyond Ronson’s article, the profile had already created a framework through which many readers understood the case: a story about a person, not just a cybercrime file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
-The article also influenced how the “UFO hacker” label evolved. Rather than depicting McKinnon solely as someone accused of unauthorised access to government computers, it connected the hacking allegations to a broader narrative of curiosity, belief and the search for hidden information. That framing proved highly durable and was repeated across later discussions of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+The article also influenced how the “UFO hacker” label evolved. Rather than depicting McKinnon solely as someone accused of unauthorised access to government computers, it connected the hacking allegations to a broader narrative of curiosity, belief and the search for hidden information. That framing proved highly durable and was repeated across later discussions of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-3-dark.svg" | relative_url }}" alt="Guardian Profile illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_media_interviews_leg_03ac6e_guardian_profile_sym_676304-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A Lasting Shift in Public Perception
 
-Ronson’s profile did not determine the outcome of the McKinnon case, nor did it resolve questions about the seriousness of the alleged hacking. Its significance lies elsewhere. By presenting McKinnon as a complex individual with unusual motivations and visible vulnerabilities, the article altered the terms of public discussion. Readers were encouraged to see not only the allegations but also the person behind them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+Ronson’s profile did not determine the outcome of the McKinnon case, nor did it resolve questions about the seriousness of the alleged hacking. Its significance lies elsewhere. By presenting McKinnon as a complex individual with unusual motivations and visible vulnerabilities, the article altered the terms of public discussion. Readers were encouraged to see not only the allegations but also the person behind them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
-In the broader history of media coverage surrounding the “UFO hacker” story, that human-interest framing became one of the most powerful forces shaping public sympathy. Long before the legal battle reached its conclusion, many people had already encountered McKinnon through Ronson’s portrait of an ordinary man caught in an extraordinary confrontation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+In the broader history of media coverage surrounding the “UFO hacker” story, that human-interest framing became one of the most powerful forces shaping public sympathy. Long before the legal battle reached its conclusion, many people had already encountered McKinnon through Ronson’s portrait of an ordinary man caught in an extraordinary confrontation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How a Newspaper Profile Changed Public Perception. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How a Newspaper Profile Changed Public Perception. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open So You&#x27;ve Been Publicly Shamed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aT_TCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for So You&#x27;ve Been Publicly Shamed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="So You&#x27;ve Been Publicly Shamed">So You&#x27;ve Been Publicly Shamed</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open So You&#x27;ve Been Publicly Shamed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aT_TCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for So You&#x27;ve Been Publicly Shamed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="So You&#x27;ve Been Publicly Shamed">So You&#x27;ve Been Publicly Shamed</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Explores reputation, media framing and public sympathy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores reputation, media framing and public sympathy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Suspect+by+Rob+Rinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Suspect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NdjIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Suspect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Suspect+by+Rob+Rinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspect">The Suspect</a>
-        </h4>
-        <p class="fr-book-author">By Rob Rinder</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Suspect+by+Rob+Rinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Suspect on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NdjIEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Suspect" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Suspect+by+Rob+Rinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspect">The Suspect</a>
+</h4>
+<p class="fr-book-author">By Rob Rinder</p>
         
-        <p class="fr-book-desc">Covers the human side of the case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Suspect+by+Rob+Rinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the human side of the case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Suspect+by+Rob+Rinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Demonstrates Ronson&#x27;s style of profiling unconventional figures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Demonstrates Ronson&#x27;s style of profiling unconventional figures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snowden Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=po-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snowden Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snowden Files">The Snowden Files</a>
-        </h4>
-        <p class="fr-book-author">By Luke Harding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snowden Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=po-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snowden Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snowden Files">The Snowden Files</a>
+</h4>
+<p class="fr-book-author">By Luke Harding</p>
         
-        <p class="fr-book-desc">Provides a parallel example of media shaping public perception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a parallel example of media shaping public perception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">So You&#x27;ve Been Publicly Shamed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Suspect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Suspect</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=So+You%27ve+Been+Publicly+Shamed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">So You&#x27;ve Been Publicly Shamed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Suspect&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Suspect</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien News Article UFO Mens T-Shirt 100% Cotton"><img src="{{ '/assets/images/marketplace-covers/6596a9316d32a6fe3829.jpg' | relative_url }}" alt="Listing image for Alien News Article UFO Mens T-Shirt 100% Cotton" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">Alien News Article UFO Mens T-Shirt 100% Cotton</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design"><img src="{{ '/assets/images/marketplace-covers/f0858731bf83f620568a.jpg' | relative_url }}" alt="Listing image for Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">Retro Comic Book Style UFO&#x27;s Attack T Shirt Funny Alien 50s Cinema Style Design</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263"><img src="{{ '/assets/images/marketplace-covers/bd40f15ba75b30a41185.jpg' | relative_url }}" alt="Listing image for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263"><img src="{{ '/assets/images/marketplace-covers/bd40f15ba75b30a41185.jpg' | relative_url }}" alt="Listing image for Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">Alien Abduction Mens Tshirt UFO T-Shirt Area 51 Space Invasion Galaxy Tee E263</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="{{ '/assets/images/marketplace-covers/43c4ee420e151dd41424.jpg' | relative_url }}" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-mogg&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -mogg" data-ebay-reference="guardian-profile-how-a-newspaper-profile-changed-public-perception-ufo-hackers-such-ufo-t-shirt-gerry-anderson-series-te" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ In the broader history of media coverage surrounding the “UFO hacker” story,
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ In the broader history of media coverage surrounding the “UFO hacker” story,
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ In the broader history of media coverage surrounding the “UFO hacker” story,
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ In the broader history of media coverage surrounding the “UFO hacker” story,
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ In the broader history of media coverage surrounding the “UFO hacker” story,
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,85 +735,85 @@ In the broader history of media coverage surrounding the “UFO hacker” story,
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Jon Ronson  
-   Link: <a href="https://en.wikipedia.org/wiki/Jon_Ronson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jon_Ronson</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jon_Ronson" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jon_Ronson</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reason.com  
    Title: surreal interview of the month  
-   Link: <a href="https://reason.com/2005/07/19/surreal-interview-of-the-month/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2005/07/19/surreal-interview-of-the-month/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jul 2005 — In The Guardian, Jon Ronson chats with the British hacker Gary McKinnon, who&#x27;s facing extradition to the U.S. and up to 70...</p></details>
+   Link:<a href="https://reason.com/2005/07/19/surreal-interview-of-the-month/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2005/07/19/surreal-interview-of-the-month/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Jul 2005 — In The Guardian, Jon Ronson chats with the British hacker Gary McKinnon, who&#x27;s facing extradition to the U.S. and up to 70...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theguardian.com  
    Title: The Guardian Game over | Gary Mc Kinnon  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military compu...</p></details>
    Published: July 9, 2005  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: tarrdaniel.com  
-   Link: <a href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - The Gary McKinnon CaseIn 2001, a British man named Gary McKinnon allegedly carried out the &#x27;biggest military computer hac...</p></details>
+   Link:<a href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - The Gary McKinnon CaseIn 2001, a British man named Gary McKinnon allegedly carried out the &#x27;biggest military computer hac...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nziff.co.nz  
-   Link: <a href="https://www.nziff.co.nz/assets/sm/upload/su/cy/ry/lz/NZIFF15_THP_210715-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nziff.co.nz/assets/sm/upload/su/cy/ry/lz/NZIFF15_THP_210715-1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VISIT US AT NZIFF.CO.NZThat said, programming NZIFF is more than ever about celebrating the public occasion of movie-going, privileging t...</p></details>
+   Link:<a href="https://www.nziff.co.nz/assets/sm/upload/su/cy/ry/lz/NZIFF15_THP_210715-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nziff.co.nz/assets/sm/upload/su/cy/ry/lz/NZIFF15_THP_210715-1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VISIT US AT NZIFF.CO.NZThat said, programming NZIFF is more than ever about celebrating the public occasion of movie-going, privileging t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spectrum.ieee.org  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The Autistic HackerGary McKinnon hacked thousands of government computers · A few months after the World Trade Center attacks...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The Autistic HackerGary McKinnon hacked thousands of government computers · A few months after the World Trade Center attacks...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/true-stories-of-space-exploration-conspiracies-1nbsped-9781477778340-9781477778333.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/true-stories-of-space-exploration-conspiracies-1nbsped-9781477778340-9781477778333.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 10 1. CAUS, Just... “Jon Ronson Meets Hacker Gary McKinnon.” Guardian, July 9, 2005. 236. True...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/true-stories-of-space-exploration-conspiracies-1nbsped-9781477778340-9781477778333.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/true-stories-of-space-exploration-conspiracies-1nbsped-9781477778340-9781477778333.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 10 1. CAUS, Just... “Jon Ronson Meets Hacker Gary McKinnon.” Guardian, July 9, 2005. 236. True...Read more...</p></details>
    Published: July 9, 2005  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/list/ls074437197/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls074437197/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Love Don&#x27;t Cost a Thing - 2001: 1 week · 2. Get Right - 2005: 1 week · 3. On the Floor...Read more...</p></details>
+   Link:<a href="https://www.imdb.com/list/ls074437197/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/list/ls074437197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Love Don&#x27;t Cost a Thing - 2001: 1 week · 2. Get Right - 2005: 1 week · 3. On the Floor...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: rgu-repository.worktribe.com  
    Title: hackers beware the cautionary story of gary mckinnon  
-   Link: <a href="https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>beware: the cautionary story of Gary McKinnon.This article describes and analyses the facts and law surrounding the extradition of McKinn...</p></details>
+   Link:<a href="https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>beware: the cautionary story of Gary McKinnon.This article describes and analyses the facts and law surrounding the extradition of McKinn...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: educate-yourself.org  
-   Link: <a href="https://educate-yourself.org/pnl/nerdwhosawtoomuch13jul05.shtml" target="_blank" rel="noopener noreferrer nofollow">https://educate-yourself.org/pnl/nerdwhosawtoomuch13jul05.shtml</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Nerd Who Saw Too Much (July 13, 2006)13 Jul 2005 — Guardian Unlimited | Weekend | Jon Ronson meets hacker Gary McKinnon...</p></details>
+   Link:<a href="https://educate-yourself.org/pnl/nerdwhosawtoomuch13jul05.shtml" target="_blank" rel="noopener noreferrer nofollow">https://educate-yourself.org/pnl/nerdwhosawtoomuch13jul05.shtml</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Nerd Who Saw Too Much (July 13, 2006)13 Jul 2005 — Guardian Unlimited | Weekend | Jon Ronson meets hacker Gary McKinnon...</p></details>
    Published: July 13, 2006  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: corpus-stats.lancs.ac.uk  
    Title: BNC frequency list.txt  
-   Link: <a href="https://corpus-stats.lancs.ac.uk/data/BNC_frequency_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://corpus-stats.lancs.ac.uk/data/BNC_frequency_list.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lancs.ac.uktxt... july 11842 872 response 11840 873 choice 11837 874 charge 11829 875 wide 11815 876 pressure... ordinary 6787 1544 prev...</p></details>
+   Link:<a href="https://corpus-stats.lancs.ac.uk/data/BNC_frequency_list.txt" target="_blank" rel="noopener noreferrer nofollow">https://corpus-stats.lancs.ac.uk/data/BNC_frequency_list.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lancs.ac.uktxt... july 11842 872 response 11840 873 choice 11837 874 charge 11829 875 wide 11815 876 pressure... ordinary 6787 1544 prev...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thetimes.com  
-   Link: <a href="https://www.thetimes.com/best-law-firms/profile-legal/article/so-sad-so-frightening-the-story-behind-hacker-gary-mckinnon-kclcktl9lh5" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/best-law-firms/profile-legal/article/so-sad-so-frightening-the-story-behind-hacker-gary-mckinnon-kclcktl9lh5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So sad, so frightening: the story behind hacker Gary...26 Sept 2013 — It was while researching UFOs on the internet in 2001 that McKinno...</p></details>
+   Link:<a href="https://www.thetimes.com/best-law-firms/profile-legal/article/so-sad-so-frightening-the-story-behind-hacker-gary-mckinnon-kclcktl9lh5" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/best-law-firms/profile-legal/article/so-sad-so-frightening-the-story-behind-hacker-gary-mckinnon-kclcktl9lh5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So sad, so frightening: the story behind hacker Gary...26 Sept 2013 — It was while researching UFOs on the internet in 2001 that McKinno...</p></details>

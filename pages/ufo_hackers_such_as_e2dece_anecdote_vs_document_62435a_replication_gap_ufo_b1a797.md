@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_rep
 
 ## Introduction
 
-Claims made by UFO-focused hackers such as Gary McKinnon face a fundamental problem: they cannot be independently replicated. In science, journalism, intelligence analysis and digital forensics, a claim becomes more credible when other people can revisit the original evidence and see whether they reach the same conclusion. Most UFO hacking stories do not allow that process. The systems involved have been decommissioned, access has been revoked, logs have disappeared, and the alleged files were never preserved in a way that outsiders can examine. As a result, investigators are often left assessing memories and descriptions rather than original artefacts. This replication gap is one of the main reasons that debates over UFO hacking claims continue decades after the events themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+Claims made by UFO-focused hackers such as Gary McKinnon face a fundamental problem: they cannot be independently replicated. In science, journalism, intelligence analysis and digital forensics, a claim becomes more credible when other people can revisit the original evidence and see whether they reach the same conclusion. Most UFO hacking stories do not allow that process. The systems involved have been decommissioned, access has been revoked, logs have disappeared, and the alleged files were never preserved in a way that outsiders can examine. As a result, investigators are often left assessing memories and descriptions rather than original artefacts. This replication gap is one of the main reasons that debates over UFO hacking claims continue decades after the events themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_replication_gap_ufo_b1a797-Illustration-1-dark.svg" | relative_url }}" alt="Replication Gap illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_replication_gap_ufo_b1a797-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_replication_gap_ufo_b1a797-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,7 +288,7 @@ Claims made by UFO-focused hackers such as Gary McKinnon face a fundamental prob
 
 Independent replication is one of the strongest tools available for evaluating extraordinary claims. Whether the subject is a scientific experiment, a criminal investigation or a cybersecurity incident, the basic principle is similar: another investigator should be able to review the same evidence and determine whether the original conclusion holds up.
 
-In the case of UFO hacking narratives, that standard is rarely met. The most widely discussed claims often concern files, images or databases that were allegedly seen only briefly and were never preserved for later examination. Gary McKinnon, for example, stated that he viewed what he believed was a high-resolution image of a non-human craft and records referring to “non-terrestrial officers”, but no publicly verifiable copies of those materials have been produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+In the case of UFO hacking narratives, that standard is rarely met. The most widely discussed claims often concern files, images or databases that were allegedly seen only briefly and were never preserved for later examination. Gary McKinnon, for example, stated that he viewed what he believed was a high-resolution image of a non-human craft and records referring to “non-terrestrial officers”, but no publicly verifiable copies of those materials have been produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 This creates a methodological problem. Researchers are not comparing interpretations of the same document. They are comparing interpretations of someone's recollection of a document. The object of analysis has effectively disappeared.
 
@@ -304,7 +304,7 @@ Several factors contribute to this problem:
 * **Data retention limits:** Logs and temporary files are often retained only for limited periods.
 * **Security remediation:** Following an intrusion, administrators frequently remove vulnerable systems and restructure networks.
 * **Classification barriers:** Even if relevant records survived, independent researchers generally cannot inspect classified materials.
-* **Lack of preserved copies:** In many UFO hacking accounts, the claimant did not download or securely archive the allegedly significant files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+* **Lack of preserved copies:** In many UFO hacking accounts, the claimant did not download or securely archive the allegedly significant files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 The result is that the historical environment cannot be reconstructed with sufficient precision to test the original observations.
 
@@ -313,11 +313,11 @@ The result is that the historical environment cannot be reconstructed with suffi
 
 ### The McKinnon Example
 
-McKinnon's own account illustrates the replication problem. He stated that he encountered a large image on a NASA system and became absorbed in examining it rather than immediately saving or capturing it. According to his later descriptions, the connection was interrupted before he could preserve the image. He subsequently acknowledged that he did not obtain a screenshot of what he believed he had seen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+McKinnon's own account illustrates the replication problem. He stated that he encountered a large image on a NASA system and became absorbed in examining it rather than immediately saving or capturing it. According to his later descriptions, the connection was interrupted before he could preserve the image. He subsequently acknowledged that he did not obtain a screenshot of what he believed he had seen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 For supporters, this explanation is understandable given the slow connections and remote-access tools available at the time. For investigators, however, the consequence is significant: the central piece of evidence cannot be inspected.
 
-The same issue affects the frequently cited “non-terrestrial officers” spreadsheet. Public discussion relies on McKinnon's description of the document rather than on an independently authenticated copy. Researchers therefore cannot examine [metadata]({{ 'metadata/' | relative_url }}), verify provenance, determine context or test alternative interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+The same issue affects the frequently cited “non-terrestrial officers” spreadsheet. Public discussion relies on McKinnon's description of the document rather than on an independently authenticated copy. Researchers therefore cannot examine [metadata]({{ 'metadata/' | relative_url }}), verify provenance, determine context or test alternative interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -341,7 +341,7 @@ The replication challenge becomes especially severe when:
 
 </div>
 
-Under those conditions, later investigators cannot determine whether a remembered image was extraordinary, ambiguous or mundane. They can only evaluate the credibility and consistency of the witness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+Under those conditions, later investigators cannot determine whether a remembered image was extraordinary, ambiguous or mundane. They can only evaluate the credibility and consistency of the witness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_replication_gap_ufo_b1a797-Illustration-2-dark.svg" | relative_url }}" alt="Replication Gap illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_replication_gap_ufo_b1a797-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_replication_gap_ufo_b1a797-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -351,7 +351,7 @@ A useful comparison is digital forensics. When investigators discover an importa
 
 Most UFO hacking stories lack these safeguards.
 
-There is often no preserved file, no forensic image of the system, no documented chain of custody and no independent analyst who examined the same material at the time. Even when the underlying hacking activity is well documented, the alleged UFO-related discoveries remain separate from the documented [evidence trail]({{ 'evidence-trail/' | relative_url }}). McKinnon's unauthorised access to US military and NASA systems is extensively documented through legal proceedings and [public records]({{ 'public-records/' | relative_url }}), but the UFO-related findings themselves remain largely dependent on his descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+There is often no preserved file, no forensic image of the system, no documented chain of custody and no independent analyst who examined the same material at the time. Even when the underlying hacking activity is well documented, the alleged UFO-related discoveries remain separate from the documented [evidence trail]({{ 'evidence-trail/' | relative_url }}). McKinnon's unauthorised access to US military and NASA systems is extensively documented through legal proceedings and [public records]({{ 'public-records/' | relative_url }}), but the UFO-related findings themselves remain largely dependent on his descriptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 This distinction explains why debates about the hacking are often less controversial than debates about what was supposedly found.
 
@@ -376,201 +376,201 @@ When original evidence is unavailable, investigators cannot:
 
 As a result, confidence levels remain constrained. The claims may be intriguing, internally consistent or sincerely held, yet they cannot achieve the evidential status of findings that can be revisited and independently examined.
 
-Within the broader debate over anecdote versus documentation in UFO hacking stories, this replication gap is the central obstacle. The original systems are gone or inaccessible, the alleged artefacts are unavailable, and the key observations survive primarily as testimony. That leaves researchers evaluating narratives about evidence rather than the evidence itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+Within the broader debate over anecdote versus documentation in UFO hacking stories, this replication gap is the central obstacle. The original systems are gone or inaccessible, the alleged artefacts are unavailable, and the key observations survive primarily as testimony. That leaves researchers evaluating narratives about evidence rather than the evidence itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WvILY-h-6_Y" title="The Interview They Tried to Erase From the Internet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WvILY-h-6_Y" target="_blank" rel="noopener noreferrer">The Interview They Tried to Erase From the Internet</a></p><p class="youtube-embed-meta">Channel: Video Advice &middot; Views: 683.7K &middot; Uploaded: October 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WvILY-h-6_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WvILY-h-6_Y">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why No One Can Recheck Most UFO Hacking Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why No One Can Recheck Most UFO Hacking Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Offers a broader UFO-evidence framework where documentation and testimony are central.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers a broader UFO-evidence framework where documentation and testimony are central.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
-        </h4>
-        <p class="fr-book-author">By Michael D. Swords</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and Government on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_Xab1hqwco0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and Government" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and Government">UFOs and Government</a>
+</h4>
+<p class="fr-book-author">By Michael D. Swords</p>
         
-        <p class="fr-book-desc">Provides examples of how official documents, records, and missing data affect UFO debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of how official documents, records, and missing data affect UFO debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+Government+by+Michael+D.+Swords&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Supports fair assessment of extraordinary claims when evidence cannot be independently rechecked.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Supports fair assessment of extraordinary claims when evidence cannot be independently rechecked.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Directly addresses repeatability, examinable artefacts, forensic confidence, and missing records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses repeatability, examinable artefacts, forensic confidence, and missing records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+Government&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and Government</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="replication-gap-why-no-one-can-recheck-most-ufo-hacking-claims-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ Within the broader debate over anecdote versus documentation in UFO hacking stor
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ Within the broader debate over anecdote versus documentation in UFO hacking stor
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ Within the broader debate over anecdote versus documentation in UFO hacking stor
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ Within the broader debate over anecdote versus documentation in UFO hacking stor
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ Within the broader debate over anecdote versus documentation in UFO hacking stor
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,78 +776,78 @@ Within the broader debate over anecdote versus documentation in UFO hacking stor
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arstechnica.com  
    Title: uk halts extradition of accused hacker over suicide concerns  
-   Link: <a href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon was looking for UFOs, but US blames him for $700,000 of damage.Read more...</p></details>
+   Link:<a href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon was looking for UFOs, but US blames him for $700,000 of damage.Read more...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1milfu9/hacker_solo_hacked_nasa_and_the_us_military_what/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1milfu9/hacker_solo_hacked_nasa_and_the_us_military_what/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker SOLO hacked NASA and the U.S. military… what...127 votes, 147 comments. The story of Gary McKinnon is true and old. I&#x27;ve spoken w...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1milfu9/hacker_solo_hacked_nasa_and_the_us_military_what/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1milfu9/hacker_solo_hacked_nasa_and_the_us_military_what/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker SOLO hacked NASA and the U.S. military… what...127 votes, 147 comments. The story of Gary McKinnon is true and old. I&#x27;ve spoken w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1moeyds/in_the_program_gary_mckinnon_breaks_his_silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1moeyds/in_the_program_gary_mckinnon_breaks_his_silence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In The Program, Gary McKinnon breaks his silence about...Non-terrestrial officers. UFO program files. The U.S. called it the “biggest mi...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1moeyds/in_the_program_gary_mckinnon_breaks_his_silence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1moeyds/in_the_program_gary_mckinnon_breaks_his_silence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In The Program, Gary McKinnon breaks his silence about...Non-terrestrial officers. UFO program files. The U.S. called it the “biggest mi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...A NASA photographic expert said that there was a [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;) at Johnson Space Ce...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...A NASA photographic expert said that there was a [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;) at Johnson Space Ce...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: spectrum.ieee.org  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack. Convinced that the gover...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack. Convinced that the gover...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-lindberg-[interviews" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-lindberg-[interviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with UFO hacker Gary McKinnonGary McKinnon has been branded an evil hacker and could end up at Guantanamo Bay. Oliver Lindberg...</p></details>
+   Link:<a href="https://medium.com/the-lindberg-[interviews" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-lindberg-[interviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with UFO hacker Gary McKinnonGary McKinnon has been branded an evil hacker and could end up at Guantanamo Bay. Oliver Lindberg...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert Gary McKinnon candidly revealed detail on his NASA data...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert Gary McKinnon candidly revealed detail on his NASA data...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe claimed to find high-resolution images of unidentified flying objects, files listing “non-terr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe claimed to find high-resolution images of unidentified flying objects, files listing “non-terr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E4fN14LUUg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4fN14LUUg4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Claims NASA Is Hiding UFO EvidenceGary McKinnon Claims NASA Is Hiding UFO Evidence — Then They Came After Him Sometime afte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E4fN14LUUg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4fN14LUUg4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Claims NASA Is Hiding UFO EvidenceGary McKinnon Claims NASA Is Hiding UFO Evidence — Then They Came After Him Sometime afte...</p></details>

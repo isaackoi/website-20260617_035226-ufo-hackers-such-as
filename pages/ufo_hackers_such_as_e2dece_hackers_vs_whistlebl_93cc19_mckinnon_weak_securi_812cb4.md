@@ -274,19 +274,19 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_mck
 
 ## Introduction
 
-Among Gary McKinnon’s various claims, the one that proved easiest to evaluate was not his assertion that he had found evidence related to UFOs. It was his contention that he encountered remarkably weak security on sensitive US government networks. Unlike alleged sightings, spacecraft images or references to “non-terrestrial officers”, the question of whether important systems were protected by poor passwords and [weak access]({{ 'weak-access/' | relative_url }}) controls could be investigated through technical evidence, court records and independent reporting. As a result, network security became the strongest [public-interest]({{ 'public-interest/' | relative_url }}) dimension of the case, even for people who rejected McKinnon’s UFO conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+Among Gary McKinnon’s various claims, the one that proved easiest to evaluate was not his assertion that he had found evidence related to UFOs. It was his contention that he encountered remarkably weak security on sensitive US government networks. Unlike alleged sightings, spacecraft images or references to “non-terrestrial officers”, the question of whether important systems were protected by poor passwords and [weak access]({{ 'weak-access/' | relative_url }}) controls could be investigated through technical evidence, court records and independent reporting. As a result, network security became the strongest [public-interest]({{ 'public-interest/' | relative_url }}) dimension of the case, even for people who rejected McKinnon’s UFO conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_mckinnon_weak_securi_812cb4-Illustration-1-dark.svg" | relative_url }}" alt="Weak Security illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_mckinnon_weak_securi_812cb4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_mckinnon_weak_securi_812cb4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the broader comparison between UFO hackers and [whistleblowers]({{ 'whistleblowers/' | relative_url }}), this distinction matters. McKinnon’s claims about hidden alien technology remained unverified and heavily disputed. His descriptions of weak security practices, however, were supported by multiple accounts that suggested he often gained access through basic administrative failures rather than through sophisticated intrusion techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
+In the broader comparison between UFO hackers and [whistleblowers]({{ 'whistleblowers/' | relative_url }}), this distinction matters. McKinnon’s claims about hidden alien technology remained unverified and heavily disputed. His descriptions of weak security practices, however, were supported by multiple accounts that suggested he often gained access through basic administrative failures rather than through sophisticated intrusion techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
 
 ## The Claim That Was Easier To Test
 
 The central reason McKinnon’s security argument attracted attention is that it dealt with observable conditions rather than extraordinary conclusions. A government network either had inadequate password protection or it did not. An administrator account either used a blank password or it did not.
 
-McKinnon repeatedly argued that he entered systems because security was so poor. Reporting from the period described his use of scanning tools to locate Windows machines where administrator accounts lacked passwords or relied on extremely weak credentials. Accounts from both McKinnon and journalists who examined the case described networks that were vulnerable because basic security practices had not been followed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
+McKinnon repeatedly argued that he entered systems because security was so poor. Reporting from the period described his use of scanning tools to locate Windows machines where administrator accounts lacked passwords or relied on extremely weak credentials. Accounts from both McKinnon and journalists who examined the case described networks that were vulnerable because basic security practices had not been followed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
 
-Even critics of McKinnon often acknowledged that the allegations revealed uncomfortable questions about network protection. Wired noted that the case unfolded partly as a story about exposed national-security systems, while later reporting described prosecutors and defenders arguing over the significance of those vulnerabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+Even critics of McKinnon often acknowledged that the allegations revealed uncomfortable questions about network protection. Wired noted that the case unfolded partly as a story about exposed national-security systems, while later reporting described prosecutors and defenders arguing over the significance of those vulnerabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 The result was an unusual situation: people could disagree completely about UFO evidence while still accepting that the case exposed genuine weaknesses in access control and system administration.
 
@@ -305,11 +305,11 @@ Poor access controls suggest failures at several levels:
 * **Password management:** Systems may have retained default passwords, blank passwords or easily guessed credentials.
 * **Network oversight:** Vulnerable machines apparently remained connected to sensitive networks for extended periods.
 * **Administrative discipline:** Security policies may have existed on paper but were not consistently enforced.
-* **Monitoring and detection:** Unauthorised access allegedly continued long enough for McKinnon to move through multiple systems before detection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
+* **Monitoring and detection:** Unauthorised access allegedly continued long enough for McKinnon to move through multiple systems before detection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
 
 </div>
 
-The public-interest aspect of this argument did not depend on accepting McKinnon as a heroic figure. Citizens, policymakers and security professionals could reasonably ask whether military and government systems were being protected adequately, especially during the period immediately surrounding the September 2001 attacks. The question was concrete and testable in a way that UFO claims were not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+The public-interest aspect of this argument did not depend on accepting McKinnon as a heroic figure. Citizens, policymakers and security professionals could reasonably ask whether military and government systems were being protected adequately, especially during the period immediately surrounding the September 2001 attacks. The question was concrete and testable in a way that UFO claims were not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 This is one reason the security dimension has remained relevant in cybersecurity discussions long after the UFO allegations faded from mainstream attention.
 
@@ -319,9 +319,9 @@ This is one reason the security dimension has remained relevant in cybersecurity
 
 The evidential standards for the two claims were fundamentally different.
 
-McKinnon's UFO assertions relied largely on his personal recollections of files, images and lists he said he observed while connected to remote systems. The alleged evidence was not preserved in a form that independent investigators could reliably examine years later. Supporters viewed his testimony as credible; sceptics argued that extraordinary claims required documentation that never emerged publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+McKinnon's UFO assertions relied largely on his personal recollections of files, images and lists he said he observed while connected to remote systems. The alleged evidence was not preserved in a form that independent investigators could reliably examine years later. Supporters viewed his testimony as credible; sceptics argued that extraordinary claims required documentation that never emerged publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
-The security claim worked differently. It was not dependent on a single screenshot or memory. Investigators could examine logs, account settings, network configurations, administrative procedures and forensic records. Journalists could interview participants. Courts could evaluate technical evidence. The underlying proposition—that important systems had weak security—was therefore much more susceptible to verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
+The security claim worked differently. It was not dependent on a single screenshot or memory. Investigators could examine logs, account settings, network configurations, administrative procedures and forensic records. Journalists could interview participants. Courts could evaluate technical evidence. The underlying proposition—that important systems had weak security—was therefore much more susceptible to verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
 
 This difference mirrors a broader distinction between whistleblower-style disclosures and speculative investigations. Claims gain credibility when independent parties can test them. Weak password practices are measurable. Hidden alien fleets are much harder to verify.
 
@@ -332,9 +332,9 @@ This difference mirrors a broader distinction between whistleblower-style disclo
 
 The strongest public-interest argument in McKinnon’s favour does not eliminate the risks created by his actions.
 
-Court records and government allegations stated that he obtained administrative privileges, installed remote-access software and altered or deleted files on numerous systems. Authorities alleged that some actions disrupted networks and required significant recovery efforts. Whether one accepts every aspect of the prosecution's account, the case demonstrates why security researchers and unauthorised intruders are treated differently under the law. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+Court records and government allegations stated that he obtained administrative privileges, installed remote-access software and altered or deleted files on numerous systems. Authorities alleged that some actions disrupted networks and required significant recovery efforts. Whether one accepts every aspect of the prosecution's account, the case demonstrates why security researchers and unauthorised intruders are treated differently under the law.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
-A vulnerability can be real while the method used to demonstrate it remains unlawful. Modern cybersecurity practice generally distinguishes between authorised testing, coordinated vulnerability disclosure and unauthorised access. McKinnon’s supporters often focused on the weaknesses he exposed; prosecutors focused on the fact that the exposure came through unauthorised entry into defence systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+A vulnerability can be real while the method used to demonstrate it remains unlawful. Modern cybersecurity practice generally distinguishes between authorised testing, coordinated vulnerability disclosure and unauthorised access. McKinnon’s supporters often focused on the weaknesses he exposed; prosecutors focused on the fact that the exposure came through unauthorised entry into defence systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 That tension explains why the case continues to occupy a grey area in public debate. The security lesson and the legal lesson are not necessarily the same lesson.
 
@@ -344,203 +344,203 @@ That tension explains why the case continues to occupy a grey area in public deb
 
 More than two decades later, the UFO aspects of the story remain disputed and unresolved. The security aspect has proven more durable because it addresses a practical question that governments, organisations and citizens can evaluate directly: were critical systems protected adequately?
 
-McKinnon’s most lasting contribution to public discussion may therefore be indirect. Rather than proving a UFO cover-up, the case highlighted how apparently mundane failures—[weak passwords]({{ 'weak-passwords/' | relative_url }}), poor account management and inadequate oversight—can create vulnerabilities in highly sensitive environments. Contemporary cybersecurity professionals frequently regard those basic failures as among the most dangerous because they are common, preventable and exploitable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
+McKinnon’s most lasting contribution to public discussion may therefore be indirect. Rather than proving a UFO cover-up, the case highlighted how apparently mundane failures—[weak passwords]({{ 'weak-passwords/' | relative_url }}), poor account management and inadequate oversight—can create vulnerabilities in highly sensitive environments. Contemporary cybersecurity professionals frequently regard those basic failures as among the most dangerous because they are common, preventable and exploitable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</span></span></span>
 
-In the comparison between UFO hackers and whistleblowers, this is the point where McKinnon came closest to making a verifiable public-interest claim. The evidence for weak security could be examined independently. The evidence for hidden extraterrestrial programmes could not. That difference largely explains why the security issue remains the most credible and enduring part of the public debate surrounding his case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+In the comparison between UFO hackers and whistleblowers, this is the point where McKinnon came closest to making a verifiable public-interest claim. The evidence for weak security could be examined independently. The evidence for hidden extraterrestrial programmes could not. That difference largely explains why the security issue remains the most credible and enduring part of the public debate surrounding his case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Claim That Was Easier To Test. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Claim That Was Easier To Test. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Focuses on security weaknesses and system access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on security weaknesses and system access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Invisibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o2z_jwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Invisibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Invisibility">The Art of Invisibility</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Invisibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o2z_jwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Invisibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Invisibility">The Art of Invisibility</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Explains security failures and defensive practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains security failures and defensive practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Examines vulnerabilities in government and corporate systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines vulnerabilities in government and corporate systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Provides context for investigating security claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for investigating security claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Invisibility&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Invisibility</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Invisibility&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Invisibility</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/c8903a4e3b4ffb521e35.jpg' | relative_url }}" alt="Listing image for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/c8903a4e3b4ffb521e35.jpg' | relative_url }}" alt="Listing image for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/c0adc25d6a6d2dced1d9.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/c0adc25d6a6d2dced1d9.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie"><img src="{{ '/assets/images/marketplace-covers/43564cbd30a4d2cdfa1b.jpg' | relative_url }}" alt="Listing image for We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie"><img src="{{ '/assets/images/marketplace-covers/43564cbd30a4d2cdfa1b.jpg' | relative_url }}" alt="Listing image for We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/2c7d5d9aa021da4c2f8d.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/2c7d5d9aa021da4c2f8d.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="weak-security-5c4a71-the-claim-that-was-easier-to-test-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ In the comparison between UFO hackers and whistleblowers, this is the point wher
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ In the comparison between UFO hackers and whistleblowers, this is the point wher
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ In the comparison between UFO hackers and whistleblowers, this is the point wher
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ In the comparison between UFO hackers and whistleblowers, this is the point wher
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ In the comparison between UFO hackers and whistleblowers, this is the point wher
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,107 +746,107 @@ In the comparison between UFO hackers and whistleblowers, this is the point wher
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the... poor...</p></details>
    Published: June 21, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — Terrorist or UFO Truth Seeker? U.S. authorities want to try a Briton who hacked into top military sites to see what he cou...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — Terrorist or UFO Truth Seeker? U.S. authorities want to try a Briton who hacked into top military sites to see what he cou...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_[indictment" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_[indictment</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>n unemployed computer system.Read more...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_[indictment" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_[indictment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n unemployed computer system.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnon9 Jul 2005 —... administrator user names that had no passwords. Basically, what... &quot;Maybe I&#x27;d been...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker&#x27;s progress: how McKinnon pierced Pentagon security3 Apr 2007 — With such glaring errors leaving the backdoor wide open to intruder...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker&#x27;s progress: how McKinnon pierced Pentagon security3 Apr 2007 — With such glaring errors leaving the backdoor wide open to intruder...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonThe US government accused McKinnon of hacking into 97 United States military and NASA computers over a 13-month period be...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonThe US government accused McKinnon of hacking into 97 United States military and NASA computers over a 13-month period be...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AmazingFacts051779/posts/the-largest-known-military-hack-in-history/1062577141316209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmazingFacts051779/posts/the-largest-known-military-hack-in-history/1062577141316209/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Largest Known Military Hack in History!Gary McKinnon&#x27;s UFO hacking case and cybersecurity implications. Deep... Bevan claimed they h...</p></details>
+   Link:<a href="https://www.facebook.com/AmazingFacts051779/posts/the-largest-known-military-hack-in-history/1062577141316209/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AmazingFacts051779/posts/the-largest-known-military-hack-in-history/1062577141316209/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Largest Known Military Hack in History!Gary McKinnon&#x27;s UFO hacking case and cybersecurity implications. Deep... Bevan claimed they h...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: instagram.com  
    Title: Once inside, he deleted critical files, shut down  
-   Link: <a href="https://www.instagram.com/p/DLU4vKlI1l4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLU4vKlI1l4/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early 2000s, a British man named Gary McKinnon...He took advantage of weak security systems, often accessing machines with no pas...</p></details>
+   Link:<a href="https://www.instagram.com/p/DLU4vKlI1l4/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DLU4vKlI1l4/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the early 2000s, a British man named Gary McKinnon...He took advantage of weak security systems, often accessing machines with no pas...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: pinsentmasons.com  
    Title: pentagon hacker mckinnon fights extradition  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pentagon hacker&#x27; McKinnon fights extradition28 Jul 2005 — McKinnon allegedly exploited poorly-secured Windows systems to attack networks...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pentagon hacker&#x27; McKinnon fights extradition28 Jul 2005 — McKinnon allegedly exploited poorly-secured Windows systems to attack networks...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: brit hacker loses us extradition appeal  
-   Link: <a href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brit Hacker Loses U.S. Extradition Appeal30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 comput...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brit Hacker Loses U.S. Extradition Appeal30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 comput...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: infosecurity-magazine.com  
-   Link: <a href="https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-denied-appeal-route-to/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-denied-appeal-route-to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>She told the BBC: &quot;To use my desperately vulnerable son in this way is despicable, immoral and devoid of humanity&quot;.Read more...</p></details>
+   Link:<a href="https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-denied-appeal-route-to/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-denied-appeal-route-to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>She told the BBC: &quot;To use my desperately vulnerable son in this way is despicable, immoral and devoid of humanity&quot;.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cybereason.com  
    Title: Malicious Life Podcast: The U.S  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonGary McKinnon had managed to breach not just NASA, but nearly 100 computers from the U.S. Army, Air Force, and Departmen...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonGary McKinnon had managed to breach not just NASA, but nearly 100 computers from the U.S. Army, Air Force, and Departmen...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: en.wikisource.org  
    Title: US v Gary Mc Kinnon Indictment  
-   Link: <a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>v Gary McKinnon Indictment27 Feb 2021 — Then, the defendant obtained administrator privileges on these computers and installed RemotelyAn...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>v Gary McKinnon Indictment27 Feb 2021 — Then, the defendant obtained administrator privileges on these computers and installed RemotelyAn...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: futureintelligence.co.uk  
    Title: Gary Mc Kinnon was unlucky  
-   Link: <a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — “He was asking for passwords to US systems and ways to access them that were common knowled...</p></details>
+   Link:<a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — “He was asking for passwords to US systems and ways to access them that were common knowled...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: verticalvertical.com  
    Title: hacking the pentagon in search of ufos  
-   Link: <a href="https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking the Pentagon in search of UFO&#x27;sIn November 2002, Gary McKinnon was indicted by a federal grand jury in the Eastern District of Vi...</p></details>
+   Link:<a href="https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking the Pentagon in search of UFO&#x27;sIn November 2002, Gary McKinnon was indicted by a federal grand jury in the Eastern District of Vi...</p></details>
    Published: November 2002  

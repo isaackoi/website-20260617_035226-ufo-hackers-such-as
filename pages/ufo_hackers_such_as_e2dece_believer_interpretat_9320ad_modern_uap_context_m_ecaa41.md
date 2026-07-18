@@ -274,7 +274,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_mod
 
 ## Introduction
 
-Official attention to unidentified anomalous phenomena (UAP) after 2021 did not validate Gary McKinnon’s claims, but it did change how some [believers]({{ 'believers/' | relative_url }}) interpreted them. Before the recent wave of congressional hearings, Pentagon investigations and NASA studies, McKinnon was often viewed as a fringe UFO enthusiast who claimed to have stumbled across hidden evidence while accessing US government systems. After UAP became a mainstream policy topic, some supporters began to see his story as an early glimpse into a subject that governments were finally discussing publicly. The key change was not new evidence for McKinnon’s claims; it was a change in the cultural and governmental context in which those claims were evaluated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+Official attention to unidentified anomalous phenomena (UAP) after 2021 did not validate Gary McKinnon’s claims, but it did change how some [believers]({{ 'believers/' | relative_url }}) interpreted them. Before the recent wave of congressional hearings, Pentagon investigations and NASA studies, McKinnon was often viewed as a fringe UFO enthusiast who claimed to have stumbled across hidden evidence while accessing US government systems. After UAP became a mainstream policy topic, some supporters began to see his story as an early glimpse into a subject that governments were finally discussing publicly. The key change was not new evidence for McKinnon’s claims; it was a change in the cultural and governmental context in which those claims were evaluated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-1-dark.svg" | relative_url }}" alt="UAP Context illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,11 +282,11 @@ Official attention to unidentified anomalous phenomena (UAP) after 2021 did not 
 
 ### The shift in public discussion
 
-The 2021 Preliminary Assessment on UAP by the US intelligence community marked a turning point. Rather than dismissing all reports outright, officials acknowledged that some incidents remained unresolved and that stigma had discouraged reporting. The report emphasised data limitations and the need for better collection and analysis rather than offering a definitive explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+The 2021 Preliminary Assessment on UAP by the US intelligence community marked a turning point. Rather than dismissing all reports outright, officials acknowledged that some incidents remained unresolved and that stigma had discouraged reporting. The report emphasised data limitations and the need for better collection and analysis rather than offering a definitive explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-For many believers, this shift mattered because McKinnon’s original motivation had been to search for evidence of UFO-related secrecy within government institutions. When agencies that had historically avoided the subject began discussing UAP openly, some supporters argued that McKinnon no longer looked like someone chasing a completely discredited idea. Instead, they portrayed him as a figure whose interests anticipated a later policy debate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+For many believers, this shift mattered because McKinnon’s original motivation had been to search for evidence of UFO-related secrecy within government institutions. When agencies that had historically avoided the subject began discussing UAP openly, some supporters argued that McKinnon no longer looked like someone chasing a completely discredited idea. Instead, they portrayed him as a figure whose interests anticipated a later policy debate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
-The effect was especially visible in online UFO communities. Discussions increasingly connected McKinnon’s account of a cigar-shaped object and alleged hidden files to modern UAP narratives, sometimes drawing comparisons to later reports of unusual military encounters. In these circles, the fact that governments were dedicating resources to UAP investigations was taken as evidence that the underlying subject deserved attention, even if McKinnon’s specific claims remained unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1rhctqb/he_hacked_nasa_and_saw_a_ufo_gary_mckinnon_didnt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">He Hacked NASA and Saw a UFO: Gary McKinnon didn&#x27;t...February 28, 2026 — He was searching for proof of hidden technology — and wha...</span><span class="citation-popover-meta">Published: February 28, 2026</span></span></span>
+The effect was especially visible in online UFO communities. Discussions increasingly connected McKinnon’s account of a cigar-shaped object and alleged hidden files to modern UAP narratives, sometimes drawing comparisons to later reports of unusual military encounters. In these circles, the fact that governments were dedicating resources to UAP investigations was taken as evidence that the underlying subject deserved attention, even if McKinnon’s specific claims remained unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1rhctqb/he_hacked_nasa_and_saw_a_ufo_gary_mckinnon_didnt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">He Hacked NASA and Saw a UFO: Gary McKinnon didn&#x27;t...February 28, 2026 — He was searching for proof of hidden technology — and wha...</span><span class="citation-popover-meta">Published: February 28, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
@@ -295,13 +295,13 @@ The effect was especially visible in online UFO communities. Discussions increas
 
 A crucial distinction is often lost in popular [retellings]({{ 'retellings/' | relative_url }}). The major post-2021 reports did not confirm hidden extraterrestrial craft, secret [space fleets]({{ 'space-fleet/' | relative_url }}) or the specific materials McKinnon claimed to have encountered.
 
-NASA’s 2023 Independent Study Team report stated that there is no conclusive evidence in the peer-reviewed scientific literature that UAP have an extraterrestrial origin. The report instead focused on improving data collection, reducing stigma and applying scientific methods to [unresolved cases]({{ 'unresolved-cases/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+NASA’s 2023 Independent Study Team report stated that there is no conclusive evidence in the peer-reviewed scientific literature that UAP have an extraterrestrial origin. The report instead focused on improving data collection, reducing stigma and applying scientific methods to [unresolved cases]({{ 'unresolved-cases/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-Similarly, the Pentagon’s All-domain Anomaly Resolution Office (AARO) concluded in its 2024 historical review that it found no evidence that government investigations had confirmed extraterrestrial technology, recovered alien craft or reverse-engineering programmes. AARO also reported that it had not found evidence supporting long-standing claims about hidden government possession of off-world technology. Reuters+3U.S. Department of War+3Wikisource <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discove...</span></span></span>
+Similarly, the Pentagon’s All-domain Anomaly Resolution Office (AARO) concluded in its 2024 historical review that it found no evidence that government investigations had confirmed extraterrestrial technology, recovered alien craft or reverse-engineering programmes. AARO also reported that it had not found evidence supporting long-standing claims about hidden government possession of off-world technology. Reuters+3U.S. Department of War+3Wikisource<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[media.defense.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discove...</span></span></span>
 
-Even when official investigations acknowledged unresolved cases, the emphasis remained on uncertainty rather than confirmation. Some incidents lacked sufficient information for identification, but unresolved status was not treated as evidence of alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
+Even when official investigations acknowledged unresolved cases, the emphasis remained on uncertainty rather than confirmation. Some incidents lacked sufficient information for identification, but unresolved status was not treated as evidence of alien technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</span></span></span>
 
-For believers revisiting McKinnon, the most important takeaway from these reports was often procedural rather than evidential: governments were now treating certain unexplained observations as worthy of investigation. The reports themselves did not authenticate McKinnon’s alleged discoveries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+For believers revisiting McKinnon, the most important takeaway from these reports was often procedural rather than evidential: governments were now treating certain unexplained observations as worthy of investigation. The reports themselves did not authenticate McKinnon’s alleged discoveries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-2-dark.svg" | relative_url }}" alt="UAP Context illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -311,12 +311,12 @@ The strongest believer interpretation is that McKinnon’s story anticipated lat
 
 Several differences remain significant:
 
-* McKinnon described specific alleged discoveries, including a spreadsheet referencing “Non-Terrestrial Officers” and imagery he believed showed a spacecraft. Those materials have never been independently authenticated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
-* Modern [UAP reports]({{ 'uap-report/' | relative_url }}) generally focus on sensor data, pilot observations and intelligence analysis rather than claims of hidden extraterrestrial personnel or [secret fleets]({{ 'secret-fleets/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
-* Official investigations have repeatedly stated that they have not found evidence of recovered alien technology or extraterrestrial programmes within government records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource+2Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — The aggregate findings of all USG investigations to date ha...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
-* The contemporary UAP discussion is largely framed as a national-security and data-quality issue, whereas McKinnon’s account centred on alleged evidence of concealed advanced technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+* McKinnon described specific alleged discoveries, including a spreadsheet referencing “Non-Terrestrial Officers” and imagery he believed showed a spacecraft. Those materials have never been independently authenticated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+* Modern [UAP reports]({{ 'uap-report/' | relative_url }}) generally focus on sensor data, pilot observations and intelligence analysis rather than claims of hidden extraterrestrial personnel or [secret fleets]({{ 'secret-fleets/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+* Official investigations have repeatedly stated that they have not found evidence of recovered alien technology or extraterrestrial programmes within government records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — The aggregate findings of all USG investigations to date ha...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* The contemporary UAP discussion is largely framed as a national-security and data-quality issue, whereas McKinnon’s account centred on alleged evidence of concealed advanced technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-This creates a nuanced outcome. Later UAP reporting made McKinnon appear less isolated from mainstream discussion because governments themselves began investigating unexplained aerial reports. Yet the same official reviews that legitimised investigation also produced findings that did not support the extraordinary conclusions many supporters associate with his story. NASA Science+2U.S. Department of War <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+This creates a nuanced outcome. Later UAP reporting made McKinnon appear less isolated from mainstream discussion because governments themselves began investigating unexplained aerial reports. Yet the same official reviews that legitimised investigation also produced findings that did not support the extraordinary conclusions many supporters associate with his story. NASA Science+2U.S. Department of War<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -326,202 +326,202 @@ This creates a nuanced outcome. Later UAP reporting made McKinnon appear less is
 
 ## Why the Debate Persists
 
-The continuing appeal of McKinnon’s account lies partly in a gap between two questions that official reports have treated differently. One question asks whether some aerial observations remain unexplained. Recent UAP reports acknowledge that some do. The second asks whether governments possess evidence of extraterrestrial craft or hidden non-human technology. Recent official reviews have not found evidence for that claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
+The continuing appeal of McKinnon’s account lies partly in a gap between two questions that official reports have treated differently. One question asks whether some aerial observations remain unexplained. Recent UAP reports acknowledge that some do. The second asks whether governments possess evidence of extraterrestrial craft or hidden non-human technology. Recent official reviews have not found evidence for that claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</span></span></span>
 
-Because modern UAP investigations opened space for discussing uncertainty, believers often view McKinnon through a more sympathetic lens than they did a decade earlier. However, the post-2021 record has reshaped perceptions more than it has strengthened proof. It changed the atmosphere around the story, not the evidential status of the claims themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
+Because modern UAP investigations opened space for discussing uncertainty, believers often view McKinnon through a more sympathetic lens than they did a decade earlier. However, the post-2021 record has reshaped perceptions more than it has strengthened proof. It changed the atmosphere around the story, not the evidential status of the claims themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-3-dark.svg" | relative_url }}" alt="UAP Context illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_believer_interpretat_9320ad_modern_uap_context_m_ecaa41-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Later UAP Reports Change the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Later UAP Reports Change the Story?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly connects government attention, serious witnesses, and changing public treatment of UFO/UAP claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly connects government attention, serious witnesses, and changing public treatment of UFO/UAP claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Shows how technological and institutional narratives reshape UFO belief over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how technological and institutional narratives reshape UFO belief over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Fits the page&#x27;s question about how later UAP reporting changed interpretation of older stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Fits the page&#x27;s question about how later UAP reporting changed interpretation of older stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Balances the believer interpretation with tools for evaluating extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Balances the believer interpretation with tools for evaluating extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="uap-context-did-later-uap-reports-change-the-story-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ Because modern UAP investigations opened space for discussing uncertainty, belie
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ Because modern UAP investigations opened space for discussing uncertainty, belie
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ Because modern UAP investigations opened space for discussing uncertainty, belie
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ Because modern UAP investigations opened space for discussing uncertainty, belie
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ Because modern UAP investigations opened space for discussing uncertainty, belie
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,220 +727,220 @@ Because modern UAP investigations opened space for discussing uncertainty, belie
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</p></details>
    Published: June 21, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportTo date, in the peer-reviewed scientific literature, there is no conclusive evidence suggesting...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
+   Link:<a href="https://arxiv.org/abs/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.15368</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1rhctqb/he_hacked_nasa_and_saw_a_ufo_gary_mckinnon_didnt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rhctqb/he_hacked_nasa_and_saw_a_ufo_gary_mckinnon_didnt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He Hacked NASA and Saw a UFO: Gary McKinnon didn&#x27;t...February 28, 2026 — He was searching for proof of [hidden technology](&amp;#123;&amp;#123; &#x27;hidden-tech/&#x27; | relative_url &amp;#125;&amp;#125;) — and wha...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1rhctqb/he_hacked_nasa_and_saw_a_ufo_gary_mckinnon_didnt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rhctqb/he_hacked_nasa_and_saw_a_ufo_gary_mckinnon_didnt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He Hacked NASA and Saw a UFO: Gary McKinnon didn&#x27;t...February 28, 2026 — He was searching for proof of [hidden technology](&amp;#123;&amp;#123; &#x27;hidden-tech/&#x27; | relative_url &amp;#125;&amp;#125;) — and wha...</p></details>
    Published: February 28, 2026  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv The New Science of Unidentified Aerospace-Undersea Phenomena (UAP)  
-   Link: <a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
+   Link:<a href="https://arxiv.org/abs/2502.06794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2502.06794</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final r...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final r...</p></details>
    Published: September 14, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — The aggregate findings of all USG investigations to date ha...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — The aggregate findings of all USG investigations to date ha...</p></details>
    Published: May 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: axios.com  
    Title: us ufo pentagon report extraterrestrial review  
-   Link: <a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyA recent unclassified report from the U.S. Department...</p></details>
+   Link:<a href="https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2024/03/08/us-ufo-pentagon-report-extraterrestrial-review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>investigation finds no evidence of confirmed extraterrestrial activity or technologyA recent unclassified report from the U.S. Department...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeHas the Department found any evidence of extraterrestrial technology? No. Examination of UAP sightings is ongoing. AARO uses...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThis unresolved report contributes to AARO&#x27;s historical and locational trend analyses. PR-017, Unresolved UAP Report, Europe 2...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — NASA&#x27;s UFO study team released its long-awaited first report tod...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO office finds &#x27;no empirical evidence&#x27; for alien...8 Mar 2024 — The Pentagon&#x27;s UFO office has once again stressed that it has...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 —... no evidence that UAPs are extraterrestrial. However... Are there any data supporting the idea that UAP are evidence of...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 —... no evidence that UAPs are extraterrestrial. However... Are there any data supporting the idea that UAP are evidence of...</p></details>
    Published: May 2026  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — AARO recognizes the importance of NARA in supporting AARO&#x27;s mission to review and document historical UA...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: en.wikisource.org  
    Title: companies ever possessed off-world technology  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technol...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/84 May 2024 — Named Companies Allegedly Experimenting on Alien Technol...</p></details>
    Published: May 2024  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/164 May 2024 — No evidence of extraterrestrial origin of UFO/UAP were...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/16</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/164 May 2024 — No evidence of extraterrestrial origin of UFO/UAP were...</p></details>
    Published: May 2024  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: en.wikisource.org  
    Title: AARO Investigating Unresolved Historical Nuclear-Related UAP Cases.Read more  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Extraterrestrial Disclosure Study Confirmed; Not White H...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdf11 May 2024 — Extraterrestrial Disclosure Study Confirmed; Not White H...</p></details>
    Published: May 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1fwqt3k/this_dude_hacked_nasa_and_breached_their_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1fwqt3k/this_dude_hacked_nasa_and_breached_their_system/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ers will almost always be one step ahead of cybersecurity...</p></details>
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/1fwqt3k/this_dude_hacked_nasa_and_breached_their_system/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1fwqt3k/this_dude_hacked_nasa_and_breached_their_system/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ers will almost always be one step ahead of cybersecurity...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2024. While many were disappointed that this report did not cover the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2024. While many were disappointed that this report did not cover the...</p></details>
    Published: March 6, 2024  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...So, if NASA finds evidence of aliens, they&#x27;ll report it to public?... r/space - NASA pan...</p></details>
+   Link:<a href="https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...So, if NASA finds evidence of aliens, they&#x27;ll report it to public?... r/space - NASA pan...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Known science has more miracles than your wildest UFO aliens. Why not wonder at these tru...</p></details>
+   Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Known science has more miracles than your wildest UFO aliens. Why not wonder at these tru...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — This report covers UAP from May 1, 2023, to June 1, 2024, and all UAP reports from any previous time periods that were not...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2024 — This report covers UAP from May 1, 2023, to June 1, 2024, and all UAP reports from any previous time periods that were not...</p></details>
    Published: May 1, 2023  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP sighting has repre...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial...8 Mar 2024 — &quot;AARO has found no verifiable evidence that any UAP sighting has repre...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Social science approaches...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2403.15368" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2403.15368</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Social science approaches...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discove...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • No evidence of extraterrestrial origin of UFO/UAP were discove...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
+   Link:<a href="https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/rapplerdotcom/posts/the-nasa-independent-study-team-did-not-find-any-evidence-that-uap-have-an-extra/774264108068993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/the-nasa-independent-study-team-did-not-find-any-evidence-that-uap-have-an-extra/774264108068993/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The NASA independent study team did not find any...NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings &quot;Bu...</p></details>
+   Link:<a href="https://www.facebook.com/rapplerdotcom/posts/the-nasa-independent-study-team-did-not-find-any-evidence-that-uap-have-an-extra/774264108068993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/the-nasa-independent-study-team-did-not-find-any-evidence-that-uap-have-an-extra/774264108068993/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The NASA independent study team did not find any...NASA UFO report finds no evidence of &#x27;extraterrestrial origin&#x27; for UAP sightings &quot;Bu...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DVWn6mCD6yh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVWn6mCD6yh/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, the man behind the most sensitive and...This corroborates the testimony of former NASA employee Donna Hare who claimed sh...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DVWn6mCD6yh/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DVWn6mCD6yh/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, the man behind the most sensitive and...This corroborates the testimony of former NASA employee Donna Hare who claimed sh...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/850701757931470/posts/931729456495366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/850701757931470/posts/931729456495366/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker discovers UFO images in US government networksHacker broke into the most secured government computer networks on the planet and wh...</p></details>
+   Link:<a href="https://www.facebook.com/groups/850701757931470/posts/931729456495366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/850701757931470/posts/931729456495366/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker discovers UFO images in US government networksHacker broke into the most secured government computer networks on the planet and wh...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted [interviews](&amp;#123;&amp;#123; &#x27;interviews/&#x27; | relative_url &amp;#125;&amp;#125;) with of...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted [interviews](&amp;#123;&amp;#123; &#x27;interviews/&#x27; | relative_url &amp;#125;&amp;#125;) with of...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TQcqOW39ksk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: fox13news.com  
    Title: pentagon no evidence extraterrestrial technology beings activity  
-   Link: <a href="https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of extraterrestrial tec...</p></details>
+   Link:<a href="https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity" target="_blank" rel="noopener noreferrer nofollow">https://www.fox13news.com/news/pentagon-no-evidence-extraterrestrial-technology-beings-activity</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of...16 Nov 2024 — Pentagon says there&#x27;s &#x27;no verifiable evidence&#x27; of extraterrestrial tec...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Other UAP skeptics say that some combination of government disinformation an...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Other UAP skeptics say that some combination of government disinformation an...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theelectricgf.com  
    Title: pentagon report finds no evidence of extraterrestrial activity  
-   Link: <a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>
+   Link:<a href="https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/" target="_blank" rel="noopener noreferrer nofollow">https://theelectricgf.com/2024/03/13/pentagon-report-finds-no-evidence-of-extraterrestrial-activity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2024 — “AARO has found no verifiable evidence that any UAP sighting has represented extraterrestrial activity,” AARO acting Direct...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Mar 2024 — According to the report, there is no evidence of extraterrestrial activity or efforts by the department to withhold and har...</p></details>

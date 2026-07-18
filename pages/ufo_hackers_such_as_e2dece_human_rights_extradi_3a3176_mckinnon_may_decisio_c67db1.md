@@ -275,17 +275,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mck
 
 ## Introduction
 
-Gary McKinnon’s case became the defining British example of [human-rights]({{ 'human-rights/' | relative_url }}) arguments interrupting a cyber extradition request not because the courts suddenly changed their view of the allegations against him, but because the final decision rested with the Home Secretary. After years of unsuccessful legal challenges, Home Secretary Theresa May concluded in October 2012 that extraditing McKinnon to the United States would create such a severe risk of suicide that removal would be incompatible with his human rights. She therefore withdrew the extradition order. The decision did not declare McKinnon innocent, reject American jurisdiction, or endorse his UFO-related claims. Instead, it illustrated how ministerial discretion could operate at the final stage of an extradition case when new assessment of human-rights risks was considered compelling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
+Gary McKinnon’s case became the defining British example of [human-rights]({{ 'human-rights/' | relative_url }}) arguments interrupting a cyber extradition request not because the courts suddenly changed their view of the allegations against him, but because the final decision rested with the Home Secretary. After years of unsuccessful legal challenges, Home Secretary Theresa May concluded in October 2012 that extraditing McKinnon to the United States would create such a severe risk of suicide that removal would be incompatible with his human rights. She therefore withdrew the extradition order. The decision did not declare McKinnon innocent, reject American jurisdiction, or endorse his UFO-related claims. Instead, it illustrated how ministerial discretion could operate at the final stage of an extradition case when new assessment of human-rights risks was considered compelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-1-dark.svg" | relative_url }}" alt="May Decision illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What changed with the 2012 decision?
 
-By 2012, McKinnon had already spent years fighting extradition through the courts. Earlier proceedings had not prevented his transfer to the United States, despite arguments about his Asperger syndrome, depression, and vulnerability. The legal landscape changed not because the alleged hacking conduct was reassessed, but because the Home Secretary undertook a fresh review of the medical evidence available to her. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
+By 2012, McKinnon had already spent years fighting extradition through the courts. Earlier proceedings had not prevented his transfer to the United States, despite arguments about his Asperger syndrome, depression, and vulnerability. The legal landscape changed not because the alleged hacking conduct was reassessed, but because the Home Secretary undertook a fresh review of the medical evidence available to her.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
 
-In her statement to Parliament, Theresa May emphasised that McKinnon was accused of serious offences and that the United States was entitled to seek extradition. However, she concluded that the medical evidence showed an exceptionally high risk that he would end his own life if extradited. On that basis, she determined that ordering removal would breach his human rights and withdrew the extradition order. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his...</span></span></span>
+In her statement to Parliament, Theresa May emphasised that McKinnon was accused of serious offences and that the United States was entitled to seek extradition. However, she concluded that the medical evidence showed an exceptionally high risk that he would end his own life if extradited. On that basis, she determined that ordering removal would breach his human rights and withdrew the extradition order.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his...</span></span></span>
 
-The significance of the decision lay in its narrowness. May did not overturn the allegations, criticise the extradition treaty, or announce a broad policy protecting computer hackers. The decision was framed as a case-specific assessment of a vulnerable individual facing a grave and foreseeable risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
+The significance of the decision lay in its narrowness. May did not overturn the allegations, criticise the extradition treaty, or announce a broad policy protecting computer hackers. The decision was framed as a case-specific assessment of a vulnerable individual facing a grave and foreseeable risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/viLcoe_xPMU" title="Gary McKinnon will not face prosecution in the UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=viLcoe_xPMU" target="_blank" rel="noopener noreferrer">Gary McKinnon will not face prosecution in the UK</a></p><p class="youtube-embed-meta">Channel: ITV News &middot; Views: 32.9K &middot; Uploaded: December 2012 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=viLcoe_xPMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=viLcoe_xPMU">Open on YouTube</a></p></div></div></div>
@@ -294,11 +294,11 @@ The significance of the decision lay in its narrowness. May did not overturn the
 
 The McKinnon case highlighted a feature of the UK extradition system that often received less public attention than the court battles: in certain categories of extradition cases, the Home Secretary still had a formal role after the courts had completed their work.
 
-That role was not an unrestricted political veto. The Home Secretary was expected to apply statutory and human-rights standards rather than personal preference. In McKinnon’s case, May repeatedly presented the decision as a legal judgment grounded in medical evidence and Convention rights, not as a diplomatic or political choice. Parliamentary debate following the announcement reflected the same understanding: the key question was whether extradition would breach McKinnon’s human rights, not whether the allegations were serious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
+That role was not an unrestricted political veto. The Home Secretary was expected to apply statutory and human-rights standards rather than personal preference. In McKinnon’s case, May repeatedly presented the decision as a legal judgment grounded in medical evidence and Convention rights, not as a diplomatic or political choice. Parliamentary debate following the announcement reflected the same understanding: the key question was whether extradition would breach McKinnon’s human rights, not whether the allegations were serious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
 
-What made the case unusual was that the ministerial stage ultimately produced a different outcome from years of litigation. Critics argued that this appeared inconsistent with earlier judicial findings. Supporters responded that the Home Secretary had commissioned and considered additional expert evidence and was exercising a responsibility specifically entrusted to her office. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
+What made the case unusual was that the ministerial stage ultimately produced a different outcome from years of litigation. Critics argued that this appeared inconsistent with earlier judicial findings. Supporters responded that the Home Secretary had commissioned and considered additional expert evidence and was exercising a responsibility specifically entrusted to her office.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
 
-The result demonstrated that ministerial discretion in extradition was not merely ceremonial. Although constrained by law, it could be decisive when a minister concluded that extradition would violate fundamental rights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
+The result demonstrated that ministerial discretion in extradition was not merely ceremonial. Although constrained by law, it could be decisive when a minister concluded that extradition would violate fundamental rights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-2-dark.svg" | relative_url }}" alt="May Decision illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -306,226 +306,226 @@ The result demonstrated that ministerial discretion in extradition was not merel
 
 The central human-rights issue was not the fairness of an American trial in the abstract. Instead, it was the anticipated impact of extradition on McKinnon personally.
 
-May's statement focused on the risk that extradition and its consequences would trigger suicide. The Home Secretary concluded that the danger was sufficiently severe that proceeding with removal would be incompatible with McKinnon’s human rights. This moved the debate away from broader criticisms of the UK-US extradition relationship and toward a highly individualised assessment of medical vulnerability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
+May's statement focused on the risk that extradition and its consequences would trigger suicide. The Home Secretary concluded that the danger was sufficiently severe that proceeding with removal would be incompatible with McKinnon’s human rights. This moved the debate away from broader criticisms of the UK-US extradition relationship and toward a highly individualised assessment of medical vulnerability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
 
-The decision therefore became an important reference point in later cybercrime extradition disputes involving defendants with autism-spectrum conditions, depression, or other serious mental-health concerns. Subsequent cases frequently invoked McKinnon as an example of how health-related human-rights arguments could affect extradition outcomes, though courts consistently treated such claims as requiring strong evidence rather than automatic protection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutism spectrum disorder and suitability for extradition</span><span class="citation-popover-snippet">by I Freckelton · 2020 · Cited by 8 — The effects of the extradition bar and the legal sequelae of the previous judicial decisions in...</span></span></span>
+The decision therefore became an important reference point in later cybercrime extradition disputes involving defendants with autism-spectrum conditions, depression, or other serious mental-health concerns. Subsequent cases frequently invoked McKinnon as an example of how health-related human-rights arguments could affect extradition outcomes, though courts consistently treated such claims as requiring strong evidence rather than automatic protection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutism spectrum disorder and suitability for extradition</span><span class="citation-popover-snippet">by I Freckelton · 2020 · Cited by 8 — The effects of the extradition bar and the legal sequelae of the previous judicial decisions in...</span></span></span>
 
-A common misunderstanding is that the decision created a broad exemption for vulnerable hackers. In reality, the reasoning was tied to the specific medical findings before the Home Secretary. The threshold remained high, and the decision was justified as an exceptional response to an exceptional risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
+A common misunderstanding is that the decision created a broad exemption for vulnerable hackers. In reality, the reasoning was tied to the specific medical findings before the Home Secretary. The threshold remained high, and the decision was justified as an exceptional response to an exceptional risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
 
 ## What the UK prosecution question left open
 
-When May blocked extradition, she did not end the possibility of criminal proceedings. Instead, she stated that it would be for the Director of Public Prosecutions to decide whether McKinnon should face charges in the United Kingdom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
+When May blocked extradition, she did not end the possibility of criminal proceedings. Instead, she stated that it would be for the Director of Public Prosecutions to decide whether McKinnon should face charges in the United Kingdom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
 
-This distinction mattered. The Home Secretary’s decision addressed where McKinnon could be sent, not whether the allegations should be tested in court. The possibility of a domestic prosecution was therefore left open as a way of balancing accountability with the human-rights concerns that prevented extradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his...</span></span></span>
+This distinction mattered. The Home Secretary’s decision addressed where McKinnon could be sent, not whether the allegations should be tested in court. The possibility of a domestic prosecution was therefore left open as a way of balancing accountability with the human-rights concerns that prevented extradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his...</span></span></span>
 
-Two months later, British authorities announced that McKinnon would not face prosecution in the UK. Reports indicated that prosecutors and police considered the prospects of a successful domestic case poor and identified practical difficulties relating to evidence and witnesses. As a result, neither extradition nor a UK trial ultimately occurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
+Two months later, British authorities announced that McKinnon would not face prosecution in the UK. Reports indicated that prosecutors and police considered the prospects of a successful domestic case poor and identified practical difficulties relating to evidence and witnesses. As a result, neither extradition nor a UK trial ultimately occurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
 
-That outcome fuelled debate about whether justice had been fully served, but it also underscored the limited scope of the Home Secretary’s intervention. May resolved the extradition question; she did not determine whether prosecutors should bring charges. Those remained separate decisions made by separate institutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
+That outcome fuelled debate about whether justice had been fully served, but it also underscored the limited scope of the Home Secretary’s intervention. May resolved the extradition question; she did not determine whether prosecutors should bring charges. Those remained separate decisions made by separate institutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-3-dark.svg" | relative_url }}" alt="May Decision illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176_mckinnon_may_decisio_c67db1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the decision remains important
 
-Within the history of cyber extradition disputes, the McKinnon decision remains significant because it showed that human-rights protections could prevail even after lengthy litigation and strong international pressure for prosecution. It also demonstrated that Home Secretary discretion, though constrained by law, could have real consequences when a minister concluded that extradition would create an intolerable risk to life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
+Within the history of cyber extradition disputes, the McKinnon decision remains significant because it showed that human-rights protections could prevail even after lengthy litigation and strong international pressure for prosecution. It also demonstrated that Home Secretary discretion, though constrained by law, could have real consequences when a minister concluded that extradition would create an intolerable risk to life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
 
-The case became a reference point for later debates involving alleged hackers such as [Lauri Love]({{ 'lauri-love/' | relative_url }}) and others who argued that mental-health conditions, autism-spectrum diagnoses, and suicide risk should be considered when extradition is sought. Whether one views the outcome as a necessary protection of human rights or a controversial interruption of prosecution, the 2012 decision remains the clearest example of a British Home Secretary using legal discretion to halt a high-profile cyber extradition on human-rights grounds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Love, accused of hacking US government bodies and facing up to 99 years in prison and significant fines, suffers from Asperger&#x27;s Syndrome...</span></span></span>
+The case became a reference point for later debates involving alleged hackers such as [Lauri Love]({{ 'lauri-love/' | relative_url }}) and others who argued that mental-health conditions, autism-spectrum diagnoses, and suicide risk should be considered when extradition is sought. Whether one views the outcome as a necessary protection of human rights or a controversial interruption of prosecution, the 2012 decision remains the clearest example of a British Home Secretary using legal discretion to halt a high-profile cyber extradition on human-rights grounds.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Love, accused of hacking US government bodies and facing up to 99 years in prison and significant fines, suffers from Asperger&#x27;s Syndrome...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v4Js8DF80HY" title="UK hacker&#x27;s extradition to US blocked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v4Js8DF80HY" target="_blank" rel="noopener noreferrer">UK hacker&#x27;s extradition to US blocked</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 3.2K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v4Js8DF80HY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v4Js8DF80HY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Theresa May stopped Mc Kinnon&#x27;s extradition. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Theresa May stopped Mc Kinnon&#x27;s extradition. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saving Gary McKinnon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4u1AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Saving Gary McKinnon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saving Gary McKinnon">Saving Gary McKinnon</a>
-        </h4>
-        <p class="fr-book-author">By Janis Sharp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saving Gary McKinnon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4u1AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Saving Gary McKinnon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saving Gary McKinnon">Saving Gary McKinnon</a>
+</h4>
+<p class="fr-book-author">By Janis Sharp</p>
         
-        <p class="fr-book-desc">Shows how suicide-risk evidence became central to an extradition decision.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how suicide-risk evidence became central to an extradition decision.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+by+Bessel+A.+Van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Body Keeps the Score on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vHnZCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Body Keeps the Score" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+by+Bessel+A.+Van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Body Keeps the Score">The Body Keeps the Score</a>
-        </h4>
-        <p class="fr-book-author">By Bessel A. Van der Kolk</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+by+Bessel+A.+Van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Body Keeps the Score on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vHnZCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Body Keeps the Score" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+by+Bessel+A.+Van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Body Keeps the Score">The Body Keeps the Score</a>
+</h4>
+<p class="fr-book-author">By Bessel A. Van der Kolk</p>
         
-        <p class="fr-book-desc">Provides accessible background on severe psychological stress and vulnerability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+by+Bessel+A.+Van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible background on severe psychological stress and vulnerability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+by+Bessel+A.+Van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snowden Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=po-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snowden Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snowden Files">The Snowden Files</a>
-        </h4>
-        <p class="fr-book-author">By Luke Harding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snowden Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=po-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snowden Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snowden Files">The Snowden Files</a>
+</h4>
+<p class="fr-book-author">By Luke Harding</p>
         
-        <p class="fr-book-desc">Connects hacking, international legal pressure, and human-rights concerns in a readable way.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects hacking, international legal pressure, and human-rights concerns in a readable way.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Rights+Law+by+Merris+Amos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Rights Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ks2dBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human Rights Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Rights+Law+by+Merris+Amos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Rights Law">Human Rights Law</a>
-        </h4>
-        <p class="fr-book-author">By Merris Amos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Rights+Law+by+Merris+Amos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Rights Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ks2dBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human Rights Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Rights+Law+by+Merris+Amos&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Rights Law">Human Rights Law</a>
+</h4>
+<p class="fr-book-author">By Merris Amos</p>
         
-        <p class="fr-book-desc">Directly covers ECHR rights, including Article 3, and UK human-rights law.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Rights+Law+by+Merris+Amos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers ECHR rights, including Article 3, and UK human-rights law.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Rights+Law+by+Merris+Amos&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saving Gary McKinnon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Body Keeps the Score</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snowden+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snowden Files</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saving Gary McKinnon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Body Keeps the Score</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snowden+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snowden Files</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="{{ '/assets/images/marketplace-covers/62f2803d2cf6be9d80a3.jpg' | relative_url }}" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="{{ '/assets/images/marketplace-covers/62f2803d2cf6be9d80a3.jpg' | relative_url }}" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team"><img src="{{ '/assets/images/marketplace-covers/17d6a0be2ac4f9bfeff0.jpg' | relative_url }}" alt="Listing image for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team"><img src="{{ '/assets/images/marketplace-covers/17d6a0be2ac4f9bfeff0.jpg' | relative_url }}" alt="Listing image for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security"><img src="{{ '/assets/images/marketplace-covers/7759b108d0dc1cbdadcc.jpg' | relative_url }}" alt="Listing image for Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security"><img src="{{ '/assets/images/marketplace-covers/7759b108d0dc1cbdadcc.jpg' | relative_url }}" alt="Listing image for Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Department Of Energy Cybersecurity Challenge Coin Leadership CISO Chief Security</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="may-decision-e19a30-why-theresa-may-stopped-mc-kinnon-s-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -541,7 +541,7 @@ The case became a reference point for later debates involving alleged hackers su
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -561,7 +561,7 @@ The case became a reference point for later debates involving alleged hackers su
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -593,7 +593,7 @@ The case became a reference point for later debates involving alleged hackers su
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -645,7 +645,7 @@ The case became a reference point for later debates involving alleged hackers su
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -690,7 +690,7 @@ The case became a reference point for later debates involving alleged hackers su
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -731,249 +731,249 @@ The case became a reference point for later debates involving alleged hackers su
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Extradition  
-   Link: <a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have therefore withdrawn the extradition order against Mr McKinnon...</p></details>
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have therefore withdrawn the extradition order against Mr McKinnon...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Extradition  
-   Link: <a href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extradition - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012... Gary...</p></details>
    Published: October 2012  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Commons Chamber  
-   Link: <a href="https://hansard.parliament.uk/Commons/2012-10-16/debates/9d1d96d7-c03f-4ba1-b1ca-35b28e84da42/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2012-10-16/debates/9d1d96d7-c03f-4ba1-b1ca-35b28e84da42/CommonsChamber</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chamber - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon&#x27;s extradition to the United States would breach his human rights. Mr McKinnon...</p></details>
+   Link:<a href="https://hansard.parliament.uk/Commons/2012-10-16/debates/9d1d96d7-c03f-4ba1-b1ca-35b28e84da42/CommonsChamber" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2012-10-16/debates/9d1d96d7-c03f-4ba1-b1ca-35b28e84da42/CommonsChamber</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chamber - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon&#x27;s extradition to the United States would breach his human rights. Mr McKinnon...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAutism spectrum disorder and suitability for extradition  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Freckelton · 2020 · Cited by 8 — The effects of the extradition bar and the legal sequelae of the previous judicial decisions in...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by I Freckelton · 2020 · Cited by 8 — The effects of the extradition bar and the legal sequelae of the previous judicial decisions in...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Love, accused of hacking US government bodies and facing up to 99 years in prison and significant fines, suffers from Asperger&#x27;s Syndrome...</p></details>
+   Link:<a href="https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Love, accused of hacking US government bodies and facing up to 99 years in prison and significant fines, suffers from Asperger&#x27;s Syndrome...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/amber-rudd-orders-the-extradition-of-hacker-lauri-love" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/amber-rudd-orders-the-extradition-of-hacker-lauri-love</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government agencies like NASA, the FBI, and the Federal Reserve, causing millions of dollars in damages. If convicted, Love could face up...</p></details>
+   Link:<a href="https://www.wired.com/story/amber-rudd-orders-the-extradition-of-hacker-lauri-love" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/amber-rudd-orders-the-extradition-of-hacker-lauri-love</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government agencies like NASA, the FBI, and the Federal Reserve, causing millions of dollars in damages. If convicted, Love could face up...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: parliament.uk  
-   Link: <a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on Gary McKinnonSecretary of State for the Home Department, Theresa May made a statement in the House of Commons on Tuesday 16...</p></details>
+   Link:<a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on Gary McKinnonSecretary of State for the Home Department, Theresa May made a statement in the House of Commons on Tuesday 16...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/53322/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/53322/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukEXL0062 - Evidence on Extradition LawHome Secretary Teresa May blocked the extradition of Gary McKinnon suffers from Asperge...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/53322/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/53322/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukEXL0062 - Evidence on Extradition LawHome Secretary Teresa May blocked the extradition of Gary McKinnon suffers from Asperge...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201213/cmhansrd/cm121016/debtext/121016-0001.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmhansrd/cm121016/debtext/121016-0001.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US was perfectly within its rights and it was reasonable for it to seek his extradition...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm201213/cmhansrd/cm121016/debtext/121016-0001.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmhansrd/cm121016/debtext/121016-0001.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US was perfectly within its rights and it was reasonable for it to seek his extradition...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: uk Anti-Social Behaviour, Crime and Policing Bill  
-   Link: <a href="https://hansard.parliament.uk/commons/2013-06-10/debates/13061035000001/Anti-SocialBehaviourCrimeAndPolicingBill" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2013-06-10/debates/13061035000001/Anti-SocialBehaviourCrimeAndPolicingBill</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukAnti-Social Behaviour, Crime and Policing Bill - Hansard10 Jun 2013 — we need to see the deportation and extradition of fore...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2013-06-10/debates/13061035000001/Anti-SocialBehaviourCrimeAndPolicingBill" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2013-06-10/debates/13061035000001/Anti-SocialBehaviourCrimeAndPolicingBill</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukAnti-Social Behaviour, Crime and Policing Bill - Hansard10 Jun 2013 — we need to see the deportation and extradition of fore...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hansard.parliament.uk  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The Americans will decide, but the decision of the public prosecutors in thi...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The Americans will decide, but the decision of the public prosecutors in thi...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201213/cmhansrd/chan49.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmhansrd/chan49.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEBATES16 Oct 2012 — Home Secretary on her decision on Gary McKinnon in and positive response to extradition matters to delay the rise fu...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm201213/cmhansrd/chan49.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmhansrd/chan49.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEBATES16 Oct 2012 — Home Secretary on her decision on Gary McKinnon in and positive response to extradition matters to delay the rise fu...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hansard.parliament.uk  
    Title: 2014JHAOpt OutDecision  
-   Link: <a href="https://hansard.parliament.uk/commons/2013-07-15/debates/13071511000001/2014JHAOpt-OutDecision" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2013-07-15/debates/13071511000001/2014JHAOpt-OutDecision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.uk2014 JHA Opt-out Decision - Hansard - UK Parliament15 Jul 2013 — last year I stopped the extradition of Gary McKinnon and th...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2013-07-15/debates/13071511000001/2014JHAOpt-OutDecision" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2013-07-15/debates/13071511000001/2014JHAOpt-OutDecision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.uk2014 JHA Opt-out Decision - Hansard - UK Parliament15 Jul 2013 — last year I stopped the extradition of Gary McKinnon and th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hansard.parliament.uk  
    Title: uk Oral Answers to Questions  
-   Link: <a href="https://hansard.parliament.uk/commons/2016-10-12/debates/9D603E78-5493-424C-99D9-17613E0C4EB8/OralAnswersToQuestions" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2016-10-12/debates/9D603E78-5493-424C-99D9-17613E0C4EB8/OralAnswersToQuestions</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Answers to Questions - Hansard - UK Parliament12 Oct 2016 —) The Prime Minister (Mrs Theresa May) Gary McKinnon, Home Secretary to decid...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2016-10-12/debates/9D603E78-5493-424C-99D9-17613E0C4EB8/OralAnswersToQuestions" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2016-10-12/debates/9D603E78-5493-424C-99D9-17613E0C4EB8/OralAnswersToQuestions</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Answers to Questions - Hansard - UK Parliament12 Oct 2016 —) The Prime Minister (Mrs Theresa May) Gary McKinnon, Home Secretary to decid...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201415/cmhansrd/cm141110/debtext/141110-0002.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201415/cmhansrd/cm141110/debtext/141110-0002.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Commons Hansard Debates for 10 Nov 2014 (pt...Members that I am the Home Secretary who blocked the extradition of Gary McKinnon to th...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm201415/cmhansrd/cm141110/debtext/141110-0002.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201415/cmhansrd/cm141110/debtext/141110-0002.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Commons Hansard Debates for 10 Nov 2014 (pt...Members that I am the Home Secretary who blocked the extradition of Gary McKinnon to th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hansard.parliament.uk  
    Title: uk Lords Chamber  
-   Link: <a href="https://hansard.parliament.uk/html/lords/2012-10-16/LordsChamber" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/lords/2012-10-16/LordsChamber</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chamber - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Lords Chamber&#x27; on Tuesday 16 October 2012... Gary McKinnon&#x27;...</p></details>
+   Link:<a href="https://hansard.parliament.uk/html/lords/2012-10-16/LordsChamber" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/html/lords/2012-10-16/LordsChamber</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chamber - Hansard - UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Lords Chamber&#x27; on Tuesday 16 October 2012... Gary McKinnon&#x27;...</p></details>
    Published: October 2012  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hansard.parliament.uk  
    Title: uk Criminal Law  
-   Link: <a href="https://hansard.parliament.uk/commons/2014-11-10/debates/14111019000001/CriminalLaw" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2014-11-10/debates/14111019000001/CriminalLaw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Law - Hansard - UK Parliament10 Nov 2014 — I remind hon. Members that I am the Home Secretary who blocked the extradition of Gary McKinno...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2014-11-10/debates/14111019000001/CriminalLaw" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2014-11-10/debates/14111019000001/CriminalLaw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Law - Hansard - UK Parliament10 Nov 2014 — I remind hon. Members that I am the Home Secretary who blocked the extradition of Gary McKinno...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: assets.publishing.service.gov.uk  
    Title: public views 3  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Views27 Jan 2011 — A certain Gary McKinnon should not be extradited. He has committed no crime. He has caused no harm or loss to anybody...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Views27 Jan 2011 — A certain Gary McKinnon should not be extradited. He has committed no crime. He has caused no harm or loss to anybody...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon: Theresa May had no choice but to use...&quot;I have concluded that the ordering of his extradition and his subsequ...</p></details>
+   Link:<a href="https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon: Theresa May had no choice but to use...&quot;I have concluded that the ordering of his extradition and his subsequ...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
    Title: gary mckinnon case double standards  
-   Link: <a href="https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: a case of double standards?17 Oct 2012 — The home secretary&#x27;s decision not to extradite the Crouch End Asperger&#x27;s sufferer...</p></details>
+   Link:<a href="https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: a case of double standards?17 Oct 2012 — The home secretary&#x27;s decision not to extradite the Crouch End Asperger&#x27;s sufferer...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/law/2024/mar/15/diogo-santos-coelho-pleads-uk-block-us-extradition-cybercrime-raidforums" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2024/mar/15/diogo-santos-coelho-pleads-uk-block-us-extradition-cybercrime-raidforums</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coelho alleges he was groomed into committing the crimes by adults from age 14. Both the US and Portugal have issued extradition requests...</p></details>
+   Link:<a href="https://www.theguardian.com/law/2024/mar/15/diogo-santos-coelho-pleads-uk-block-us-extradition-cybercrime-raidforums" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2024/mar/15/diogo-santos-coelho-pleads-uk-block-us-extradition-cybercrime-raidforums</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coelho alleges he was groomed into committing the crimes by adults from age 14. Both the US and Portugal have issued extradition requests...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: itpro.com  
    Title: cps confirms gary mckinnon will not face charges in the uk  
-   Link: <a href="https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 17, 2012 — The Crown Prosecution Service (CPS) has confirmed that computer hacker Gary McKinnon will not face charges in the UK, brin...</p></details>
+   Link:<a href="https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dec 17, 2012 — The Crown Prosecution Service (CPS) has confirmed that computer hacker Gary McKinnon will not face charges in the UK, brin...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
    Title: gary mckinnon feels set free  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon feels &#x27;set free&#x27; after US extradition decision17 Oct 2012 — The computer hacker whose extradition to the US was blocked by...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon feels &#x27;set free&#x27; after US extradition decision17 Oct 2012 — The computer hacker whose extradition to the US was blocked by...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
    Title: Farage under mounting pressure to prove Russian hack claim  
-   Link: <a href="https://www.theguardian.com/politics/2026/may/24/farage-mounting-pressure-prove-russian-hack-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2026/may/24/farage-mounting-pressure-prove-russian-hack-claim</a>  
+   Link:<a href="https://www.theguardian.com/politics/2026/may/24/farage-mounting-pressure-prove-russian-hack-claim" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2026/may/24/farage-mounting-pressure-prove-russian-hack-claim</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition halted by Theresa May – videoTheresa May tells the House of Commons an extradition would breach the human right...</p></details>
+   Link:<a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition halted by Theresa May – videoTheresa May tells the House of Commons an extradition would breach the human right...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition theresa may  
-   Link: <a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s [campaigners](&amp;#123;&amp;#123; &#x27;campaigners/&#x27; | relative_url &amp;#125;&amp;#125;) have called for support from the n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s [campaigners](&amp;#123;&amp;#123; &#x27;campaigners/&#x27; | relative_url &amp;#125;&amp;#125;) have called for support from the n...</p></details>
    Published: May 2010  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: United Kingdom  
-   Link: <a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/United_Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United KingdomThe UK is a constitutional monarchy and parliamentary democracy with three distinct jurisdictions: England and Wales, Sc...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonOn 16 October 2012, after a series of legal proceedings in Britain, then Home Secretary Theresa May blocked extradition t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonOn 16 October 2012, after a series of legal proceedings in Britain, then Home Secretary Theresa May blocked extradition t...</p></details>
    Published: October 2012  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: britannica.com  
    Title: The United Kingdom comprises the whole of the island of Great Britain.Read more  
-   Link: <a href="https://www.britannica.com/place/United-Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/United-Kingdom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | History, Population, Map, Flag, Capital...United Kingdom, island country located off the northwestern coast of mainland...</p></details>
+   Link:<a href="https://www.britannica.com/place/United-Kingdom" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/place/United-Kingdom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United Kingdom | History, Population, Map, Flag, Capital...United Kingdom, island country located off the northwestern coast of mainland...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: itv.com  
    Title: gary mckinnon  
-   Link: <a href="https://www.itv.com/news/story/2012-12-14/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2012-12-14/gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No charges against US hacker14 Dec 2012 — Gary McKinnon, who is wanted in the US after hacking into the Pentagon&#x27;s computers, will not fa...</p></details>
+   Link:<a href="https://www.itv.com/news/story/2012-12-14/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2012-12-14/gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No charges against US hacker14 Dec 2012 — Gary McKinnon, who is wanted in the US after hacking into the Pentagon&#x27;s computers, will not fa...</p></details>
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ukhumanrightsblog.com  
-   Link: <a href="https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/" target="_blank" rel="noopener noreferrer nofollow">https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, Prince Charles&#x27; letters and free speechAs was widely reported last week, Gary McKinnon will not be extradited to the US fo...</p></details>
+   Link:<a href="https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/" target="_blank" rel="noopener noreferrer nofollow">https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, Prince Charles&#x27; letters and free speechAs was widely reported last week, Gary McKinnon will not be extradited to the US fo...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon now [appeals](&amp;#123;&amp;#123; &#x27;appeals/&#x27; | relative_url &amp;#125;&amp;#125;) against those decisions. The USA has been designated a category 2 territory pu...</p></details>
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon now [appeals](&amp;#123;&amp;#123; &#x27;appeals/&#x27; | relative_url &amp;#125;&amp;#125;) against those decisions. The USA has been designated a category 2 territory pu...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: mytheresa.com  
-   Link: <a href="https://www.mytheresa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mytheresa.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Finest Edit in LuxuryMytheresa offers you the finest edit in luxury! Fall in love with over 200 international designer br...</p></details>
+   Link:<a href="https://www.mytheresa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mytheresa.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Finest Edit in LuxuryMytheresa offers you the finest edit in luxury! Fall in love with over 200 international designer br...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=viLcoe_xPMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viLcoe_xPMU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon will not face prosecution in the UKGary McKinnon and his family have fought to protect him from extradition to America over...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=viLcoe_xPMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viLcoe_xPMU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon will not face prosecution in the UKGary McKinnon and his family have fought to protect him from extradition to America over...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: journals.law.unc.edu  
    Title: u k ends 10 year extradition battle of hacker gary mckinnon  
-   Link: <a href="https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ends 10 Year Extradition Battle of Hacker Gary McKinnonTwo years later, a High Court judge, along with psychiatric examiners, determined...</p></details>
+   Link:<a href="https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ends 10 Year Extradition Battle of Hacker Gary McKinnonTwo years later, a High Court judge, along with psychiatric examiners, determined...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: ein.org.uk  
    Title: house commons votes through motion reform extradition laws  
-   Link: <a href="https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws" target="_blank" rel="noopener noreferrer nofollow">https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Immigration NetworkHouse of Commons agrees motion to reform extradition laws6 Dec 2011 — In the case of Gary McKinnon, a revie...</p></details>
+   Link:<a href="https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws" target="_blank" rel="noopener noreferrer nofollow">https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Immigration NetworkHouse of Commons agrees motion to reform extradition laws6 Dec 2011 — In the case of Gary McKinnon, a revie...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: iowastatedaily.com  
    Title: Prosecutors: Mc Kinnon to face no UK charges over U.S  
-   Link: <a href="https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/" target="_blank" rel="noopener noreferrer nofollow">https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LONDON — Computer hacker Gary McKinnon will face no charges in the United Kingdom over what the U.S. government says is the biggest milit...</p></details>
+   Link:<a href="https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/" target="_blank" rel="noopener noreferrer nofollow">https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LONDON — Computer hacker Gary McKinnon will face no charges in the United Kingdom over what the U.S. government says is the biggest milit...</p></details>
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: news.sky.com  
    Title: hacker gary mckinnon faces no further action 10460721  
-   Link: <a href="https://news.sky.com/story/hacker-gary-mckinnon-faces-no-further-action-10460721" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/hacker-gary-mckinnon-faces-no-further-action-10460721</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Faces No Further Action14 Dec 2012 — Computer hacker Gary McKinnon will face no further criminal action, the Director of Pu...</p></details>
+   Link:<a href="https://news.sky.com/story/hacker-gary-mckinnon-faces-no-further-action-10460721" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/hacker-gary-mckinnon-faces-no-further-action-10460721</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Faces No Further Action14 Dec 2012 — Computer hacker Gary McKinnon will face no further criminal action, the Director of Pu...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: aameranwar.co.uk  
    Title: hacker gary mackinnons extradition to us stopped  
-   Link: <a href="https://aameranwar.co.uk/hacker-gary-mackinnons-extradition-to-us-stopped" target="_blank" rel="noopener noreferrer nofollow">https://aameranwar.co.uk/hacker-gary-mackinnons-extradition-to-us-stopped</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HACKER GARY MACKINNON&#x27;S EXTRADITION TO US...14 Dec 2012 — A RELIEVED Gary McKinnon wept with joy yesterday after being told he will not...</p></details>
+   Link:<a href="https://aameranwar.co.uk/hacker-gary-mackinnons-extradition-to-us-stopped" target="_blank" rel="noopener noreferrer nofollow">https://aameranwar.co.uk/hacker-gary-mackinnons-extradition-to-us-stopped</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HACKER GARY MACKINNON&#x27;S EXTRADITION TO US...14 Dec 2012 — A RELIEVED Gary McKinnon wept with joy yesterday after being told he will not...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: itnews.com.au  
    Title: gary mckinnon dealt new blow by cps 138354  
-   Link: <a href="https://www.itnews.com.au/news/gary-mckinnon-dealt-new-blow-by-cps-138354" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/news/gary-mckinnon-dealt-new-blow-by-cps-138354</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon dealt new blow by CPSFeb 27, 2009 — British hacker Gary McKinnon&#x27;s hopes of being tried in the UK were dealt a massive blow...</p></details>
+   Link:<a href="https://www.itnews.com.au/news/gary-mckinnon-dealt-new-blow-by-cps-138354" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/news/gary-mckinnon-dealt-new-blow-by-cps-138354</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon dealt new blow by CPSFeb 27, 2009 — British hacker Gary McKinnon&#x27;s hopes of being tried in the UK were dealt a massive blow...</p></details>

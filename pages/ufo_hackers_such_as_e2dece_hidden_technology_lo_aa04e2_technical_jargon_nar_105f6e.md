@@ -274,13 +274,13 @@ Most people cannot independently evaluate advanced aerospace engineering, quantu
 
 Terms frequently encountered in UFO hacker lore include:
 
-* Anti-gravity propulsion * Zero-point energy <span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[arstechnica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">uk halts extradition of accused hacker over suicide concerns</span><span class="citation-popover-snippet">16 Oct 2012 — “I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-point energy...</span></span></span> * Quantum vacuum energy <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">the nothing that has the potential to be anything</span><span class="citation-popover-snippet">15 Feb 2026 — What the existence of zero-point energy tells you at a deeper level depends ultimately on which interpretation of quantum m...</span></span></span>
+* Anti-gravity propulsion * Zero-point energy<span class="citation-chip-wrap"><a class="citation-chip" href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[arstechnica.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">uk halts extradition of accused hacker over suicide concerns</span><span class="citation-popover-snippet">16 Oct 2012 — “I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-point energy...</span></span></span> * Quantum vacuum energy<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">the nothing that has the potential to be anything</span><span class="citation-popover-snippet">15 Feb 2026 — What the existence of zero-point energy tells you at a deeper level depends ultimately on which interpretation of quantum m...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Field propulsion
 * Electrogravitics
-* Exotic energy systems <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Zero-point energyZero-point energy (ZPE) is the lowest possible energy that a quantum mechanical system may have. Unlike in classical...</span></span></span>
+* Exotic energy systems<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Zero-point energyZero-point energy (ZPE) is the lowest possible energy that a quantum mechanical system may have. Unlike in classical...</span></span></span>
 * Advanced materials
 * Classified aerospace platforms
 
@@ -292,11 +292,11 @@ The effect is rhetorical rather than evidential. A claim framed as “secret ant
 
 ## The power of “zero-point energy” as a narrative bridge
 
-Few terms illustrate this process better than “zero-point energy”. In physics, zero-point energy refers to the lowest possible energy state of a quantum system. It is a real concept studied in quantum mechanics and quantum field theory. Physicists have long emphasised that the existence of zero-point energy does not mean an unlimited practical energy source can be harvested from empty space. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — &quot;The zero-point energy cannot be harnessed in...</span></span></span>
+Few terms illustrate this process better than “zero-point energy”. In physics, zero-point energy refers to the lowest possible energy state of a quantum system. It is a real concept studied in quantum mechanics and quantum field theory. Physicists have long emphasised that the existence of zero-point energy does not mean an unlimited practical energy source can be harvested from empty space.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — &quot;The zero-point energy cannot be harnessed in...</span></span></span>
 
 Yet in hidden-technology narratives, the term frequently acquires a different meaning. It becomes shorthand for a hypothetical source of limitless power allegedly suppressed by governments, military organisations or corporations.
 
-This transformation is important because it allows a conspiracy narrative to borrow credibility from mainstream science. Readers encounter a genuine scientific term, discover that it appears in academic papers and physics discussions, and may assume that claims about practical “free-energy” devices are simply the next stage of development. In reality, those are separate propositions. The scientific concept exists; the alleged hidden technology remains unproven. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — &quot;The zero-point energy cannot be harnessed in...</span></span></span>
+This transformation is important because it allows a conspiracy narrative to borrow credibility from mainstream science. Readers encounter a genuine scientific term, discover that it appears in academic papers and physics discussions, and may assume that claims about practical “free-energy” devices are simply the next stage of development. In reality, those are separate propositions. The scientific concept exists; the alleged hidden technology remains unproven.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — &quot;The zero-point energy cannot be harnessed in...</span></span></span>
 
 For [believers]({{ 'believers/' | relative_url }}) in UFO secrecy, zero-point energy also performs another function: it links propulsion and power generation. If a hypothetical craft can ignore conventional aerodynamic limits, then a hypothetical energy source is needed to explain its performance. The same piece of jargon therefore helps support multiple claims simultaneously.
 
@@ -340,7 +340,7 @@ The language of classification helps bridge the gap between what is known and wh
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_technical_jargon_nar_105f6e-Illustration-2-dark.svg" | relative_url }}" alt="How technical jargon illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_technical_jargon_nar_105f6e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_technical_jargon_nar_105f6e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Gary McKinnon’s case and the language of hidden technology
 
-McKinnon's own [explanations]({{ 'explanations/' | relative_url }}) demonstrate how technical terminology can shape a broader narrative. He repeatedly stated that he believed governments were suppressing anti-gravity technology, UFO-related technology and what he called free energy or zero-point energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, fr...</span></span></span>
+McKinnon's own [explanations]({{ 'explanations/' | relative_url }}) demonstrate how technical terminology can shape a broader narrative. He repeatedly stated that he believed governments were suppressing anti-gravity technology, UFO-related technology and what he called free energy or zero-point energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, fr...</span></span></span>
 
 What is notable is not merely the belief itself but the vocabulary used to describe it. These are not mystical or supernatural terms. They sound like engineering concepts, research programmes or classified scientific projects.
 
@@ -373,7 +373,7 @@ As a result, the terminology can survive even when individual claims fail.
 
 Hidden-technology narratives often point to genuine scientific papers, patents or government studies as indirect evidence.
 
-For example, researchers have examined theoretical questions involving vacuum energy and quantum fields, and government agencies have occasionally commissioned exploratory reports discussing advanced propulsion concepts. However, exploratory research is not the same as a functioning technology. A concept being studied does not demonstrate that a practical device exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyConcepts for Extracting Energy From the Quantum Vacuum6 Apr 2010 — Even though this zero-point field (ZPF) ene...</span></span></span>
+For example, researchers have examined theoretical questions involving vacuum energy and quantum fields, and government agencies have occasionally commissioned exploratory reports discussing advanced propulsion concepts. However, exploratory research is not the same as a functioning technology. A concept being studied does not demonstrate that a practical device exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyConcepts for Extracting Energy From the Quantum Vacuum6 Apr 2010 — Even though this zero-point field (ZPF) ene...</span></span></span>
 
 Nevertheless, the presence of technical literature creates fertile ground for speculation. A reader may encounter:
 
@@ -398,201 +398,201 @@ Technical jargon continues to fuel hidden-technology narratives because it satis
 
 It offers complexity without requiring proof, provides a scientific flavour without demanding scientific validation, and transforms mysteries into engineering puzzles that seem potentially solvable. For followers of UFO hacker stories, this makes the search feel less like a quest for folklore and more like an investigation into concealed technology.
 
-The enduring appeal of cases such as Gary McKinnon’s lies partly in this blend of secrecy and technical language. Terms such as “anti-gravity” and “zero-point energy” create a framework in which hidden knowledge appears not only possible but technologically plausible. Whether the underlying claims are true is a separate question. What is clear is that the jargon itself plays a central role in making those claims persuasive, memorable and resilient. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2abcnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, fr...</span></span></span>
+The enduring appeal of cases such as Gary McKinnon’s lies partly in this blend of secrecy and technical language. Terms such as “anti-gravity” and “zero-point energy” create a framework in which hidden knowledge appears not only possible but technologically plausible. Whether the underlying claims are true is a separate question. What is clear is that the jargon itself plays a central role in making those claims persuasive, memorable and resilient.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, fr...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gK0yIjyQoEA" title="Infinite Energy? Did this company really just do the impossible...Short answer is no!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gK0yIjyQoEA" target="_blank" rel="noopener noreferrer">Infinite Energy? Did this company really just do the impossible...Short answer is no!</a></p><p class="youtube-embed-meta">Channel: Abigail James</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gK0yIjyQoEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gK0yIjyQoEA">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How technical jargon. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How technical jargon. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xzCK6-Kqs6QC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Science">Voodoo Science</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Park</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xzCK6-Kqs6QC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Science">Voodoo Science</a>
+</h4>
+<p class="fr-book-author">By Robert L. Park</p>
         
-        <p class="fr-book-desc">Directly addresses how scientific language can make weak or false claims sound credible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how scientific language can make weak or false claims sound credible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Shows technical-sounding anti-gravity and aerospace language in the exact lore being discussed.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows technical-sounding anti-gravity and aerospace language in the exact lore being discussed.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Gives readers tools for assessing extraordinary claims dressed in scientific language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Gives readers tools for assessing extraordinary claims dressed in scientific language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Useful for understanding how jargon, authority, and poor evidence mislead audiences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding how jargon, authority, and poor evidence mislead audiences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-technical-jargon-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="how-technical-jargon-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -608,7 +608,7 @@ The enduring appeal of cases such as Gary McKinnon’s lies partly in this blend
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -628,7 +628,7 @@ The enduring appeal of cases such as Gary McKinnon’s lies partly in this blend
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -660,7 +660,7 @@ The enduring appeal of cases such as Gary McKinnon’s lies partly in this blend
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -712,7 +712,7 @@ The enduring appeal of cases such as Gary McKinnon’s lies partly in this blend
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -757,7 +757,7 @@ The enduring appeal of cases such as Gary McKinnon’s lies partly in this blend
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -798,168 +798,168 @@ The enduring appeal of cases such as Gary McKinnon’s lies partly in this blend
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, fr...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, fr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: abcnews.com  
-   Link: <a href="https://abcnews.com/Technology/story?id=98572&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=98572&amp;page=1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Group Calls for Disclosure of UFO Info10 May 2001 — May 10, 2001 -- -- They&#x27;re out there — and the government knows. That&#x27;s according to...</p></details>
+   Link:<a href="https://abcnews.com/Technology/story?id=98572&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=98572&amp;page=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Group Calls for Disclosure of UFO Info10 May 2001 — May 10, 2001 -- -- They&#x27;re out there — and the government knows. That&#x27;s according to...</p></details>
    Published: May 10, 2001  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: the nothing that has the potential to be anything  
-   Link: <a href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Feb 2026 — What the existence of zero-point energy tells you at a deeper level depends ultimately on which interpretation of quantum m...</p></details>
+   Link:<a href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Feb 2026 — What the existence of zero-point energy tells you at a deeper level depends ultimately on which interpretation of quantum m...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: zero.inc  
-   Link: <a href="https://zero.inc/" target="_blank" rel="noopener noreferrer nofollow">https://zero.inc/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>to finding your next best customer.Read more...</p></details>
+   Link:<a href="https://zero.inc/" target="_blank" rel="noopener noreferrer nofollow">https://zero.inc/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to finding your next best customer.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=gK0yIjyQoEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gK0yIjyQoEA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-Point Energy: Is the Void Actually Brimming with Power?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=gK0yIjyQoEA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=gK0yIjyQoEA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-Point Energy: Is the Void Actually Brimming with Power?...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
    Title: Zero-Point Energy: Is the Void Actually Brimming with Power?  
-   Link: <a href="https://www.youtube.com/watch?v=q_fvA7Y9yPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q_fvA7Y9yPY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. Government...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q_fvA7Y9yPY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q_fvA7Y9yPY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. Government...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arstechnica.com  
    Title: uk halts extradition of accused hacker over suicide concerns  
-   Link: <a href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — “I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-point energy...</p></details>
+   Link:<a href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — “I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-point energy...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/follow-up-what-is-the-zer/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — &quot;The zero-point energy cannot be harnessed in...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/follow-up-what-is-the-zer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — &quot;The zero-point energy cannot be harnessed in...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scientificamerican.com  
    Title: exploiting zero point energy  
-   Link: <a href="https://www.scientificamerican.com/article/exploiting-zero-point-energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/exploiting-zero-point-energy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploiting Zero-Point Energy1 Dec 1997 — Energy fills empty space, but is there a lot to be tapped, as some propound? Probably not...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/exploiting-zero-point-energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/exploiting-zero-point-energy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Exploiting Zero-Point Energy1 Dec 1997 — Energy fills empty space, but is there a lot to be tapped, as some propound? Probably not...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zero-point_energy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-point energyZero-point energy (ZPE) is the lowest possible energy that a quantum mechanical system may have. Unlike in classical...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zero-point_energy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-point energyZero-point energy (ZPE) is the lowest possible energy that a quantum mechanical system may have. Unlike in classical...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyConcepts for Extracting Energy From the Quantum Vacuum6 Apr 2010 — Even though this zero-point field (ZPF) ene...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyConcepts for Extracting Energy From the Quantum Vacuum6 Apr 2010 — Even though this zero-point field (ZPF) ene...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tarrdaniel.com  
-   Link: <a href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - The Gary McKinnon CaseHe claims his motivation, drawn from a statement made before the Washington Press Club on 9 May 200...</p></details>
+   Link:<a href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - The Gary McKinnon CaseHe claims his motivation, drawn from a statement made before the Washington Press Club on 9 May 200...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanScientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining ho...</p></details>
+   Link:<a href="https://www.scientificamerican.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanScientific American is the essential guide to the most awe-inspiring advances in science and technology, explaining ho...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Deepspacerevealed/posts/zero-point-energy-generators-free-infinite-power-from-the-quantum-vacuum/122124323529021366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Deepspacerevealed/posts/zero-point-energy-generators-free-infinite-power-from-the-quantum-vacuum/122124323529021366/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-Point Energy Generators: Free Infinite Power from the...But here&#x27;s the catch: we can&#x27;t extract this energy to do useful work...</p></details>
+   Link:<a href="https://www.facebook.com/Deepspacerevealed/posts/zero-point-energy-generators-free-infinite-power-from-the-quantum-vacuum/122124323529021366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Deepspacerevealed/posts/zero-point-energy-generators-free-infinite-power-from-the-quantum-vacuum/122124323529021366/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-Point Energy Generators: Free Infinite Power from the...But here&#x27;s the catch: we can&#x27;t extract this energy to do useful work...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Nassim.Haramein.official/posts/zero-point-energy-at-the-foundation-of-quantum-mechanics-beyond-the-vacuumeven-a/1282645719881308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nassim.Haramein.official/posts/zero-point-energy-at-the-foundation-of-quantum-mechanics-beyond-the-vacuumeven-a/1282645719881308/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the expansion of the universe Vacuum fluctuations, which...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Nassim.Haramein.official/posts/zero-point-energy-at-the-foundation-of-quantum-mechanics-beyond-the-vacuumeven-a/1282645719881308/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Nassim.Haramein.official/posts/zero-point-energy-at-the-foundation-of-quantum-mechanics-beyond-the-vacuumeven-a/1282645719881308/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the expansion of the universe Vacuum fluctuations, which...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/physicsisfun109/posts/487907410554775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/487907410554775/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zero point energy in physics is not a viable sourceZero point energy is the lowest possible energy that a quantum system can have, and th...</p></details>
+   Link:<a href="https://www.facebook.com/groups/physicsisfun109/posts/487907410554775/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/physicsisfun109/posts/487907410554775/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zero point energy in physics is not a viable sourceZero point energy is the lowest possible energy that a quantum system can have, and th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: physics.stackexchange.com  
    Title: comquantum field theory  
-   Link: <a href="https://physics.stackexchange.com/questions/804171/are-vacuum-energy-zero-point-energy-and-vacuum-fluctuations-the-same-thing" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/804171/are-vacuum-energy-zero-point-energy-and-vacuum-fluctuations-the-same-thing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>field theory - Are vacuum energy, zero point...Feb 28, 2024 — im confused about the relationship between these terms, my intuition tells...</p></details>
+   Link:<a href="https://physics.stackexchange.com/questions/804171/are-vacuum-energy-zero-point-energy-and-vacuum-fluctuations-the-same-thing" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/804171/are-vacuum-energy-zero-point-energy-and-vacuum-fluctuations-the-same-thing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>field theory - Are vacuum energy, zero point...Feb 28, 2024 — im confused about the relationship between these terms, my intuition tells...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-infinite-universe/zero-point-energy-may-not-exist-5f47f4c431d5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-infinite-universe/zero-point-energy-may-not-exist-5f47f4c431d5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-point energy may not existNumerous zero-point energy patents have been filed making wild technological claims that this energy could...</p></details>
+   Link:<a href="https://medium.com/the-infinite-universe/zero-point-energy-may-not-exist-5f47f4c431d5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-infinite-universe/zero-point-energy-may-not-exist-5f47f4c431d5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-point energy may not existNumerous zero-point energy patents have been filed making wild technological claims that this energy could...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: appropedia.org  
-   Link: <a href="https://www.appropedia.org/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow">https://www.appropedia.org/Zero-point_energy</a>  
+   Link:<a href="https://www.appropedia.org/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow">https://www.appropedia.org/Zero-point_energy</a>  
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/collapse/comments/15ujvak/debunk_zero_point_or_quantum_vacuum_energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/collapse/comments/15ujvak/debunk_zero_point_or_quantum_vacuum_energy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunk Zero Point or Quantum Vacuum Energy: r/collapseVacuum energy, or zero-point energy, if it exists at all, is a very high-entropy s...</p></details>
+   Link:<a href="https://www.reddit.com/r/collapse/comments/15ujvak/debunk_zero_point_or_quantum_vacuum_energy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/collapse/comments/15ujvak/debunk_zero_point_or_quantum_vacuum_energy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunk Zero Point or Quantum Vacuum Energy: r/collapseVacuum energy, or zero-point energy, if it exists at all, is a very high-entropy s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: zero.rocicorp.dev  
-   Link: <a href="https://zero.rocicorp.dev/" target="_blank" rel="noopener noreferrer nofollow">https://zero.rocicorp.dev/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rocicorp.devZeroPricing. Zero is open-source and fully self-hostable. We also offer a fully-managed service, which can run on either your...</p></details>
+   Link:<a href="https://zero.rocicorp.dev/" target="_blank" rel="noopener noreferrer nofollow">https://zero.rocicorp.dev/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rocicorp.devZeroPricing. Zero is open-source and fully self-hostable. We also offer a fully-managed service, which can run on either your...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/267213059_PRACTICAL_CONVERSION_OF_ZERO-POINT_ENERGY_FEASIBILITY_STUDY_OF_ZERO-POINT_ENERGY_EXTRACTION_FROM_THE_QUANTUM_VACUUM_FOR_THE_PERFORMANCE_OF_USEFUL_WORK" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267213059_PRACTICAL_CONVERSION_OF_ZERO-POINT_ENERGY_FEASIBILITY_STUDY_OF_ZERO-POINT_ENERGY_EXTRACTION_FROM_THE_QUANTUM_VACUUM_FOR_THE_PERFORMANCE_OF_USEFUL_WORK</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>practical conversion of zero-point energy: feasibility study...PRACTICAL CONVERSION OF ZERO-POINT ENERGY: FEASIBILITY STUDY OF ZERO-POIN...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/267213059_PRACTICAL_CONVERSION_OF_ZERO-POINT_ENERGY_FEASIBILITY_STUDY_OF_ZERO-POINT_ENERGY_EXTRACTION_FROM_THE_QUANTUM_VACUUM_FOR_THE_PERFORMANCE_OF_USEFUL_WORK" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267213059_PRACTICAL_CONVERSION_OF_ZERO-POINT_ENERGY_FEASIBILITY_STUDY_OF_ZERO-POINT_ENERGY_EXTRACTION_FROM_THE_QUANTUM_VACUUM_FOR_THE_PERFORMANCE_OF_USEFUL_WORK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>practical conversion of zero-point energy: feasibility study...PRACTICAL CONVERSION OF ZERO-POINT ENERGY: FEASIBILITY STUDY OF ZERO-POIN...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/zero" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/zero</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/zero" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/zero</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: Extraterrestrial species cataloged by military programs  
-   Link: <a href="https://www.facebook.com/groups/483799006667395/posts/1522256462821639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/483799006667395/posts/1522256462821639/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>projects related to ET encounters. In May of 2001, The Disclosure Project hosted a news conference at the National Press Club, reported i...</p></details>
+   Link:<a href="https://www.facebook.com/groups/483799006667395/posts/1522256462821639/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/483799006667395/posts/1522256462821639/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>projects related to ET encounters. In May of 2001, The Disclosure Project hosted a news conference at the National Press Club, reported i...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
    Published: March 2002  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: from the 2001 ufo disclosure project press  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/nlis1d/from_the_2001_ufo_disclosure_project_press/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nlis1d/from_the_2001_ufo_disclosure_project_press/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I draw the line is when a person, or group, charge honest people money so they may gain access to entities that are n...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/nlis1d/from_the_2001_ufo_disclosure_project_press/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nlis1d/from_the_2001_ufo_disclosure_project_press/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I draw the line is when a person, or group, charge honest people money so they may gain access to entities that are n...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
    Title: Help me understand zero point energy  
-   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it real or a...I have been reading about the zero point energy field. It appears find what I have found, I that Nicola Tesla studied...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Is it real or a...I have been reading about the zero point energy field. It appears find what I have found, I that Nicola Tesla studied...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
    Title: Where does vacuum energy come from  
-   Link: <a href="https://www.researchgate.net/post/Where-does-vacuum-energy-come-from" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Where-does-vacuum-energy-come-from</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 16, 2018 — &quot;All our theories today seem to imply that the universe should contain a tremendous concentration of energy, even in the...</p></details>
+   Link:<a href="https://www.researchgate.net/post/Where-does-vacuum-energy-come-from" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/post/Where-does-vacuum-energy-come-from</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Feb 16, 2018 — &quot;All our theories today seem to imply that the universe should contain a tremendous concentration of energy, even in the...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: 0.email  
    Title: Zero Experience email the way you want with 0  
-   Link: <a href="https://0.email/" target="_blank" rel="noopener noreferrer nofollow">https://0.email/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ZeroExperience email the way you want with 0 - the first open source email app that puts your privacy and safety first...</p></details>
+   Link:<a href="https://0.email/" target="_blank" rel="noopener noreferrer nofollow">https://0.email/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ZeroExperience email the way you want with 0 - the first open source email app that puts your privacy and safety first...</p></details>

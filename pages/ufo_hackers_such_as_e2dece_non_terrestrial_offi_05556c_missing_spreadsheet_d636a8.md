@@ -274,7 +274,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_mis
 
 ## Introduction
 
-The central weakness in the “Non-Terrestrial Officers” story is not the phrase itself but the absence of the spreadsheet that supposedly contained it. Gary McKinnon consistently claimed that he saw an Excel file with that title while searching US military or NASA-related systems, yet no copy of the file has ever been released, independently authenticated, or examined by outside investigators. As a result, the claim rests almost entirely on recollection rather than documentary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — &quot;What was the most exciting thing you saw?&quot; I ask. &quot;I found a list of officers&#x27; names,&quot;...</span></span></span>
+The central weakness in the “Non-Terrestrial Officers” story is not the phrase itself but the absence of the spreadsheet that supposedly contained it. Gary McKinnon consistently claimed that he saw an Excel file with that title while searching US military or NASA-related systems, yet no copy of the file has ever been released, independently authenticated, or examined by outside investigators. As a result, the claim rests almost entirely on recollection rather than documentary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — &quot;What was the most exciting thing you saw?&quot; I ask. &quot;I found a list of officers&#x27; names,&quot;...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-1-dark.svg" | relative_url }}" alt="Missing Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,9 +282,9 @@ For readers trying to assess whether the spreadsheet pointed to a secret space p
 
 ## Why the Missing Spreadsheet Changes Everything
 
-McKinnon's account of the spreadsheet has appeared in multiple [interviews]({{ 'interviews/' | relative_url }}) over the years. In the best-known version, he said that the file was titled “Non-Terrestrial Officers” and contained names, ranks and information about [transfers]({{ 'transfers/' | relative_url }}) between ships. He described the contents as unusual and suggested that the ship names were unfamiliar. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+McKinnon's account of the spreadsheet has appeared in multiple [interviews]({{ 'interviews/' | relative_url }}) over the years. In the best-known version, he said that the file was titled “Non-Terrestrial Officers” and contained names, ranks and information about [transfers]({{ 'transfers/' | relative_url }}) between ships. He described the contents as unusual and suggested that the ship names were unfamiliar.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
-However, none of the information that would normally allow independent verification has been made available. Researchers, journalists and critics have never been able to inspect the spreadsheet directly. There is no publicly available image of the document, no released copy of the workbook, and no archive containing the original data. Even accounts sympathetic to McKinnon's UFO-related claims ultimately rely on his description rather than a surviving document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+However, none of the information that would normally allow independent verification has been made available. Researchers, journalists and critics have never been able to inspect the spreadsheet directly. There is no publicly available image of the document, no released copy of the workbook, and no archive containing the original data. Even accounts sympathetic to McKinnon's UFO-related claims ultimately rely on his description rather than a surviving document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
 This distinction matters because evidence is strongest when others can examine the same material and test competing [explanations]({{ 'explanations/' | relative_url }}). In this case, the primary evidence is unavailable, leaving only secondary accounts.
 
@@ -305,7 +305,7 @@ A missing document creates a fundamental verification problem. Normally, investi
 
 Without the file, none of those questions can be answered directly.
 
-The absence of the spreadsheet also prevents examination of context. A single title can be interpreted in many ways depending on surrounding information. A worksheet labelled “Non-Terrestrial Officers” could theoretically refer to space-related assignments, personnel categories, fictional exercises, training scenarios or something entirely different. Context usually narrows those possibilities. Here, the context is unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+The absence of the spreadsheet also prevents examination of context. A single title can be interpreted in many ways depending on surrounding information. A worksheet labelled “Non-Terrestrial Officers” could theoretically refer to space-related assignments, personnel categories, fictional exercises, training scenarios or something entirely different. Context usually narrows those possibilities. Here, the context is unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
@@ -330,7 +330,7 @@ Modern document analysis often relies on [metadata]({{ 'metadata/' | relative_ur
 
 </div>
 
-None of these details have been publicly produced for the alleged spreadsheet. There is no known filename beyond the reported title, no documented directory path and no publicly available record linking the file to a specific military programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+None of these details have been publicly produced for the alleged spreadsheet. There is no known filename beyond the reported title, no documented directory path and no publicly available record linking the file to a specific military programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-2-dark.svg" | relative_url }}" alt="Missing Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,7 +338,7 @@ None of these details have been publicly produced for the alleged spreadsheet. T
 
 Another obstacle is the lack of a clear chain of [custody]({{ 'custody/' | relative_url }}). In documentary investigations, analysts prefer to know where a file originated and how it reached the public domain. With the “Non-Terrestrial Officers” spreadsheet, there is no independently documented route from server to investigator.
 
-McKinnon later stated that material he had downloaded was seized when authorities took computer equipment. In some interviews he suggested that relevant data was no longer available to him because his drives had been confiscated. Even if that account is accepted, it still leaves outside observers without access to the original evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Cybernews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">It was a really weird phrase,&#x27; McKinnon...</span></span></span>
+McKinnon later stated that material he had downloaded was seized when authorities took computer equipment. In some interviews he suggested that relevant data was no longer available to him because his drives had been confiscated. Even if that account is accepted, it still leaves outside observers without access to the original evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">It was a really weird phrase,&#x27; McKinnon...</span></span></span>
 
 ## What Cannot Be Verified
 
@@ -346,25 +346,25 @@ Because the spreadsheet itself is unavailable, several commonly repeated claims 
 
 ### The Exact Wording
 
-Many [retellings]({{ 'retellings/' | relative_url }}) assume that “Non-Terrestrial Officers” unquestionably referred to officers operating beyond Earth. Yet no public copy exists that would allow analysts to confirm the wording, formatting, abbreviations or surrounding text. The title is known only through reported recollections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — &quot;What was the most exciting thing you saw?&quot; I ask. &quot;I found a list of officers&#x27; names,&quot;...</span></span></span>
+Many [retellings]({{ 'retellings/' | relative_url }}) assume that “Non-Terrestrial Officers” unquestionably referred to officers operating beyond Earth. Yet no public copy exists that would allow analysts to confirm the wording, formatting, abbreviations or surrounding text. The title is known only through reported recollections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — &quot;What was the most exciting thing you saw?&quot; I ask. &quot;I found a list of officers&#x27; names,&quot;...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WFd7XzTf6_k" title="David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer">David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WFd7XzTf6_k">Open on YouTube</a></p></div></div></div>
 
 ### The Personnel Records
 
-McKinnon said the spreadsheet contained names and ranks not found elsewhere. Independent researchers cannot test that assertion because the names have never been publicly released in a verifiable form. Without the list, there is no way to compare the entries against known military personnel databases or historical records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+McKinnon said the spreadsheet contained names and ranks not found elsewhere. Independent researchers cannot test that assertion because the names have never been publicly released in a verifiable form. Without the list, there is no way to compare the entries against known military personnel databases or historical records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
 ### The Transfer Information
 
-The reported references to ship-to-ship or fleet-to-fleet transfers are similarly difficult to assess. Without the actual entries, investigators cannot determine whether the transfers involved naval vessels, space-related assets, logistics records, simulations, exercises or administrative categories. The underlying data needed to distinguish between these possibilities is missing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+The reported references to ship-to-ship or fleet-to-fleet transfers are similarly difficult to assess. Without the actual entries, investigators cannot determine whether the transfers involved naval vessels, space-related assets, logistics records, simulations, exercises or administrative categories. The underlying data needed to distinguish between these possibilities is missing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ### The Purpose of the Spreadsheet
 
-Perhaps the largest unanswered question is why the document existed. A spreadsheet title alone rarely reveals a file's operational purpose. Organisations routinely create planning documents, training materials, test datasets and hypothetical scenarios. Without surrounding records, the intended use of the spreadsheet cannot be established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+Perhaps the largest unanswered question is why the document existed. A spreadsheet title alone rarely reveals a file's operational purpose. Organisations routinely create planning documents, training materials, test datasets and hypothetical scenarios. Without surrounding records, the intended use of the spreadsheet cannot be established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-3-dark.svg" | relative_url }}" alt="Missing Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_missing_spreadsheet_d636a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -372,199 +372,199 @@ Perhaps the largest unanswered question is why the document existed. A spreadshe
 
 The missing spreadsheet does not prove that McKinnon's account was false. Equally, it does not provide support for the more expansive claims that later developed around secret space fleets or off-world military organisations.
 
-Instead, the absence of the file imposes a hard limit on what can be concluded. The strongest evidence available is that McKinnon repeatedly reported seeing a spreadsheet bearing the title “Non-Terrestrial Officers” and described certain contents associated with it. The weakest part of the story is the inability of anyone else to inspect the original document and determine whether alternative explanations fit the evidence better. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — &quot;What was the most exciting thing you saw?&quot; I ask. &quot;I found a list of officers&#x27; names,&quot;...</span></span></span>
+Instead, the absence of the file imposes a hard limit on what can be concluded. The strongest evidence available is that McKinnon repeatedly reported seeing a spreadsheet bearing the title “Non-Terrestrial Officers” and described certain contents associated with it. The weakest part of the story is the inability of anyone else to inspect the original document and determine whether alternative explanations fit the evidence better.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — &quot;What was the most exciting thing you saw?&quot; I ask. &quot;I found a list of officers&#x27; names,&quot;...</span></span></span>
 
-In practical terms, the missing spreadsheet turns a potentially verifiable documentary claim into an anecdotal one. For historians, journalists and researchers, that distinction is crucial. Without the file, its metadata and its provenance, the most important questions about wording, source, meaning and purpose remain unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
+In practical terms, the missing spreadsheet turns a potentially verifiable documentary claim into an anecdotal one. For historians, journalists and researchers, that distinction is crucial. Without the file, its metadata and its provenance, the most important questions about wording, source, meaning and purpose remain unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Missing Spreadsheet Changes Everything. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Missing Spreadsheet Changes Everything. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=S2ZOzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin Darwin West</p>
         
-        <p class="fr-book-desc">Explains how to assess claims lacking supporting data.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how to assess claims lacking supporting data.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Shows why missing evidence limits conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows why missing evidence limits conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples where documentation matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples where documentation matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on evidence, documentation, and verification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence, documentation, and verification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="missing-evidence-why-the-missing-spreadsheet-changes-everything-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ In practical terms, the missing spreadsheet turns a potentially verifiable docum
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ In practical terms, the missing spreadsheet turns a potentially verifiable docum
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ In practical terms, the missing spreadsheet turns a potentially verifiable docum
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ In practical terms, the missing spreadsheet turns a potentially verifiable docum
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ In practical terms, the missing spreadsheet turns a potentially verifiable docum
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,130 +770,130 @@ In practical terms, the missing spreadsheet turns a potentially verifiable docum
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air Fo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cybernews.com  
    Title: nasa gary mckinnon hacking ufo  
-   Link: <a href="https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Non-terrestrial officers:” the UFO files Gary McKinnon...02-Mar-2026 — McKinnon further claims that he downloaded an Excel spreadsheet...</p></details>
+   Link:<a href="https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Non-terrestrial officers:” the UFO files Gary McKinnon...02-Mar-2026 — McKinnon further claims that he downloaded an Excel spreadsheet...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cybernews.com  
    Title: hacker who breached nasa trying prove ufo existence  
-   Link: <a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon discovered a classified personnel roster. His trembling fingers traced the words &quot;Non-Terrestrial Officers.&quot; The Excel spreadshe...</p></details>
+   Link:<a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon discovered a classified personnel roster. His trembling fingers traced the words &quot;Non-Terrestrial Officers.&quot; The Excel spreadshe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnon9 Jul 2005 — &quot;What was the most exciting thing you saw?&quot; I ask. &quot;I found a list of officers&#x27; names,&quot;...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnon9 Jul 2005 — &quot;What was the most exciting thing you saw?&quot; I ask. &quot;I found a list of officers&#x27; names,&quot;...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It was a really weird phrase,&#x27; McKinnon...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;It was a really weird phrase,&#x27; McKinnon...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Life and style21-Apr-2007 — I discovered names and ranks of non-terrestrial officers. They were all very human-like - alt...</p></details>
+   Link:<a href="https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Life and style21-Apr-2007 — I discovered names and ranks of non-terrestrial officers. They were all very human-like - alt...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jun/11/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jun/11/hacking.internetcrime</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s pursuit of &#x27;scapegoat&#x27; hacker hides real threat...Jun 10, 2005 — Gary McKinnon is deemed to be so deviously manipulative at t...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2005/jun/11/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jun/11/hacking.internetcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s pursuit of &#x27;scapegoat&#x27; hacker hides real threat...Jun 10, 2005 — Gary McKinnon is deemed to be so deviously manipulative at t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: film scottish hacker gary mckinnon fight against us extradition  
-   Link: <a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Film to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29-Nov-2023 — McKinnon found his way into the computer systems of the US d...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Film to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29-Nov-2023 — McKinnon found his way into the computer systems of the US d...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker Gary McKinnon loses appeal against extradition to...Aug 28, 2008 — Gary McKinnon, a computer expert who hacked into dozens of US...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker Gary McKinnon loses appeal against extradition to...Aug 28, 2008 — Gary McKinnon, a computer expert who hacked into dozens of US...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: boris johnson slams extradition decision  
-   Link: <a href="https://www.theguardian.com/politics/2009/jan/27/boris-johnson-slams-extradition-decision" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2009/jan/27/boris-johnson-slams-extradition-decision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boris Johnson slams US attempt to extradite hacker Gary...Jan 27, 2009 — He even knows the names and ranks of various non-terrestrial of...</p></details>
+   Link:<a href="https://www.theguardian.com/politics/2009/jan/27/boris-johnson-slams-extradition-decision" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2009/jan/27/boris-johnson-slams-extradition-decision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boris Johnson slams US attempt to extradite hacker Gary...Jan 27, 2009 — He even knows the names and ranks of various non-terrestrial of...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bumbling nerd&#x27; who broke into Pentagon computers loses...Jul 30, 2008 — McKinnon, an unemployed IT worker from north London, has consis...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bumbling nerd&#x27; who broke into Pentagon computers loses...Jul 30, 2008 — McKinnon, an unemployed IT worker from north London, has consis...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: podmust.com  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert Gary McKinnon candidly revealed detail on his NASA data...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert Gary McKinnon candidly revealed detail on his NASA data...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9...Computer hacker, Gary McKinnon, claims to have uncovered undeniable proof o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9...Computer hacker, Gary McKinnon, claims to have uncovered undeniable proof o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe claimed to find high-resolution images of unidentified flying objects, files listing “non-terr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe claimed to find high-resolution images of unidentified flying objects, files listing “non-terr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: socialecologies.wordpress.com  
    Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
-   Link: <a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”03-Dec-2025 — Darren Perks extracted McKinnon&#x27;s reference to “non terrestrial officers,” a ph...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”03-Dec-2025 — Darren Perks extracted McKinnon&#x27;s reference to “non terrestrial officers,” a ph...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
    Published: March 2002  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: redhotcyber.com  
    Title: famous hackers the story of gary mckinnon  
-   Link: <a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.Jul 1, 2025 — He claimed to have found a list of “non-terrestrial officers” in the U.S. Navy...</p></details>
+   Link:<a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.Jul 1, 2025 — He claimed to have found a list of “non-terrestrial officers” in the U.S. Navy...</p></details>

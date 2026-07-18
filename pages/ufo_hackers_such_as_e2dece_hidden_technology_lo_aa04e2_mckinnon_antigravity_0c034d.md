@@ -264,19 +264,19 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_mck
 
 ## Introduction
 
-Gary McKinnon’s anti-gravity [motive]({{ 'motive/' | relative_url }}) is one of the most distinctive aspects of the entire “UFO hacker” story. Unlike many UFO enthusiasts who focused primarily on extraterrestrial visitation, McKinnon repeatedly stated that he was searching for evidence of anti-gravity propulsion and “free energy” technologies that he believed governments were concealing from the public. His claim was not simply that UFOs existed, but that advanced propulsion and energy systems had already been developed, reverse-engineered, or discovered and then withheld. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+Gary McKinnon’s anti-gravity [motive]({{ 'motive/' | relative_url }}) is one of the most distinctive aspects of the entire “UFO hacker” story. Unlike many UFO enthusiasts who focused primarily on extraterrestrial visitation, McKinnon repeatedly stated that he was searching for evidence of anti-gravity propulsion and “free energy” technologies that he believed governments were concealing from the public. His claim was not simply that UFOs existed, but that advanced propulsion and energy systems had already been developed, reverse-engineered, or discovered and then withheld.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_mckinnon_antigravity_0c034d-Illustration-1-dark.svg" | relative_url }}" alt="Gary Mc Kinnon s illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_mckinnon_antigravity_0c034d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_mckinnon_antigravity_0c034d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-At the same time, the case illustrates a major evidence gap. McKinnon’s motives are well documented through [interviews]({{ 'interviews/' | relative_url }}), court-era statements, and media appearances. The alleged proof he said he found, however, remains largely unverified. The central tension in this branch of UFO hacker lore is therefore not whether McKinnon believed in anti-gravity technology, but whether his reported discoveries provide any independently confirmable evidence that such technology exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+At the same time, the case illustrates a major evidence gap. McKinnon’s motives are well documented through [interviews]({{ 'interviews/' | relative_url }}), court-era statements, and media appearances. The alleged proof he said he found, however, remains largely unverified. The central tension in this branch of UFO hacker lore is therefore not whether McKinnon believed in anti-gravity technology, but whether his reported discoveries provide any independently confirmable evidence that such technology exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 ## Why anti-gravity, not just UFOs?
 
-McKinnon traced much of his interest to claims circulating in UFO disclosure circles around the turn of the millennium. He was particularly influenced by witnesses associated with the Disclosure Project, who argued that governments possessed recovered craft, anti-gravity systems and advanced energy technologies. According to McKinnon, these claims persuaded him that documentary evidence might exist inside NASA or military networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+McKinnon traced much of his interest to claims circulating in UFO disclosure circles around the turn of the millennium. He was particularly influenced by witnesses associated with the Disclosure Project, who argued that governments possessed recovered craft, anti-gravity systems and advanced energy technologies. According to McKinnon, these claims persuaded him that documentary evidence might exist inside NASA or military networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
-What made anti-gravity especially important was its practical implication. In McKinnon’s telling, anti-gravity was not merely evidence of alien visitors. It was potentially the foundation of revolutionary transportation and energy systems. He argued that if such technology existed and relied on forms of “free energy”, it could reduce dependence on conventional fuels and transform society. This humanitarian framing became a recurring theme in his interviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2005/05/18/mckinnon-warns-off-fledgling-hackers-as-hearing-looms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">mckinnon warns off fledgling hackers as hearing looms</span><span class="citation-popover-snippet">Tags: CIAGary McKinnonhackingNASANSApoliceUFO · Previous Post. Company...Read more...</span></span></span>
+What made anti-gravity especially important was its practical implication. In McKinnon’s telling, anti-gravity was not merely evidence of alien visitors. It was potentially the foundation of revolutionary transportation and energy systems. He argued that if such technology existed and relied on forms of “free energy”, it could reduce dependence on conventional fuels and transform society. This humanitarian framing became a recurring theme in his interviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2005/05/18/mckinnon-warns-off-fledgling-hackers-as-hearing-looms/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">mckinnon warns off fledgling hackers as hearing looms</span><span class="citation-popover-snippet">Tags: CIAGary McKinnonhackingNASANSApoliceUFO · Previous Post. Company...Read more...</span></span></span>
 
-This motive distinguishes his case from many hacking incidents. McKinnon did not claim to be seeking military secrets for espionage or financial gain. He portrayed himself as searching for proof of hidden technological breakthroughs. Whether those breakthroughs existed is a separate question, but the motivation itself has remained remarkably consistent across his public statements over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Hi, i&#x27;m Gary Mckinnon</span><span class="citation-popover-snippet">I was in the news for a decade after...February 24, 2022 — I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks in...</span><span class="citation-popover-meta">Published: February 24, 2022</span></span></span>
+This motive distinguishes his case from many hacking incidents. McKinnon did not claim to be seeking military secrets for espionage or financial gain. He portrayed himself as searching for proof of hidden technological breakthroughs. Whether those breakthroughs existed is a separate question, but the motivation itself has remained remarkably consistent across his public statements over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Hi, i&#x27;m Gary Mckinnon</span><span class="citation-popover-snippet">I was in the news for a decade after...February 24, 2022 — I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks in...</span><span class="citation-popover-meta">Published: February 24, 2022</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WFd7XzTf6_k" title="David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer">David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WFd7XzTf6_k">Open on YouTube</a></p></div></div></div>
@@ -285,11 +285,11 @@ This motive distinguishes his case from many hacking incidents. McKinnon did not
 
 The anti-gravity narrative rests largely on three categories of material McKinnon said he encountered.
 
-**A spacecraft image.** McKinnon stated that he viewed a high-resolution image on a NASA system showing what he described as a cigar-shaped object above the Earth. He claimed it appeared non-human in origin and lacked visible signs of conventional propulsion. However, he did not save the image before his connection was interrupted. As a result, no copy has ever been publicly produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+**A spacecraft image.** McKinnon stated that he viewed a high-resolution image on a NASA system showing what he described as a cigar-shaped object above the Earth. He claimed it appeared non-human in origin and lacked visible signs of conventional propulsion. However, he did not save the image before his connection was interrupted. As a result, no copy has ever been publicly produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
-**Image-editing allegations.** McKinnon also claimed to have found evidence that some NASA imagery was routinely processed to remove anomalous objects. He said this matched allegations he had previously encountered from individuals who believed UFOs were being airbrushed from official photographs. Again, no independently verified documentation from the systems involved has been released. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+**Image-editing allegations.** McKinnon also claimed to have found evidence that some NASA imagery was routinely processed to remove anomalous objects. He said this matched allegations he had previously encountered from individuals who believed UFOs were being airbrushed from official photographs. Again, no independently verified documentation from the systems involved has been released.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
-**“Non-terrestrial officers”.** Perhaps the most famous claim concerns a spreadsheet that McKinnon said listed “non-terrestrial officers” and [transfers]({{ 'transfers/' | relative_url }}) between vessels with unfamiliar names. In later [retellings]({{ 'retellings/' | relative_url }}), supporters connected this to theories about secret space programmes and advanced propulsion systems. Yet no authenticated copy of the spreadsheet has been produced publicly, and the interpretation depends entirely on McKinnon’s recollection of what he saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+**“Non-terrestrial officers”.** Perhaps the most famous claim concerns a spreadsheet that McKinnon said listed “non-terrestrial officers” and [transfers]({{ 'transfers/' | relative_url }}) between vessels with unfamiliar names. In later [retellings]({{ 'retellings/' | relative_url }}), supporters connected this to theories about secret space programmes and advanced propulsion systems. Yet no authenticated copy of the spreadsheet has been produced publicly, and the interpretation depends entirely on McKinnon’s recollection of what he saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 These claims became central to anti-gravity lore because they appeared to suggest an organised infrastructure operating beyond publicly acknowledged aerospace programmes.
 
@@ -299,14 +299,14 @@ These claims became central to anti-gravity lore because they appeared to sugges
 
 The most important fact for assessing the anti-gravity claim is that the evidence is almost entirely testimonial.
 
-McKinnon unquestionably admitted accessing US military and NASA systems. The legal proceedings focused on those [intrusions]({{ 'intrusions/' | relative_url }}), not on validating his technological discoveries. The publicly documented record establishes the hacking activity, but it does not establish the existence of anti-gravity technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+McKinnon unquestionably admitted accessing US military and NASA systems. The legal proceedings focused on those [intrusions]({{ 'intrusions/' | relative_url }}), not on validating his technological discoveries. The publicly documented record establishes the hacking activity, but it does not establish the existence of anti-gravity technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 Several factors contribute to the gap:
 
 * No publicly available image corresponding to the alleged spacecraft has emerged.
 * No original copy of the “non-terrestrial officers” spreadsheet has been released.
 * No technical documents describing anti-gravity systems have been authenticated from the intrusions.
-* No government investigation resulting from the case publicly confirmed hidden propulsion technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+* No government investigation resulting from the case publicly confirmed hidden propulsion technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 This leaves researchers in an unusual position. The witness is identifiable, the hacking incident is real, and the motive is documented. Yet the alleged discoveries themselves remain inaccessible for independent examination.
 
@@ -319,7 +319,7 @@ The evidence gap has generated several competing interpretations within UFO and 
 
 ### The suppression interpretation
 
-Supporters of McKinnon often argue that the absence of evidence is itself consistent with the secrecy he was investigating. In this view, sensitive files would naturally be removed, classified or inaccessible after the breach became known. Some point to the intensity of the legal pursuit against McKinnon as circumstantial support for the idea that he encountered information officials wanted to protect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordpress.com">[socialecologies.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordpress.com</span><span class="citation-popover-title">It is not ...Read more</span><span class="citation-popover-snippet">Gary McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — The McKinnon affair lives in the liminal zone between fact, paranoia, burea...</span></span></span>
+Supporters of McKinnon often argue that the absence of evidence is itself consistent with the secrecy he was investigating. In this view, sensitive files would naturally be removed, classified or inaccessible after the breach became known. Some point to the intensity of the legal pursuit against McKinnon as circumstantial support for the idea that he encountered information officials wanted to protect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wordpress.com">[socialecologies.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wordpress.com</span><span class="citation-popover-title">It is not ...Read more</span><span class="citation-popover-snippet">Gary McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — The McKinnon affair lives in the liminal zone between fact, paranoia, burea...</span></span></span>
 
 However, this interpretation relies largely on inference rather than documented proof of anti-gravity programmes.
 
@@ -327,213 +327,213 @@ However, this interpretation relies largely on inference rather than documented 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_mckinnon_antigravity_0c034d-Illustration-3-dark.svg" | relative_url }}" alt="Gary Mc Kinnon s illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_mckinnon_antigravity_0c034d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_mckinnon_antigravity_0c034d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The misidentification interpretation
 
-A more sceptical explanation is that McKinnon may have misunderstood what he saw. Aerospace and military databases frequently contain specialised terminology, project names, logistics records and imagery that can appear unusual without broader context. Under this interpretation, apparently extraordinary files could have conventional [explanations]({{ 'explanations/' | relative_url }}) that were not visible to an outside observer browsing unfamiliar systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cybereason.com">[cybereason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cybereason.com</span><span class="citation-popover-snippet">Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</span></span></span>
+A more sceptical explanation is that McKinnon may have misunderstood what he saw. Aerospace and military databases frequently contain specialised terminology, project names, logistics records and imagery that can appear unusual without broader context. Under this interpretation, apparently extraordinary files could have conventional [explanations]({{ 'explanations/' | relative_url }}) that were not visible to an outside observer browsing unfamiliar systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cybereason.com">[cybereason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cybereason.com</span><span class="citation-popover-snippet">Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</span></span></span>
 
 ### The memory and reconstruction problem
 
-Another possibility is that the story has become more detailed through years of retelling. Human memory is not a perfect recording device, especially when recalling brief encounters with complex technical information. Since the original files were not preserved, later descriptions cannot be checked against primary records. This makes it difficult to separate initial observations from later interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+Another possibility is that the story has become more detailed through years of retelling. Human memory is not a perfect recording device, especially when recalling brief encounters with complex technical information. Since the original files were not preserved, later descriptions cannot be checked against primary records. This makes it difficult to separate initial observations from later interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 ## Why the anti-gravity claim remains influential
 
 Despite the lack of independently verifiable proof, McKinnon’s anti-gravity motive continues to resonate because it connects several powerful themes in UFO culture.
 
-First, it offers a technological explanation for UFO performance rather than merely asserting extraterrestrial presence. Second, it links UFO secrecy to a broader belief that transformative inventions are being withheld from society. Third, it involves a real-world hacking case rather than a purely anecdotal witness account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum+2Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-snippet">IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack.... “That&#x27;s when he star...</span></span></span>
+First, it offers a technological explanation for UFO performance rather than merely asserting extraterrestrial presence. Second, it links UFO secrecy to a broader belief that transformative inventions are being withheld from society. Third, it involves a real-world hacking case rather than a purely anecdotal witness account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[ieee.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-snippet">IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack.... “That&#x27;s when he star...</span></span></span>
 
-As a result, McKinnon occupies a unique place in hacker lore. The historical facts of the computer intrusions are documented, while the anti-gravity discoveries remain claims that cannot presently be verified. That combination—confirmed access but unconfirmed findings—is precisely what keeps the story alive. The motive is clear, the allegations are memorable, and the missing evidence leaves the central question unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+As a result, McKinnon occupies a unique place in hacker lore. The historical facts of the computer intrusions are documented, while the anti-gravity discoveries remain claims that cannot presently be verified. That combination—confirmed access but unconfirmed findings—is precisely what keeps the story alive. The motive is clear, the allegations are memorable, and the missing evidence leaves the central question unresolved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Gary Mc Kinnon s. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Gary Mc Kinnon s. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly covers anti-gravity, secret aerospace research, and hidden-technology narratives central to the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers anti-gravity, secret aerospace research, and hidden-technology narratives central to the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xzCK6-Kqs6QC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Science">Voodoo Science</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Park</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xzCK6-Kqs6QC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Science">Voodoo Science</a>
+</h4>
+<p class="fr-book-author">By Robert L. Park</p>
         
-        <p class="fr-book-desc">Directly addresses how scientific language can make weak or false claims sound credible.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how scientific language can make weak or false claims sound credible.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Gives readers tools for assessing extraordinary claims dressed in scientific language.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Gives readers tools for assessing extraordinary claims dressed in scientific language.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Gives broader UFO-investigation context for why hidden evidence and government secrecy narratives attract readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives broader UFO-investigation context for why hidden evidence and government secrecy narratives attract readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mc-kinnon-s-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mc-kinnon-s-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gary-mckinnon-s-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="gary-mckinnon-s-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ As a result, McKinnon occupies a unique place in hacker lore. The historical fac
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ As a result, McKinnon occupies a unique place in hacker lore. The historical fac
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ As a result, McKinnon occupies a unique place in hacker lore. The historical fac
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ As a result, McKinnon occupies a unique place in hacker lore. The historical fac
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ As a result, McKinnon occupies a unique place in hacker lore. The historical fac
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,138 +739,138 @@ As a result, McKinnon occupies a unique place in hacker lore. The historical fac
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spectrum.ieee.org  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack.... “That&#x27;s when he star...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack.... “That&#x27;s when he star...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Hi, i'm Gary Mckinnon  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I was in the news for a decade after...February 24, 2022 — I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks in...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was in the news for a decade after...February 24, 2022 — I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks in...</p></details>
    Published: February 24, 2022  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pod.wave.co  
    Title: the man that hacked nasa and found ufos interview w gary mckinnon  
-   Link: <a href="https://pod.wave.co/podcast/american-alchemy/the-man-that-hacked-nasa-and-found-ufos-interview-w-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/the-man-that-hacked-nasa-and-found-ufos-interview-w-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wave AI Podcast NotesThe Man That Hacked NASA and Found UFOs [Interview w1 Mar 2026 — Discovery: On a Navy system, Gary found a spreadshe...</p></details>
+   Link:<a href="https://pod.wave.co/podcast/american-alchemy/the-man-that-hacked-nasa-and-found-ufos-interview-w-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/american-alchemy/the-man-that-hacked-nasa-and-found-ufos-interview-w-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wave AI Podcast NotesThe Man That Hacked NASA and Found UFOs [Interview w1 Mar 2026 — Discovery: On a Navy system, Gary found a spreadshe...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: socialecologies.wordpress.com  
-   Link: <a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-[building-8" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-[building-8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — The McKinnon affair lives in the liminal zone between fact, paranoia, burea...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-[building-8" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-[building-8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — The McKinnon affair lives in the liminal zone between fact, paranoia, burea...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1milfu9/hacker_solo_hacked_nasa_and_the_us_military_what/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1milfu9/hacker_solo_hacked_nasa_and_the_us_military_what/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker SOLO hacked NASA and the U.S. military… what...127 votes, 147 comments. The story of Gary McKinnon is true and old. I&#x27;ve spoken w...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1milfu9/hacker_solo_hacked_nasa_and_the_us_military_what/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1milfu9/hacker_solo_hacked_nasa_and_the_us_military_what/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker SOLO hacked NASA and the U.S. military… what...127 votes, 147 comments. The story of Gary McKinnon is true and old. I&#x27;ve spoken w...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: Does anyone remember Gary Mc Kinnon?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A British hacker...As far as I know, he has yet to speak about this topic in 20 years. I did a small search a few months ago and found v...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A British hacker...As far as I know, he has yet to speak about this topic in 20 years. I did a small search a few months ago and found v...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Gary (The Bear episode)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (The Bear episode)&quot;Gary&quot; is a special episode of the American comedy-drama series The Bear, written by and starring cast members...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (The Bear episode)&quot;Gary&quot; is a special episode of the American comedy-drama series The Bear, written by and starring cast members...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: futureintelligence.co.uk  
    Title: mckinnon warns off fledgling hackers as hearing looms  
-   Link: <a href="https://www.futureintelligence.co.uk/2005/05/18/mckinnon-warns-off-fledgling-hackers-as-hearing-looms/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2005/05/18/mckinnon-warns-off-fledgling-hackers-as-hearing-looms/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tags: CIAGary McKinnonhackingNASANSApoliceUFO · Previous Post. Company...Read more...</p></details>
+   Link:<a href="https://www.futureintelligence.co.uk/2005/05/18/mckinnon-warns-off-fledgling-hackers-as-hearing-looms/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2005/05/18/mckinnon-warns-off-fledgling-hackers-as-hearing-looms/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tags: CIAGary McKinnonhackingNASANSApoliceUFO · Previous Post. Company...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonPlenty of people believe in aliens, UFOs and shadow government operations. Frankly, as far as conspiracy theories...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonPlenty of people believe in aliens, UFOs and shadow government operations. Frankly, as far as conspiracy theories...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: futureintelligence.co.uk  
    Title: Gary Mc Kinnon was unlucky  
-   Link: <a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — McKinnon was unlucky enough to be searching for secret UFO files while he was being watched...</p></details>
+   Link:<a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — McKinnon was unlucky enough to be searching for secret UFO files while he was being watched...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spreaker.com  
    Title: gary mckinnon the hacker who found nasa s ufo non terrestrial officers 70473181  
-   Link: <a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — In an recent interview, IT expert Gary McKinnon candidly revealed...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — In an recent interview, IT expert Gary McKinnon candidly revealed...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vps.net  
-   Link: <a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Hacks: Gary McKinnon – Blog... antigravity, UFO-related... McKinnon says that in his search he found photos of airbrushed image...</p></details>
+   Link:<a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Hacks: Gary McKinnon – Blog... antigravity, UFO-related... McKinnon says that in his search he found photos of airbrushed image...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: infosecurity-magazine.com  
-   Link: <a href="https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-decision-expected-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-decision-expected-in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hacker Gary McKinnon decision expected6 Oct 2010 — The fate of self-confessed &#x27;UFO hacker&#x27; Gary McKinnon – who has been on the cusp o...</p></details>
+   Link:<a href="https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-decision-expected-in/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-decision-expected-in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hacker Gary McKinnon decision expected6 Oct 2010 — The fate of self-confessed &#x27;UFO hacker&#x27; Gary McKinnon – who has been on the cusp o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: verticalvertical.com  
-   Link: <a href="https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking the Pentagon in search of UFO&#x27;sIn November 2002, Gary McKinnon was indicted by a federal grand jury in the Eastern District of Vi...</p></details>
+   Link:<a href="https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking the Pentagon in search of UFO&#x27;sIn November 2002, Gary McKinnon was indicted by a federal grand jury in the Eastern District of Vi...</p></details>
    Published: November 2002  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: podmust.com  
    Title: Listen online, share, subscribe  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cybernews.com  
    Title: nasa gary mckinnon hacking ufo  
-   Link: <a href="https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Non-terrestrial officers:” the UFO files Gary McKinnon says...2 Mar 2026 — “No hacking background… I was good with computers.” He portr...</p></details>
+   Link:<a href="https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Non-terrestrial officers:” the UFO files Gary McKinnon says...2 Mar 2026 — “No hacking background… I was good with computers.” He portr...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: open.spotify.com  
    Title: 69Uwei05m X2w OMuj QMq Bi3  
-   Link: <a href="https://open.spotify.com/episode/69Uwei05mX2wOMujQMqBi3" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/69Uwei05mX2wOMujQMqBi3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s NASA hack story, hi...</p></details>
+   Link:<a href="https://open.spotify.com/episode/69Uwei05mX2wOMujQMqBi3" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/69Uwei05mX2wOMujQMqBi3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s NASA hack story, hi...</p></details>

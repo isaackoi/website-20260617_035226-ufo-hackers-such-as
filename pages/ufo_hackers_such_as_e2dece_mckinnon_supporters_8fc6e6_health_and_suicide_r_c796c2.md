@@ -280,19 +280,19 @@ image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_heal
 
 ## Introduction
 
-The turning point in support for Gary McKinnon was not a new argument about hacking, UFOs, or computer security. It was the growing acceptance of medical evidence that he had Asperger’s syndrome, severe depression, and a substantial risk of suicide if extradited to the United States. Once those issues moved to the centre of the case, many supporters stopped arguing primarily about guilt, innocence, or cybercrime and instead focused on vulnerability, proportionality, and [human rights]({{ 'human-rights/' | relative_url }}). What had begun as a dispute over computer intrusion increasingly became a debate about whether extradition law should permit the transfer of a seriously ill person when the psychological consequences might be catastrophic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
+The turning point in support for Gary McKinnon was not a new argument about hacking, UFOs, or computer security. It was the growing acceptance of medical evidence that he had Asperger’s syndrome, severe depression, and a substantial risk of suicide if extradited to the United States. Once those issues moved to the centre of the case, many supporters stopped arguing primarily about guilt, innocence, or cybercrime and instead focused on vulnerability, proportionality, and [human rights]({{ 'human-rights/' | relative_url }}). What had begun as a dispute over computer intrusion increasingly became a debate about whether extradition law should permit the transfer of a seriously ill person when the psychological consequences might be catastrophic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-1-dark.svg" | relative_url }}" alt="Health Argument illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This shift reshaped the coalition behind McKinnon. Autism advocates, psychiatrists, human-rights [campaigners]({{ 'campaigners/' | relative_url }}), MPs, and public figures found common ground around the health implications of extradition, even when they differed on the underlying criminal allegations. The medical dimension ultimately became the strongest argument against extradition and the basis on which the UK government blocked his removal in 2012. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
+This shift reshaped the coalition behind McKinnon. Autism advocates, psychiatrists, human-rights [campaigners]({{ 'campaigners/' | relative_url }}), MPs, and public figures found common ground around the health implications of extradition, even when they differed on the underlying criminal allegations. The medical dimension ultimately became the strongest argument against extradition and the basis on which the UK government blocked his removal in 2012.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
 
 ## Why the Asperger's Diagnosis Changed the Debate
 
-McKinnon’s diagnosis of Asperger’s syndrome emerged after the extradition battle was already under way. According to later accounts, autism specialists recognised characteristics associated with Asperger’s syndrome after seeing him speak publicly, leading to formal assessments that became central to subsequent legal and political arguments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">film scottish hacker gary mckinnon fight against us extradition</span><span class="citation-popover-snippet">After McKinnon appeared on television, specialists in autism realised that he had Asperger...Read more...</span></span></span>
+McKinnon’s diagnosis of Asperger’s syndrome emerged after the extradition battle was already under way. According to later accounts, autism specialists recognised characteristics associated with Asperger’s syndrome after seeing him speak publicly, leading to formal assessments that became central to subsequent legal and political arguments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">film scottish hacker gary mckinnon fight against us extradition</span><span class="citation-popover-snippet">After McKinnon appeared on television, specialists in autism realised that he had Asperger...Read more...</span></span></span>
 
-The diagnosis mattered because it offered a framework through which supporters interpreted his behaviour. Rather than presenting him as a conventional cybercriminal motivated by profit, espionage, or sabotage, campaigners increasingly portrayed him as an intensely focused individual whose interests and obsessions fitted recognised features of autism-spectrum conditions. That did not erase the allegations against him, but it changed how many observers understood his conduct and vulnerability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">film scottish hacker gary mckinnon fight against us extradition</span><span class="citation-popover-snippet">After McKinnon appeared on television, specialists in autism realised that he had Asperger...Read more...</span></span></span>
+The diagnosis mattered because it offered a framework through which supporters interpreted his behaviour. Rather than presenting him as a conventional cybercriminal motivated by profit, espionage, or sabotage, campaigners increasingly portrayed him as an intensely focused individual whose interests and obsessions fitted recognised features of autism-spectrum conditions. That did not erase the allegations against him, but it changed how many observers understood his conduct and vulnerability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">film scottish hacker gary mckinnon fight against us extradition</span><span class="citation-popover-snippet">After McKinnon appeared on television, specialists in autism realised that he had Asperger...Read more...</span></span></span>
 
-For supporters, the key point was not that Asperger’s syndrome excused unlawful access to computer systems. It was that extradition to a foreign legal system, prolonged uncertainty, isolation from familiar support networks, and the prospect of severe punishment could affect someone with his condition in unusually damaging ways. Medical evidence increasingly focused on those consequences rather than on the hacking allegations themselves. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutism spectrum disorder and suitability for extradition</span><span class="citation-popover-snippet">by I Freckelton · 2020 · Cited by 8 — Ultimately, after the legal processes had been exhausted, Theresa May, the Home Secretary, exerc...</span></span></span>
+For supporters, the key point was not that Asperger’s syndrome excused unlawful access to computer systems. It was that extradition to a foreign legal system, prolonged uncertainty, isolation from familiar support networks, and the prospect of severe punishment could affect someone with his condition in unusually damaging ways. Medical evidence increasingly focused on those consequences rather than on the hacking allegations themselves.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCAutism spectrum disorder and suitability for extradition</span><span class="citation-popover-snippet">by I Freckelton · 2020 · Cited by 8 — Ultimately, after the legal processes had been exhausted, Theresa May, the Home Secretary, exerc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y5jtyps4oaY" title="UK Hacker extradition to US blocked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer">UK Hacker extradition to US blocked</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 3.1K &middot; Uploaded: October 2012 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y5jtyps4oaY">Open on YouTube</a></p></div></div></div>
@@ -301,11 +301,11 @@ For supporters, the key point was not that Asperger’s syndrome excused unlawfu
 
 The most influential evidence concerned the possibility that McKinnon might take his own life if extradited.
 
-Over several years, psychiatrists and autism specialists examined him and produced assessments addressing both his mental health and his fitness to withstand extradition proceedings. By 2012, expert reports submitted to the Home Office concluded that he faced an extreme or very high risk of suicide if removed to the United States. Among the specialists cited in public reporting was Professor Simon Baron-Cohen, who warned that extradition carried a serious risk that McKinnon would end his life. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/jul/24/gary-mckinnon-extradition-decision-delayed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon extradition decision delayed</span><span class="citation-popover-snippet">The GuardianGary McKinnon extradition decision delayed until October24 Jul 2012 — McKinnon had three medical examinations in April by thr...</span></span></span>
+Over several years, psychiatrists and autism specialists examined him and produced assessments addressing both his mental health and his fitness to withstand extradition proceedings. By 2012, expert reports submitted to the Home Office concluded that he faced an extreme or very high risk of suicide if removed to the United States. Among the specialists cited in public reporting was Professor Simon Baron-Cohen, who warned that extradition carried a serious risk that McKinnon would end his life.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/jul/24/gary-mckinnon-extradition-decision-delayed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon extradition decision delayed</span><span class="citation-popover-snippet">The GuardianGary McKinnon extradition decision delayed until October24 Jul 2012 — McKinnon had three medical examinations in April by thr...</span></span></span>
 
-The focus on suicide risk transformed the public discussion because it raised a stark question: even if extradition was legally available, should it proceed if the likely consequence was severe psychiatric collapse or self-harm? That question was easier for many supporters to rally around than technical disputes about computer systems or international jurisdiction. It framed the issue in human rather than technological terms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
+The focus on suicide risk transformed the public discussion because it raised a stark question: even if extradition was legally available, should it proceed if the likely consequence was severe psychiatric collapse or self-harm? That question was easier for many supporters to rally around than technical disputes about computer systems or international jurisdiction. It framed the issue in human rather than technological terms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
 
-As the case progressed, campaigners repeatedly highlighted the cumulative effect of years of legal uncertainty, depression, and anxiety. The health argument therefore became both medical and humanitarian: the concern was not simply diagnosis, but the interaction between autism, depressive illness, and the stresses associated with extradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon is accused of serious crimes, but there is also no doubt that he is...</span></span></span>
+As the case progressed, campaigners repeatedly highlighted the cumulative effect of years of legal uncertainty, depression, and anxiety. The health argument therefore became both medical and humanitarian: the concern was not simply diagnosis, but the interaction between autism, depressive illness, and the stresses associated with extradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon is accused of serious crimes, but there is also no doubt that he is...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-2-dark.svg" | relative_url }}" alt="Health Argument illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -313,11 +313,11 @@ As the case progressed, campaigners repeatedly highlighted the cumulative effect
 
 One reason the case remained controversial was that the medical evidence was not entirely one-sided.
 
-Reports discussed in court and government proceedings showed disagreement among experts about the severity of the danger. Some specialists concluded that McKinnon was at extreme risk of suicide and unfit to face extradition, while others assessed the risk as significant but more moderate. These competing evaluations became a major point of contention during [appeals]({{ 'appeals/' | relative_url }}) and reviews. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/jul/24/gary-mckinnon-extradition-decision-delayed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon extradition decision delayed</span><span class="citation-popover-snippet">The GuardianGary McKinnon extradition decision delayed until October24 Jul 2012 — McKinnon had three medical examinations in April by thr...</span></span></span>
+Reports discussed in court and government proceedings showed disagreement among experts about the severity of the danger. Some specialists concluded that McKinnon was at extreme risk of suicide and unfit to face extradition, while others assessed the risk as significant but more moderate. These competing evaluations became a major point of contention during [appeals]({{ 'appeals/' | relative_url }}) and reviews.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/jul/24/gary-mckinnon-extradition-decision-delayed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon extradition decision delayed</span><span class="citation-popover-snippet">The GuardianGary McKinnon extradition decision delayed until October24 Jul 2012 — McKinnon had three medical examinations in April by thr...</span></span></span>
 
-This disagreement allowed critics of the campaign to argue that suicide risk should not automatically prevent extradition whenever a defendant suffered from mental illness. Supporters responded that the relevant question was not whether every expert agreed, but whether the evidence demonstrated a sufficiently serious and credible risk to make extradition unsafe. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/Article_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-snippet">Mental Health Law OnlineArticle 3Because of the claimant&#x27;s Asperger&#x27;s Syndrome, extradition to the US would cause his mental health to su...</span></span></span>
+This disagreement allowed critics of the campaign to argue that suicide risk should not automatically prevent extradition whenever a defendant suffered from mental illness. Supporters responded that the relevant question was not whether every expert agreed, but whether the evidence demonstrated a sufficiently serious and credible risk to make extradition unsafe.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/Article_3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-snippet">Mental Health Law OnlineArticle 3Because of the claimant&#x27;s Asperger&#x27;s Syndrome, extradition to the US would cause his mental health to su...</span></span></span>
 
-The eventual political decision reflected the view that the risk crossed that threshold. Home Secretary Theresa May stated that, after considering the medical evidence, extradition would create such a high risk of suicide that it would be incompatible with McKinnon’s rights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
+The eventual political decision reflected the view that the risk crossed that threshold. Home Secretary Theresa May stated that, after considering the medical evidence, extradition would create such a high risk of suicide that it would be incompatible with McKinnon’s rights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v4Js8DF80HY" title="UK hacker&#x27;s extradition to US blocked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v4Js8DF80HY" target="_blank" rel="noopener noreferrer">UK hacker&#x27;s extradition to US blocked</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 3.2K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v4Js8DF80HY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v4Js8DF80HY">Open on YouTube</a></p></div></div></div>
@@ -326,11 +326,11 @@ The eventual political decision reflected the view that the risk crossed that th
 
 The medical evidence gained its greatest force when linked to human-rights law.
 
-Earlier legal challenges had struggled to persuade courts that McKinnon’s condition was sufficient to stop extradition. Courts acknowledged concerns about Asperger’s syndrome and suicide risk but did not initially find them enough to block the process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-title">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span><span class="citation-popover-snippet">Mental Health Law OnlineR (McKinnon) v SSHA [2009] EWHC 2021 (Admin)Because of the claimant&#x27;s Asperger&#x27;s Syndrome, extradition to the US...</span></span></span>
+Earlier legal challenges had struggled to persuade courts that McKinnon’s condition was sufficient to stop extradition. Courts acknowledged concerns about Asperger’s syndrome and suicide risk but did not initially find them enough to block the process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-title">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span><span class="citation-popover-snippet">Mental Health Law OnlineR (McKinnon) v SSHA [2009] EWHC 2021 (Admin)Because of the claimant&#x27;s Asperger&#x27;s Syndrome, extradition to the US...</span></span></span>
 
-By 2012, however, the issue had moved beyond a narrow medical dispute. The Home Secretary framed the question as whether extradition would be compatible with McKinnon’s human rights given the danger to his life and mental health. Her conclusion was that the risk was so high that extradition could not lawfully proceed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
+By 2012, however, the issue had moved beyond a narrow medical dispute. The Home Secretary framed the question as whether extradition would be compatible with McKinnon’s human rights given the danger to his life and mental health. Her conclusion was that the risk was so high that extradition could not lawfully proceed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
 
-That reasoning was crucial for supporters. It allowed them to argue that opposition to extradition was not a claim that hacking should go unpunished. Instead, they maintained that fundamental protections should apply even to people accused of serious offences. The campaign therefore shifted from a debate about cybercrime to a broader discussion about how extradition systems should treat defendants with serious mental-health vulnerabilities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2The Week]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
+That reasoning was crucial for supporters. It allowed them to argue that opposition to extradition was not a claim that hacking should go unpunished. Instead, they maintained that fundamental protections should apply even to people accused of serious offences. The campaign therefore shifted from a debate about cybercrime to a broader discussion about how extradition systems should treat defendants with serious mental-health vulnerabilities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-3-dark.svg" | relative_url }}" alt="Health Argument illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_health_and_suicide_r_c796c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -338,203 +338,203 @@ That reasoning was crucial for supporters. It allowed them to argue that opposit
 
 The emphasis on Asperger’s syndrome and suicide risk did more than help McKinnon personally. It changed the meaning of the case in public life.
 
-Support increasingly came from people who had little interest in UFOs or computer hacking but strong concerns about disability rights, mental health, and the fairness of extradition procedures. The case became a reference point in later debates involving other British hacking suspects with autism-spectrum conditions, including [Lauri Love]({{ 'lauri-love/' | relative_url }}), whose supporters repeatedly invoked the McKinnon precedent when arguing against extradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Courts and Tribunals JudiciaryLauri Love -v- The Government of the United States of...February 5, 2018 — 5 Feb 2018 — Asperger Syndrome...</span><span class="citation-popover-meta">Published: February 5, 2018</span></span></span>
+Support increasingly came from people who had little interest in UFOs or computer hacking but strong concerns about disability rights, mental health, and the fairness of extradition procedures. The case became a reference point in later debates involving other British hacking suspects with autism-spectrum conditions, including [Lauri Love]({{ 'lauri-love/' | relative_url }}), whose supporters repeatedly invoked the McKinnon precedent when arguing against extradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[judiciary.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Courts and Tribunals JudiciaryLauri Love -v- The Government of the United States of...February 5, 2018 — 5 Feb 2018 — Asperger Syndrome...</span><span class="citation-popover-meta">Published: February 5, 2018</span></span></span>
 
-Within the campaign itself, health concerns became the mechanism through which a technical criminal case was transformed into a national debate about vulnerability and justice. The strongest support for McKinnon ultimately rested not on what he claimed to be searching for in government computer systems, but on the belief that extraditing a man with Asperger’s syndrome and a documented suicide risk would be an unacceptable human cost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
+Within the campaign itself, health concerns became the mechanism through which a technical criminal case was transformed into a national debate about vulnerability and justice. The strongest support for McKinnon ultimately rested not on what he claimed to be searching for in government computer systems, but on the belief that extraditing a man with Asperger’s syndrome and a documented suicide risk would be an unacceptable human cost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OImdnvQx7sQ" title="Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer">Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN</a></p><p class="youtube-embed-meta">Channel: NordVPN &middot; Views: 28.6K &middot; Uploaded: May 2023 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OImdnvQx7sQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Health Concerns Became the Central Issue. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Health Concerns Became the Central Issue. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Neurotribes+by+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neurotribes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3WgBDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Neurotribes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Neurotribes+by+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neurotribes">Neurotribes</a>
-        </h4>
-        <p class="fr-book-author">By Steve Silberman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Neurotribes+by+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Neurotribes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=3WgBDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Neurotribes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Neurotribes+by+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Neurotribes">Neurotribes</a>
+</h4>
+<p class="fr-book-author">By Steve Silberman</p>
         
-        <p class="fr-book-desc">Provides context for Asperger&#x27;s-related advocacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Neurotribes+by+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for Asperger&#x27;s-related advocacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Neurotribes+by+Steve+Silberman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Noonday+Demon+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Noonday Demon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bM0oI8g1JZQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Noonday Demon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Noonday+Demon+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Noonday Demon">The Noonday Demon</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Solomon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Noonday+Demon+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Noonday Demon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=bM0oI8g1JZQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Noonday Demon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Noonday+Demon+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Noonday Demon">The Noonday Demon</a>
+</h4>
+<p class="fr-book-author">By Andrew Solomon</p>
         
-        <p class="fr-book-desc">Useful background on severe depression and risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Noonday+Demon+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful background on severe depression and risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Noonday+Demon+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Uniquely+Human+by+Barry+M.+Prizant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Uniquely Human on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5EojBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Uniquely Human" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Uniquely+Human+by+Barry+M.+Prizant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Uniquely Human">Uniquely Human</a>
-        </h4>
-        <p class="fr-book-author">By Barry M. Prizant</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Uniquely+Human+by+Barry+M.+Prizant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Uniquely Human on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5EojBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Uniquely Human" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Uniquely+Human+by+Barry+M.+Prizant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Uniquely Human">Uniquely Human</a>
+</h4>
+<p class="fr-book-author">By Barry M. Prizant</p>
         
-        <p class="fr-book-desc">Addresses vulnerability and support needs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Uniquely+Human+by+Barry+M.+Prizant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses vulnerability and support needs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Uniquely+Human+by+Barry+M.+Prizant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Far+From+the+Tree+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Far From the Tree on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vTT6AAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Far From the Tree" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Far+From+the+Tree+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Far From the Tree">Far From the Tree</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Solomon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Far+From+the+Tree+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Far From the Tree on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vTT6AAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Far From the Tree" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Far+From+the+Tree+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Far From the Tree">Far From the Tree</a>
+</h4>
+<p class="fr-book-author">By Andrew Solomon</p>
         
-        <p class="fr-book-desc">Explores disability, difference, and family advocacy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Far+From+the+Tree+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores disability, difference, and family advocacy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Far+From+the+Tree+by+Andrew+Solomon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Neurotribes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Neurotribes</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Noonday+Demon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Noonday Demon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Uniquely+Human&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Uniquely Human</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Neurotribes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Neurotribes</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Noonday+Demon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Noonday Demon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Uniquely+Human&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Uniquely Human</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="health-argument-why-health-concerns-became-the-central-issue-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -550,7 +550,7 @@ Within the campaign itself, health concerns became the mechanism through which a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -570,7 +570,7 @@ Within the campaign itself, health concerns became the mechanism through which a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -602,7 +602,7 @@ Within the campaign itself, health concerns became the mechanism through which a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -654,7 +654,7 @@ Within the campaign itself, health concerns became the mechanism through which a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -699,7 +699,7 @@ Within the campaign itself, health concerns became the mechanism through which a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -740,189 +740,189 @@ Within the campaign itself, health concerns became the mechanism through which a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</p></details>
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: theresa may statement on gary mckinnon extradition  
-   Link: <a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May statement on Gary McKinnon extradition16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high ri...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May statement on Gary McKinnon extradition16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high ri...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on Gary McKinnon case4 Nov 2010 — July 2009 - High Court dismisses Mr McKinnon&#x27;s judicial challenge to that decision. October 2009 - Supr...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Gary McKinnon case4 Nov 2010 — July 2009 - High Court dismisses Mr McKinnon&#x27;s judicial challenge to that decision. October 2009 - Supr...</p></details>
    Published: July 2009  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCAutism spectrum disorder and suitability for extradition  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>by I Freckelton · 2020 · Cited by 8 — Ultimately, after the legal processes had been exhausted, Theresa May, the Home Secretary, exerc...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7476620/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>by I Freckelton · 2020 · Cited by 8 — Ultimately, after the legal processes had been exhausted, Theresa May, the Home Secretary, exerc...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: judiciary.uk  
-   Link: <a href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Courts and Tribunals JudiciaryLauri Love -v- The Government of the United States of...February 5, 2018 — 5 Feb 2018 — Asperger Syndrome...</p></details>
+   Link:<a href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Courts and Tribunals JudiciaryLauri Love -v- The Government of the United States of...February 5, 2018 — 5 Feb 2018 — Asperger Syndrome...</p></details>
    Published: February 5, 2018  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Extradition  
-   Link: <a href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon is accused of serious crimes, but there is also no doubt that he is...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extradition - Hansard - UK Parliament16 Oct 2012 — Mr McKinnon is accused of serious crimes, but there is also no doubt that he is...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theweek.com  
-   Link: <a href="https://theweek.com/politics/49577/mckinnon-extradition-blocked-may-invokes-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/politics/49577/mckinnon-extradition-blocked-may-invokes-human-rights</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The WeekMcKinnon extradition blocked as May invokes human rightsOct 16, 2012 — May told MPs that there is no doubt McKinnon is seriously...</p></details>
+   Link:<a href="https://theweek.com/politics/49577/mckinnon-extradition-blocked-may-invokes-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://theweek.com/politics/49577/mckinnon-extradition-blocked-may-invokes-human-rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The WeekMcKinnon extradition blocked as May invokes human rightsOct 16, 2012 — May told MPs that there is no doubt McKinnon is seriously...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: film scottish hacker gary mckinnon fight against us extradition  
-   Link: <a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>After McKinnon appeared on television, specialists in autism realised that he had Asperger...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After McKinnon appeared on television, specialists in autism realised that he had Asperger...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: mentalhealthlaw.co.uk  
-   Link: <a href="https://www.mentalhealthlaw.co.uk/Article_3" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/Article_3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Health Law OnlineArticle 3Because of the claimant&#x27;s Asperger&#x27;s Syndrome, extradition to the US would cause his mental health to su...</p></details>
+   Link:<a href="https://www.mentalhealthlaw.co.uk/Article_3" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/Article_3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Health Law OnlineArticle 3Because of the claimant&#x27;s Asperger&#x27;s Syndrome, extradition to the US would cause his mental health to su...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition decision delayed  
-   Link: <a href="https://www.theguardian.com/world/2012/jul/24/gary-mckinnon-extradition-decision-delayed" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/jul/24/gary-mckinnon-extradition-decision-delayed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon extradition decision delayed until October24 Jul 2012 — McKinnon had three medical examinations in April by thr...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/jul/24/gary-mckinnon-extradition-decision-delayed" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/jul/24/gary-mckinnon-extradition-decision-delayed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon extradition decision delayed until October24 Jul 2012 — McKinnon had three medical examinations in April by thr...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: gary mckinnon medical report us extradition  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/12/gary-mckinnon-medical-report-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/12/gary-mckinnon-medical-report-us-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon medical report offers hope against US...12 Oct 2012 — Study says British man wanted in US for hacking Pentagon computers c...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/12/gary-mckinnon-medical-report-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/12/gary-mckinnon-medical-report-us-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon medical report offers hope against US...12 Oct 2012 — Study says British man wanted in US for hacking Pentagon computers c...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: gary mckinnon feels set free  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon feels &#x27;set free&#x27; after US extradition decision17 Oct 2012 — The computer hacker whose extradition to the US was blocked by...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon feels &#x27;set free&#x27; after US extradition decision17 Oct 2012 — The computer hacker whose extradition to the US was blocked by...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mentalhealthlaw.co.uk  
    Title: R (McKinnon) v SSHA (2009) EWHC 2021 (Admin)  
-   Link: <a href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Health Law OnlineR (McKinnon) v SSHA [2009] EWHC 2021 (Admin)Because of the claimant&#x27;s Asperger&#x27;s Syndrome, extradition to the US...</p></details>
+   Link:<a href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mental Health Law OnlineR (McKinnon) v SSHA [2009] EWHC 2021 (Admin)Because of the claimant&#x27;s Asperger&#x27;s Syndrome, extradition to the US...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/law/2016/nov/14/amber-rudd-approves-lauri-love-extradition-to-us-on-hacking-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2016/nov/14/amber-rudd-approves-lauri-love-extradition-to-us-on-hacking-charges</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Love, who could face up to 99 years in prison if convicted, argues that his health conditions, including depression and eczema, could wor...</p></details>
+   Link:<a href="https://www.theguardian.com/law/2016/nov/14/amber-rudd-approves-lauri-love-extradition-to-us-on-hacking-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2016/nov/14/amber-rudd-approves-lauri-love-extradition-to-us-on-hacking-charges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Love, who could face up to 99 years in prison if convicted, argues that his health conditions, including depression and eczema, could wor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/53322/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/53322/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukEXL0062 - Evidence on Extradition LawIn 2009 Talha Ahsan was independently diagnosed to also have Asperger Syndrome as well...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/53322/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/53322/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukEXL0062 - Evidence on Extradition LawIn 2009 Talha Ahsan was independently diagnosed to also have Asperger Syndrome as well...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hansard.parliament.uk  
    Title: uk Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In its judgment on the Director of Public Prosecution&#x27;s decision that Mr. McKinnon...Read more...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In its judgment on the Director of Public Prosecution&#x27;s decision that Mr. McKinnon...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: parliament.uk  
-   Link: <a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on Gary McKinnonSecretary of State for the Home Department, Theresa May made a statement in the House of Commons on Tuesday 16...</p></details>
+   Link:<a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on Gary McKinnonSecretary of State for the Home Department, Theresa May made a statement in the House of Commons on Tuesday 16...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: publications.parliament.uk  
    Title: uk Home Affairs Committee  
-   Link: <a href="https://publications.parliament.uk/pa/cm200809/cmselect/cmhaff/1105/09111003.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200809/cmselect/cmhaff/1105/09111003.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Affairs Committee - Minutes of Evidence15 Dec 2009 — The NAS strongly believes that the extradition proceedings of Mr McKinnon should be...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm200809/cmselect/cmhaff/1105/09111003.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200809/cmselect/cmhaff/1105/09111003.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Affairs Committee - Minutes of Evidence15 Dec 2009 — The NAS strongly believes that the extradition proceedings of Mr McKinnon should be...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition theresa may  
-   Link: <a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s campaigners have called for support from the n...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s campaigners have called for support from the n...</p></details>
    Published: May 2010  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: gary mckinnon case double standards  
-   Link: <a href="https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: a case of double standards?17 Oct 2012 — The home secretary&#x27;s decision not to extradite the Crouch End Asperger&#x27;s sufferer...</p></details>
+   Link:<a href="https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/blog/2012/oct/17/gary-mckinnon-case-double-standards</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: a case of double standards?17 Oct 2012 — The home secretary&#x27;s decision not to extradite the Crouch End Asperger&#x27;s sufferer...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition halted by Theresa May – videoThe home secretary announces the withdrawal of an extradition order to the United...</p></details>
+   Link:<a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition halted by Theresa May – videoThe home secretary announces the withdrawal of an extradition order to the United...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonOn 16 October 2012, after a series of legal proceedings in Britain, then Home Secretary Theresa May blocked extradition t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonOn 16 October 2012, after a series of legal proceedings in Britain, then Home Secretary Theresa May blocked extradition t...</p></details>
    Published: October 2012  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: emerald.com  
-   Link: <a href="https://www.emerald.com/insight/content/doi/10.5042/tldr.2010.0170/full/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/insight/content/doi/10.5042/tldr.2010.0170/full/pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingInjustice and disabilities: the case against the extradition of Gary...Gary McKinnon is wanted in the United States of...</p></details>
+   Link:<a href="https://www.emerald.com/insight/content/doi/10.5042/tldr.2010.0170/full/pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.emerald.com/insight/content/doi/10.5042/tldr.2010.0170/full/pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Emerald PublishingInjustice and disabilities: the case against the extradition of Gary...Gary McKinnon is wanted in the United States of...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: keranews.org  
    Title: u k blocks extradition of hacker accused of accessing pentagon computers  
-   Link: <a href="https://www.keranews.org/2012-10-16/u-k-blocks-extradition-of-hacker-accused-of-accessing-pentagon-computers" target="_blank" rel="noopener noreferrer nofollow">https://www.keranews.org/2012-10-16/u-k-blocks-extradition-of-hacker-accused-of-accessing-pentagon-computers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blocks Extradition Of Hacker Accused Of Accessing...Oct 16, 2012 — &quot;Home Secretary Theresa May said McKinnon&#x27;s Asperger syndrome and dep...</p></details>
+   Link:<a href="https://www.keranews.org/2012-10-16/u-k-blocks-extradition-of-hacker-accused-of-accessing-pentagon-computers" target="_blank" rel="noopener noreferrer nofollow">https://www.keranews.org/2012-10-16/u-k-blocks-extradition-of-hacker-accused-of-accessing-pentagon-computers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blocks Extradition Of Hacker Accused Of Accessing...Oct 16, 2012 — &quot;Home Secretary Theresa May said McKinnon&#x27;s Asperger syndrome and dep...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NationalAutisticSociety/posts/hi-everyonethe-home-secretary-has-announced-that-gary-mckinnon-who-has-asperger-/10151037992641599/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NationalAutisticSociety/posts/hi-everyonethe-home-secretary-has-announced-that-gary-mckinnon-who-has-asperger-/10151037992641599/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Autistic SocietyHi everyone, The Home Secretary has announced that Gary McKinnon, who has Asperger syndrome, will not be extradi...</p></details>
+   Link:<a href="https://www.facebook.com/NationalAutisticSociety/posts/hi-everyonethe-home-secretary-has-announced-that-gary-mckinnon-who-has-asperger-/10151037992641599/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NationalAutisticSociety/posts/hi-everyonethe-home-secretary-has-announced-that-gary-mckinnon-who-has-asperger-/10151037992641599/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Autistic SocietyHi everyone, The Home Secretary has announced that Gary McKinnon, who has Asperger syndrome, will not be extradi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: arstechnica.com  
    Title: uk halts extradition of accused hacker over suicide concerns  
-   Link: <a href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — Theresa May, the UK home secretary, has decided to block McKinnon&#x27;s extradition after medical experts declared that he was...</p></details>
+   Link:<a href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — Theresa May, the UK home secretary, has decided to block McKinnon&#x27;s extradition after medical experts declared that he was...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: hrlc.org.au  
-   Link: <a href="https://www.hrlc.org.au/case-summaries/european-court-rejects-extradition-request-on-basis-of-acute-mental-illness/" target="_blank" rel="noopener noreferrer nofollow">https://www.hrlc.org.au/case-summaries/european-court-rejects-extradition-request-on-basis-of-acute-mental-illness/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>igh Court upholds lawfulness of refugee deportation to Nauru, despite [health risks](&amp;#123;&amp;#123; &#x27;health-risk/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+   Link:<a href="https://www.hrlc.org.au/case-summaries/european-court-rejects-extradition-request-on-basis-of-acute-mental-illness/" target="_blank" rel="noopener noreferrer nofollow">https://www.hrlc.org.au/case-summaries/european-court-rejects-extradition-request-on-basis-of-acute-mental-illness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>igh Court upholds lawfulness of refugee deportation to Nauru, despite [health risks](&amp;#123;&amp;#123; &#x27;health-risk/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: libertyhumanrights.org.uk  
-   Link: <a href="https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Liberty&#x27;s submission to the Joint Committee on Human Rights...McKinnon&#x27;s as the alleged offence was committed in the UK and, due to Mr...</p></details>
+   Link:<a href="https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Liberty&#x27;s submission to the Joint Committee on Human Rights...McKinnon&#x27;s as the alleged offence was committed in the UK and, due to Mr...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: journals.law.unc.edu  
    Title: u k ends 10 year extradition battle of hacker gary mckinnon  
-   Link: <a href="https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ends 10 Year Extradition Battle of Hacker Gary McKinnonTwo years later, a High Court judge, along with psychiatric examiners, determined...</p></details>
+   Link:<a href="https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://journals.law.unc.edu/ncjolt/blogs/u-k-ends-10-year-extradition-battle-of-hacker-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ends 10 Year Extradition Battle of Hacker Gary McKinnonTwo years later, a High Court judge, along with psychiatric examiners, determined...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: news.sky.com  
    Title: gary mckinnon may blocks extradition to us 10467050  
-   Link: <a href="https://news.sky.com/story/gary-mckinnon-may-blocks-extradition-to-us-10467050" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/gary-mckinnon-may-blocks-extradition-to-us-10467050</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsGary McKinnon: May Blocks Extradition To US16 Oct 2012 — She told MPs: &quot;Mr McKinnon is accused of serious crimes but there is als...</p></details>
+   Link:<a href="https://news.sky.com/story/gary-mckinnon-may-blocks-extradition-to-us-10467050" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/gary-mckinnon-may-blocks-extradition-to-us-10467050</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsGary McKinnon: May Blocks Extradition To US16 Oct 2012 — She told MPs: &quot;Mr McKinnon is accused of serious crimes but there is als...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ukhumanrightsblog.com  
    Title: evidence showed a real risk of suicide if Mc Kinnon were extradited.Read more  
-   Link: <a href="https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/" target="_blank" rel="noopener noreferrer nofollow">https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, Prince Charles&#x27; letters and free speech22 Oct 2012 — This week Theresa May delivered a statement in the House of Commons...</p></details>
+   Link:<a href="https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/" target="_blank" rel="noopener noreferrer nofollow">https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, Prince Charles&#x27; letters and free speech22 Oct 2012 — This week Theresa May delivered a statement in the House of Commons...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: abc.net.au  
    Title: uk hacker wins fight against extradition  
-   Link: <a href="https://www.abc.net.au/news/2012-10-17/uk-hacker-wins-fight-against-extradition/4317168" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2012-10-17/uk-hacker-wins-fight-against-extradition/4317168</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to US16 Oct 2012 — The US has expressed its &quot;disappointment&quot; after the British government blocked the extradition of an Asperger&#x27;s suffer...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2012-10-17/uk-hacker-wins-fight-against-extradition/4317168" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2012-10-17/uk-hacker-wins-fight-against-extradition/4317168</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to US16 Oct 2012 — The US has expressed its &quot;disappointment&quot; after the British government blocked the extradition of an Asperger&#x27;s suffer...</p></details>

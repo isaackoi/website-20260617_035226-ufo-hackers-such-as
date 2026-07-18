@@ -274,15 +274,15 @@ image: /assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_spac
 
 ## Introduction
 
-The creation of the United States Space Force in December 2019 did not validate claims that a hidden military [space fleet]({{ 'space-fleet/' | relative_url }}) already existed. However, it did give new life to older theories that had circulated for years in UFO and secret-space-program communities, including narratives inspired by Gary McKinnon's claims about “Non-Terrestrial Officers” and alleged ship-transfer records. For some believers, the appearance of an official military branch devoted to space looked less like a new development and more like a public acknowledgement of activities they argued had been occurring in secret for decades. The result was a renewed debate: was the Space Force a genuinely new organisation, or evidence that previously hidden programmes were gradually moving into the open? [Public records]({{ 'public-records/' | relative_url }}) strongly support the former interpretation, but the latter remains influential in conspiracy and UFO circles. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil+2spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</span></span></span>
+The creation of the United States Space Force in December 2019 did not validate claims that a hidden military [space fleet]({{ 'space-fleet/' | relative_url }}) already existed. However, it did give new life to older theories that had circulated for years in UFO and secret-space-program communities, including narratives inspired by Gary McKinnon's claims about “Non-Terrestrial Officers” and alleged ship-transfer records. For some believers, the appearance of an official military branch devoted to space looked less like a new development and more like a public acknowledgement of activities they argued had been occurring in secret for decades. The result was a renewed debate: was the Space Force a genuinely new organisation, or evidence that previously hidden programmes were gradually moving into the open? [Public records]({{ 'public-records/' | relative_url }}) strongly support the former interpretation, but the latter remains influential in conspiracy and UFO circles.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-1-dark.svg" | relative_url }}" alt="Space Force illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Creation of the Space Force
 
-The Space Force was formally established on 20 December 2019 through the National Defense Authorization Act. It became the first new branch of the US armed forces since 1947 and was created by transferring existing military space missions, personnel and responsibilities that had previously been distributed across organisations such as Air Force Space Command. Official histories describe it as an administrative and organisational restructuring designed to concentrate responsibility for military space operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil+2spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</span></span></span>
+The Space Force was formally established on 20 December 2019 through the National Defense Authorization Act. It became the first new branch of the US armed forces since 1947 and was created by transferring existing military space missions, personnel and responsibilities that had previously been distributed across organisations such as Air Force Space Command. Official histories describe it as an administrative and organisational restructuring designed to concentrate responsibility for military space operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</span></span></span>
 
-Its publicly stated mission focuses on satellites, communications, missile warning systems, navigation networks such as GPS, space-domain awareness and protection of American space assets. These are highly consequential military functions, but they are not the crewed deep-space operations described in secret fleet narratives. Public documentation presents the Space Force as an evolution of longstanding military space activities rather than the unveiling of a hidden extraterrestrial or interplanetary programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/United_States_Space_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">United States Space Force</span><span class="citation-popover-snippet">United States Space Force</span></span></span>
+Its publicly stated mission focuses on satellites, communications, missile warning systems, navigation networks such as GPS, space-domain awareness and protection of American space assets. These are highly consequential military functions, but they are not the crewed deep-space operations described in secret fleet narratives. Public documentation presents the Space Force as an evolution of longstanding military space activities rather than the unveiling of a hidden extraterrestrial or interplanetary programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/United_States_Space_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">United States Space Force</span><span class="citation-popover-snippet">United States Space Force</span></span></span>
 
 The timing nevertheless mattered. For years, advocates of theories such as “[Solar Warden]({{ 'solar-warden/' | relative_url }})” had argued that governments would eventually have to acknowledge a space-based military presence. When a real space service appeared, many interpreted it through that pre-existing framework.
 
@@ -291,7 +291,7 @@ The timing nevertheless mattered. For years, advocates of theories such as “[S
 
 ## Why Secret Fleet Theories Returned
 
-The revival of older theories was driven less by new evidence than by narrative overlap. Secret-fleet claims had long asserted that a covert military organisation operated beyond public scrutiny, often using spacecraft hidden within classified budgets. Gary McKinnon's account became one of the most cited pieces of supporting folklore because he described what he believed were references to “Non-Terrestrial Officers” and [ship transfers]({{ 'ship-transfers/' | relative_url }}) inside government systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+The revival of older theories was driven less by new evidence than by narrative overlap. Secret-fleet claims had long asserted that a covert military organisation operated beyond public scrutiny, often using spacecraft hidden within classified budgets. Gary McKinnon's account became one of the most cited pieces of supporting folklore because he described what he believed were references to “Non-Terrestrial Officers” and [ship transfers]({{ 'ship-transfers/' | relative_url }}) inside government systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 When the Space Force appeared, several features seemed superficially familiar to conspiracy communities:
 
@@ -302,7 +302,7 @@ When the Space Force appeared, several features seemed superficially familiar to
 
 These developments made some older claims appear more plausible to audiences already inclined to believe them. The logic was often retrospective: if a public Space Force exists now, perhaps a classified version existed earlier.
 
-The difficulty with that reasoning is that the existence of a modern space-focused military branch does not itself demonstrate the existence of an earlier secret fleet. Military interest in space has been publicly documented since the Cold War, and the Space Force openly traces its lineage to those programmes. The emergence of a dedicated service branch is therefore compatible with known historical developments and does not require a hidden precursor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/United_States_Space_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">United States Space Force</span><span class="citation-popover-snippet">United States Space Force</span></span></span>
+The difficulty with that reasoning is that the existence of a modern space-focused military branch does not itself demonstrate the existence of an earlier secret fleet. Military interest in space has been publicly documented since the Cold War, and the Space Force openly traces its lineage to those programmes. The emergence of a dedicated service branch is therefore compatible with known historical developments and does not require a hidden precursor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/United_States_Space_Force" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">United States Space Force</span><span class="citation-popover-snippet">United States Space Force</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-2-dark.svg" | relative_url }}" alt="Space Force illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -312,9 +312,9 @@ The difficulty with that reasoning is that the existence of a modern space-focus
 
 The most common continuity claim links the Space Force to “Solar Warden”, a supposed covert space navy frequently discussed in UFO literature. In many versions of the story, Solar Warden allegedly operated large spacecraft, maintained off-world personnel and conducted missions beyond Earth orbit.
 
-What is notable is that these stories largely emerged from repeated [retellings]({{ 'retellings/' | relative_url }}), [interviews]({{ 'interviews/' | relative_url }}), online forums and speculative media rather than authenticated government documents. Even among researchers interested in classified aerospace programmes, evidence for Solar Warden remains sparse and heavily disputed. Discussions of the concept often rely on second-hand testimony, anonymous sources or reinterpretations of McKinnon's claims rather than verifiable records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.togetherweserved.com/the-allegedly-secret-origins-of-the-space-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.togetherweserved.com">[TogetherWeServed Blog+2SFcrowsnest]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.togetherweserved.com</span><span class="citation-popover-title">the allegedly secret origins of the space force</span><span class="citation-popover-snippet">TogetherWeServed BlogThe Allegedly Secret Origins of the Space Force23 May 2026 — Perks claimed Solar Warden was not only real, but still...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+What is notable is that these stories largely emerged from repeated [retellings]({{ 'retellings/' | relative_url }}), [interviews]({{ 'interviews/' | relative_url }}), online forums and speculative media rather than authenticated government documents. Even among researchers interested in classified aerospace programmes, evidence for Solar Warden remains sparse and heavily disputed. Discussions of the concept often rely on second-hand testimony, anonymous sources or reinterpretations of McKinnon's claims rather than verifiable records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.togetherweserved.com/the-allegedly-secret-origins-of-the-space-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.togetherweserved.com">[togetherweserved.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.togetherweserved.com</span><span class="citation-popover-title">the allegedly secret origins of the space force</span><span class="citation-popover-snippet">TogetherWeServed BlogThe Allegedly Secret Origins of the Space Force23 May 2026 — Perks claimed Solar Warden was not only real, but still...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
-The establishment of the Space Force gave these narratives a new frame. Rather than presenting Solar Warden as completely hidden, some commentators began portraying the Space Force as a public-facing successor or limited disclosure mechanism. Yet this interpretation remains speculative and unsupported by official documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.togetherweserved.com/the-allegedly-secret-origins-of-the-space-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.togetherweserved.com">[TogetherWeServed Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.togetherweserved.com</span><span class="citation-popover-title">the allegedly secret origins of the space force</span><span class="citation-popover-snippet">TogetherWeServed BlogThe Allegedly Secret Origins of the Space Force23 May 2026 — Perks claimed Solar Warden was not only real, but still...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
+The establishment of the Space Force gave these narratives a new frame. Rather than presenting Solar Warden as completely hidden, some commentators began portraying the Space Force as a public-facing successor or limited disclosure mechanism. Yet this interpretation remains speculative and unsupported by official documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://blog.togetherweserved.com/the-allegedly-secret-origins-of-the-space-force/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blog.togetherweserved.com">[TogetherWeServed Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blog.togetherweserved.com</span><span class="citation-popover-title">the allegedly secret origins of the space force</span><span class="citation-popover-snippet">TogetherWeServed BlogThe Allegedly Secret Origins of the Space Force23 May 2026 — Perks claimed Solar Warden was not only real, but still...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/L_qC-8gWrJ4" title="Solar Warden - The US Secret Space Fleet - Forgotten History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=L_qC-8gWrJ4" target="_blank" rel="noopener noreferrer">Solar Warden - The US Secret Space Fleet - Forgotten History</a></p><p class="youtube-embed-meta">Channel: FORGOTTEN HISTORY</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=L_qC-8gWrJ4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=L_qC-8gWrJ4">Open on YouTube</a></p></div></div></div>
@@ -330,11 +330,11 @@ For conspiracy theorists, that classification creates room for further speculati
 
 ## What the Public Record Shows
 
-The public record offers substantial evidence for the Space Force's real mission and origins. Official histories, defence publications and military reporting consistently describe the organisation as the consolidation of existing space-related functions rather than the exposure of a previously hidden fleet. Personnel numbers, organisational charts, budgets and mission statements are publicly available to a degree that would be difficult to reconcile with claims that the organisation is merely a cover for a vastly larger secret programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil+2spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</span></span></span>
+The public record offers substantial evidence for the Space Force's real mission and origins. Official histories, defence publications and military reporting consistently describe the organisation as the consolidation of existing space-related functions rather than the exposure of a previously hidden fleet. Personnel numbers, organisational charts, budgets and mission statements are publicly available to a degree that would be difficult to reconcile with claims that the organisation is merely a cover for a vastly larger secret programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</span></span></span>
 
-Recent Space Force initiatives further reinforce this picture. Publicly discussed projects include satellite servicing, orbital logistics, tracking systems, communications infrastructure and protection of space assets. These efforts are technologically ambitious, but they remain within the framework of known aerospace engineering and military strategy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space+2Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Why is the US Space Force researching &#x27;orbital warehouses&#x27;?Yesterday — The U.S</span><span class="citation-popover-snippet">Space Force is exploring the concept of &quot;orbital warehouses&quot;—space-based storage facilities for fuel and materials—to support satellite s...</span></span></span>
+Recent Space Force initiatives further reinforce this picture. Publicly discussed projects include satellite servicing, orbital logistics, tracking systems, communications infrastructure and protection of space assets. These efforts are technologically ambitious, but they remain within the framework of known aerospace engineering and military strategy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Why is the US Space Force researching &#x27;orbital warehouses&#x27;?Yesterday — The U.S</span><span class="citation-popover-snippet">Space Force is exploring the concept of &quot;orbital warehouses&quot;—space-based storage facilities for fuel and materials—to support satellite s...</span></span></span>
 
-Meanwhile, the evidence connecting the Space Force to McKinnon's alleged discoveries remains indirect. No authenticated document has emerged showing that his reported spreadsheet referred to the organisation that became the Space Force. Nor has any publicly verified evidence linked his “Non-Terrestrial Officers” claim to a secret fleet operating under official military control. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2socialecologies.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+Meanwhile, the evidence connecting the Space Force to McKinnon's alleged discoveries remains indirect. No authenticated document has emerged showing that his reported spreadsheet referred to the organisation that became the Space Force. Nor has any publicly verified evidence linked his “Non-Terrestrial Officers” claim to a secret fleet operating under official military control.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-3-dark.svg" | relative_url }}" alt="Space Force illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_space_force_and_rumo_6ce451-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -342,197 +342,197 @@ Meanwhile, the evidence connecting the Space Force to McKinnon's alleged discove
 
 The Space Force reignited secret-fleet theories because it transformed a once-speculative idea—a military service focused on space—into a visible reality. For many observers, that made older claims feel less implausible than they had before 2019.
 
-Yet the key distinction remains important. The question is not whether governments conduct military operations in space; they demonstrably do. The question is whether those operations include the hidden fleets, off-world personnel systems and advanced spacecraft described in UFO-related narratives. On that point, the available public evidence remains largely unchanged from the era of Gary McKinnon's allegations: intriguing stories exist, but verifiable proof has not emerged. The creation of the Space Force therefore revived the debate far more than it resolved it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[SFcrowsnest+3spaceforce.mil+3spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</span></span></span>
+Yet the key distinction remains important. The question is not whether governments conduct military operations in space; they demonstrably do. The question is whether those operations include the hidden fleets, off-world personnel systems and advanced spacecraft described in UFO-related narratives. On that point, the available public evidence remains largely unchanged from the era of Gary McKinnon's allegations: intriguing stories exist, but verifiable proof has not emerged. The creation of the Space Force therefore revived the debate far more than it resolved it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Space Force Reignited The Secret Fleet Debate. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Space Force Reignited The Secret Fleet Debate. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-        </h4>
-        <p class="fr-book-author">By Garrett M. Graff</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fW_dEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+</h4>
+<p class="fr-book-author">By Garrett M. Graff</p>
         
-        <p class="fr-book-desc">Useful for separating official programs from rumors.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for separating official programs from rumors.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses modern UAP narratives often linked to Space Force.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses modern UAP narratives often linked to Space Force.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Beyond+Earth+by+Charles+P.+Wohlforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beyond Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fz1GDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Beyond Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Beyond+Earth+by+Charles+P.+Wohlforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond Earth">Beyond Earth</a>
-        </h4>
-        <p class="fr-book-author">By Charles P. Wohlforth, Amanda R. Hendrix</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Beyond+Earth+by+Charles+P.+Wohlforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beyond Earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fz1GDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Beyond Earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Beyond+Earth+by+Charles+P.+Wohlforth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond Earth">Beyond Earth</a>
+</h4>
+<p class="fr-book-author">By Charles P. Wohlforth, Amanda R. Hendrix</p>
         
-        <p class="fr-book-desc">Provides real-world context for human activity in space.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Beyond+Earth+by+Charles+P.+Wohlforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context for human activity in space.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Beyond+Earth+by+Charles+P.+Wohlforth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Adds realistic perspective on classified aerospace development.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds realistic perspective on classified aerospace development.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond Earth</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+Earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond Earth</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kennedy Space Center Pewter Memorabilia Collectors Spoon Space Shuttle NASA USA"><img src="{{ '/assets/images/marketplace-covers/b2f7a5860245ff2f269f.jpg' | relative_url }}" alt="Listing image for Kennedy Space Center Pewter Memorabilia Collectors Spoon Space Shuttle NASA USA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Kennedy Space Center Pewter Memorabilia Collectors Spoon Space Shuttle NASA USA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kennedy Space Center Pewter Memorabilia Collectors Spoon Space Shuttle NASA USA"><img src="{{ '/assets/images/marketplace-covers/b2f7a5860245ff2f269f.jpg' | relative_url }}" alt="Listing image for Kennedy Space Center Pewter Memorabilia Collectors Spoon Space Shuttle NASA USA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Kennedy Space Center Pewter Memorabilia Collectors Spoon Space Shuttle NASA USA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for nasa space memorabilia"><img src="{{ '/assets/images/marketplace-covers/2c37a3c44525ec9f0045.jpg' | relative_url }}" alt="Listing image for nasa space memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">nasa space memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for nasa space memorabilia"><img src="{{ '/assets/images/marketplace-covers/2c37a3c44525ec9f0045.jpg' | relative_url }}" alt="Listing image for nasa space memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">nasa space memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b60d7985f32ad54a295a.jpg' | relative_url }}" alt="Listing image for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space exploration memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b60d7985f32ad54a295a.jpg' | relative_url }}" alt="Listing image for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space exploration memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space exploration memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+exploration+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space exploration memorabilia" data-ebay-reference="space-force-why-space-force-reignited-the-secret-fleet-debate-ufo-hackers-such-space-exploration-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -548,7 +548,7 @@ Yet the key distinction remains important. The question is not whether governmen
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -568,7 +568,7 @@ Yet the key distinction remains important. The question is not whether governmen
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -600,7 +600,7 @@ Yet the key distinction remains important. The question is not whether governmen
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -652,7 +652,7 @@ Yet the key distinction remains important. The question is not whether governmen
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -697,7 +697,7 @@ Yet the key distinction remains important. The question is not whether governmen
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -738,184 +738,184 @@ Yet the key distinction remains important. The question is not whether governmen
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: spaceforce.mil  
-   Link: <a href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/about-us/about-space-force/history/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</p></details>
+   Link:<a href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/about-us/about-space-force/history/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan suppor...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spaceforce.mil  
    Title: About Us  
-   Link: <a href="https://www.spaceforce.mil/About-Us/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/About-Us/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. Space Force was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment...</p></details>
+   Link:<a href="https://www.spaceforce.mil/About-Us/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/About-Us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. Space Force was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: United States Space Force  
-   Link: <a href="https://en.wikipedia.org/wiki/United_States_Space_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_Space_Force</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/United_States_Space_Force" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/United_States_Space_Force</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: blog.togetherweserved.com  
    Title: the allegedly secret origins of the space force  
-   Link: <a href="https://blog.togetherweserved.com/the-allegedly-secret-origins-of-the-space-force/" target="_blank" rel="noopener noreferrer nofollow">https://blog.togetherweserved.com/the-allegedly-secret-origins-of-the-space-force/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TogetherWeServed BlogThe Allegedly Secret Origins of the Space Force23 May 2026 — Perks claimed Solar Warden was not only real, but still...</p></details>
+   Link:<a href="https://blog.togetherweserved.com/the-allegedly-secret-origins-of-the-space-force/" target="_blank" rel="noopener noreferrer nofollow">https://blog.togetherweserved.com/the-allegedly-secret-origins-of-the-space-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TogetherWeServed BlogThe Allegedly Secret Origins of the Space Force23 May 2026 — Perks claimed Solar Warden was not only real, but still...</p></details>
    Published: May 2026  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: sfcrowsnest.info  
    Title: solar warden unraveling americas secret space program video  
-   Link: <a href="https://sfcrowsnest.info/solar-warden-unraveling-americas-secret-space-program-video/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/solar-warden-unraveling-americas-secret-space-program-video/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden: unraveling America&#x27;s Secret Space Program...7 Apr 2023 — Despite the fascinating claims made by McKinnon, there is no conc...</p></details>
+   Link:<a href="https://sfcrowsnest.info/solar-warden-unraveling-americas-secret-space-program-video/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/solar-warden-unraveling-americas-secret-space-program-video/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden: unraveling America&#x27;s Secret Space Program...7 Apr 2023 — Despite the fascinating claims made by McKinnon, there is no conc...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
    Title: Why is the US Space Force researching 'orbital warehouses'?Yesterday — The U.S  
-   Link: <a href="https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force is exploring the concept of &quot;orbital warehouses&quot;—space-based storage facilities for fuel and materials—to support satellite s...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/satellites/why-is-the-us-space-force-researching-orbital-warehouses</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force is exploring the concept of &quot;orbital warehouses&quot;—space-based storage facilities for fuel and materials—to support satellite s...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/ghosts-sharks-and-norse-mythology-us-space-force-unveils-new-names-for-satellites-and-space-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/ghosts-sharks-and-norse-mythology-us-space-force-unveils-new-names-for-satellites-and-space-weapons</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chance Saltzman revealed a new naming initiative for the U.S. Space Force&#x27;s spacecraft and systems to reflect their unique missions and f...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/launches-spacecraft/ghosts-sharks-and-norse-mythology-us-space-force-unveils-new-names-for-satellites-and-space-weapons" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/ghosts-sharks-and-norse-mythology-us-space-force-unveils-new-names-for-satellites-and-space-weapons</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chance Saltzman revealed a new naming initiative for the U.S. Space Force&#x27;s spacecraft and systems to reflect their unique missions and f...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: socialecologies.wordpress.com  
    Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
-   Link: <a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — The diagnostic conclusion is that McKinnon did not uncover evidence of a se...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — The diagnostic conclusion is that McKinnon did not uncover evidence of a se...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Secret space program  
-   Link: <a href="https://en.wikipedia.org/wiki/Secret_space_program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Secret_space_program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret space programThe secret space program and 20 and back are fictional stories presented as fact and associated with ufology. They...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Secret_space_program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Secret_space_program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret space programThe secret space program and 20 and back are fictional stories presented as fact and associated with ufology. They...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spaceforce.com  
    Title: U.S. Space Force  
-   Link: <a href="https://www.spaceforce.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Semper SupraWelcome to the United States Space Force. Learn about our mission and the great opportunities available for enlisted, officer...</p></details>
+   Link:<a href="https://www.spaceforce.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Semper SupraWelcome to the United States Space Force. Learn about our mission and the great opportunities available for enlisted, officer...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
    Title: trump signs law establishing us space force  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Signs Law Establishing U.S. Space Force20 Dec 2019 — President Donald J. Trump signed into law legislation creating the first new a...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/2046035/trump-signs-law-establishing-us-space-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Trump Signs Law Establishing U.S. Space Force20 Dec 2019 — President Donald J. Trump signed into law legislation creating the first new a...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Man Who Hacked the U.S. Government  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden - The US Secret Space Fleet - Forgotten History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden - The US Secret Space Fleet - Forgotten History...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Solar Warden  
-   Link: <a href="https://www.youtube.com/watch?v=L_qC-8gWrJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L_qC-8gWrJ4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=L_qC-8gWrJ4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=L_qC-8gWrJ4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lieber.westpoint.edu  
    Title: Lieber Institute West Point A Review of U.S  
-   Link: <a href="https://lieber.westpoint.edu/review-u-s-space-force/" target="_blank" rel="noopener noreferrer nofollow">https://lieber.westpoint.edu/review-u-s-space-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force&#x27;s First Year - Lieber Institute30 Dec 2020 —... December 19, 2019. The Space Force Professionals, now called Guardians, of t...</p></details>
+   Link:<a href="https://lieber.westpoint.edu/review-u-s-space-force/" target="_blank" rel="noopener noreferrer nofollow">https://lieber.westpoint.edu/review-u-s-space-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force&#x27;s First Year - Lieber Institute30 Dec 2020 —... December 19, 2019. The Space Force Professionals, now called Guardians, of t...</p></details>
    Published: December 19, 2019  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: secretprojects.co.uk  
    Title: Secret Projects Forum Solar Warden  
-   Link: <a href="https://www.secretprojects.co.uk/threads/solar-warden-sdi-project.22938/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/solar-warden-sdi-project.22938/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden - SDI project6 Oct 2014 — A manned space fleet using reverse-engineered alien technology to protect the Earth from alien inv...</p></details>
+   Link:<a href="https://www.secretprojects.co.uk/threads/solar-warden-sdi-project.22938/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/solar-warden-sdi-project.22938/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden - SDI project6 Oct 2014 — A manned space fleet using reverse-engineered alien technology to protect the Earth from alien inv...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: it.stonybrook.edu  
-   Link: <a href="https://it.stonybrook.edu/services/solar" target="_blank" rel="noopener noreferrer nofollow">https://it.stonybrook.edu/services/solar</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Division of Information TechnologySOLAR is Stony Brook University&#x27;s enterprise-wide, self-service system which provides faculty, staff, a...</p></details>
+   Link:<a href="https://it.stonybrook.edu/services/solar" target="_blank" rel="noopener noreferrer nofollow">https://it.stonybrook.edu/services/solar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Division of Information TechnologySOLAR is Stony Brook University&#x27;s enterprise-wide, self-service system which provides faculty, staff, a...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
    Title: space force birthday on december 20th 2019 the united states space force was est  
-   Link: <a href="https://www.facebook.com/USAFBand/posts/space-force-birthday-on-december-20th-2019-the-united-states-space-force-was-est/1114604196994420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USAFBand/posts/space-force-birthday-on-december-20th-2019-the-united-states-space-force-was-est/1114604196994420/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SPACE FORCE BIRTHDAY | On December 20th, 2019...The U.S. Space Force&#x27;s birthday is December 20, 2019, the date it was officially establi...</p></details>
+   Link:<a href="https://www.facebook.com/USAFBand/posts/space-force-birthday-on-december-20th-2019-the-united-states-space-force-was-est/1114604196994420/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/USAFBand/posts/space-force-birthday-on-december-20th-2019-the-united-states-space-force-was-est/1114604196994420/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SPACE FORCE BIRTHDAY | On December 20th, 2019...The U.S. Space Force&#x27;s birthday is December 20, 2019, the date it was officially establi...</p></details>
    Published: December 20, 2019  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jbsa.mil  
    Title: With the stroke of a pen, U.S  
-   Link: <a href="https://www.jbsa.mil/News/News/Article/2047127/with-the-stroke-of-a-pen-us-space-force-becomes-a-reality/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/2047127/with-the-stroke-of-a-pen-us-space-force-becomes-a-reality/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force becomes a realityPresident Donald J. Trump signed into law Dec. 20 the sprawling, $738 billion defense bill, making history b...</p></details>
+   Link:<a href="https://www.jbsa.mil/News/News/Article/2047127/with-the-stroke-of-a-pen-us-space-force-becomes-a-reality/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/2047127/with-the-stroke-of-a-pen-us-space-force-becomes-a-reality/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force becomes a realityPresident Donald J. Trump signed into law Dec. 20 the sprawling, $738 billion defense bill, making history b...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: vocal.media  
    Title: United States Space Force | History  
-   Link: <a href="https://vocal.media/history/united-states-space-force" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/united-states-space-force</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan support), cre...</p></details>
+   Link:<a href="https://vocal.media/history/united-states-space-force" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/history/united-states-space-force</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force was established Dec. 20, 2019 when the National Defense Authorization Act was signed into law (with bi-partisan support), cre...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/12erycm/americas_secret_space_program_and_the_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/12erycm/americas_secret_space_program_and_the_alien/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Secret Space Program and the Alien ConnectionGary McKinnon was obsessed with UFOs and believe governments were covering up evid...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/12erycm/americas_secret_space_program_and_the_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/12erycm/americas_secret_space_program_and_the_alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Secret Space Program and the Alien ConnectionGary McKinnon was obsessed with UFOs and believe governments were covering up evid...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: businessinsider.com  
-   Link: <a href="https://www.businessinsider.com/space-force-guardian-nick-hague-spacex-rocket-iss-2024-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/space-force-guardian-nick-hague-spacex-rocket-iss-2024-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Hague piloting a NASA mission to the International Space Station (ISS). Set for August 2024, Crew-9 will include two NASA astronauts...</p></details>
+   Link:<a href="https://www.businessinsider.com/space-force-guardian-nick-hague-spacex-rocket-iss" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/space-force-guardian-nick-hague-spacex-rocket-iss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nick Hague piloting a NASA mission to the International Space Station (ISS). Set for August 2024, Crew-9 will include two NASA astronauts...</p></details>
    Published: August 2024  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt27815290/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27815290/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Secret Space Program and the Alien ConnectionGary McKinnon searches classified US government computers seeking evidence of UFO...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt27815290/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27815290/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Secret Space Program and the Alien ConnectionGary McKinnon searches classified US government computers seeking evidence of UFO...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: singjupost.com  
    Title: transcript the lone hacker that found nasas secret ufo fleet american alchemy  
-   Link: <a href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s Secret UFO Fleet...Mar 28, 2026 — Editor&#x27;s Notes: In this gripping interview, Jesse Michels sits down...</p></details>
+   Link:<a href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s Secret UFO Fleet...Mar 28, 2026 — Editor&#x27;s Notes: In this gripping interview, Jesse Michels sits down...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert and so-called hacker Gary McKinnon has claimed in an int...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert and so-called hacker Gary McKinnon has claimed in an int...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sKoO3wv-W_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sKoO3wv-W_0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden The Secret Program to Fight AliensSolar Warden, a Secret Space Program to fight Aliens. Gary McKinnon is a Scottish systems...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sKoO3wv-W_0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sKoO3wv-W_0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden The Secret Program to Fight AliensSolar Warden, a Secret Space Program to fight Aliens. Gary McKinnon is a Scottish systems...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYiFE8INk0e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYiFE8INk0e/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 20, 2019, during the administration of President Donald Trump, after the...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYiFE8INk0e/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYiFE8INk0e/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 20, 2019, during the administration of President Donald Trump, after the...</p></details>
    Published: December 20, 2019  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt27815290/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27815290/plotsummary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hack exposes a secret space program and alien encounters...Read more...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt27815290/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27815290/plotsummary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hack exposes a secret space program and alien encounters...Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: af.mil  
    Title: defense department establishes us space force  
-   Link: <a href="https://www.af.mil/News/Article-Display/Article/2046000/defense-department-establishes-us-space-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/2046000/defense-department-establishes-us-space-force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceDefense Department establishes U.S. Space ForceToday the President signed the 2020 National Defense Authorization Act and with i...</p></details>
+   Link:<a href="https://www.af.mil/News/Article-Display/Article/2046000/defense-department-establishes-us-space-force/" target="_blank" rel="noopener noreferrer nofollow">https://www.af.mil/News/Article-Display/Article/2046000/defense-department-establishes-us-space-force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceDefense Department establishes U.S. Space ForceToday the President signed the 2020 National Defense Authorization Act and with i...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
    Title: why i believe theres some truth to mckinnons  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>claim of...Congress in 2016 passed legislation that Seems connected to he solar Warden space program that McKinnon described &#x27;fleet to f...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>claim of...Congress in 2016 passed legislation that Seems connected to he solar Warden space program that McKinnon described &#x27;fleet to f...</p></details>

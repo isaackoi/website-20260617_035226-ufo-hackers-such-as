@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_legacy_
 
 ## Introduction
 
-One of the most durable cybersecurity [lessons]({{ 'lessons/' | relative_url }}) associated with the Gary McKinnon case is that attackers do not always need sophisticated techniques when forgotten systems remain exposed. McKinnon became known for searching military and NASA networks while pursuing claims about UFO-related information, yet the security lesson extends beyond his motives. The case highlighted how remote administration tools, weak credentials and poorly managed systems could remain accessible long after organisations believed they were adequately protected. Prosecutors alleged that remote-access software was installed on compromised systems and used to maintain access after entry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
+One of the most durable cybersecurity [lessons]({{ 'lessons/' | relative_url }}) associated with the Gary McKinnon case is that attackers do not always need sophisticated techniques when forgotten systems remain exposed. McKinnon became known for searching military and NASA networks while pursuing claims about UFO-related information, yet the security lesson extends beyond his motives. The case highlighted how remote administration tools, weak credentials and poorly managed systems could remain accessible long after organisations believed they were adequately protected. Prosecutors alleged that remote-access software was installed on compromised systems and used to maintain access after entry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_legacy_system_risk_eda915-Illustration-1-dark.svg" | relative_url }}" alt="Legacy Risk illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_legacy_system_risk_eda915-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_legacy_system_risk_eda915-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,16 +297,16 @@ This pattern helps explain why attackers frequently search for neglected assets 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Outdated operating systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[cisa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-title">reducing attack surface end support edge devices</span><span class="citation-popover-snippet">Reducing the Attack Surface for End-of-Support Edge...5 Feb 2026 — CISA: Guidance and Strategies to Protect... guidance for executi...</span></span></span>
+* Outdated operating systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[cisa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-title">reducing attack surface end support edge devices</span><span class="citation-popover-snippet">Reducing the Attack Surface for End-of-Support Edge...5 Feb 2026 — CISA: Guidance and Strategies to Protect... guidance for executi...</span></span></span>
 * Missing security updates.
-* Old remote-management software. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
+* Old remote-management software.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
 * Shared or unchanged administrator credentials.
 * Little or no security monitoring.
 * Weak documentation about ownership or purpose.
 
 </div>
 
-Government guidance on legacy IT repeatedly emphasises that unsupported and obsolete systems create security risks that increase over time because new vulnerabilities continue to be discovered while patches stop arriving. National Cyber Security Centre+2GOV.UK Assets <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[ncsc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">obsolete products</span><span class="citation-popover-snippet">National Cyber Security CentreObsolete products29 Jun 2021 — If you decide to accept the risk of using obsolete systems and software, the...</span></span></span>
+Government guidance on legacy IT repeatedly emphasises that unsupported and obsolete systems create security risks that increase over time because new vulnerabilities continue to be discovered while patches stop arriving. National Cyber Security Centre+2GOV.UK Assets<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[ncsc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">obsolete products</span><span class="citation-popover-snippet">National Cyber Security CentreObsolete products29 Jun 2021 — If you decide to accept the risk of using obsolete systems and software, the...</span></span></span>
 
 ## Why Legacy Systems Lose Ownership and Visibility
 
@@ -329,7 +329,7 @@ Eventually, several warning signs emerge:
 
 </div>
 
-This ownership gap creates a blind spot. Modern asset-management programmes are designed to know what is connected to the network. Yet organisations continue to discover forgotten devices during audits, penetration tests and incident investigations. Recent guidance from the UK government and NCSC specifically treats legacy technology as a governance challenge requiring structured risk assessment rather than merely a technical maintenance issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/guidance-on-the-legacy-it-risk-assessment-framework/guidance-on-the-legacy-it-risk-assessment-framework" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">guidance on the legacy it risk assessment framework</span><span class="citation-popover-snippet">13 Mar 2025 — This guidance outlines the Legacy IT Risk Assessment Framework, a qualitative risk-based approach designed to evaluate the...</span></span></span>
+This ownership gap creates a blind spot. Modern asset-management programmes are designed to know what is connected to the network. Yet organisations continue to discover forgotten devices during audits, penetration tests and incident investigations. Recent guidance from the UK government and NCSC specifically treats legacy technology as a governance challenge requiring structured risk assessment rather than merely a technical maintenance issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/guidance-on-the-legacy-it-risk-assessment-framework/guidance-on-the-legacy-it-risk-assessment-framework" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">guidance on the legacy it risk assessment framework</span><span class="citation-popover-snippet">13 Mar 2025 — This guidance outlines the Legacy IT Risk Assessment Framework, a qualitative risk-based approach designed to evaluate the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -344,7 +344,7 @@ This imbalance creates attractive targets. Attackers naturally look for the weak
 
 ## How Old Remote Access and Credentials Persist
 
-The McKinnon case remains relevant partly because remote-access software and administrative credentials played a central role in allegations surrounding the [intrusions]({{ 'intrusions/' | relative_url }}). Prosecutors described the use of remote administration tools that allowed extensive control over compromised machines. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
+The McKinnon case remains relevant partly because remote-access software and administrative credentials played a central role in allegations surrounding the [intrusions]({{ 'intrusions/' | relative_url }}). Prosecutors described the use of remote administration tools that allowed extensive control over compromised machines.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
 
 The underlying lesson remains familiar today.
 
@@ -363,7 +363,7 @@ Legacy systems often preserve historical access methods that would never be appr
 
 Even when an organisation upgrades most of its infrastructure, these older access paths may remain active because disabling them could interrupt business operations.
 
-Security researchers and practitioners have repeatedly observed that unsupported or obsolete software tends to accumulate publicly known weaknesses. As vendors stop issuing updates, exploitation becomes easier and more accessible to lower-skilled attackers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iasme.co.uk/articles/navigating-the-pitfalls-of-legacy-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iasme.co.uk">[IASME - Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iasme.co.uk</span><span class="citation-popover-snippet">HomeNavigating the pitfalls of legacy softwareThe software is classed as &#x27;legacy&#x27; or &#x27;end of life&#x27; as it is no longer supported and there...</span></span></span>
+Security researchers and practitioners have repeatedly observed that unsupported or obsolete software tends to accumulate publicly known weaknesses. As vendors stop issuing updates, exploitation becomes easier and more accessible to lower-skilled attackers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iasme.co.uk/articles/navigating-the-pitfalls-of-legacy-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iasme.co.uk">[IASME - Home]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iasme.co.uk</span><span class="citation-popover-snippet">HomeNavigating the pitfalls of legacy softwareThe software is classed as &#x27;legacy&#x27; or &#x27;end of life&#x27; as it is no longer supported and there...</span></span></span>
 
 The result is a paradox: some of the oldest systems become the most predictable targets because attackers know exactly which weaknesses are likely to remain present.
 
@@ -375,18 +375,18 @@ A forgotten machine offers more than a technical vulnerability. It often provide
 
 Attackers value systems that generate little attention. If a server is rarely used and seldom monitored, unusual activity may go unnoticed for longer. If logging is limited or unavailable, investigations become more difficult.
 
-Unsupported systems also create a compounding problem. NCSC guidance notes that obsolete products eventually reach a point where new vulnerabilities continue to emerge but vendor support no longer exists to address them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">obsolete products</span><span class="citation-popover-snippet">National Cyber Security CentreObsolete products29 Jun 2021 — If you decide to accept the risk of using obsolete systems and software, the...</span></span></span>
+Unsupported systems also create a compounding problem. NCSC guidance notes that obsolete products eventually reach a point where new vulnerabilities continue to emerge but vendor support no longer exists to address them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">obsolete products</span><span class="citation-popover-snippet">National Cyber Security CentreObsolete products29 Jun 2021 — If you decide to accept the risk of using obsolete systems and software, the...</span></span></span>
 
 This means risk can increase even when the system itself never changes.
 
-Recent government and infrastructure-security guidance continues to emphasise that unsupported internet-facing devices pose disproportionate risks because organisations lose the ability to rely on vendor fixes for newly discovered weaknesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA+2Federal News Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-title">reducing attack surface end support edge devices</span><span class="citation-popover-snippet">Reducing the Attack Surface for End-of-Support Edge...5 Feb 2026 — CISA: Guidance and Strategies to Protect... guidance for executi...</span></span></span>
+Recent government and infrastructure-security guidance continues to emphasise that unsupported internet-facing devices pose disproportionate risks because organisations lose the ability to rely on vendor fixes for newly discovered weaknesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[cisa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-title">reducing attack surface end support edge devices</span><span class="citation-popover-snippet">Reducing the Attack Surface for End-of-Support Edge...5 Feb 2026 — CISA: Guidance and Strategies to Protect... guidance for executi...</span></span></span>
 
 From an attacker's perspective, a forgotten legacy machine can therefore offer three advantages at once:
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
 
-1. Known vulnerabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/update-business-software" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[cisa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Update Business SoftwareOutdated software is one of the most significant security risks to your business. Criminals target known vulnerab...</span></span></span>
+1. Known vulnerabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/update-business-software" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[cisa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Update Business SoftwareOutdated software is one of the most significant security risks to your business. Criminals target known vulnerab...</span></span></span>
 2. Weak oversight.
 3. Trusted network positioning inside the organisation.
 
@@ -404,12 +404,12 @@ Asset inventories should include:
 
 * Servers.
 * Network appliances.
-* Remote-access systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
+* Remote-access systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
 * Specialist operational technology.
 * Test and development environments.
 * Cloud-hosted legacy workloads.
 
-External [attack-surface]({{ 'attack-surface/' | relative_url }}) management tools are increasingly used to discover forgotten internet-facing assets and unsupported software. The NCSC highlights this capability as an important way to identify exposed systems and outdated services. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">external attack surface management buyers guide</span><span class="citation-popover-snippet">National Cyber Security CentreExternal attack surface management (EASM) buyer&#x27;s guide18 Sept 2025 — Software security: identifying unpatc...</span></span></span>
+External [attack-surface]({{ 'attack-surface/' | relative_url }}) management tools are increasingly used to discover forgotten internet-facing assets and unsupported software. The NCSC highlights this capability as an important way to identify exposed systems and outdated services.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">external attack surface management buyers guide</span><span class="citation-popover-snippet">National Cyber Security CentreExternal attack surface management (EASM) buyer&#x27;s guide18 Sept 2025 — Software security: identifying unpatc...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_legacy_system_risk_eda915-Illustration-3-dark.svg" | relative_url }}" alt="Legacy Risk illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_legacy_system_risk_eda915-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_legacy_system_risk_eda915-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -434,7 +434,7 @@ Where retirement is not immediately possible:
 * Monitor [privileged accounts]({{ 'admin-accounts/' | relative_url }}) closely.
 * Log and review administrative activity.
 
-NCSC and CISA guidance consistently recommend reducing exposure and attack surface when obsolete systems must remain operational. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre+2CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">obsolete products</span><span class="citation-popover-snippet">National Cyber Security CentreObsolete products29 Jun 2021 — If you decide to accept the risk of using obsolete systems and software, the...</span></span></span>
+NCSC and CISA guidance consistently recommend reducing exposure and attack surface when obsolete systems must remain operational.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[ncsc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">obsolete products</span><span class="citation-popover-snippet">National Cyber Security CentreObsolete products29 Jun 2021 — If you decide to accept the risk of using obsolete systems and software, the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b5afwWUYWVQ" title="Gary McKinnon Case (Interview from 2009)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer">Gary McKinnon Case (Interview from 2009)</a></p><p class="youtube-embed-meta">Channel: Bill Buchanan OBE &middot; Views: 15.3K &middot; Uploaded: February 2017 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b5afwWUYWVQ">Open on YouTube</a></p></div></div></div>
@@ -447,199 +447,199 @@ This shifts the conversation from "How do we live with this old system?" to "How
 
 ## The Lasting Lesson from Legacy Risk
 
-The McKinnon case is often remembered because of its connection to UFO claims and military networks, but one of its most practical security lessons is much less dramatic. High-value organisations can still be vulnerable when forgotten systems preserve yesterday's weaknesses. Allegations in the case repeatedly pointed toward weaknesses involving remote administration and poorly protected systems rather than exotic technical breakthroughs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+The McKinnon case is often remembered because of its connection to UFO claims and military networks, but one of its most practical security lessons is much less dramatic. High-value organisations can still be vulnerable when forgotten systems preserve yesterday's weaknesses. Allegations in the case repeatedly pointed toward weaknesses involving remote administration and poorly protected systems rather than exotic technical breakthroughs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 Modern security programmes frequently focus on new threats, new tools and new technologies. Legacy risk is different. It is the accumulation of old decisions that nobody revisits. Forgotten machines become soft targets not because they are ancient, but because they quietly fall outside the attention, ownership and visibility that effective security requires.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Forgotten Machines Become the Easy Way In. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Forgotten Machines Become the Easy Way In. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Ross Anderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
+</h4>
+<p class="fr-book-author">By Ross Anderson</p>
         
-        <p class="fr-book-desc">Covers system ownership, legacy infrastructure risk, access control and organisational security failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers system ownership, legacy infrastructure risk, access control and organisational security failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9VDSAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity">Cybersecurity</a>
-        </h4>
-        <p class="fr-book-author">By Peter W. Singer, Allan Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9VDSAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity">Cybersecurity</a>
+</h4>
+<p class="fr-book-author">By Peter W. Singer, Allan Friedman</p>
         
-        <p class="fr-book-desc">Explains practical cyber risks, governance failures and attack pathways.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains practical cyber risks, governance failures and attack pathways.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
-        </h4>
-        <p class="fr-book-author">By Richard Bejtlich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
+</h4>
+<p class="fr-book-author">By Richard Bejtlich</p>
         
-        <p class="fr-book-desc">Helps identify unmanaged systems and detect suspicious activity on forgotten assets.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps identify unmanaged systems and detect suspicious activity on forgotten assets.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vZoQQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Clifford Stoll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vZoQQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Clifford Stoll</p>
         
-        <p class="fr-book-desc">Shows how overlooked systems and weak oversight can enable intrusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how overlooked systems and weak oversight can enable intrusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legacy-risk-forgotten-machines-become-the-easy-way-in-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -655,7 +655,7 @@ Modern security programmes frequently focus on new threats, new tools and new te
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -675,7 +675,7 @@ Modern security programmes frequently focus on new threats, new tools and new te
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -707,7 +707,7 @@ Modern security programmes frequently focus on new threats, new tools and new te
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -759,7 +759,7 @@ Modern security programmes frequently focus on new threats, new tools and new te
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -804,7 +804,7 @@ Modern security programmes frequently focus on new threats, new tools and new te
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -845,191 +845,191 @@ Modern security programmes frequently focus on new threats, new tools and new te
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice [Indictment](&#123;&#123; 'indictment/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</p></details>
    Published: January 24, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ncsc.gov.uk  
    Title: obsolete products  
-   Link: <a href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreObsolete products29 Jun 2021 — If you decide to accept the risk of using obsolete systems and software, the...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/obsolete-products</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreObsolete products29 Jun 2021 — If you decide to accept the risk of using obsolete systems and software, the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a758829e5274a545822c3e7/Obsolete_platforms_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758829e5274a545822c3e7/Obsolete_platforms_guidance.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>platforms guidanceThis guidance is intended to help organisations that are unable to fully migrate away from obsolete or unsupported plat...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a758829e5274a545822c3e7/Obsolete_platforms_guidance.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a758829e5274a545822c3e7/Obsolete_platforms_guidance.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>platforms guidanceThis guidance is intended to help organisations that are unable to fully migrate away from obsolete or unsupported plat...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: guidance on the legacy it risk assessment framework  
-   Link: <a href="https://www.gov.uk/government/publications/guidance-on-the-legacy-it-risk-assessment-framework/guidance-on-the-legacy-it-risk-assessment-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/guidance-on-the-legacy-it-risk-assessment-framework/guidance-on-the-legacy-it-risk-assessment-framework</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2025 — This guidance outlines the Legacy IT Risk Assessment Framework, a qualitative risk-based approach designed to evaluate the...</p></details>
+   Link:<a href="https://www.gov.uk/government/publications/guidance-on-the-legacy-it-risk-assessment-framework/guidance-on-the-legacy-it-risk-assessment-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/guidance-on-the-legacy-it-risk-assessment-framework/guidance-on-the-legacy-it-risk-assessment-framework</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Mar 2025 — This guidance outlines the Legacy IT Risk Assessment Framework, a qualitative risk-based approach designed to evaluate the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ncsc.gov.uk  
    Title: external attack surface management buyers guide  
-   Link: <a href="https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreExternal attack surface management (EASM) buyer&#x27;s guide18 Sept 2025 — Software security: identifying unpatc...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/guidance/external-attack-surface-management-buyers-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreExternal attack surface management (EASM) buyer&#x27;s guide18 Sept 2025 — Software security: identifying unpatc...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: iasme.co.uk  
-   Link: <a href="https://iasme.co.uk/articles/navigating-the-pitfalls-of-legacy-software/" target="_blank" rel="noopener noreferrer nofollow">https://iasme.co.uk/articles/navigating-the-pitfalls-of-legacy-software/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HomeNavigating the pitfalls of legacy softwareThe software is classed as &#x27;legacy&#x27; or &#x27;end of life&#x27; as it is no longer supported and there...</p></details>
+   Link:<a href="https://iasme.co.uk/articles/navigating-the-pitfalls-of-legacy-software/" target="_blank" rel="noopener noreferrer nofollow">https://iasme.co.uk/articles/navigating-the-pitfalls-of-legacy-software/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HomeNavigating the pitfalls of legacy softwareThe software is classed as &#x27;legacy&#x27; or &#x27;end of life&#x27; as it is no longer supported and there...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ncsc.gov.uk  
    Title: keeping devices and software up to date  
-   Link: <a href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/keeping-devices-and-software-up-to-date" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/keeping-devices-and-software-up-to-date</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreKeeping devices and software up to date29 Jun 2021 — This guidance will help you understand the security ri...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/keeping-devices-and-software-up-to-date" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/keeping-devices-and-software-up-to-date</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Cyber Security CentreKeeping devices and software up to date29 Jun 2021 — This guidance will help you understand the security ri...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cisa.gov  
    Title: reducing attack surface end support edge devices  
-   Link: <a href="https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing the Attack Surface for End-of-Support Edge...5 Feb 2026 — CISA: Guidance and Strategies to Protect... guidance for executi...</p></details>
+   Link:<a href="https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/reducing-attack-surface-end-support-edge-devices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing the Attack Surface for End-of-Support Edge...5 Feb 2026 — CISA: Guidance and Strategies to Protect... guidance for executi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/update-business-software" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/update-business-software</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Update Business SoftwareOutdated software is one of the most significant security risks to your business. Criminals target known vulnerab...</p></details>
+   Link:<a href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/update-business-software" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/update-business-software</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Update Business SoftwareOutdated software is one of the most significant security risks to your business. Criminals target known vulnerab...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ncsc.gov.uk  
-   Link: <a href="https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-02-resilience-at-scale/defending-the-uks-critical-national-infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-02-resilience-at-scale/defending-the-uks-critical-national-infrastructure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defending the UK&#x27;s critical national infrastructure14 Oct 2025 — Over the next year, the NCSC will be focused on helping organisations to...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-02-resilience-at-scale/defending-the-uks-critical-national-infrastructure" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/ncsc-annual-review-2025/chapter-02-resilience-at-scale/defending-the-uks-critical-national-infrastructure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defending the UK&#x27;s critical national infrastructure14 Oct 2025 — Over the next year, the NCSC will be focused on helping organisations to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ncsc.gov.uk  
    Title: principle 1  
-   Link: <a href="https://www.ncsc.gov.uk/collection/operational-technology/secure-connectivity/principle-1" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/operational-technology/secure-connectivity/principle-1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balance the risk and opportunities14 Jan 2026 — The NCSC&#x27;s Device security guidance on managing obsolete products. ASD guidance on Managi...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/collection/operational-technology/secure-connectivity/principle-1" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/operational-technology/secure-connectivity/principle-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balance the risk and opportunities14 Jan 2026 — The NCSC&#x27;s Device security guidance on managing obsolete products. ASD guidance on Managi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: ncsc.gov.uk  
    Title: getting your organisation ready for windows 11 upgrade before autumn 2025  
-   Link: <a href="https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upgrade before Windows 10 end of life October 202514 Jul 2025 — We strongly advise any organisation that isn&#x27;t already on Windows 11 to p...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/blog-post/getting-your-organisation-ready-for-windows-11-upgrade-before-autumn-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Upgrade before Windows 10 end of life October 202514 Jul 2025 — We strongly advise any organisation that isn&#x27;t already on Windows 11 to p...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ncsc.gov.uk  
-   Link: <a href="https://www.ncsc.gov.uk/collection/operational-technology/secure-connectivity/principle-6" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/operational-technology/secure-connectivity/principle-6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Principle 6: Limit the impact of compromise14 Jan 2026 — Contamination can occur through infected devices, vulnerable software updates, o...</p></details>
+   Link:<a href="https://www.ncsc.gov.uk/collection/operational-technology/secure-connectivity/principle-6" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/operational-technology/secure-connectivity/principle-6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Principle 6: Limit the impact of compromise14 Jan 2026 — Contamination can occur through infected devices, vulnerable software updates, o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: justice.gov  
    Title: British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Gary McKinnon case4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerne...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Gary McKinnon case4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerne...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: time.com  
    Title: hack attack 2  
-   Link: <a href="https://time.com/archive/6943962/hack-attack-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943962/hack-attack-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hack Attack30 Jul 2008 — The July 30 decision by Britain&#x27;s Court of Appeal to allow the extradition of alleged cyber-hacker Gary McKinnon...</p></details>
+   Link:<a href="https://time.com/archive/6943962/hack-attack-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943962/hack-attack-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hack Attack30 Jul 2008 — The July 30 decision by Britain&#x27;s Court of Appeal to allow the extradition of alleged cyber-hacker Gary McKinnon...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cyber.gov.au  
    Title: managing the risks of legacy it practitioner guidance  
-   Link: <a href="https://www.cyber.gov.au/business-government/protecting-devices-systems/legacy-technology-management/managing-the-risks-of-legacy-it-practitioner-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cyber.gov.au/business-government/protecting-devices-systems/legacy-technology-management/managing-the-risks-of-legacy-it-practitioner-guidance</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing the risks of legacy IT: Practitioner guidance11 Apr 2024 — This publication provides guidance for practitioners on managing the...</p></details>
+   Link:<a href="https://www.cyber.gov.au/business-government/protecting-devices-systems/legacy-technology-management/managing-the-risks-of-legacy-it-practitioner-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cyber.gov.au/business-government/protecting-devices-systems/legacy-technology-management/managing-the-risks-of-legacy-it-practitioner-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Managing the risks of legacy IT: Practitioner guidance11 Apr 2024 — This publication provides guidance for practitioners on managing the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: federalnewsnetwork.com  
    Title: cisa tells agencies to identify upgrade unsupported edge devices  
-   Link: <a href="https://federalnewsnetwork.com/cybersecurity/2026/02/cisa-tells-agencies-to-identify-upgrade-unsupported-edge-devices/" target="_blank" rel="noopener noreferrer nofollow">https://federalnewsnetwork.com/cybersecurity/2026/02/cisa-tells-agencies-to-identify-upgrade-unsupported-edge-devices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal News NetworkCISA tells agencies to identify, upgrade unsupported edge...5 Feb 2026 — “When a product is no longer supported by i...</p></details>
+   Link:<a href="https://federalnewsnetwork.com/cybersecurity/2026/02/cisa-tells-agencies-to-identify-upgrade-unsupported-edge-devices/" target="_blank" rel="noopener noreferrer nofollow">https://federalnewsnetwork.com/cybersecurity/2026/02/cisa-tells-agencies-to-identify-upgrade-unsupported-edge-devices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federal News NetworkCISA tells agencies to identify, upgrade unsupported edge...5 Feb 2026 — “When a product is no longer supported by i...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: schneier.com  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon - Schneier on SecurityAugust 4, 2008 — The interview I saw with McKinnon implied that he just hit systems with the default...</p></details>
+   Link:<a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon - Schneier on SecurityAugust 4, 2008 — The interview I saw with McKinnon implied that he just hit systems with the default...</p></details>
    Published: August 4, 2008  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: abitus.co.jp  
-   Link: <a href="https://www.abitus.co.jp/cisa/about/feature/" target="_blank" rel="noopener noreferrer nofollow">https://www.abitus.co.jp/cisa/about/feature/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>アビタス公認情報システム監査人を意味するCISA®とは、&quot;Certified Information Systems Auditor&quot;の略称です。情報システム監査、セキュリティ、コントロールに関する指導的な役割を...Read more...</p></details>
+   Link:<a href="https://www.abitus.co.jp/cisa/about/feature/" target="_blank" rel="noopener noreferrer nofollow">https://www.abitus.co.jp/cisa/about/feature/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>アビタス公認情報システム監査人を意味するCISA®とは、&quot;Certified Information Systems Auditor&quot;の略称です。情報システム監査、セキュリティ、コントロールに関する指導的な役割を...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dsptoolkit.nhs.uk  
-   Link: <a href="https://www.dsptoolkit.nhs.uk/News/Attachment/765" target="_blank" rel="noopener noreferrer nofollow">https://www.dsptoolkit.nhs.uk/News/Attachment/765</a>  
+   Link:<a href="https://www.dsptoolkit.nhs.uk/News/Attachment/765" target="_blank" rel="noopener noreferrer nofollow">https://www.dsptoolkit.nhs.uk/News/Attachment/765</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cyber.gc.ca  
    Title: Obsolete products  
-   Link: <a href="https://www.cyber.gc.ca/en/guidance/obsolete-products-itsap00095" target="_blank" rel="noopener noreferrer nofollow">https://www.cyber.gc.ca/en/guidance/obsolete-products-itsap00095</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ITSAP.00.0957 Mar 2023 — This document offers some guidance on how to minimize risks as your organization transitions away from obsolete...</p></details>
+   Link:<a href="https://www.cyber.gc.ca/en/guidance/obsolete-products-itsap00095" target="_blank" rel="noopener noreferrer nofollow">https://www.cyber.gc.ca/en/guidance/obsolete-products-itsap00095</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ITSAP.00.0957 Mar 2023 — This document offers some guidance on how to minimize risks as your organization transitions away from obsolete...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/antonio-deliseo_asd-guidance-managing-legacy-it-risks-legacy-activity-7385802164381814785-y1AV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/antonio-deliseo_asd-guidance-managing-legacy-it-risks-legacy-activity-7385802164381814785-y1AV</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ASD Guidance: Managing Legacy IT Risks and Technical...Security risks compound. Unsupported systems can&#x27;t be patched, making them vulner...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/antonio-deliseo_asd-guidance-managing-legacy-it-risks-legacy-activity-7385802164381814785-y1AV" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/antonio-deliseo_asd-guidance-managing-legacy-it-risks-legacy-activity-7385802164381814785-y1AV</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ASD Guidance: Managing Legacy IT Risks and Technical...Security risks compound. Unsupported systems can&#x27;t be patched, making them vulner...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bittnet.ro  
-   Link: <a href="https://www.bittnet.ro/en/noutati/cisa-impune-eliminarea-dispozitivelor-edge-neacceptate-din-retele/?srsltid=AfmBOoqgrau9wYQhfOPYE5m6vXX36oPDN5S9SIhZN8PsDRRL87yoE5SU" target="_blank" rel="noopener noreferrer nofollow">https://www.bittnet.ro/en/noutati/cisa-impune-eliminarea-dispozitivelor-edge-neacceptate-din-retele/?srsltid=AfmBOoqgrau9wYQhfOPYE5m6vXX36oPDN5S9SIhZN8PsDRRL87yoE5SU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA requires removal of unsupported edge devices from...CISA mandates the removal of unsupported edge devices from networks. This decis...</p></details>
+   Link:<a href="https://www.bittnet.ro/en/noutati/cisa-impune-eliminarea-dispozitivelor-edge-neacceptate-din-retele/?srsltid=AfmBOoqgrau9wYQhfOPYE5m6vXX36oPDN5S9SIhZN8PsDRRL87yoE5SU" target="_blank" rel="noopener noreferrer nofollow">https://www.bittnet.ro/en/noutati/cisa-impune-eliminarea-dispozitivelor-edge-neacceptate-din-retele/?srsltid=AfmBOoqgrau9wYQhfOPYE5m6vXX36oPDN5S9SIhZN8PsDRRL87yoE5SU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CISA requires removal of unsupported edge devices from...CISA mandates the removal of unsupported edge devices from networks. This decis...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: isaca.org  
-   Link: <a href="https://www.isaca.org/credentialing/cisa" target="_blank" rel="noopener noreferrer nofollow">https://www.isaca.org/credentialing/cisa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA® Certification | Certified Information Systems Auditor®ISACA&#x27;S CISA certification exams are computer-based and administered at autho...</p></details>
+   Link:<a href="https://www.isaca.org/credentialing/cisa" target="_blank" rel="noopener noreferrer nofollow">https://www.isaca.org/credentialing/cisa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CISA® Certification | Certified Information Systems Auditor®ISACA&#x27;S CISA certification exams are computer-based and administered at autho...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: nri-secure.co.jp  
-   Link: <a href="https://www.nri-secure.co.jp/service/learning/cisa_training" target="_blank" rel="noopener noreferrer nofollow">https://www.nri-secure.co.jp/service/learning/cisa_training</a>  
+   Link:<a href="https://www.nri-secure.co.jp/service/learning/cisa_training" target="_blank" rel="noopener noreferrer nofollow">https://www.nri-secure.co.jp/service/learning/cisa_training</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: linuxsecurity.com  
-   Link: <a href="https://linuxsecurity.com/news/hackscracks/dot-mil-hackers-download-mistake" target="_blank" rel="noopener noreferrer nofollow">https://linuxsecurity.com/news/hackscracks/dot-mil-hackers-download-mistake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Indicted For Hacking U.S. Military SystemsIn a dramatic case, Gary McKinnon faced charges for breaching defense systems, wi...</p></details>
+   Link:<a href="https://linuxsecurity.com/news/hackscracks/dot-mil-hackers-download-mistake" target="_blank" rel="noopener noreferrer nofollow">https://linuxsecurity.com/news/hackscracks/dot-mil-hackers-download-mistake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Indicted For Hacking U.S. Military SystemsIn a dramatic case, Gary McKinnon faced charges for breaching defense systems, wi...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMcKinnon v United States of America; Judge, Lord Justice Maurice Kay; Judgment Date, 03 April 2007...</p></details>
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMcKinnon v United States of America; Judge, Lord Justice Maurice Kay; Judgment Date, 03 April 2007...</p></details>
    Published: April 2007  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: techradar.com  
-   Link: <a href="https://www.techradar.com/pro/security/cisa-tells-federal-agencies-to-replace-at-risk-end-of-life-edge-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/security/cisa-tells-federal-agencies-to-replace-at-risk-end-of-life-edge-devices</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cybersecurity and Infrastructure Security Agency (CISA) has issued a directive urging federal agencies to remove and replace edge devices...</p></details>
+   Link:<a href="https://www.techradar.com/pro/security/cisa-tells-federal-agencies-to-replace-at-risk-end-of-life-edge-devices" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/pro/security/cisa-tells-federal-agencies-to-replace-at-risk-end-of-life-edge-devices</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cybersecurity and Infrastructure Security Agency (CISA) has issued a directive urging federal agencies to remove and replace edge devices...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: controleng.com  
-   Link: <a href="https://www.controleng.com/cisa-directive-on-unsupported-edge-devices-raises-stakes-for-ot-and-industrial-cybersecurity/" target="_blank" rel="noopener noreferrer nofollow">https://www.controleng.com/cisa-directive-on-unsupported-edge-devices-raises-stakes-for-ot-and-industrial-cybersecurity/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA directive on unsupported edge devices raises stakes...12 Feb 2026 — A new CISA directive says federal agencies must remove end-of-s...</p></details>
+   Link:<a href="https://www.controleng.com/cisa-directive-on-unsupported-edge-devices-raises-stakes-for-ot-and-industrial-cybersecurity/" target="_blank" rel="noopener noreferrer nofollow">https://www.controleng.com/cisa-directive-on-unsupported-edge-devices-raises-stakes-for-ot-and-industrial-cybersecurity/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CISA directive on unsupported edge devices raises stakes...12 Feb 2026 — A new CISA directive says federal agencies must remove end-of-s...</p></details>

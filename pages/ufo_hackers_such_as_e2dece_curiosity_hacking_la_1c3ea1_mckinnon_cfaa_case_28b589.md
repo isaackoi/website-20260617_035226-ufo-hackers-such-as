@@ -274,17 +274,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mck
 
 ## Introduction
 
-Gary McKinnon's case is often discussed in connection with his claim that he was searching for evidence of UFOs and hidden government technologies. Legally, however, the United States did not treat the case as a dispute about UFOs. It treated it as a computer intrusion case under the Computer Fraud and Abuse Act (CFAA), the main US federal anti-hacking statute. The central question under the CFAA was whether McKinnon had accessed protected computers without authorisation and caused damage or loss, not why he said he entered the systems. The way the CFAA was applied to McKinnon illustrates a broader principle in cybercrime law: curiosity, political interest or unconventional motives do not automatically excuse unauthorised access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
+Gary McKinnon's case is often discussed in connection with his claim that he was searching for evidence of UFOs and hidden government technologies. Legally, however, the United States did not treat the case as a dispute about UFOs. It treated it as a computer intrusion case under the Computer Fraud and Abuse Act (CFAA), the main US federal anti-hacking statute. The central question under the CFAA was whether McKinnon had accessed protected computers without authorisation and caused damage or loss, not why he said he entered the systems. The way the CFAA was applied to McKinnon illustrates a broader principle in cybercrime law: curiosity, political interest or unconventional motives do not automatically excuse unauthorised access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-1-dark.svg" | relative_url }}" alt="CFAA Case illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What the Indictment Alleged
 
-In November 2002, a federal grand jury in the Eastern District of Virginia returned an [indictment]({{ 'indictment/' | relative_url }}) charging McKinnon under 18 U.S.C. §1030, the Computer Fraud and Abuse Act. The indictment alleged that between March 2001 and March 2002 he accessed and damaged 92 computers belonging to the US Army, Navy, Air Force, Department of Defense and NASA, as well as several private-sector computers. Prosecutors also alleged that one of the affected systems was used for national defence and security purposes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
+In November 2002, a federal grand jury in the Eastern District of Virginia returned an [indictment]({{ 'indictment/' | relative_url }}) charging McKinnon under 18 U.S.C. §1030, the Computer Fraud and Abuse Act. The indictment alleged that between March 2001 and March 2002 he accessed and damaged 92 computers belonging to the US Army, Navy, Air Force, Department of Defense and NASA, as well as several private-sector computers. Prosecutors also alleged that one of the affected systems was used for national defence and security purposes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
 
-The charging documents did not focus on UFO-related claims. Instead, they described a pattern of scanning networks, obtaining unauthorised access, acquiring administrator privileges, copying files and passwords, deleting data and interfering with system operations. From the government's perspective, these actions brought the conduct squarely within the CFAA's prohibitions on unauthorised access and computer damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
+The charging documents did not focus on UFO-related claims. Instead, they described a pattern of scanning networks, obtaining unauthorised access, acquiring administrator privileges, copying files and passwords, deleting data and interfering with system operations. From the government's perspective, these actions brought the conduct squarely within the CFAA's prohibitions on unauthorised access and computer damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
 
-The Virginia indictment contained seven computer-related counts under the CFAA. Separate proceedings in New Jersey also concerned alleged damage to a naval weapons system computer. Prosecutors therefore viewed the conduct not as a single isolated intrusion but as a series of offences involving multiple federal systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</span></span></span>
+The Virginia indictment contained seven computer-related counts under the CFAA. Separate proceedings in New Jersey also concerned alleged damage to a naval weapons system computer. Prosecutors therefore viewed the conduct not as a single isolated intrusion but as a series of offences involving multiple federal systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -293,40 +293,40 @@ The Virginia indictment contained seven computer-related counts under the CFAA. 
 
 ### Why unauthorised access mattered
 
-The CFAA was originally enacted to protect government and other protected computers from unauthorised access. In McKinnon's case, prosecutors argued that the key legal threshold had been crossed once he entered systems he had no authority to use. Whether the systems were poorly secured or vulnerable did not eliminate the requirement for authorisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
+The CFAA was originally enacted to protect government and other protected computers from unauthorised access. In McKinnon's case, prosecutors argued that the key legal threshold had been crossed once he entered systems he had no authority to use. Whether the systems were poorly secured or vulnerable did not eliminate the requirement for authorisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
 
-This distinction became important because some public discussion of the case focused on claims that [weak passwords]({{ 'weak-passwords/' | relative_url }}) and insecure configurations had made access relatively easy. The indictment nevertheless treated entry into those systems as unauthorised access under federal law. The legal theory was not that McKinnon had stolen classified secrets, but that he had knowingly entered and interfered with computers that belonged to protected federal networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
+This distinction became important because some public discussion of the case focused on claims that [weak passwords]({{ 'weak-passwords/' | relative_url }}) and insecure configurations had made access relatively easy. The indictment nevertheless treated entry into those systems as unauthorised access under federal law. The legal theory was not that McKinnon had stolen classified secrets, but that he had knowingly entered and interfered with computers that belonged to protected federal networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-2-dark.svg" | relative_url }}" alt="CFAA Case illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why alleged damage increased the stakes
 
-The CFAA draws a significant distinction between merely accessing a computer and causing damage or loss. Prosecutors alleged that McKinnon deleted files, disrupted systems and contributed to network outages. Government statements connected the alleged [intrusions]({{ 'intrusions/' | relative_url }}) to substantial remediation costs and operational disruption. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
+The CFAA draws a significant distinction between merely accessing a computer and causing damage or loss. Prosecutors alleged that McKinnon deleted files, disrupted systems and contributed to network outages. Government statements connected the alleged [intrusions]({{ 'intrusions/' | relative_url }}) to substantial remediation costs and operational disruption.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
 
-Because the indictment alleged damage rather than simple viewing of information, the case moved into the more serious territory of federal computer crime enforcement. The government's public statements emphasised the impact on military and NASA systems rather than any information McKinnon claimed to have discovered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
+Because the indictment alleged damage rather than simple viewing of information, the case moved into the more serious territory of federal computer crime enforcement. The government's public statements emphasised the impact on military and NASA systems rather than any information McKinnon claimed to have discovered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
 
 ### National-security computers received special attention
 
-One notable feature of the case was the allegation that at least one affected computer was used for military national-defence and security functions. That allegation did not transform the case into an espionage prosecution, but it did increase the seriousness with which federal authorities viewed the conduct. Systems connected to defence functions have historically attracted particularly aggressive enforcement under the CFAA. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">Mc Kinnon comphacker</span><span class="citation-popover-snippet">Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — One count charges McKinnon with accessing wit...</span></span></span>
+One notable feature of the case was the allegation that at least one affected computer was used for military national-defence and security functions. That allegation did not transform the case into an espionage prosecution, but it did increase the seriousness with which federal authorities viewed the conduct. Systems connected to defence functions have historically attracted particularly aggressive enforcement under the CFAA.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">Mc Kinnon comphacker</span><span class="citation-popover-snippet">Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — One count charges McKinnon with accessing wit...</span></span></span>
 
 ## Why Motive Did Not Resolve Liability
 
 A recurring public misunderstanding is that McKinnon's stated UFO-related motivation should have altered the legal analysis. Under the CFAA, however, [motive]({{ 'motive/' | relative_url }}) and authorisation are different questions.
 
-McKinnon publicly maintained that he was searching for evidence relating to UFOs, anti-gravity technology and government secrecy rather than seeking financial gain. Yet the indictment did not require prosecutors to prove a conventional criminal motive such as theft, espionage or fraud. The government's burden was to prove the elements of the computer offences, including unauthorised access and the alleged damage to protected computers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+McKinnon publicly maintained that he was searching for evidence relating to UFOs, anti-gravity technology and government secrecy rather than seeking financial gain. Yet the indictment did not require prosecutors to prove a conventional criminal motive such as theft, espionage or fraud. The government's burden was to prove the elements of the computer offences, including unauthorised access and the alleged damage to protected computers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
-This aspect of the case explains why it became a landmark example in discussions of curiosity-driven hacking. Even if a defendant argues that the objective was research, investigation or disclosure rather than profit, the CFAA can still apply if the access itself was unauthorised. The statute focuses primarily on conduct involving protected computer systems rather than on whether the defendant believed the purpose was justified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
+This aspect of the case explains why it became a landmark example in discussions of curiosity-driven hacking. Even if a defendant argues that the objective was research, investigation or disclosure rather than profit, the CFAA can still apply if the access itself was unauthorised. The statute focuses primarily on conduct involving protected computer systems rather than on whether the defendant believed the purpose was justified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
 
-The contrast between McKinnon's public explanation and the government's legal theory is therefore central to understanding the case. His UFO-related claims shaped [public interest]({{ 'public-interest/' | relative_url }}) and media coverage, but the [CFAA charges]({{ 'cfaa-charges/' | relative_url }}) were grounded in allegations of intrusion, system interference and damage to federal computers. Under the statute, the question was not whether he was sincerely looking for extraordinary information; it was whether he was authorised to access and alter the systems he entered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
+The contrast between McKinnon's public explanation and the government's legal theory is therefore central to understanding the case. His UFO-related claims shaped [public interest]({{ 'public-interest/' | relative_url }}) and media coverage, but the [CFAA charges]({{ 'cfaa-charges/' | relative_url }}) were grounded in allegations of intrusion, system interference and damage to federal computers. Under the statute, the question was not whether he was sincerely looking for extraordinary information; it was whether he was authorised to access and alter the systems he entered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-3-dark.svg" | relative_url }}" alt="CFAA Case illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_mckinnon_cfaa_case_28b589-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Demonstrated About the CFAA
 
-The McKinnon prosecution remains one of the clearest examples of how the CFAA treats curiosity-driven intrusions into government networks. The statute did not create a special category for UFO research, investigative curiosity or unconventional beliefs. Federal prosecutors framed the case through the standard CFAA concepts of unauthorised access, protected computers, damage and loss. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
+The McKinnon prosecution remains one of the clearest examples of how the CFAA treats curiosity-driven intrusions into government networks. The statute did not create a special category for UFO research, investigative curiosity or unconventional beliefs. Federal prosecutors framed the case through the standard CFAA concepts of unauthorised access, protected computers, damage and loss.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">edva mckinnon indictment</span><span class="citation-popover-snippet">Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</span></span></span>
 
 For that reason, the case is frequently cited when discussing the [legal limits]({{ 'legal-limits/' | relative_url }}) of exploratory hacking. Whatever attention was generated by claims about UFO evidence, the CFAA treated the alleged conduct as a conventional federal computer crime case involving access to military and government systems without permission.
 
@@ -335,194 +335,194 @@ For that reason, the case is frequently cited when discussing the [legal limits]
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Mc Kinnon&#x27;s US Charges Were Really About. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Mc Kinnon&#x27;s US Charges Were Really About. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Illustrates how curiosity-driven intrusion can lead to serious legal consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how curiosity-driven intrusion can lead to serious legal consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
-        </h4>
-        <p class="fr-book-author">By Andy Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
+</h4>
+<p class="fr-book-author">By Andy Greenberg</p>
         
-        <p class="fr-book-desc">Shows how computer intrusions can escalate into major legal and societal issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how computer intrusions can escalate into major legal and societal issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Provides context on the risks and significance of unauthorized access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on the risks and significance of unauthorized access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Examines the real-world effects of unauthorized access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Examines the real-world effects of unauthorized access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/qw4AAOSwrxJoDssb/s-l225.jpg" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="cfaa-case-what-mc-kinnon-s-us-charges-were-really-about-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-mckinnon-s-us-charges-were-really-about-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-mckinnon-s-us-charges-were-really-about-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -538,7 +538,7 @@ For that reason, the case is frequently cited when discussing the [legal limits]
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -558,7 +558,7 @@ For that reason, the case is frequently cited when discussing the [legal limits]
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -590,7 +590,7 @@ For that reason, the case is frequently cited when discussing the [legal limits]
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -642,7 +642,7 @@ For that reason, the case is frequently cited when discussing the [legal limits]
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -687,7 +687,7 @@ For that reason, the case is frequently cited when discussing the [legal limits]
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -728,67 +728,67 @@ For that reason, the case is frequently cited when discussing the [legal limits]
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: mckinnon Indict  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justice.gov  
    Title: edva mckinnon indictment  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictment**. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and Related Activity in. Connect...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) comphacker  
-   Link: <a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — One count charges McKinnon with accessing wit...</p></details>
+   Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — One count charges McKinnon with accessing wit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: The Man Who Hacked the U.S. Government  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b5afwWUYWVQ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK hacker to learn extradition fate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b5afwWUYWVQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK hacker to learn extradition fate...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: UK Hacker extradition to US blocked  
-   Link: <a href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y5jtyps4oaY</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: No hacking charges in UK...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y5jtyps4oaY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: No hacking charges in UK...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: UK hacker to learn extradition fate  
-   Link: <a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LEvGU1b4ysw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Hacker extradition to US blocked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LEvGU1b4ysw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Hacker extradition to US blocked...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Gary Mc Kinnon: No hacking charges in UK  
-   Link: <a href="https://www.youtube.com/watch?v=xAhzZRa2aws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xAhzZRa2aws</a>  
+   Link:<a href="https://www.youtube.com/watch?v=xAhzZRa2aws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xAhzZRa2aws</a>  

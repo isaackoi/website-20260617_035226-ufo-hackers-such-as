@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_blank_a
 
 ## Introduction
 
-One of the most important cybersecurity [lessons]({{ 'lessons/' | relative_url }}) associated with the Gary McKinnon case is not an exotic hacking technique but a remarkably simple failure: administrator accounts with blank passwords. The lasting significance of this weakness lies in its ability to scale. A single unsecured administrator account is dangerous; the same weakness copied across hundreds or thousands of systems becomes a network-wide exposure. Accounts of McKinnon’s methods repeatedly describe him searching for administrator accounts that lacked passwords and then using that access to move through sensitive networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2WikiLeaks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — He downloaded a program that searched for computers and pinpointed administrator user n...</span></span></span>
+One of the most important cybersecurity [lessons]({{ 'lessons/' | relative_url }}) associated with the Gary McKinnon case is not an exotic hacking technique but a remarkably simple failure: administrator accounts with blank passwords. The lasting significance of this weakness lies in its ability to scale. A single unsecured administrator account is dangerous; the same weakness copied across hundreds or thousands of systems becomes a network-wide exposure. Accounts of McKinnon’s methods repeatedly describe him searching for administrator accounts that lacked passwords and then using that access to move through sensitive networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — He downloaded a program that searched for computers and pinpointed administrator user n...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_blank_admin_password_703207-Illustration-1-dark.svg" | relative_url }}" alt="Blank Passwords illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_blank_admin_password_703207-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_blank_admin_password_703207-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ Within the broader story of a hacker searching for UFO-related information, the 
 
 Blank administrator passwords create a unique form of risk because they eliminate the need for password guessing, cracking, phishing or other credential theft techniques. If a [privileged account]({{ 'admin-accounts/' | relative_url }}) has no password at all, access becomes a matter of discovery rather than compromise.
 
-Public accounts of the McKinnon case describe him using automated methods to identify Windows systems with administrator accounts that lacked passwords. According to reporting and later commentary, he was able to locate machines where basic credential protections had not been applied, then gain administrative control without overcoming sophisticated defensive measures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — He downloaded a program that searched for computers and pinpointed administrator user n...</span></span></span>
+Public accounts of the McKinnon case describe him using automated methods to identify Windows systems with administrator accounts that lacked passwords. According to reporting and later commentary, he was able to locate machines where basic credential protections had not been applied, then gain administrative control without overcoming sophisticated defensive measures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnon9 Jul 2005 — He downloaded a program that searched for computers and pinpointed administrator user n...</span></span></span>
 
 The mechanism is important:
 
@@ -305,7 +305,7 @@ The mechanism is important:
 
 </div>
 
-The US [indictment]({{ 'indictment/' | relative_url }}) alleged that McKinnon obtained administrative privileges on numerous systems and then used compromised machines to identify further targets within military and NASA environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon accessed and damaged without authorization 92...</span></span></span>
+The US [indictment]({{ 'indictment/' | relative_url }}) alleged that McKinnon obtained administrative privileges on numerous systems and then used compromised machines to identify further targets within military and NASA environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon accessed and damaged without authorization 92...</span></span></span>
 
 The critical point is that the attacker's effort does not increase proportionally with the number of vulnerable machines. Once a method works on one system, automation allows it to be repeated across many others.
 
@@ -318,14 +318,14 @@ The most widely cited technical lesson linked to the case concerns system imagin
 
 This practice improves consistency and reduces deployment time. However, if the master image contains a security defect, every machine created from that image inherits the same defect.
 
-One account from investigators and commentators on the McKinnon case described a network where roughly 10,000 computers had reportedly been configured from a common image. According to that account, the original configuration included blank administrator credentials, causing the weakness to be replicated across the fleet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">gary mckinnon was unlucky hes not even a good hacker</span><span class="citation-popover-snippet">Future IntelligenceGary McKinnon was unlucky. He&#x27;s not even a very good hacker18 Oct 2012 — he wrote a few lines of code to look through...</span></span></span>
+One account from investigators and commentators on the McKinnon case described a network where roughly 10,000 computers had reportedly been configured from a common image. According to that account, the original configuration included blank administrator credentials, causing the weakness to be replicated across the fleet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">gary mckinnon was unlucky hes not even a good hacker</span><span class="citation-popover-snippet">Future IntelligenceGary McKinnon was unlucky. He&#x27;s not even a very good hacker18 Oct 2012 — he wrote a few lines of code to look through...</span></span></span>
 
 Whether the exact figure can be independently verified is less important than the mechanism it illustrates. Imaging systems replicate:
 
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* Local administrator settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sentinelone.com/blog/laps-vulnerability-assessment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentinelone.com">[sentinelone.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentinelone.com</span><span class="citation-popover-snippet">LAPS Vulnerability AssessmentDecember 20, 2021 — 1 Apr 2025 — One way to reduce lateral attacks in a network is to remove comm...</span><span class="citation-popover-meta">Published: December 20, 2021</span></span></span>
+* Local administrator settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sentinelone.com/blog/laps-vulnerability-assessment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentinelone.com">[sentinelone.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentinelone.com</span><span class="citation-popover-snippet">LAPS Vulnerability AssessmentDecember 20, 2021 — 1 Apr 2025 — One way to reduce lateral attacks in a network is to remove comm...</span><span class="citation-popover-meta">Published: December 20, 2021</span></span></span>
 * Password policies.
 * Service configurations.
 * Security permissions.
@@ -349,14 +349,14 @@ Historically, many organisations configured large numbers of computers with the 
 
 The security consequence is that compromise of one system can become compromise of many systems.
 
-Modern security guidance specifically warns against common local administrator passwords because they enable [lateral movement]({{ 'lateral-movement/' | relative_url }})—the process by which an attacker moves from one compromised machine to others inside a network. Solutions such as Microsoft's Local Administrator Password Solution (LAPS) were created to address this exact problem by ensuring individual machines receive unique administrator credentials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sentinelone.com/blog/laps-vulnerability-assessment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentinelone.com">[SentinelOne]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentinelone.com</span><span class="citation-popover-snippet">LAPS Vulnerability AssessmentDecember 20, 2021 — 1 Apr 2025 — One way to reduce lateral attacks in a network is to remove comm...</span><span class="citation-popover-meta">Published: December 20, 2021</span></span></span>
+Modern security guidance specifically warns against common local administrator passwords because they enable [lateral movement]({{ 'lateral-movement/' | relative_url }})—the process by which an attacker moves from one compromised machine to others inside a network. Solutions such as Microsoft's Local Administrator Password Solution (LAPS) were created to address this exact problem by ensuring individual machines receive unique administrator credentials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sentinelone.com/blog/laps-vulnerability-assessment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentinelone.com">[SentinelOne]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentinelone.com</span><span class="citation-popover-snippet">LAPS Vulnerability AssessmentDecember 20, 2021 — 1 Apr 2025 — One way to reduce lateral attacks in a network is to remove comm...</span><span class="citation-popover-meta">Published: December 20, 2021</span></span></span>
 
 The lesson from the McKinnon-era weaknesses is therefore broader than "do not use blank passwords". It is:
 
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
-* Do not use blank administrator passwords. <span class="citation-chip-wrap"><a class="citation-chip" href="https://travisaltman.com/scan-for-blank-admin-passwords-without-commercial-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travisaltman.com">[travisaltman.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travisaltman.com</span><span class="citation-popover-title">scan for blank admin passwords without commercial software</span><span class="citation-popover-snippet">Scan for Blank Admin Passwords without Commercial...7 Aug 2007 — This simple script will let you find blank administrator passwords just...</span></span></span>
+* Do not use blank administrator passwords.<span class="citation-chip-wrap"><a class="citation-chip" href="https://travisaltman.com/scan-for-blank-admin-passwords-without-commercial-software/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: travisaltman.com">[travisaltman.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">travisaltman.com</span><span class="citation-popover-title">scan for blank admin passwords without commercial software</span><span class="citation-popover-snippet">Scan for Blank Admin Passwords without Commercial...7 Aug 2007 — This simple script will let you find blank administrator passwords just...</span></span></span>
 * Do not use default administrator passwords.
 * Do not reuse the same administrator password across large numbers of systems.
 * Do not assume that internal systems are safe simply because they are inside a trusted network.
@@ -372,7 +372,7 @@ Each of these practices turns administrative convenience into a force multiplier
 
 One misconception exposed by the McKinnon case is that highly sensitive organisations automatically have strong security.
 
-The affected environments allegedly included systems associated with the US military, defence networks and NASA. Despite the sensitivity of those environments, reporting on the case repeatedly pointed to basic credential weaknesses and poor password hygiene as significant contributing factors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon accessed and damaged without authorization 92...</span></span></span>
+The affected environments allegedly included systems associated with the US military, defence networks and NASA. Despite the sensitivity of those environments, reporting on the case repeatedly pointed to basic credential weaknesses and poor password hygiene as significant contributing factors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon accessed and damaged without authorization 92...</span></span></span>
 
 This illustrates a recurring pattern in cybersecurity. Organisations often invest heavily in perimeter defences, specialised monitoring tools and advanced technologies while overlooking simple administrative controls.
 
@@ -403,7 +403,7 @@ Common controls include:
 
 </div>
 
-Government and industry guidance has increasingly moved toward eliminating default or weak administrative credentials entirely, recognising that attackers continue to exploit them decades after the [McKinnon intrusions]({{ 'intrusions/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sentinelone.com/blog/laps-vulnerability-assessment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentinelone.com">[SentinelOne]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentinelone.com</span><span class="citation-popover-snippet">LAPS Vulnerability AssessmentDecember 20, 2021 — 1 Apr 2025 — One way to reduce lateral attacks in a network is to remove comm...</span><span class="citation-popover-meta">Published: December 20, 2021</span></span></span>
+Government and industry guidance has increasingly moved toward eliminating default or weak administrative credentials entirely, recognising that attackers continue to exploit them decades after the [McKinnon intrusions]({{ 'intrusions/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sentinelone.com/blog/laps-vulnerability-assessment/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sentinelone.com">[SentinelOne]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sentinelone.com</span><span class="citation-popover-snippet">LAPS Vulnerability AssessmentDecember 20, 2021 — 1 Apr 2025 — One way to reduce lateral attacks in a network is to remove comm...</span><span class="citation-popover-meta">Published: December 20, 2021</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_blank_admin_password_703207-Illustration-3-dark.svg" | relative_url }}" alt="Blank Passwords illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_blank_admin_password_703207-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_blank_admin_password_703207-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -413,197 +413,197 @@ The enduring lesson from this aspect of the McKinnon case is that scale changes 
 
 What makes the episode relevant today is not the specific technology involved in early-2000s Windows networks. It is the underlying mechanism. Organisations still use templates, standard builds, cloud images and automated deployment systems. The tools have changed, but the risk remains the same: when an insecure privileged configuration is replicated at scale, a single oversight can expose an entire environment.
 
-In that sense, the real danger was never the blank password itself. It was the decision to reproduce that weakness everywhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence+2SentinelOne]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">gary mckinnon was unlucky hes not even a good hacker</span><span class="citation-popover-snippet">Future IntelligenceGary McKinnon was unlucky. He&#x27;s not even a very good hacker18 Oct 2012 — he wrote a few lines of code to look through...</span></span></span>
+In that sense, the real danger was never the blank password itself. It was the decision to reproduce that weakness everywhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[futureintelligence.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">gary mckinnon was unlucky hes not even a good hacker</span><span class="citation-popover-snippet">Future IntelligenceGary McKinnon was unlucky. He&#x27;s not even a very good hacker18 Oct 2012 — he wrote a few lines of code to look through...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When One Blank Password Exposes a Network. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When One Blank Password Exposes a Network. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Ross Anderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
+</h4>
+<p class="fr-book-author">By Ross Anderson</p>
         
-        <p class="fr-book-desc">Directly addresses authentication and access-control failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses authentication and access-control failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ud8yswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
-        </h4>
-        <p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Phoenix Project on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ud8yswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Phoenix Project" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Phoenix Project">The Phoenix Project</a>
+</h4>
+<p class="fr-book-author">By Gene Kim, Kevin Behr et al.</p>
         
-        <p class="fr-book-desc">Highlights operational discipline and configuration management.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights operational discipline and configuration management.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Phoenix+Project+by+Gene+Kim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
-        </h4>
-        <p class="fr-book-author">By Richard Bejtlich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
+</h4>
+<p class="fr-book-author">By Richard Bejtlich</p>
         
-        <p class="fr-book-desc">Relevant to detecting misuse of privileged accounts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to detecting misuse of privileged accounts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Malware+Analysis+by+Michael+Sikorski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Malware Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FQC8EPYy834C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Malware Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Malware+Analysis+by+Michael+Sikorski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Malware Analysis">Practical Malware Analysis</a>
-        </h4>
-        <p class="fr-book-author">By Michael Sikorski, Andrew Honig</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Malware+Analysis+by+Michael+Sikorski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Malware Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FQC8EPYy834C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Malware Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Malware+Analysis+by+Michael+Sikorski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Malware Analysis">Practical Malware Analysis</a>
+</h4>
+<p class="fr-book-author">By Michael Sikorski, Andrew Honig</p>
         
-        <p class="fr-book-desc">Shows how attackers exploit weakly protected systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Malware+Analysis+by+Michael+Sikorski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how attackers exploit weakly protected systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Malware+Analysis+by+Michael+Sikorski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Project&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Project</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Phoenix+Project&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Phoenix Project</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian"><img src="{{ '/assets/images/marketplace-covers/973c8ea6d304f02fdd34.jpg' | relative_url }}" alt="Listing image for Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien Head Flouro Yellow Sticker, Campervan JDM Dub Laptop UFO Martian</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="blank-passwords-when-one-blank-password-exposes-a-network-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -619,7 +619,7 @@ In that sense, the real danger was never the blank password itself. It was the d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -639,7 +639,7 @@ In that sense, the real danger was never the blank password itself. It was the d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -671,7 +671,7 @@ In that sense, the real danger was never the blank password itself. It was the d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -723,7 +723,7 @@ In that sense, the real danger was never the blank password itself. It was the d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -768,7 +768,7 @@ In that sense, the real danger was never the blank password itself. It was the d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -809,108 +809,108 @@ In that sense, the real danger was never the blank password itself. It was the d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wikileaks.org  
-   Link: <a href="https://www.wikileaks.org/hackingteam/emails/emailid/985036" target="_blank" rel="noopener noreferrer nofollow">https://www.wikileaks.org/hackingteam/emails/emailid/985036</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking Team24 Apr 2006 — Essentially, Mr McKinnon scanned the US military computer systems for network administrator accounts where the...</p></details>
+   Link:<a href="https://www.wikileaks.org/hackingteam/emails/emailid/985036" target="_blank" rel="noopener noreferrer nofollow">https://www.wikileaks.org/hackingteam/emails/emailid/985036</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking Team24 Apr 2006 — Essentially, Mr McKinnon scanned the US military computer systems for network administrator accounts where the...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon accessed and damaged without authorization 92...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon accessed and damaged without authorization 92...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: sentinelone.com  
-   Link: <a href="https://www.sentinelone.com/blog/laps-vulnerability-assessment/" target="_blank" rel="noopener noreferrer nofollow">https://www.sentinelone.com/blog/laps-vulnerability-assessment/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LAPS Vulnerability AssessmentDecember 20, 2021 — 1 Apr 2025 — One way to reduce lateral attacks in a network is to remove comm...</p></details>
+   Link:<a href="https://www.sentinelone.com/blog/laps-vulnerability-assessment/" target="_blank" rel="noopener noreferrer nofollow">https://www.sentinelone.com/blog/laps-vulnerability-assessment/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LAPS Vulnerability AssessmentDecember 20, 2021 — 1 Apr 2025 — One way to reduce lateral attacks in a network is to remove comm...</p></details>
    Published: December 20, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: techcommunity.microsoft.com  
-   Link: <a href="https://techcommunity.microsoft.com/discussions/windows11/reset-windows-server-2022-admin-password-without-losing-data/4497731" target="_blank" rel="noopener noreferrer nofollow">https://techcommunity.microsoft.com/discussions/windows11/reset-windows-server-2022-admin-password-without-losing-data/4497731</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>windows server 2022 admin password without...26 Feb 2026 — To reset the administrator password, type: net user Administrator newpassword...</p></details>
+   Link:<a href="https://techcommunity.microsoft.com/discussions/windows11/reset-windows-server-2022-admin-password-without-losing-data/4497731" target="_blank" rel="noopener noreferrer nofollow">https://techcommunity.microsoft.com/discussions/windows11/reset-windows-server-2022-admin-password-without-losing-data/4497731</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>windows server 2022 admin password without...26 Feb 2026 — To reset the administrator password, type: net user Administrator newpassword...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnon9 Jul 2005 — He downloaded a program that searched for computers and pinpointed administrator user n...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnon9 Jul 2005 — He downloaded a program that searched for computers and pinpointed administrator user n...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://it.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: futureintelligence.co.uk  
    Title: gary mckinnon was unlucky hes not even a good hacker  
-   Link: <a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Future IntelligenceGary McKinnon was unlucky. He&#x27;s not even a very good hacker18 Oct 2012 — he wrote a few lines of code to look through...</p></details>
+   Link:<a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Future IntelligenceGary McKinnon was unlucky. He&#x27;s not even a very good hacker18 Oct 2012 — he wrote a few lines of code to look through...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker&#x27;s progress: how McKinnon pierced Pentagon security3 Apr 2007 — The biggest loopholes had been created by users who failed to follo...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker&#x27;s progress: how McKinnon pierced Pentagon security3 Apr 2007 — The biggest loopholes had been created by users who failed to follo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonScottish systems administrator and hacker who was accused by a US prosecutor in 2002 of perpetrating the &quot;biggest militar...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonScottish systems administrator and hacker who was accused by a US prosecutor in 2002 of perpetrating the &quot;biggest militar...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: netwrix.com  
-   Link: <a href="https://netwrix.com/en/cybersecurity-glossary/cyber-security-attacks/plaintext-password-extraction-attack/" target="_blank" rel="noopener noreferrer nofollow">https://netwrix.com/en/cybersecurity-glossary/cyber-security-attacks/plaintext-password-extraction-attack/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Plaintext Password Extraction AttackLearn what password spraying attacks are, how they compromise user accounts, and how Netwrix helps de...</p></details>
+   Link:<a href="https://netwrix.com/en/cybersecurity-glossary/cyber-security-attacks/plaintext-password-extraction-attack/" target="_blank" rel="noopener noreferrer nofollow">https://netwrix.com/en/cybersecurity-glossary/cyber-security-attacks/plaintext-password-extraction-attack/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plaintext Password Extraction AttackLearn what password spraying attacks are, how they compromise user accounts, and how Netwrix helps de...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/sysadmin/comments/bp9nul/windows_10_reset_local_administrator_password/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sysadmin/comments/bp9nul/windows_10_reset_local_administrator_password/</a>  
+   Link:<a href="https://www.reddit.com/r/sysadmin/comments/bp9nul/windows_10_reset_local_administrator_password/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/sysadmin/comments/bp9nul/windows_10_reset_local_administrator_password/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: altasit.eu  
-   Link: <a href="https://www.altasit.eu/blog/1/invites-the-implementation-of-stricter-identity-and-access-data-management-128" target="_blank" rel="noopener noreferrer nofollow">https://www.altasit.eu/blog/1/invites-the-implementation-of-stricter-identity-and-access-data-management-128</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A single password put the entire company&#x27;s infrastructure at risk7 May 2026 — Are our security systems truly secure, or do we simply assu...</p></details>
+   Link:<a href="https://www.altasit.eu/blog/1/invites-the-implementation-of-stricter-identity-and-access-data-management-128" target="_blank" rel="noopener noreferrer nofollow">https://www.altasit.eu/blog/1/invites-the-implementation-of-stricter-identity-and-access-data-management-128</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A single password put the entire company&#x27;s infrastructure at risk7 May 2026 — Are our security systems truly secure, or do we simply assu...</p></details>
    Published: May 2026  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: travisaltman.com  
    Title: scan for blank admin passwords without commercial software  
-   Link: <a href="https://travisaltman.com/scan-for-blank-admin-passwords-without-commercial-software/" target="_blank" rel="noopener noreferrer nofollow">https://travisaltman.com/scan-for-blank-admin-passwords-without-commercial-software/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scan for Blank Admin Passwords without Commercial...7 Aug 2007 — This simple script will let you find blank administrator passwords just...</p></details>
+   Link:<a href="https://travisaltman.com/scan-for-blank-admin-passwords-without-commercial-software/" target="_blank" rel="noopener noreferrer nofollow">https://travisaltman.com/scan-for-blank-admin-passwords-without-commercial-software/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scan for Blank Admin Passwords without Commercial...7 Aug 2007 — This simple script will let you find blank administrator passwords just...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: independent.co.uk  
    Title: gary mckinnon inside the head of a super hacker 6095677  
-   Link: <a href="https://www.independent.co.uk/news/science/gary-mckinnon-inside-the-head-of-a-super-hacker-6095677.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/gary-mckinnon-inside-the-head-of-a-super-hacker-6095677.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Inside the head of a super hacker12 Jul 2006 — The 40-year-old is accused of repeatedly hacking into dozens of computers b...</p></details>
+   Link:<a href="https://www.independent.co.uk/news/science/gary-mckinnon-inside-the-head-of-a-super-hacker-6095677.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/news/science/gary-mckinnon-inside-the-head-of-a-super-hacker-6095677.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Inside the head of a super hacker12 Jul 2006 — The 40-year-old is accused of repeatedly hacking into dozens of computers b...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: technibble.com  
    Title: computer locked by fake extortion company.58066  
-   Link: <a href="https://www.technibble.com/forums/threads/computer-locked-by-fake-extortion-company.58066/" target="_blank" rel="noopener noreferrer nofollow">https://www.technibble.com/forums/threads/computer-locked-by-fake-extortion-company.58066/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>computer locked by fake(extortion) company15 Jul 2014 — If the password resets upon logon, it sounds like it&#x27;s infected, not just locked...</p></details>
+   Link:<a href="https://www.technibble.com/forums/threads/computer-locked-by-fake-extortion-company.58066/" target="_blank" rel="noopener noreferrer nofollow">https://www.technibble.com/forums/threads/computer-locked-by-fake-extortion-company.58066/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>computer locked by fake(extortion) company15 Jul 2014 — If the password resets upon logon, it sounds like it&#x27;s infected, not just locked...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
    Published: March 2002  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: hackingarticles.in  
    Title: credential dumping laps  
-   Link: <a href="https://www.hackingarticles.in/credential-dumping-laps/" target="_blank" rel="noopener noreferrer nofollow">https://www.hackingarticles.in/credential-dumping-laps/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Credential Dumping: LAPS31 May 2020 — In this article, we will be discussing the concept of Credential Dumping and LAPS (Local Administra...</p></details>
+   Link:<a href="https://www.hackingarticles.in/credential-dumping-laps/" target="_blank" rel="noopener noreferrer nofollow">https://www.hackingarticles.in/credential-dumping-laps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Credential Dumping: LAPS31 May 2020 — In this article, we will be discussing the concept of Credential Dumping and LAPS (Local Administra...</p></details>
    Published: May 2020  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=tAxMmlLRYFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tAxMmlLRYFg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Method 2: Use Windows installation Disk to Reset Administrator...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=tAxMmlLRYFg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tAxMmlLRYFg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Method 2: Use Windows installation Disk to Reset Administrator...</p></details>

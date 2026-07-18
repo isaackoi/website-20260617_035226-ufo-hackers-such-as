@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_shi
 
 ## Introduction
 
-The phrase “ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }})” is often treated as the most intriguing part of Gary McKinnon’s “Non-Terrestrial Officers” story because it appears to suggest movements between vessels that were not ordinary naval ships. In UFO discussions, the leap is frequently made from “ship” to “spacecraft”. Yet the available evidence does not support such a direct conclusion. The only public source for the claim is McKinnon’s own recollection of a spreadsheet he says he viewed during his [intrusions]({{ 'intrusions/' | relative_url }}) into US military systems. The spreadsheet itself has never been released, authenticated, or independently examined. As a result, the phrase must be interpreted without the surrounding context that would normally reveal what the entries actually meant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
+The phrase “ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }})” is often treated as the most intriguing part of Gary McKinnon’s “Non-Terrestrial Officers” story because it appears to suggest movements between vessels that were not ordinary naval ships. In UFO discussions, the leap is frequently made from “ship” to “spacecraft”. Yet the available evidence does not support such a direct conclusion. The only public source for the claim is McKinnon’s own recollection of a spreadsheet he says he viewed during his [intrusions]({{ 'intrusions/' | relative_url }}) into US military systems. The spreadsheet itself has never been released, authenticated, or independently examined. As a result, the phrase must be interpreted without the surrounding context that would normally reveal what the entries actually meant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_ship_to_ship_interpr_b94567-Illustration-1-dark.svg" | relative_url }}" alt="Transfers illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_ship_to_ship_interpr_b94567-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_ship_to_ship_interpr_b94567-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,13 +288,13 @@ This creates an interpretation problem rather than a straightforward evidential 
 
 ## Did “Ship-to-Ship Transfers” Mean Spacecraft?
 
-The strongest UFO-oriented interpretation is that the spreadsheet recorded personnel movements between secret space vessels. This reading usually relies on combining two elements of McKinnon’s account: the heading “Non-Terrestrial Officers” and the presence of “ship-to-ship transfers”. If the officers were assumed to be associated with space operations, then the ships are often assumed to be spacecraft as well. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
+The strongest UFO-oriented interpretation is that the spreadsheet recorded personnel movements between secret space vessels. This reading usually relies on combining two elements of McKinnon’s account: the heading “Non-Terrestrial Officers” and the presence of “ship-to-ship transfers”. If the officers were assumed to be associated with space operations, then the ships are often assumed to be spacecraft as well.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
 
 The problem is that neither term carries that meaning automatically.
 
 In military and maritime usage, “ship” is an extremely broad label. It can refer to naval vessels, support vessels, training assets, simulated platforms, or administrative entities used in planning systems. Without the original spreadsheet, there is no way to determine whether the entries referred to actual operational movements, hypothetical assignments, logistics exercises, [personnel records]({{ 'personnel-records/' | relative_url }}), or something else entirely.
 
-Importantly, even McKinnon acknowledged uncertainty when discussing what he saw. In the well-known Wired interview, he accepted that the material could potentially have been part of a game or simulation rather than evidence of a hidden fleet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
+Importantly, even McKinnon acknowledged uncertainty when discussing what he saw. In the well-known Wired interview, he accepted that the material could potentially have been part of a game or simulation rather than evidence of a hidden fleet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WFd7XzTf6_k" title="David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer">David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WFd7XzTf6_k">Open on YouTube</a></p></div></div></div>
@@ -303,7 +303,7 @@ Importantly, even McKinnon acknowledged uncertainty when discussing what he saw.
 
 One reason caution is warranted is that transferring personnel between ships is a routine feature of naval operations.
 
-Navies regularly move officers, specialists, aircrew, technicians, and command personnel from one vessel to another. Historically, personnel have been transferred by boat, helicopter, replenishment operations, or other forms of cross-deck movement. Naval [terminology]({{ 'terminology/' | relative_url }}) even contains specific concepts for moving people and equipment directly between vessels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cross-deck_%28naval_terminology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cross-deck (naval terminology</span><span class="citation-popover-snippet">Cross-deck (naval terminology</span></span></span>
+Navies regularly move officers, specialists, aircrew, technicians, and command personnel from one vessel to another. Historically, personnel have been transferred by boat, helicopter, replenishment operations, or other forms of cross-deck movement. Naval [terminology]({{ 'terminology/' | relative_url }}) even contains specific concepts for moving people and equipment directly between vessels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cross-deck_%28naval_terminology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cross-deck (naval terminology</span><span class="citation-popover-snippet">Cross-deck (naval terminology</span></span></span>
 
 Several ordinary interpretations are therefore possible:
 
@@ -320,7 +320,7 @@ Several ordinary interpretations are therefore possible:
 
 The key point is not that any one of these [explanations]({{ 'explanations/' | relative_url }}) is proven. Rather, they demonstrate that “ship-to-ship transfer” is not a phrase that naturally points only to spacecraft.
 
-The maritime world already uses “ship-to-ship” as a standard operational term. In civilian shipping, it commonly refers to transfers conducted between vessels at sea. Naval organisations likewise conduct transfers of personnel and supplies between ships during operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ship-to-ship_cargo_transfer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Skuld]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ship-to-ship cargo transfer</span><span class="citation-popover-snippet">Ship-to-ship cargo transfer</span></span></span>
+The maritime world already uses “ship-to-ship” as a standard operational term. In civilian shipping, it commonly refers to transfers conducted between vessels at sea. Naval organisations likewise conduct transfers of personnel and supplies between ships during operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ship-to-ship_cargo_transfer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ship-to-ship cargo transfer</span><span class="citation-popover-snippet">Ship-to-ship cargo transfer</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_ship_to_ship_interpr_b94567-Illustration-2-dark.svg" | relative_url }}" alt="Transfers illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_ship_to_ship_interpr_b94567-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_ship_to_ship_interpr_b94567-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,7 +330,7 @@ One of the most overlooked possibilities is that the spreadsheet belonged to a t
 
 Military organisations routinely create fictional orders of battle, hypothetical unit rosters, and scenario-driven personnel assignments. Databases used for exercises often contain invented names, placeholder units, notional platforms, and transfer records designed to test command systems rather than document real-world activity.
 
-This possibility is significant because McKinnon reportedly accessed numerous poorly secured systems and did not always know precisely what programme or database he was viewing. A spreadsheet containing unusual terminology could therefore have originated from a simulation environment rather than an operational one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
+This possibility is significant because McKinnon reportedly accessed numerous poorly secured systems and did not always know precisely what programme or database he was viewing. A spreadsheet containing unusual terminology could therefore have originated from a simulation environment rather than an operational one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
 
 The challenge is that spreadsheets are especially vulnerable to misinterpretation when viewed outside their intended context. A user who sees only a title and a list of entries may be unable to determine whether the document is:
 
@@ -350,7 +350,7 @@ Without accompanying documentation, [metadata]({{ 'metadata/' | relative_url }})
 
 The interpretation problem exists because the public possesses only fragments of the alleged information.
 
-No screenshot of the spreadsheet has been independently authenticated. No database schema has been released. No surrounding records have surfaced showing who created the file, what department maintained it, or what purpose it served. There is also no corroborating witness who has publicly confirmed viewing the same document. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
+No screenshot of the spreadsheet has been independently authenticated. No database schema has been released. No surrounding records have surfaced showing who created the file, what department maintained it, or what purpose it served. There is also no corroborating witness who has publicly confirmed viewing the same document.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
 
 In practical terms, the missing context includes questions that would normally be essential:
 
@@ -374,7 +374,7 @@ Without answers to those questions, the phrase “ship-to-ship transfers” cann
 
 The enduring fascination of the transfer entries comes from how little information accompanies them. In UFO discussions, ambiguity often invites dramatic interpretations, especially when a phrase appears alongside terms such as “Non-Terrestrial Officers”. Yet ambiguity cuts both ways.
 
-The transfer records are noteworthy because they are unusual and memorable, not because their meaning has been demonstrated. The evidence supports only a limited conclusion: McKinnon reported seeing a spreadsheet containing what he interpreted as ship-to-ship transfers. Everything beyond that point depends on assumptions about words whose original context is unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
+The transfer records are noteworthy because they are unusual and memorable, not because their meaning has been demonstrated. The evidence supports only a limited conclusion: McKinnon reported seeing a spreadsheet containing what he interpreted as ship-to-ship transfers. Everything beyond that point depends on assumptions about words whose original context is unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</span></span></span>
 
 For that reason, “ship-to-ship transfers” remains one of the clearest examples of the central problem in the McKinnon story: a small fragment of information can appear highly significant, but without the surrounding records needed to interpret it, multiple explanations remain plausible.
 
@@ -383,194 +383,194 @@ For that reason, “ship-to-ship transfers” remains one of the clearest exampl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did &#x27;Ship to Ship Transfers&#x27; Mean Spacecraft?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did &#x27;Ship to Ship Transfers&#x27; Mean Spacecraft?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
-        </h4>
-        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
+</h4>
+<p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Helps readers compare ordinary military programs with speculative interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare ordinary military programs with speculative interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places unusual terminology within broader UFO evidence discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places unusual terminology within broader UFO evidence discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Demonstrates the need for context before interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates the need for context before interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses ambiguous evidence and over-interpretation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses ambiguous evidence and over-interpretation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals"><img src="{{ '/assets/images/marketplace-covers/893e8e3d6400930d48b6.jpg' | relative_url }}" alt="Listing image for UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals"><img src="{{ '/assets/images/marketplace-covers/893e8e3d6400930d48b6.jpg' | relative_url }}" alt="Listing image for UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">UD-4L Cheyenne Dropship Aliens Resin Model Kit 27cm Colonial Marines V2 Decals</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="{{ '/assets/images/marketplace-covers/8a4534533a90e386a891.jpg' | relative_url }}" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/60d93ce88f23fee0c0d4.jpg' | relative_url }}" alt="Listing image for Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit"><img src="{{ '/assets/images/marketplace-covers/60d93ce88f23fee0c0d4.jpg' | relative_url }}" alt="Listing image for Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien Space Jockey, HT04, 1:60 Scale Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door"><img src="{{ '/assets/images/marketplace-covers/b98e208b65b5ac253bde.jpg' | relative_url }}" alt="Listing image for Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door"><img src="{{ '/assets/images/marketplace-covers/b98e208b65b5ac253bde.jpg' | relative_url }}" alt="Listing image for Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="transfers-did-ship-to-ship-transfers-mean-spacecraft-ufo-hackers-such-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -586,7 +586,7 @@ For that reason, “ship-to-ship transfers” remains one of the clearest exampl
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -606,7 +606,7 @@ For that reason, “ship-to-ship transfers” remains one of the clearest exampl
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -638,7 +638,7 @@ For that reason, “ship-to-ship transfers” remains one of the clearest exampl
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -690,7 +690,7 @@ For that reason, “ship-to-ship transfers” remains one of the clearest exampl
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -735,7 +735,7 @@ For that reason, “ship-to-ship transfers” remains one of the clearest exampl
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -776,90 +776,90 @@ For that reason, “ship-to-ship transfers” remains one of the clearest exampl
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found... The search for proof of the existence of UFOs lan...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cross-deck (naval terminology)  
-   Link: <a href="https://en.wikipedia.org/wiki/Cross-deck_%28naval_terminology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cross-deck_%28naval_terminology%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Cross-deck_%28naval_terminology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cross-deck_%28naval_terminology%29</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Ship-to-ship cargo transfer  
-   Link: <a href="https://en.wikipedia.org/wiki/Ship-to-ship_cargo_transfer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ship-to-ship_cargo_transfer</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ship-to-ship_cargo_transfer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ship-to-ship_cargo_transfer</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skuld.com  
    Title: Ship to ship transfer safety  
-   Link: <a href="https://www.skuld.com/topics/cargo/liquid-bulk/ship-to-ship-transfer-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.skuld.com/topics/cargo/liquid-bulk/ship-to-ship-transfer-safety/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Nov 2020 — Ship to ship (STS) transfer is the term primarily applied to the transfer of crude oil, petroleum products, liquid bul...</p></details>
+   Link:<a href="https://www.skuld.com/topics/cargo/liquid-bulk/ship-to-ship-transfer-safety/" target="_blank" rel="noopener noreferrer nofollow">https://www.skuld.com/topics/cargo/liquid-bulk/ship-to-ship-transfer-safety/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Nov 2020 — Ship to ship (STS) transfer is the term primarily applied to the transfer of crude oil, petroleum products, liquid bul...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uapmurders.com  
-   Link: <a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Murdering UAP ExpertsUFO Hacker, Non-Terrestrial Officers &amp; NASA&#x27;s Hidden Craft - The Galactic Mind · &quot;Non-terrestrial of...</p></details>
+   Link:<a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Murdering UAP ExpertsUFO Hacker, Non-Terrestrial Officers &amp; NASA&#x27;s Hidden Craft - The Galactic Mind · &quot;Non-terrestrial of...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/gary-mac-kinnonthe-whistle-blower-didier-hanson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/gary-mac-kinnonthe-whistle-blower-didier-hanson</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GARY MAC KINNON.THE WHISTLE BLOWER..The spreadsheet viewed by McKinnon apparently listed ship-to-ship personnel transfers. Rumours abound...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/gary-mac-kinnonthe-whistle-blower-didier-hanson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/gary-mac-kinnonthe-whistle-blower-didier-hanson</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GARY MAC KINNON.THE WHISTLE BLOWER..The spreadsheet viewed by McKinnon apparently listed ship-to-ship personnel transfers. Rumours abound...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61566266484866/videos/-ship-to-ship-sts-transfer-operation-cargo-management-at-sea-what-is-ship-to-shi/2324620974714745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61566266484866/videos/-ship-to-ship-sts-transfer-operation-cargo-management-at-sea-what-is-ship-to-shi/2324620974714745/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SHIP-TO-SHIP (STS) TRANSFER OPERATION: Cargo...Ship-to-Ship (STS) transfer is a critical maritime operation where cargo is transferred b...</p></details>
+   Link:<a href="https://www.facebook.com/61566266484866/videos/-ship-to-ship-sts-transfer-operation-cargo-management-at-sea-what-is-ship-to-shi/2324620974714745/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61566266484866/videos/-ship-to-ship-sts-transfer-operation-cargo-management-at-sea-what-is-ship-to-shi/2324620974714745/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SHIP-TO-SHIP (STS) TRANSFER OPERATION: Cargo...Ship-to-Ship (STS) transfer is a critical maritime operation where cargo is transferred b...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jbcwj7/ufo_hackers_claim_government_coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jbcwj7/ufo_hackers_claim_government_coverup/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hackers Claim Government Coverup: r/UFOs39 votes, 34 comments. Three hackers targeted US government computer systems looking for UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1jbcwj7/ufo_hackers_claim_government_coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jbcwj7/ufo_hackers_claim_government_coverup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hackers Claim Government Coverup: r/UFOs39 votes, 34 comments. Three hackers targeted US government computer systems looking for UFO...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: en.ibicon.ru  
-   Link: <a href="https://en.ibicon.ru/plan-obespecheniya-transportnoy-bezopasnosti-potb" target="_blank" rel="noopener noreferrer nofollow">https://en.ibicon.ru/plan-obespecheniya-transportnoy-bezopasnosti-potb</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to Ship Transfer Operations Plan (STS)Ship-to-ship transfer operations, also known as lightering operations, are operations where crude o...</p></details>
+   Link:<a href="https://en.ibicon.ru/plan-obespecheniya-transportnoy-bezopasnosti-potb" target="_blank" rel="noopener noreferrer nofollow">https://en.ibicon.ru/plan-obespecheniya-transportnoy-bezopasnosti-potb</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to Ship Transfer Operations Plan (STS)Ship-to-ship transfer operations, also known as lightering operations, are operations where crude o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO described by Gary McKinnon looks exactly like...r/aliens - Serious US Department of War releases UFO and potential alien life fi...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO described by Gary McKinnon looks exactly like...r/aliens - Serious US Department of War releases UFO and potential alien life fi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSu-ejbkWLz/?hl=pt" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSu-ejbkWLz/?hl=pt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1986, American astronomer Clifford Stoll spotted a 75...How he discovered a Hacker Through a 75-cent Accounting Error This...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSu-ejbkWLz/?hl=pt" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSu-ejbkWLz/?hl=pt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1986, American astronomer Clifford Stoll spotted a 75...How he discovered a Hacker Through a 75-cent Accounting Error This...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: britanniapandi.com  
    Title: ship to ship operations guidance prepare to abort  
-   Link: <a href="https://britanniapandi.com/2024/05/ship-to-ship-operations-guidance-prepare-to-abort/" target="_blank" rel="noopener noreferrer nofollow">https://britanniapandi.com/2024/05/ship-to-ship-operations-guidance-prepare-to-abort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ship to ship (sts) transfer operations guidance15 May 2024 — A ship to ship (sts) transfer operation is where cargo is transferred betwee...</p></details>
+   Link:<a href="https://britanniapandi.com/2024/05/ship-to-ship-operations-guidance-prepare-to-abort/" target="_blank" rel="noopener noreferrer nofollow">https://britanniapandi.com/2024/05/ship-to-ship-operations-guidance-prepare-to-abort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ship to ship (sts) transfer operations guidance15 May 2024 — A ship to ship (sts) transfer operation is where cargo is transferred betwee...</p></details>
    Published: May 2024  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cybernews.com  
    Title: He based his actions on his obsessive search for evidence of UFOs.Read more  
-   Link: <a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hacker who breached NASA to prove that UFOs exist31 Oct 2023 — Known online as Solo, McKinnon obsessively poked around US government...</p></details>
+   Link:<a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hacker who breached NASA to prove that UFOs exist31 Oct 2023 — Known online as Solo, McKinnon obsessively poked around US government...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: guvengrab.com  
-   Link: <a href="https://guvengrab.com/the-ultimate-guide-to-ship-to-ship-transfer-sts/" target="_blank" rel="noopener noreferrer nofollow">https://guvengrab.com/the-ultimate-guide-to-ship-to-ship-transfer-sts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n two vessels positioned alongside each other at sea or at an anchorage...</p></details>
+   Link:<a href="https://guvengrab.com/the-ultimate-guide-to-ship-to-ship-transfer-sts/" target="_blank" rel="noopener noreferrer nofollow">https://guvengrab.com/the-ultimate-guide-to-ship-to-ship-transfer-sts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n two vessels positioned alongside each other at sea or at an anchorage...</p></details>

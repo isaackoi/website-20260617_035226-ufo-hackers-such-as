@@ -271,251 +271,251 @@ image: /assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earl
 
 ## Introduction
 
-The importance of the 950-password claim lies not only in the number itself but in what prosecutors argued it demonstrated: persistence, escalation, and the ability to move beyond a single vulnerable machine into a broader military network. At the same time, the public record reveals important limits. Much of the evidence was described in indictments and judicial summaries rather than released in detailed technical form, leaving outsiders able to understand the allegation but not independently verify every underlying forensic step. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+The importance of the 950-password claim lies not only in the number itself but in what prosecutors argued it demonstrated: persistence, escalation, and the ability to move beyond a single vulnerable machine into a broader military network. At the same time, the public record reveals important limits. Much of the evidence was described in indictments and judicial summaries rather than released in detailed technical form, leaving outsiders able to understand the allegation but not independently verify every underlying forensic step.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-1-dark.svg" | relative_url }}" alt="Earle 950 Passwords illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Where the password allegation came from
 
-The principal source for the allegation was the US Department of Justice announcement accompanying the New Jersey [indictment]({{ 'indictment/' | relative_url }}) against McKinnon in 2002. Prosecutors alleged that after gaining access to Naval Weapons Station Earle and installing the remote-administration program [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}) on networked computers, McKinnon returned between 18 and 21 June 2001 and used that software to access the system remotely. During those sessions, the indictment alleged, he stole approximately 950 passwords stored on server computers connected to the Earle network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+The principal source for the allegation was the US Department of Justice announcement accompanying the New Jersey [indictment]({{ 'indictment/' | relative_url }}) against McKinnon in 2002. Prosecutors alleged that after gaining access to Naval Weapons Station Earle and installing the remote-administration program [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}) on networked computers, McKinnon returned between 18 and 21 June 2001 and used that software to access the system remotely. During those sessions, the indictment alleged, he stole approximately 950 passwords stored on server computers connected to the Earle network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
-The same Department of Justice account described the passwords as part of a sequence rather than an isolated act. Prosecutors alleged that on 23 September 2001 McKinnon again entered the Earle network by using both the previously installed remote-access software and the passwords obtained during the June [intrusions]({{ 'intrusions/' | relative_url }}). In the prosecution narrative, the passwords therefore served as a bridge between initial compromise and later access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+The same Department of Justice account described the passwords as part of a sequence rather than an isolated act. Prosecutors alleged that on 23 September 2001 McKinnon again entered the Earle network by using both the previously installed remote-access software and the passwords obtained during the June [intrusions]({{ 'intrusions/' | relative_url }}). In the prosecution narrative, the passwords therefore served as a bridge between initial compromise and later access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
-The allegation subsequently appeared in multiple legal and journalistic summaries. The House of Lords judgment concerning McKinnon's extradition appeal referred to files copied from US Navy computers, including material containing approximately 950 passwords from server computers at Naval Weapons Station Earle. The figure remained remarkably consistent across years of litigation and reporting, suggesting that prosecutors regarded it as one of the more specific factual elements in the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament+2Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
+The allegation subsequently appeared in multiple legal and journalistic summaries. The House of Lords judgment concerning McKinnon's extradition appeal referred to files copied from US Navy computers, including material containing approximately 950 passwords from server computers at Naval Weapons Station Earle. The figure remained remarkably consistent across years of litigation and reporting, suggesting that prosecutors regarded it as one of the more specific factual elements in the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ## Why stored passwords mattered to prosecutors
 
-The significance of the passwords was not merely numerical. In network-security terms, stored account credentials can provide a map of user accounts, access privileges and potential routes through a larger system. Prosecutors presented the alleged theft as evidence that McKinnon had moved beyond casual browsing of exposed computers and had acquired information capable of facilitating continued access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+The significance of the passwords was not merely numerical. In network-security terms, stored account credentials can provide a map of user accounts, access privileges and potential routes through a larger system. Prosecutors presented the alleged theft as evidence that McKinnon had moved beyond casual browsing of exposed computers and had acquired information capable of facilitating continued access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
-The House of Lords summary sheds additional light on how authorities characterised the material. It referred to copied operating-system files containing account names and encrypted passwords obtained from multiple military computers. This framing is important because it suggests the allegation involved credential data extracted from system files rather than simply reading visible passwords from a screen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
+The House of Lords summary sheds additional light on how authorities characterised the material. It referred to copied operating-system files containing account names and encrypted passwords obtained from multiple military computers. This framing is important because it suggests the allegation involved credential data extracted from system files rather than simply reading visible passwords from a screen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
 
-For prosecutors, the 950-password figure also helped support a broader argument about intent. A person who merely stumbled across a system might be portrayed as a curious intruder. Someone alleged to have copied hundreds of credentials, installed remote-access tools and later returned using those credentials could be portrayed as conducting a sustained and deliberate intrusion. Whether one accepted that interpretation or not, the password evidence fitted naturally into the prosecution's theory of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+For prosecutors, the 950-password figure also helped support a broader argument about intent. A person who merely stumbled across a system might be portrayed as a curious intruder. Someone alleged to have copied hundreds of credentials, installed remote-access tools and later returned using those credentials could be portrayed as conducting a sustained and deliberate intrusion. Whether one accepted that interpretation or not, the password evidence fitted naturally into the prosecution's theory of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-2-dark.svg" | relative_url }}" alt="Earle 950 Passwords illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the passwords connected to the Earle shutdown narrative
 
-The [Earle shutdown]({{ 'earle-shutdown/' | relative_url }}) allegation and the 950-password allegation are often discussed together because prosecutors linked them through chronology. The indictment alleged that passwords were obtained in June 2001 and then used in September 2001 to regain access to the network. The later intrusion was in turn connected to allegations that files and logs were deleted and that the network became inoperable for an extended period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+The [Earle shutdown]({{ 'earle-shutdown/' | relative_url }}) allegation and the 950-password allegation are often discussed together because prosecutors linked them through chronology. The indictment alleged that passwords were obtained in June 2001 and then used in September 2001 to regain access to the network. The later intrusion was in turn connected to allegations that files and logs were deleted and that the network became inoperable for an extended period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
-This sequence gave the password evidence a special role in the Earle story. The passwords were not presented as the damage itself. Rather, they were presented as evidence explaining how later access allegedly occurred. In other words, the prosecution's narrative depended on the credentials helping to establish continuity between separate incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+This sequence gave the password evidence a special role in the Earle story. The passwords were not presented as the damage itself. Rather, they were presented as evidence explaining how later access allegedly occurred. In other words, the prosecution's narrative depended on the credentials helping to establish continuity between separate incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
-Because the passwords sat at the centre of that chain, they became one of the clearest examples of how admitted unauthorised access and disputed claims of disruption became intertwined in the wider McKinnon case. The credentials were a concrete artefact; the consequences attributed to their use remained more heavily debated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+Because the passwords sat at the centre of that chain, they became one of the clearest examples of how admitted unauthorised access and disputed claims of disruption became intertwined in the wider McKinnon case. The credentials were a concrete artefact; the consequences attributed to their use remained more heavily debated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y5jtyps4oaY" title="UK Hacker extradition to US blocked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer">UK Hacker extradition to US blocked</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 3.1K &middot; Uploaded: October 2012 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y5jtyps4oaY">Open on YouTube</a></p></div></div></div>
 
 ## Limits of proving the claim publicly
 
-Despite its prominence, the public [evidence trail]({{ 'evidence-trail/' | relative_url }}) has limits. The figure of approximately 950 passwords appears repeatedly in indictments, government statements and judicial summaries, but the underlying credential files were never released publicly. Outside observers therefore cannot independently count the passwords or examine exactly how they were stored and extracted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+Despite its prominence, the public [evidence trail]({{ 'evidence-trail/' | relative_url }}) has limits. The figure of approximately 950 passwords appears repeatedly in indictments, government statements and judicial summaries, but the underlying credential files were never released publicly. Outside observers therefore cannot independently count the passwords or examine exactly how they were stored and extracted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
-Another limitation is that the public record generally summarises the evidence rather than reproducing the forensic analysis. Court documents and government statements describe what investigators concluded, but they do not provide the full technical artefacts, system images or investigative reports that would allow outside experts to reconstruct every step. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+Another limitation is that the public record generally summarises the evidence rather than reproducing the forensic analysis. Court documents and government statements describe what investigators concluded, but they do not provide the full technical artefacts, system images or investigative reports that would allow outside experts to reconstruct every step.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
-This does not mean the allegation lacked evidential value. It means that public understanding of the claim depends largely on official descriptions rather than direct inspection of the underlying data. For historians of the McKinnon case, the 950-password figure therefore occupies an unusual position: it is one of the most specific and consistently reported allegations in the Earle evidence trail, yet one whose technical foundation remains largely visible only through the lens of prosecutors and court summaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+This does not mean the allegation lacked evidential value. It means that public understanding of the claim depends largely on official descriptions rather than direct inspection of the underlying data. For historians of the McKinnon case, the 950-password figure therefore occupies an unusual position: it is one of the most specific and consistently reported allegations in the Earle evidence trail, yet one whose technical foundation remains largely visible only through the lens of prosecutors and court summaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-3-dark.svg" | relative_url }}" alt="Earle 950 Passwords illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_950_passwords_11b3cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the 950 passwords claim ultimately showed
 
-Within the Earle Naval Weapons Station allegations, the claim about 950 stolen passwords became a key evidential anchor because it was specific, quantifiable and repeatedly cited across indictments, [appeals]({{ 'appeals/' | relative_url }}) and media reporting. Prosecutors used it to support a narrative of continued access and network penetration rather than a one-off intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+Within the Earle Naval Weapons Station allegations, the claim about 950 stolen passwords became a key evidential anchor because it was specific, quantifiable and repeatedly cited across indictments, [appeals]({{ 'appeals/' | relative_url }}) and media reporting. Prosecutors used it to support a narrative of continued access and network penetration rather than a one-off intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
-The claim did not prove broader assertions about UFO investigations, secret technologies or other themes associated with McKinnon's public explanations. Instead, it functioned as a narrowly defined piece of computer-intrusion evidence. Its enduring significance comes from the way it linked the alleged June 2001 credential theft to later access at Earle, making it one of the clearest documentary threads in the larger and more contested story surrounding the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
+The claim did not prove broader assertions about UFO investigations, secret technologies or other themes associated with McKinnon's public explanations. Instead, it functioned as a narrowly defined piece of computer-intrusion evidence. Its enduring significance comes from the way it linked the alleged June 2001 credential theft to later access at Earle, making it one of the clearest documentary threads in the larger and more contested story surrounding the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y4lecD44F5E" title="Gary McKinnon wins extradition battle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y4lecD44F5E" target="_blank" rel="noopener noreferrer">Gary McKinnon wins extradition battle</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 8.0K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y4lecD44F5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y4lecD44F5E">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Earle 950 Passwords. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Earle 950 Passwords. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q1AJCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
-        </h4>
-        <p class="fr-book-author">By Fred Kaplan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q1AJCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
+</h4>
+<p class="fr-book-author">By Fred Kaplan</p>
         
-        <p class="fr-book-desc">Provides context for military-network intrusion allegations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for military-network intrusion allegations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Helps readers understand high-profile hacking cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand high-profile hacking cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
+</h4>
+<p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
         
-        <p class="fr-book-desc">Addresses threats to military logistics and infrastructure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses threats to military logistics and infrastructure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Shows how cyber risks become geopolitical concerns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how cyber risks become geopolitical concerns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Territory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Territory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Territory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Territory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-950-passwords-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-950-passwords-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ The claim did not prove broader assertions about UFO investigations, secret tech
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ The claim did not prove broader assertions about UFO investigations, secret tech
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ The claim did not prove broader assertions about UFO investigations, secret tech
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ The claim did not prove broader assertions about UFO investigations, secret tech
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ The claim did not prove broader assertions about UFO investigations, secret tech
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,93 +721,93 @@ The claim did not prove broader assertions about UFO investigations, secret tech
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval...... 950 passwords stored on server computers connected to the NWS Earle network. In addition, the Indictment charges that on Sep...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: parliament.uk  
    Title: update following cyber attack  
-   Link: <a href="https://www.parliament.uk/mps-lords-and-offices/offices/commons/media-relations-group/news/update-following-cyber-attack/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/mps-lords-and-offices/offices/commons/media-relations-group/news/update-following-cyber-attack/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons or House of Lords. The...Read more...</p></details>
+   Link:<a href="https://www.parliament.uk/mps-lords-and-offices/offices/commons/media-relations-group/news/update-following-cyber-attack/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/mps-lords-and-offices/offices/commons/media-relations-group/news/update-following-cyber-attack/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons or House of Lords. The...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: mg.co.za  
    Title: 2008 07 30 uk computer hacker loses appeal over us extradition  
-   Link: <a href="https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mail &amp; GuardianUK computer hacker loses appeal over US extradition30 Jul 2008 — The US authorities allege he stole 950 passwords and dele...</p></details>
+   Link:<a href="https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mail &amp; GuardianUK computer hacker loses appeal over US extradition30 Jul 2008 — The US authorities allege he stole 950 passwords and dele...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cybersecurityventures.com  
-   Link: <a href="https://cybersecurityventures.com/today/" target="_blank" rel="noopener noreferrer nofollow">https://cybersecurityventures.com/today/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CYBERCRIME WIRE: Latest Security And Privacy NewsA Romanian citizen who sold stolen login credentials that provided access to Oregon&#x27;s em...</p></details>
+   Link:<a href="https://cybersecurityventures.com/today/" target="_blank" rel="noopener noreferrer nofollow">https://cybersecurityventures.com/today/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CYBERCRIME WIRE: Latest Security And Privacy NewsA Romanian citizen who sold stolen login credentials that provided access to Oregon&#x27;s em...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: proton.me  
-   Link: <a href="https://proton.me/pass/leaked-politicians-dark-web" target="_blank" rel="noopener noreferrer nofollow">https://proton.me/pass/leaked-politicians-dark-web</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked: Politicians&#x27; emails and passwords on the dark webPoliticians and staffers are using their official email addresses to sign up for...</p></details>
+   Link:<a href="https://proton.me/pass/leaked-politicians-dark-web" target="_blank" rel="noopener noreferrer nofollow">https://proton.me/pass/leaked-politicians-dark-web</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked: Politicians&#x27; emails and passwords on the dark webPoliticians and staffers are using their official email addresses to sign up for...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonHe stole around 950 passwords, trashed around 1,300 user accounts. He deleted files at a naval weapons station, a...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonHe stole around 950 passwords, trashed around 1,300 user accounts. He deleted files at a naval weapons station, a...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fidoalliance.org  
-   Link: <a href="https://fidoalliance.org/financial-news-uk-the-death-of-the-password-how-passkeys-secretly-took-over-the-internet/" target="_blank" rel="noopener noreferrer nofollow">https://fidoalliance.org/financial-news-uk-the-death-of-the-password-how-passkeys-secretly-took-over-the-internet/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Financial News-UK: The Death of the Password9 Apr 2026 — Researchers revealed what might be the biggest collection of stolen login creden...</p></details>
+   Link:<a href="https://fidoalliance.org/financial-news-uk-the-death-of-the-password-how-passkeys-secretly-took-over-the-internet/" target="_blank" rel="noopener noreferrer nofollow">https://fidoalliance.org/financial-news-uk-the-death-of-the-password-how-passkeys-secretly-took-over-the-internet/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Financial News-UK: The Death of the Password9 Apr 2026 — Researchers revealed what might be the biggest collection of stolen login creden...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/hp/front/british-ufo-fan-in-biggest-us-military-hack-of-all-time-faces-60-years-in-jail-after-losing-extradition-fight-6892900.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/british-ufo-fan-in-biggest-us-military-hack-of-all-time-faces-60-years-in-jail-after-losing-extradition-fight-6892900.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American authorities claim he stole 950 passwords and deleted files at Earle naval weapons station in New Jersey.Read more...</p></details>
+   Link:<a href="https://www.standard.co.uk/hp/front/british-ufo-fan-in-biggest-us-military-hack-of-all-time-faces-60-years-in-jail-after-losing-extradition-fight-6892900.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/british-ufo-fan-in-biggest-us-military-hack-of-all-time-faces-60-years-in-jail-after-losing-extradition-fight-6892900.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American authorities claim he stole 950 passwords and deleted files at Earle naval weapons station in New Jersey.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: russian hackers stole passwords of british mps and public servants  
-   Link: <a href="https://www.theguardian.com/technology/2017/jun/23/russian-hackers-stole-passwords-of-british-mps-and-public-servants" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2017/jun/23/russian-hackers-stole-passwords-of-british-mps-and-public-servants</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Russian hackers &#x27;traded stolen passwords of British MPs...23 Jun 2017 — Passwords belonging to British politicians, diplomats and senior...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2017/jun/23/russian-hackers-stole-passwords-of-british-mps-and-public-servants" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2017/jun/23/russian-hackers-stole-passwords-of-british-mps-and-public-servants</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Russian hackers &#x27;traded stolen passwords of British MPs...23 Jun 2017 — Passwords belonging to British politicians, diplomats and senior...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: lawlib1.lawnet.fordham.edu  
    Title: Edited Casebook Build Starting with Consideration Rub  
-   Link: <a href="https://lawlib1.lawnet.fordham.edu/contractscasebook.org/casebook-builds/Edited-Casebook-Build-Starting-with-Consideration-Rub.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawlib1.lawnet.fordham.edu/contractscasebook.org/casebook-builds/Edited-Casebook-Build-Starting-with-Consideration-Rub.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>fordham.eduCONTRACTS: AN OPEN-SOURCE CASEBOOK... Press... Justice,” depending on the court. On occasion, the opinion will use the Latin...</p></details>
+   Link:<a href="https://lawlib1.lawnet.fordham.edu/contractscasebook.org/casebook-builds/Edited-Casebook-Build-Starting-with-Consideration-Rub.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lawlib1.lawnet.fordham.edu/contractscasebook.org/casebook-builds/Edited-Casebook-Build-Starting-with-Consideration-Rub.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>fordham.eduCONTRACTS: AN OPEN-SOURCE CASEBOOK... Press... Justice,” depending on the court. On occasion, the opinion will use the Latin...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: legacy.utcourts.gov  
    Title: 2018 04 Meeting materials  
-   Link: <a href="https://legacy.utcourts.gov/utc/judicial-council/wp-content/uploads/sites/48/2018/04/2018-04-Meeting-materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legacy.utcourts.gov/utc/judicial-council/wp-content/uploads/sites/48/2018/04/2018-04-Meeting-materials.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>COUNCIL MEETING AGENDA16 Apr 2018 — Chief Justice Matthew B. Durrant, Presiding. Attendees: Staff: Chief Justice Matthew B. Durrant, Chai...</p></details>
+   Link:<a href="https://legacy.utcourts.gov/utc/judicial-council/wp-content/uploads/sites/48/2018/04/2018-04-Meeting-materials.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legacy.utcourts.gov/utc/judicial-council/wp-content/uploads/sites/48/2018/04/2018-04-Meeting-materials.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>COUNCIL MEETING AGENDA16 Apr 2018 — Chief Justice Matthew B. Durrant, Presiding. Attendees: Staff: Chief Justice Matthew B. Durrant, Chai...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: board.coveredca.com  
    Title: Reports and Research Master  
-   Link: <a href="https://board.coveredca.com/meetings/2015/11-19/Reports%20and%20Research%20-%20Master_November%2019%2C%202015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://board.coveredca.com/meetings/2015/11-19/Reports%20and%20Research%20-%20Master_November%2019%2C%202015.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning with tax year 2014, all health insurance marketplaces—the federally- facilitated and state-based alike—were newly...Read more...</p></details>
+   Link:<a href="https://board.coveredca.com/meetings/2015/11-19/Reports%20and%20Research%20-%20Master_November%2019%2C%202015.pdf" target="_blank" rel="noopener noreferrer nofollow">https://board.coveredca.com/meetings/2015/11-19/Reports%20and%20Research%20-%20Master_November%2019%2C%202015.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beginning with tax year 2014, all health insurance marketplaces—the federally- facilitated and state-based alike—were newly...Read more...</p></details>
    Published: November 19, 2015  

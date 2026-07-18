@@ -441,7 +441,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-ove
 
 ## Introduction
 
-A UFO hacker is not automatically a whistleblower. The overlap is real: both may claim to act for the [public interest]({{ 'public-interest/' | relative_url }}), both may challenge official secrecy, and both can become symbols for people who distrust government handling of UFO or UAP information. The difference is in how the information is obtained, how it is preserved, and whether the claim can be tested. In the Gary McKinnon case, the public record strongly supports one part of the story — unauthorised access to US military and NASA systems — but not the more famous claim that he found proof of alien craft or “non-terrestrial officers”. US prosecutors said he accessed and damaged 92 government computers and six private-sector computers; McKinnon said his [motive]({{ 'motive/' | relative_url }}) was to uncover suppressed UFO, anti-gravity and energy information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+A UFO hacker is not automatically a whistleblower. The overlap is real: both may claim to act for the [public interest]({{ 'public-interest/' | relative_url }}), both may challenge official secrecy, and both can become symbols for people who distrust government handling of UFO or UAP information. The difference is in how the information is obtained, how it is preserved, and whether the claim can be tested. In the Gary McKinnon case, the public record strongly supports one part of the story — unauthorised access to US military and NASA systems — but not the more famous claim that he found proof of alien craft or “non-terrestrial officers”. US prosecutors said he accessed and damaged 92 government computers and six private-sector computers; McKinnon said his [motive]({{ 'motive/' | relative_url }}) was to uncover suppressed UFO, anti-gravity and energy information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-overview.webp" | relative_url }}" alt="Overview image for Whistleblowers" loading="eager" decoding="sync" fetchpriority="high">
@@ -449,29 +449,29 @@ That makes the comparison useful. UFO hackers ask the public to judge an act of 
 
 ## Why UFO hackers can look like whistleblowers
 
-The moral appeal of the UFO hacker story comes from a familiar whistleblower frame: someone claims a powerful institution is hiding information that the public has a right to know. McKinnon’s own account fits that pattern on the surface. In his 2006 Wired interview, he said hacking was “a means to an end” and argued that governments were suppressing UFO-related technologies, anti-gravity research and “free energy” that should not be hidden from the public. He also described seeing a processed and unprocessed NASA image, plus a spreadsheet headed “Non-Terrestrial Officers”, while acknowledging that what he found could possibly have been a military game or hypothetical scenario. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span></span></span>
+The moral appeal of the UFO hacker story comes from a familiar whistleblower frame: someone claims a powerful institution is hiding information that the public has a right to know. McKinnon’s own account fits that pattern on the surface. In his 2006 Wired interview, he said hacking was “a means to an end” and argued that governments were suppressing UFO-related technologies, anti-gravity research and “free energy” that should not be hidden from the public. He also described seeing a processed and unprocessed NASA image, plus a spreadsheet headed “Non-Terrestrial Officers”, while acknowledging that what he found could possibly have been a military game or hypothetical scenario.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span></span></span>
 
 That language resembles whistleblowing because it is built around public benefit rather than personal profit. A conventional cybercriminal might steal money, credentials or trade secrets. A UFO hacker, by contrast, may present the intrusion as a search for evidence of state deception. This is why McKinnon became an archetype rather than just another early-2000s hacking defendant: his story combined weak network security, post-9/11 national-security anxiety, UFO secrecy beliefs and an extradition battle that raised [human-rights]({{ 'human-rights/' | relative_url }}) concerns.
 
-But resemblance is not equivalence. Whistleblowing normally begins with lawful or authorised access to information gained through employment, contracting, public service, or another insider position. Acas describes whistleblowing in the UK as reporting wrongdoing at work that affects others, legally framed as making a disclosure in the public interest. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">Acas The law</span></span></span> McKinnon was not a NASA or Pentagon insider reporting misconduct from within his workplace. He was an outsider who admitted seeking access to systems he was not authorised to enter.
+But resemblance is not equivalence. Whistleblowing normally begins with lawful or authorised access to information gained through employment, contracting, public service, or another insider position. Acas describes whistleblowing in the UK as reporting wrongdoing at work that affects others, legally framed as making a disclosure in the public interest.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">Acas The law</span></span></span> McKinnon was not a NASA or Pentagon insider reporting misconduct from within his workplace. He was an outsider who admitted seeking access to systems he was not authorised to enter.
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-1-dark.svg" | relative_url }}" alt="Whistleblowers illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Public-interest claims: motive is only the starting point
 
-Public-interest motive matters, but it is not enough by itself. A whistleblower’s claim normally has to pass several tests: the person must disclose information, not just suspicion; they must reasonably believe it indicates wrongdoing or serious risk; and they usually need to use recognised reporting channels or explain why those channels were inadequate. US whistleblower guidance similarly describes protected disclosures as reports of reasonably believed violations of law, gross mismanagement, waste, abuse of authority, or a substantial and specific danger to public health or safety. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowers.org">[National Whistleblower Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowers.org</span><span class="citation-popover-title">National Whistleblower Center What Journalists Need to Know About Whistleblowers</span><span class="citation-popover-snippet">National Whistleblower Center What Journalists Need to Know About Whistleblowers</span></span></span>
+Public-interest motive matters, but it is not enough by itself. A whistleblower’s claim normally has to pass several tests: the person must disclose information, not just suspicion; they must reasonably believe it indicates wrongdoing or serious risk; and they usually need to use recognised reporting channels or explain why those channels were inadequate. US whistleblower guidance similarly describes protected disclosures as reports of reasonably believed violations of law, gross mismanagement, waste, abuse of authority, or a substantial and specific danger to public health or safety.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowers.org">[National Whistleblower Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowers.org</span><span class="citation-popover-title">National Whistleblower Center What Journalists Need to Know About Whistleblowers</span><span class="citation-popover-snippet">National Whistleblower Center What Journalists Need to Know About Whistleblowers</span></span></span>
 
 A UFO hacker’s argument often starts earlier in the chain: “I believed evidence existed, so I went looking for it.” That creates a problem. Public interest can justify exposing wrongdoing; it does not automatically justify breaking into systems to find out whether wrongdoing might exist. The distinction is especially important in UFO cases because the alleged hidden fact is often extraordinary. The more dramatic the claim — alien craft, secret reverse-engineering programmes, off-world personnel — the more important the [evidence trail]({{ 'evidence-trail/' | relative_url }}) becomes.
 
-McKinnon’s strongest public-interest argument was not that he proved a UFO cover-up. It was that he exposed poor security on sensitive networks. Even there, the method matters. Security researchers and journalists may argue for public-interest protections when they responsibly test or reveal vulnerabilities, but UK government discussion of the Computer Misuse Act still centres on the principle that access to computer systems and data should be authorised by those responsible for them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> A claimed public benefit does not erase the risks of unauthorised access, especially on defence systems.
+McKinnon’s strongest public-interest argument was not that he proved a UFO cover-up. It was that he exposed poor security on sensitive networks. Even there, the method matters. Security researchers and journalists may argue for public-interest protections when they responsibly test or reveal vulnerabilities, but UK government discussion of the Computer Misuse Act still centres on the principle that access to computer systems and data should be authorised by those responsible for them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> A claimed public benefit does not erase the risks of unauthorised access, especially on defence systems.
 
 ## Legal and ethical differences
 
 The clearest difference is legal status. Whistleblowing law is designed to protect certain disclosures from retaliation. Hacking law is designed to protect systems and data from unauthorised access or damage. Those aims can collide, but they are not interchangeable.
 
-In the UK, the Computer Misuse Act framework treats unauthorised access as a core offence, and Crown Prosecution Service guidance explains that the offence is made out when someone causes a computer to perform a function with intent to secure access. The guidance also notes that the intent need not be directed at a particular programme or data, which matters for “searching” [intrusions]({{ 'intrusions/' | relative_url }}) where the hacker does not yet know what they will find. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Computer Misuse Act &#124; The Crown Prosecution Service</span><span class="citation-popover-snippet">Crown Prosecution Service Computer Misuse Act &#124; The Crown Prosecution Service</span></span></span> In McKinnon’s case, the US Department of Justice alleged not only access but damage, including administrative privileges gained on military and NASA systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+In the UK, the Computer Misuse Act framework treats unauthorised access as a core offence, and Crown Prosecution Service guidance explains that the offence is made out when someone causes a computer to perform a function with intent to secure access. The guidance also notes that the intent need not be directed at a particular programme or data, which matters for “searching” [intrusions]({{ 'intrusions/' | relative_url }}) where the hacker does not yet know what they will find.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Computer Misuse Act &#124; The Crown Prosecution Service</span><span class="citation-popover-snippet">Crown Prosecution Service Computer Misuse Act &#124; The Crown Prosecution Service</span></span></span> In McKinnon’s case, the US Department of Justice alleged not only access but damage, including administrative privileges gained on military and NASA systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-Whistleblowing protections work differently. They do not generally protect maliciously false allegations; UK government guidance states that whistleblowers who maliciously or deliberately raise something they know to be untrue are not covered by whistleblowing protection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/whistleblowing-and-the-public-interest-disclosure-act-1998-c23/whistleblowing-and-the-public-interest-disclosure-act-1998-c23-accessible-version" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> They also tend to be channel-sensitive: reporting to an employer, regulator, inspector general, lawyer, parliamentarian or journalist may have different consequences. The legal question is not simply “Was the person sincere?” but “Was this a protected disclosure under the relevant rules?”
+Whistleblowing protections work differently. They do not generally protect maliciously false allegations; UK government guidance states that whistleblowers who maliciously or deliberately raise something they know to be untrue are not covered by whistleblowing protection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/publications/whistleblowing-and-the-public-interest-disclosure-act-1998-c23/whistleblowing-and-the-public-interest-disclosure-act-1998-c23-accessible-version" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span> They also tend to be channel-sensitive: reporting to an employer, regulator, inspector general, lawyer, parliamentarian or journalist may have different consequences. The legal question is not simply “Was the person sincere?” but “Was this a protected disclosure under the relevant rules?”
 
 Ethically, the contrast is just as sharp:
 
@@ -495,11 +495,11 @@ This does not mean every whistleblower is reliable or every hacker is cynical. I
 
 The biggest weakness in the UFO-hacker-as-whistleblower argument is evidence handling. A whistleblower may bring documents, recordings, emails, official complaints, witness names, procurement records, audit trails or testimony under oath. Journalists and investigators can then test authenticity, context and chain of [custody]({{ 'custody/' | relative_url }}). In digital cases, chain of custody is especially important because files can be altered, misread, removed from context or attributed to the wrong system.
 
-McKinnon’s UFO claims lack that evidential structure. His interview account is vivid: he said he briefly saw a silvery, cigar-shaped object in a NASA image and found a spreadsheet titled “Non-Terrestrial Officers”. But he did not produce the image, the spreadsheet, a verifiable file path, a forensic copy, or an independent witness who could authenticate the material. He also conceded uncertainty about the spreadsheet’s meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span></span></span> The result is a split record: the intrusion allegations are documented in official proceedings, while the UFO material remains an unverified personal account.
+McKinnon’s UFO claims lack that evidential structure. His interview account is vivid: he said he briefly saw a silvery, cigar-shaped object in a NASA image and found a spreadsheet titled “Non-Terrestrial Officers”. But he did not produce the image, the spreadsheet, a verifiable file path, a forensic copy, or an independent witness who could authenticate the material. He also conceded uncertainty about the spreadsheet’s meaning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span></span></span> The result is a split record: the intrusion allegations are documented in official proceedings, while the UFO material remains an unverified personal account.
 
-Modern UAP whistleblower claims show the contrast. David Grusch’s 2023 congressional appearance did not prove his most extraordinary claims either, but it took place inside a recognised oversight setting: the House Oversight Committee listed him as a witness, alongside Ryan Graves and David Fravor, at a hearing on national security, public safety and government transparency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span> That forum created an accountable record: claims could be questioned by members of Congress, referred to inspectors general, followed up in secure settings, or contradicted by agencies.
+Modern UAP whistleblower claims show the contrast. David Grusch’s 2023 congressional appearance did not prove his most extraordinary claims either, but it took place inside a recognised oversight setting: the House Oversight Committee listed him as a witness, alongside Ryan Graves and David Fravor, at a hearing on national security, public safety and government transparency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span> That forum created an accountable record: claims could be questioned by members of Congress, referred to inspectors general, followed up in secure settings, or contradicted by agencies.
 
-That does not make such testimony automatically true. The Pentagon’s All-domain Anomaly Resolution Office reported in 2024 that US government investigations had found no evidence that any UAP sighting represented extraterrestrial technology and no empirical evidence for claims of reverse-engineering extraterrestrial technology. Reuters’ account of that report also noted AARO’s view that many unresolved cases might be identified if better-quality data were available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> The point is not that official channels always settle the matter. The point is that they create a record that can be challenged, updated and compared with other evidence.
+That does not make such testimony automatically true. The Pentagon’s All-domain Anomaly Resolution Office reported in 2024 that US government investigations had found no evidence that any UAP sighting represented extraterrestrial technology and no empirical evidence for claims of reverse-engineering extraterrestrial technology. Reuters’ account of that report also noted AARO’s view that many unresolved cases might be identified if better-quality data were available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span> The point is not that official channels always settle the matter. The point is that they create a record that can be challenged, updated and compared with other evidence.
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-2-dark.svg" | relative_url }}" alt="Whistleblowers illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -507,9 +507,9 @@ That does not make such testimony automatically true. The Pentagon’s All-domai
 
 A UFO hacker can become famous precisely because there is no complete public record. The missing screenshot, the lost spreadsheet, the disconnected session and the unreleased file become part of the mythology. For believers, the absence of proof may be explained as suppression. For sceptics, it is simply absence of proof. For historians, it creates a category problem: the hacker’s verifiable act is unauthorised access, while the claimed public-interest discovery remains outside the evidential record.
 
-Whistleblowing does not eliminate ambiguity, but it offers more accountability points. A whistleblower can be asked what they saw directly, what they heard second-hand, which documents exist, who else can corroborate them, what legal protections apply, and what would falsify the claim. When UAP whistleblower protections are debated, that is often the stated purpose: to move people with relevant information into formal channels rather than leaving claims to leak culture, rumour or unauthorised disclosure. In 2024, Representative Tim Burchett introduced a UAP Whistleblower Protection Act, saying it would protect people bringing attention to federal funding used to study UAPs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: burchett.house.gov">[Representative Tim Burchett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">burchett.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
+Whistleblowing does not eliminate ambiguity, but it offers more accountability points. A whistleblower can be asked what they saw directly, what they heard second-hand, which documents exist, who else can corroborate them, what legal protections apply, and what would falsify the claim. When UAP whistleblower protections are debated, that is often the stated purpose: to move people with relevant information into formal channels rather than leaving claims to leak culture, rumour or unauthorised disclosure. In 2024, Representative Tim Burchett introduced a UAP Whistleblower Protection Act, saying it would protect people bringing attention to federal funding used to study UAPs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: burchett.house.gov">[Representative Tim Burchett]</a><span class="citation-popover" role="note"><span class="citation-popover-source">burchett.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
 
-The National Archives’ UAP Records Collection points in the same direction. Under sections 1841–1843 of the 2024 National Defense Authorization Act, NARA established Record Group 615 for UAP records received from federal agencies, with records to be added on a rolling basis as they are transferred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span> That is a bureaucratic answer to a cultural problem: instead of relying on the legend of what someone saw during an intrusion, create a public records process that can be searched, cited and challenged.
+The National Archives’ UAP Records Collection points in the same direction. Under sections 1841–1843 of the 2024 National Defense Authorization Act, NARA established Record Group 615 for UAP records received from federal agencies, with records to be added on a rolling basis as they are transferred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">Open source on archives.gov.</span></span></span> That is a bureaucratic answer to a cultural problem: instead of relying on the legend of what someone saw during an intrusion, create a public records process that can be searched, cited and challenged.
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-3-dark.svg" | relative_url }}" alt="Whistleblowers illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -528,7 +528,7 @@ This test does not require dismissing UFO hackers as liars. It simply separates 
 
 The UFO-hacker myth persists because it offers a dramatic shortcut: if institutions are secretive, perhaps only someone willing to break in can reveal the truth. But that shortcut creates its own failure. It can destroy the very evidence it seeks to expose, turn attention from documents to personalities, and make public-interest claims easier for authorities to dismiss as criminal intrusion or conspiracy culture.
 
-Whistleblowing is slower, more constrained and often frustrating. It can fail; agencies can stonewall; classified systems can prevent public proof; insiders can face retaliation. Yet the whistleblower route is better suited to the central question in UFO disclosure debates: not “Who claims to have seen something?” but “What records, witnesses and accountable processes can establish what happened?” The growth of UAP hearings, proposed whistleblower protections and the National Archives UAP collection shows an institutional attempt — imperfect but real — to move the issue from folklore and hacking lore into records, testimony and oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee+2National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
+Whistleblowing is slower, more constrained and often frustrating. It can fail; agencies can stonewall; classified systems can prevent public proof; insiders can face retaliation. Yet the whistleblower route is better suited to the central question in UFO disclosure debates: not “Who claims to have seen something?” but “What records, witnesses and accountable processes can establish what happened?” The growth of UAP hearings, proposed whistleblower protections and the National Archives UAP collection shows an institutional attempt — imperfect but real — to move the issue from folklore and hacking lore into records, testimony and oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Open source on house.gov.</span></span></span>
 
 Gary McKinnon therefore sits near the boundary but not comfortably inside the whistleblower category. He is best understood as a public-interest-claiming hacker whose case became entangled with UFO disclosure politics, extradition law and cybersecurity embarrassment. A whistleblower may also challenge secrecy, but the stronger claim rests on accountable disclosure, preserved evidence and reviewable records. In UFO cases, that difference is not a technicality; it is the line between a story people repeat and evidence people can test.
 
@@ -537,194 +537,194 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is a UFO Hacker a Whistleblower?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is a UFO Hacker a Whistleblower?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F3hbyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
-        </h4>
-        <p class="fr-book-author">By Edward Snowden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F3hbyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
+</h4>
+<p class="fr-book-author">By Edward Snowden</p>
         
-        <p class="fr-book-desc">Central to debates about disclosure, secrecy and public interest.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central to debates about disclosure, secrecy and public interest.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Place to Hide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-sxBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for No Place to Hide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Place to Hide">No Place to Hide</a>
-        </h4>
-        <p class="fr-book-author">By Glenn Greenwald</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Place to Hide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-sxBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for No Place to Hide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Place to Hide">No Place to Hide</a>
+</h4>
+<p class="fr-book-author">By Glenn Greenwald</p>
         
-        <p class="fr-book-desc">Explains whistleblowing, evidence and accountability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains whistleblowing, evidence and accountability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Illustrates the hacker perspective distinct from whistleblowing.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the hacker perspective distinct from whistleblowing.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Examines hacking, security and state secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines hacking, security and state secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Permanent+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Permanent Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Place+to+Hide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Place to Hide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Permanent+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Permanent Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Place+to+Hide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Place to Hide</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/c8903a4e3b4ffb521e35.jpg' | relative_url }}" alt="Listing image for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/c8903a4e3b4ffb521e35.jpg' | relative_url }}" alt="Listing image for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/16e6940403f23eedb292.jpg' | relative_url }}" alt="Listing image for Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/16e6940403f23eedb292.jpg' | relative_url }}" alt="Listing image for Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/c0adc25d6a6d2dced1d9.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/c0adc25d6a6d2dced1d9.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie"><img src="{{ '/assets/images/marketplace-covers/43564cbd30a4d2cdfa1b.jpg' | relative_url }}" alt="Listing image for We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie"><img src="{{ '/assets/images/marketplace-covers/43564cbd30a4d2cdfa1b.jpg' | relative_url }}" alt="Listing image for We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">We Are Fsociety Retro Cyber Computer Mr. Robot F Society Hacker Adults Hoodie</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="whistleblowers-is-a-ufo-hacker-a-whistleblower-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -740,7 +740,7 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -760,7 +760,7 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -792,7 +792,7 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -844,7 +844,7 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -889,7 +889,7 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -930,226 +930,226 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</p></details>
    Published: November 12, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found | WIRED  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: whistleblowers.org  
    Title: National Whistleblower Center What Journalists Need to Know About Whistleblowers  
-   Link: <a href="https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/</a>  
+   Link:<a href="https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible</a>  
+   Link:<a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cps.gov.uk  
    Title: Crown Prosecution Service Computer Misuse Act | The Crown Prosecution Service  
-   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act</a>  
+   Link:<a href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/publications/whistleblowing-and-the-public-interest-disclosure-act-1998-c23/whistleblowing-and-the-public-interest-disclosure-act-1998-c23-accessible-version" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/whistleblowing-and-the-public-interest-disclosure-act-1998-c23/whistleblowing-and-the-public-interest-disclosure-act-1998-c23-accessible-version</a>  
+   Link:<a href="https://www.gov.uk/government/publications/whistleblowing-and-the-public-interest-disclosure-act-1998-c23/whistleblowing-and-the-public-interest-disclosure-act-1998-c23-accessible-version" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/whistleblowing-and-the-public-interest-disclosure-act-1998-c23/whistleblowing-and-the-public-interest-disclosure-act-1998-c23-accessible-version</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: burchett.house.gov  
-   Link: <a href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers</a>  
+   Link:<a href="https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers" target="_blank" rel="noopener noreferrer nofollow">https://burchett.house.gov/media/press-releases/rep-burchett-introduces-bill-protecting-uap-whistleblowers</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
+   Link:<a href="https://www.archives.gov/research/topics/uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/topics/uaps</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: GOV.UK  
    Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/browse/justice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/browse/justice</a>  
+   Link:<a href="https://www.gov.uk/browse/justice" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/browse/justice</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: oig.justice.gov  
    Title: whistleblower protection  
-   Link: <a href="https://oig.justice.gov/hotline/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://oig.justice.gov/hotline/whistleblower-protection</a>  
+   Link:<a href="https://oig.justice.gov/hotline/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://oig.justice.gov/hotline/whistleblower-protection</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: archives.gov  
    Title: uap guidance  
-   Link: <a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
+   Link:<a href="https://www.archives.gov/records-mgmt/uap-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/records-mgmt/uap-guidance</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
    Title: nr25 07  
-   Link: <a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
+   Link:<a href="https://www.archives.gov/press/press-releases/2025/nr25-07" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/press/press-releases/2025/nr25-07</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1998/23/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1998/23/contents</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1998/23/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1998/23/contents</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1990/18/contents</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1990/18/contents</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/</a>  
+   Link:<a href="https://www.legislation.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/</a>  
+   Link:<a href="https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/release/national-security-subcommittee-to-hold-hearing-on-unidentified-anomalous-phenomena%EF%BF%BC/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: lawcom.gov.uk  
-   Link: <a href="https://lawcom.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://lawcom.gov.uk/</a>  
+   Link:<a href="https://lawcom.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://lawcom.gov.uk/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: assets.publishing.service.gov.uk  
    Title: public views 4  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7aaeb5e5274a34770e661b/public-views-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7aaeb5e5274a34770e661b/public-views-4.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7aaeb5e5274a34770e661b/public-views-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7aaeb5e5274a34770e661b/public-views-4.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: assets.publishing.service.gov.uk  
    Title: public views 3  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: whistleblowers.org  
    Title: whistleblower protection laws for federal whistleblowers  
-   Link: <a href="https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/</a>  
+   Link:<a href="https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: acas.org.uk  
    Title: Acas The law  
-   Link: <a href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work</a>  
+   Link:<a href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Law</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Law" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Law</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: oig.hhs.gov  
-   Link: <a href="https://oig.hhs.gov/about-oig/whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://oig.hhs.gov/about-oig/whistleblower/</a>  
+   Link:<a href="https://oig.hhs.gov/about-oig/whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://oig.hhs.gov/about-oig/whistleblower/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/law" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law</a>  
+   Link:<a href="https://www.theguardian.com/law" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: oig.dhs.gov  
    Title: whistleblower protection  
-   Link: <a href="https://www.oig.dhs.gov/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://www.oig.dhs.gov/whistleblower-protection</a>  
+   Link:<a href="https://www.oig.dhs.gov/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://www.oig.dhs.gov/whistleblower-protection</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: stateoig.gov  
-   Link: <a href="https://www.stateoig.gov/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://www.stateoig.gov/whistleblower-protection</a>  
+   Link:<a href="https://www.stateoig.gov/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://www.stateoig.gov/whistleblower-protection</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/law" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/law</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/law" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/law</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: criminal.laws.com  
    Title: gary mckinnon  
-   Link: <a href="https://criminal.laws.com/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://criminal.laws.com/gary-mckinnon</a>  
+   Link:<a href="https://criminal.laws.com/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://criminal.laws.com/gary-mckinnon</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: neh.gov  
-   Link: <a href="https://www.neh.gov/about/oig/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://www.neh.gov/about/oig/whistleblower-protection</a>  
+   Link:<a href="https://www.neh.gov/about/oig/whistleblower-protection" target="_blank" rel="noopener noreferrer nofollow">https://www.neh.gov/about/oig/whistleblower-protection</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: guinnessworldrecords.de  
-   Link: <a href="https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack</a>  
+   Link:<a href="https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: guinnessworldrecords.com  
-   Link: <a href="https://www.guinnessworldrecords.com/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/90133-biggest-military-computer-hack</a>  
+   Link:<a href="https://www.guinnessworldrecords.com/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://www.guinnessworldrecords.com/world-records/90133-biggest-military-computer-hack</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: webmasterworld.com  
-   Link: <a href="https://www.webmasterworld.com/foo/3963063-2-30.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.webmasterworld.com/foo/3963063-2-30.htm</a>  
+   Link:<a href="https://www.webmasterworld.com/foo/3963063-2-30.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.webmasterworld.com/foo/3963063-2-30.htm</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/k534bw/gary_mckinnon_bbc_interview_about_what_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/k534bw/gary_mckinnon_bbc_interview_about_what_he/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/k534bw/gary_mckinnon_bbc_interview_about_what_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/k534bw/gary_mckinnon_bbc_interview_about_what_he/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: hackcur.io  
-   Link: <a href="https://hackcur.io/raising-the-bar-how-the-uk-extradition-laws-were-put-to-the-test/" target="_blank" rel="noopener noreferrer nofollow">https://hackcur.io/raising-the-bar-how-the-uk-extradition-laws-were-put-to-the-test/</a>  
+   Link:<a href="https://hackcur.io/raising-the-bar-how-the-uk-extradition-laws-were-put-to-the-test/" target="_blank" rel="noopener noreferrer nofollow">https://hackcur.io/raising-the-bar-how-the-uk-extradition-laws-were-put-to-the-test/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: uplopen.com  
-   Link: <a href="https://uplopen.com/chapters/1194/files/ded09ab0-a1dd-47e0-8a60-2eb7351ad51e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uplopen.com/chapters/1194/files/ded09ab0-a1dd-47e0-8a60-2eb7351ad51e.pdf</a>  
+   Link:<a href="https://uplopen.com/chapters/1194/files/ded09ab0-a1dd-47e0-8a60-2eb7351ad51e.pdf" target="_blank" rel="noopener noreferrer nofollow">https://uplopen.com/chapters/1194/files/ded09ab0-a1dd-47e0-8a60-2eb7351ad51e.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: lawcentres.org.uk  
-   Link: <a href="https://www.lawcentres.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.lawcentres.org.uk/</a>  
+   Link:<a href="https://www.lawcentres.org.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.lawcentres.org.uk/</a>  

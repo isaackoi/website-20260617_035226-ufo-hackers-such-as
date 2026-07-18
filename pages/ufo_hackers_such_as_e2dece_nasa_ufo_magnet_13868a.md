@@ -447,17 +447,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_nasa_ufo_magnet_13868a-overview
 
 ## Introduction
 
-NASA keeps attracting UFO hacking stories because it sits at the exact crossing point where space imagery, government secrecy, advanced technology and public suspicion meet. In the Gary McKinnon case, that magnetism became literal: McKinnon admitted unauthorised access to US government systems while searching for evidence of UFOs, anti-gravity technology and hidden space programmes, and US prosecutors alleged that NASA computers were among the 92 government machines he accessed and damaged between March 2001 and March 2002. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
+NASA keeps attracting UFO hacking stories because it sits at the exact crossing point where space imagery, government secrecy, advanced technology and public suspicion meet. In the Gary McKinnon case, that magnetism became literal: McKinnon admitted unauthorised access to US government systems while searching for evidence of UFOs, anti-gravity technology and hidden space programmes, and US prosecutors alleged that NASA computers were among the 92 government machines he accessed and damaged between March 2001 and March 2002.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_nasa_ufo_magnet_13868a-overview.webp" | relative_url }}" alt="Overview image for NASA Target" loading="eager" decoding="sync" fetchpriority="high">
-The important distinction is that NASA’s symbolic appeal is real, but that does not make the UFO claims proven. McKinnon’s hacking case is documented in official legal material and reputable reporting; his claims about what he saw inside NASA systems remain personal claims without public files, images or authenticated records to verify them. NASA’s later public work on unidentified anomalous phenomena, or UAP, also cuts against the idea that “unidentified” equals “extraterrestrial”: its 2023 independent study report said there was no conclusive peer-reviewed evidence of an extraterrestrial origin for UAP, while arguing that better data and scientific methods are needed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+The important distinction is that NASA’s symbolic appeal is real, but that does not make the UFO claims proven. McKinnon’s hacking case is documented in official legal material and reputable reporting; his claims about what he saw inside NASA systems remain personal claims without public files, images or authenticated records to verify them. NASA’s later public work on unidentified anomalous phenomena, or UAP, also cuts against the idea that “unidentified” equals “extraterrestrial”: its 2023 independent study report said there was no conclusive peer-reviewed evidence of an extraterrestrial origin for UAP, while arguing that better data and scientific methods are needed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Why NASA draws suspicion
 
 NASA is a magnet for UFO-minded hackers because it looks, to [believers]({{ 'believers/' | relative_url }}), like the place where hidden proof ought to be. It operates spacecraft, receives imagery from orbit and beyond, works with defence-adjacent technology, and has a public archive culture that gives outsiders just enough material to scrutinise while leaving enough technical complexity for suspicion to grow. A blurry object in a space image can be read as lens flare, ice, debris, processing artefact or something unexplained; in conspiracy culture, that ambiguity can become a clue rather than a limitation.
 
-McKinnon’s own account shows how this mechanism works. In his Wired interview, he said he had been influenced by claims from UFO activists and by a story that NASA imagery was being “filtered” to remove anomalous objects. He described looking for material connected with Johnson Space Center’s [Building 8]({{ 'building-8/' | relative_url }}) and said he briefly saw an image of a cigar-shaped object before his connection dropped. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+McKinnon’s own account shows how this mechanism works. In his Wired interview, he said he had been influenced by claims from UFO activists and by a story that NASA imagery was being “filtered” to remove anomalous objects. He described looking for material connected with Johnson Space Center’s [Building 8]({{ 'building-8/' | relative_url }}) and said he briefly saw an image of a cigar-shaped object before his connection dropped.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
 That story has endured because it has the ingredients of a powerful UFO narrative: a lone outsider, a prestigious space agency, a fleeting image, and an alleged cover-up just out of reach. But those same ingredients are also why the claim is difficult to evaluate. McKinnon did not publish the alleged image, produce a captured file, identify a verifiable NASA record, or provide a chain of [custody]({{ 'custody/' | relative_url }}) that would allow independent checking. The story explains why NASA attracts this kind of attention; it does not prove that NASA held the evidence he believed he had found.
 
@@ -469,9 +469,9 @@ NASA’s role in public culture adds another layer. Unlike intelligence agencies
 
 The NASA-UFO hacking story depends heavily on images. Space photographs and mission videos are unusually prone to misreading because they often show unfamiliar lighting, reflections, compression effects, camera limits, particles, debris and orbital motion. To a trained mission analyst, a bright fleck moving near a shuttle can be mundane. To a UFO believer, especially one already convinced of a cover-up, the same fleck can look like evidence being hidden in plain sight.
 
-This is why NASA’s image systems became central to McKinnon’s account. His most famous claim was not that he found a written confession of alien contact, but that he accessed a system where “filtered and unfiltered” space images allegedly existed. The persuasive force of the story comes from the idea that the truth was visual: one unedited frame, one file before alteration, one object NASA supposedly did not want the public to see. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+This is why NASA’s image systems became central to McKinnon’s account. His most famous claim was not that he found a written confession of alien contact, but that he accessed a system where “filtered and unfiltered” space images allegedly existed. The persuasive force of the story comes from the idea that the truth was visual: one unedited frame, one file before alteration, one object NASA supposedly did not want the public to see.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
-Yet image-based UFO claims have a built-in problem. A strange-looking object in a space image is rarely self-explanatory. It needs context: camera settings, timing, mission events, object distance, lighting angle, processing history and the behaviour of nearby particles or spacecraft systems. NASA’s 2023 UAP study made a related point in broader terms: the central barrier in UAP research is not simply secrecy, but the lack of high-quality, well-calibrated, repeatable data that can support firm conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+Yet image-based UFO claims have a built-in problem. A strange-looking object in a space image is rarely self-explanatory. It needs context: camera settings, timing, mission events, object distance, lighting angle, processing history and the behaviour of nearby particles or spacecraft systems. NASA’s 2023 UAP study made a related point in broader terms: the central barrier in UAP research is not simply secrecy, but the lack of high-quality, well-calibrated, repeatable data that can support firm conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
 That matters for the hacker narrative because unauthorised access is not the same as scientific interpretation. Even if a hacker sees a file that appears unusual, the act of seeing it does not establish what it is. A genuine internal NASA image could still show debris, a processing artefact, a test object, a sensor issue or a mislabelled file. Without metadata, [corroboration]({{ 'corroboration/' | relative_url }}) and expert analysis, “I saw something strange” remains an anecdote rather than evidence.
 
@@ -482,11 +482,11 @@ That matters for the hacker narrative because unauthorised access is not the sam
 
 The Pentagon is often associated with classified threat assessments, military encounters and national security secrecy. NASA occupies a different place in UFO culture: it is imagined as the agency of space truth. That distinction helps explain why NASA becomes such an attractive target in stories about UFO hackers, even when the actual legal allegations involve a wider set of military and government systems.
 
-In McKinnon’s case, the US Department of Justice described a broad intrusion campaign affecting computers belonging to the Army, Navy, Air Force, Department of Defense and NASA, as well as private businesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span> But the public memory of the case often narrows to NASA because NASA supplies the most compelling UFO frame. “Hacker accessed defence networks” is a cybercrime story; “hacker searched NASA for UFO proof” is a mythic modern treasure hunt.
+In McKinnon’s case, the US Department of Justice described a broad intrusion campaign affecting computers belonging to the Army, Navy, Air Force, Department of Defense and NASA, as well as private businesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span> But the public memory of the case often narrows to NASA because NASA supplies the most compelling UFO frame. “Hacker accessed defence networks” is a cybercrime story; “hacker searched NASA for UFO proof” is a mythic modern treasure hunt.
 
 NASA also carries a distinctive credibility paradox. It is trusted as a scientific institution, but that trust makes alleged concealment seem more consequential to believers. If a fringe website claims to have UFO evidence, sceptics can dismiss it easily. If someone claims NASA has the evidence but is hiding it, the prestige of NASA becomes part of the claim’s emotional power. The institution’s authority is used both ways: as the reason the evidence would matter, and as the reason a cover-up would feel plausible to those already suspicious of government.
 
-NASA’s later decision to engage publicly with UAP research complicates the older cover-up narrative. In 2023, NASA published an independent UAP study report and announced a director of UAP research, Mark McInerney, to centralise communications, resources and data analysis for future UAP evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — a director of UAP research. appointing Mark McInerney director of UAP...</span></span></span> To believers, such moves can be read as overdue admission that the topic is real. To a more cautious reader, they show something narrower: NASA sees a role for better data, transparency and scientific method, not confirmation of extraterrestrial craft.
+NASA’s later decision to engage publicly with UAP research complicates the older cover-up narrative. In 2023, NASA published an independent UAP study report and announced a director of UAP research, Mark McInerney, to centralise communications, resources and data analysis for future UAP evaluation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — a director of UAP research. appointing Mark McInerney director of UAP...</span></span></span> To believers, such moves can be read as overdue admission that the topic is real. To a more cautious reader, they show something narrower: NASA sees a role for better data, transparency and scientific method, not confirmation of extraterrestrial craft.
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_nasa_ufo_magnet_13868a-Illustration-2-dark.svg" | relative_url }}" alt="NASA Target illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_nasa_ufo_magnet_13868a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_nasa_ufo_magnet_13868a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -494,9 +494,9 @@ NASA’s later decision to engage publicly with UAP research complicates the old
 
 NASA attracts hackers for another reason that is less romantic than UFO mythology: it is a large, distributed technical organisation. It works with centres, contractors, researchers, universities, laboratories and mission partners. That kind of ecosystem can create many entry points, especially in older eras when remote access, [weak passwords]({{ 'weak-passwords/' | relative_url }}) and uneven security practices were more common across government systems.
 
-The early-2000s context matters. McKinnon’s alleged intrusions occurred in 2001 and 2002, a period when many institutions were still adapting to internet-connected systems and more systematic cyber-security controls. The US indictment accused him of unauthorised access and damage, not of discovering alien material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span> Reporting from the period also framed the case as part of a wider concern about weak federal computer security after 11 September 2001. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/feds-computers-feebly-protected" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Feds&#x27; Computers Feebly Protected</span><span class="citation-popover-snippet">The GAO&#x27;s findings were presented to the House Government Reform subcommittee, which commended the Social Security Administration&#x27;s secur...</span></span></span>
+The early-2000s context matters. McKinnon’s alleged intrusions occurred in 2001 and 2002, a period when many institutions were still adapting to internet-connected systems and more systematic cyber-security controls. The US indictment accused him of unauthorised access and damage, not of discovering alien material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">mckinnon Indict</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</span></span></span> Reporting from the period also framed the case as part of a wider concern about weak federal computer security after 11 September 2001.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2002/11/feds-computers-feebly-protected" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Feds&#x27; Computers Feebly Protected</span><span class="citation-popover-snippet">The GAO&#x27;s findings were presented to the House Government Reform subcommittee, which commended the Social Security Administration&#x27;s secur...</span></span></span>
 
-NASA’s own oversight history shows that cyber-security has been a persistent management challenge, not merely a one-off McKinnon-era embarrassment. NASA Office of Inspector General and Government Accountability Office materials have repeatedly discussed weaknesses in NASA information security, including risk management, patching, incident response and the challenge of protecting interconnected systems. A 2025 GAO report, for example, warned that spacecraft and space systems operate in a cyber-threat environment with increased risks and that NASA needed to fully implement risk management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/gao-25-108138.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">CYBERSECURITY NASA Needs to Fully Implement Risk</span><span class="citation-popover-snippet">CYBERSECURITY NASA Needs to Fully Implement Risk</span></span></span>
+NASA’s own oversight history shows that cyber-security has been a persistent management challenge, not merely a one-off McKinnon-era embarrassment. NASA Office of Inspector General and Government Accountability Office materials have repeatedly discussed weaknesses in NASA information security, including risk management, patching, incident response and the challenge of protecting interconnected systems. A 2025 GAO report, for example, warned that spacecraft and space systems operate in a cyber-threat environment with increased risks and that NASA needed to fully implement risk management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gao.gov/assets/gao-25-108138.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gao.gov">[GAO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gao.gov</span><span class="citation-popover-title">CYBERSECURITY NASA Needs to Fully Implement Risk</span><span class="citation-popover-snippet">CYBERSECURITY NASA Needs to Fully Implement Risk</span></span></span>
 
 This does not validate UFO claims. It shows why NASA can be both symbolically and technically attractive: it has the cultural aura of space secrets and the practical complexity of a large technical network. For UFO-motivated hackers, that combination can create the false impression that breaching a system is a shortcut to hidden truth. In reality, it is a criminal act that may expose ordinary operational data, incomplete context or sensitive systems without proving the extraordinary claim that motivated the intrusion.
 
@@ -507,9 +507,9 @@ This does not validate UFO claims. It shows why NASA can be both symbolically an
 
 The key lesson from NASA’s place in UFO hacker stories is that access and proof are different things. Access means someone entered a system without permission or viewed material they were not authorised to view. Proof means the material can be authenticated, interpreted correctly and tested against alternative explanations. McKinnon’s case contains evidence of alleged unauthorised access; it does not contain public, verifiable evidence that NASA held extraterrestrial craft imagery or hidden space-fleet records.
 
-This distinction is especially important with McKinnon’s “Non-Terrestrial Officers” claim. He said he saw a spreadsheet with that phrase and names or transfers, but he also acknowledged uncertainty about what it meant. Without the document, its metadata, surrounding folder structure, agency context or corroborating records, the phrase cannot bear the weight later placed on it. “Non-terrestrial” could sound extraordinary, but language inside technical, military or fictional planning contexts can be misleading when stripped of context. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+This distinction is especially important with McKinnon’s “Non-Terrestrial Officers” claim. He said he saw a spreadsheet with that phrase and names or transfers, but he also acknowledged uncertainty about what it meant. Without the document, its metadata, surrounding folder structure, agency context or corroborating records, the phrase cannot bear the weight later placed on it. “Non-terrestrial” could sound extraordinary, but language inside technical, military or fictional planning contexts can be misleading when stripped of context.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
-NASA’s UAP work points towards the same caution. The agency’s independent study did not say every sighting has been explained, but it did say that the lack of consistent, high-quality data limits what can be concluded, and that there is no conclusive peer-reviewed evidence for an extraterrestrial origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> That is the opposite of the hacker fantasy, in which a single hidden file resolves the mystery.
+NASA’s UAP work points towards the same caution. The agency’s independent study did not say every sighting has been explained, but it did say that the lack of consistent, high-quality data limits what can be concluded, and that there is no conclusive peer-reviewed evidence for an extraterrestrial origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> That is the opposite of the hacker fantasy, in which a single hidden file resolves the mystery.
 
 For readers, the useful test is simple:
 
@@ -530,7 +530,7 @@ For readers, the useful test is simple:
 
 The NASA target story survives because it satisfies several audiences at once. For UFO believers, it suggests that the most prestigious space agency in the world might have had hidden evidence. For civil-liberties observers, the McKinnon case raises questions about extradition, proportionality and the treatment of a vulnerable defendant. For cyber-security readers, it is a cautionary tale about exposed systems and the consequences of weak controls. Those audiences do not need to agree on the UFO claim for the NASA part of the story to remain compelling.
 
-The story also persists because NASA’s public posture has changed without delivering the kind of answer UFO communities often want. NASA now acknowledges UAP as a subject that can be studied with better data, artificial intelligence, machine learning and coordinated reporting, and it has positioned itself as a contributor to a broader government effort. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — a director of UAP research. appointing Mark McInerney director of UAP...</span></span></span> But scientific openness does not produce instant certainty. In fact, it often produces the opposite: careful limits, better definitions and fewer dramatic claims.
+The story also persists because NASA’s public posture has changed without delivering the kind of answer UFO communities often want. NASA now acknowledges UAP as a subject that can be studied with better data, artificial intelligence, machine learning and coordinated reporting, and it has positioned itself as a contributor to a broader government effort.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — a director of UAP research. appointing Mark McInerney director of UAP...</span></span></span> But scientific openness does not produce instant certainty. In fact, it often produces the opposite: careful limits, better definitions and fewer dramatic claims.
 
 That gap between public curiosity and scientific caution keeps NASA at the centre of UFO speculation. NASA is close enough to the mystery to seem relevant, open enough to provide endless imagery, technical enough to be misunderstood, and official enough to be suspected. For [UFO hackers such]({{ 'ufo-hackers-such/' | relative_url }}) as Gary McKinnon, that combination made NASA look like a vault. The evidence available today suggests a different picture: NASA is less a confirmed warehouse of UFO secrets than a powerful screen onto which hopes, suspicions and misunderstandings about space evidence are projected.
 
@@ -539,194 +539,194 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why UFO Hackers Keep Looking at NASA. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why UFO Hackers Keep Looking at NASA. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses how UFO claims are investigated and documented.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how UFO claims are investigated and documented.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Addresses the distinction between suspicion, belief, and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Addresses the distinction between suspicion, belief, and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6HcN23RJ7L4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Case for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Mars">The Case for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Robert Zubrin, Richard Wagner</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Case for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6HcN23RJ7L4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Case for Mars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Mars">The Case for Mars</a>
+</h4>
+<p class="fr-book-author">By Robert Zubrin, Richard Wagner</p>
         
-        <p class="fr-book-desc">Provides realistic context for space programs that often fuel speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides realistic context for space programs that often fuel speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Case+for+Mars+by+Robert+Zubrin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
-        </h4>
-        <p class="fr-book-author">By Mary Roach</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Packing for Mars on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Packing for Mars">Packing for Mars</a>
+</h4>
+<p class="fr-book-author">By Mary Roach</p>
         
-        <p class="fr-book-desc">Explains the realities of human spaceflight behind many popular myths.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the realities of human spaceflight behind many popular myths.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Packing+for+Mars+by+Mary+Roach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Mars</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Case+for+Mars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Case for Mars</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/2b28e3027c0e7d54243f.jpg' | relative_url }}" alt="Listing image for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/2b28e3027c0e7d54243f.jpg' | relative_url }}" alt="Listing image for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="{{ '/assets/images/marketplace-covers/fecc3801368785b177c2.jpg' | relative_url }}" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="{{ '/assets/images/marketplace-covers/fecc3801368785b177c2.jpg' | relative_url }}" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,"><img src="{{ '/assets/images/marketplace-covers/dbbe9c6146b8bc47c0eb.jpg' | relative_url }}" alt="Listing image for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,"><img src="{{ '/assets/images/marketplace-covers/dbbe9c6146b8bc47c0eb.jpg' | relative_url }}" alt="Listing image for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge"><img src="{{ '/assets/images/marketplace-covers/8167604e2c7a6946709d.jpg' | relative_url }}" alt="Listing image for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge"><img src="{{ '/assets/images/marketplace-covers/8167604e2c7a6946709d.jpg' | relative_url }}" alt="Listing image for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-target-why-ufo-hackers-keep-looking-at-nasa-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -742,7 +742,7 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -762,7 +762,7 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -794,7 +794,7 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -846,7 +846,7 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -891,7 +891,7 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -932,176 +932,176 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: mckinnon Indict  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...According to the indictment, between March of 2001 and March...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — To date, in the peer-reviewed scientific literature, there is no conclusive...</p></details>
    Published: September 13, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — a director of UAP research. appointing Mark McInerney director of UAP...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — a director of UAP research. appointing Mark McInerney director of UAP...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: Feds' Computers Feebly Protected  
-   Link: <a href="https://www.wired.com/2002/11/feds-computers-feebly-protected" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/feds-computers-feebly-protected</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO&#x27;s findings were presented to the House Government [Reform](&amp;#123;&amp;#123; &#x27;reform/&#x27; | relative_url &amp;#125;&amp;#125;) subcommittee, which commended the Social Security Administration&#x27;s secur...</p></details>
+   Link:<a href="https://www.wired.com/2002/11/feds-computers-feebly-protected" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/feds-computers-feebly-protected</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO&#x27;s findings were presented to the House Government [Reform](&amp;#123;&amp;#123; &#x27;reform/&#x27; | relative_url &amp;#125;&amp;#125;) subcommittee, which commended the Social Security Administration&#x27;s secur...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gao.gov  
    Title: CYBERSECURITY NASA Needs to Fully Implement Risk  
-   Link: <a href="https://www.gao.gov/assets/gao-25-108138.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-25-108138.pdf</a>  
+   Link:<a href="https://www.gao.gov/assets/gao-25-108138.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.gao.gov/assets/gao-25-108138.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: oig.nasa.gov  
-   Link: <a href="https://oig.nasa.gov/docs/testimony062403.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oig.nasa.gov/docs/testimony062403.pdf</a>  
+   Link:<a href="https://oig.nasa.gov/docs/testimony062403.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oig.nasa.gov/docs/testimony062403.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: oig.nasa.gov  
-   Link: <a href="https://oig.nasa.gov/wp-content/uploads/2024/06/ig-01-022r.pdf?emrc=6705dac4edac8" target="_blank" rel="noopener noreferrer nofollow">https://oig.nasa.gov/wp-content/uploads/2024/06/ig-01-022r.pdf?emrc=6705dac4edac8</a>  
+   Link:<a href="https://oig.nasa.gov/wp-content/uploads/2024/06/ig-01-022r.pdf?emrc=6705dac4edac8" target="_blank" rel="noopener noreferrer nofollow">https://oig.nasa.gov/wp-content/uploads/2024/06/ig-01-022r.pdf?emrc=6705dac4edac8</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oig.nasa.gov  
-   Link: <a href="https://oig.nasa.gov/audits/" target="_blank" rel="noopener noreferrer nofollow">https://oig.nasa.gov/audits/</a>  
+   Link:<a href="https://oig.nasa.gov/audits/" target="_blank" rel="noopener noreferrer nofollow">https://oig.nasa.gov/audits/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/08/2024-agency-foia-log.xlsx?emrc=646ac0" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2024-agency-foia-log.xlsx?emrc=646ac0</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2025/08/2024-agency-foia-log.xlsx?emrc=646ac0" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2024-agency-foia-log.xlsx?emrc=646ac0</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: nasa.gov  
    Title: wp sitemap posts press release 5.xml  
-   Link: <a href="https://www.nasa.gov/wp-sitemap-posts-press-release-5.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-sitemap-posts-press-release-5.xml</a>  
+   Link:<a href="https://www.nasa.gov/wp-sitemap-posts-press-release-5.xml" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-sitemap-posts-press-release-5.xml</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: smd-cms.nasa.gov  
    Title: 2020 2024 nasa science plan yr 23 update final  
-   Link: <a href="https://smd-cms.nasa.gov/wp-content/uploads/2023/09/2020-2024-nasa-science-plan-yr-23-update-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://smd-cms.nasa.gov/wp-content/uploads/2023/09/2020-2024-nasa-science-plan-yr-23-update-final.pdf</a>  
+   Link:<a href="https://smd-cms.nasa.gov/wp-content/uploads/2023/09/2020-2024-nasa-science-plan-yr-23-update-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://smd-cms.nasa.gov/wp-content/uploads/2023/09/2020-2024-nasa-science-plan-yr-23-update-final.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/archives/</a>  
+   Link:<a href="https://www.nasa.gov/archives/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/archives/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2017/12/2021_agency_foia_log_0.xlsx</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2022-agency-foia-log.xlsx?emrc=93a4ff</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nasa.gov  
    Title: 2023 agency foia log.xlsx  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a</a>  
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/08/2023-agency-foia-log.xlsx?emrc=54069a</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: justice.gov  
    Title: edva mckinnon indictment  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/</a>  
+   Link:<a href="https://www.justice.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: space.com  
    Title: these apollo ufo images have been public for decades  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/these-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/these-apollo-ufo-images-have-been-public-for-decades</a>  
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/these-apollo-ufo-images-have-been-public-for-decades" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/these-apollo-ufo-images-have-been-public-for-decades</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: media.techtarget.com  
-   Link: <a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
+   Link:<a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History  
-   Link: <a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: The Man Who Hacked the U.S. Government  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
+   Link:<a href="https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/374373111_UFOs_and_Unidentified_Anomalous_Phenomena_The_NASA_report_1492023_has_found_no_evidence_to_suggest_that_UAPs_are_extraterrestrial_in_origin</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: watchmojo.com  
-   Link: <a href="https://www.watchmojo.com/articles/x-times-nasa-caught-ufos-on-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/x-times-nasa-caught-ufos-on-camera</a>  
+   Link:<a href="https://www.watchmojo.com/articles/x-times-nasa-caught-ufos-on-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.watchmojo.com/articles/x-times-nasa-caught-ufos-on-camera</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/vesv2g/compilation_of_ufos_in_nasa_videos_making_a_big/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/vesv2g/compilation_of_ufos_in_nasa_videos_making_a_big/</a>  
+   Link:<a href="https://www.reddit.com/r/interestingasfuck/comments/vesv2g/compilation_of_ufos_in_nasa_videos_making_a_big/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/vesv2g/compilation_of_ufos_in_nasa_videos_making_a_big/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/169vk4w/compilation_of_ufos_in_nasa_videos_making_a_big/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/169vk4w/compilation_of_ufos_in_nasa_videos_making_a_big/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/169vk4w/compilation_of_ufos_in_nasa_videos_making_a_big/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/169vk4w/compilation_of_ufos_in_nasa_videos_making_a_big/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTvXZ27ggnL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTvXZ27ggnL/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTvXZ27ggnL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTvXZ27ggnL/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: podmust.com  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1mil2m6/hacker_solo_hacked_nasa_and_the_us_military_what/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1mil2m6/hacker_solo_hacked_nasa_and_the_us_military_what/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1mil2m6/hacker_solo_hacked_nasa_and_the_us_military_what/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1mil2m6/hacker_solo_hacked_nasa_and_the_us_military_what/</a>  

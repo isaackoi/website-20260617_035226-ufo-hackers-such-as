@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_ufo
 
 ## Introduction
 
-When assessing UFO hacking stories such as those associated with Gary McKinnon, the most useful question is not whether a claim sounds plausible or implausible. The key question is whether a specific statement is supported by documentation that other people can independently examine. In McKinnon's case, there is extensive documentation that unauthorised access to US military and NASA systems occurred and that major legal proceedings followed. By contrast, the most famous UFO-related discoveries he described—such as a spacecraft image and a spreadsheet referring to “non-terrestrial officers”—remain claims primarily known through his own accounts rather than publicly available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+When assessing UFO hacking stories such as those associated with Gary McKinnon, the most useful question is not whether a claim sounds plausible or implausible. The key question is whether a specific statement is supported by documentation that other people can independently examine. In McKinnon's case, there is extensive documentation that unauthorised access to US military and NASA systems occurred and that major legal proceedings followed. By contrast, the most famous UFO-related discoveries he described—such as a spacecraft image and a spreadsheet referring to “non-terrestrial officers”—remain claims primarily known through his own accounts rather than publicly available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_ufo_hacking_evidence_d07498-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Framework illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_ufo_hacking_evidence_d07498-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_ufo_hacking_evidence_d07498-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -295,7 +295,7 @@ In the McKinnon case, the following points are documented through indictments, c
 * McKinnon gained unauthorised access to US government and NASA computer systems.
 * US authorities alleged [intrusions]({{ 'intrusions/' | relative_url }}) into dozens of military and government networks between 2001 and 2002.
 * He became the subject of a lengthy extradition dispute between the United Kingdom and the United States.
-* McKinnon publicly stated that part of his motivation was to search for evidence relating to UFOs and advanced technologies. Wikipedia+3Department of Justice+3Department of Justice <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+* McKinnon publicly stated that part of his motivation was to search for evidence relating to UFOs and advanced technologies. Wikipedia+3Department of Justice+3Department of Justice<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 These facts can be checked through official documents and multiple independent sources. Even readers who disagree about the significance of the case can generally agree that these events occurred.
 
@@ -308,7 +308,7 @@ A useful test is simple: if the original witness disappeared from the story, wou
 
 The second category consists of statements that rely primarily on an individual's description of what they experienced.
 
-McKinnon's most discussed UFO-related assertions fall into this category. He has said that he viewed a high-resolution image of a craft that appeared not to be human-made and that he encountered references to “non-terrestrial officers” while examining files on government systems. These descriptions have been repeated in [interviews]({{ 'interviews/' | relative_url }}) and media coverage over many years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2We Live Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+McKinnon's most discussed UFO-related assertions fall into this category. He has said that he viewed a high-resolution image of a craft that appeared not to be human-made and that he encountered references to “non-terrestrial officers” while examining files on government systems. These descriptions have been repeated in [interviews]({{ 'interviews/' | relative_url }}) and media coverage over many years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 
 The critical distinction is that the public does not possess the underlying image, spreadsheet or associated records needed to independently verify those interpretations. Readers are therefore evaluating testimony rather than evidence.
 
@@ -338,7 +338,7 @@ Evidence that would strengthen a claim includes:
 * System logs showing where material was located.
 * [Metadata]({{ 'metadata/' | relative_url }}) establishing dates, authorship and file history.
 * Independent witnesses who viewed the same material.
-* Consistent records from separate sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+* Consistent records from separate sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 Evidence that weakens confidence includes:
 
@@ -352,7 +352,7 @@ Evidence that weakens confidence includes:
 
 </div>
 
-For example, a spreadsheet label such as “non-terrestrial officers” would be much easier to evaluate if the original file were available. Researchers could determine whether the phrase referred to space-based assignments, administrative [terminology]({{ 'terminology/' | relative_url }}), a joke, a database category or something else entirely. Without the document itself, competing interpretations remain speculative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welivesecurity.com">[We Live Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welivesecurity.com</span><span class="citation-popover-title">gary mckinnon reveals detail on nasa data breach and extraterrestrial life</span><span class="citation-popover-snippet">UFO does not mean aliens, extra-terrestrials, whatever you wish to...Read more...</span></span></span>
+For example, a spreadsheet label such as “non-terrestrial officers” would be much easier to evaluate if the original file were available. Researchers could determine whether the phrase referred to space-based assignments, administrative [terminology]({{ 'terminology/' | relative_url }}), a joke, a database category or something else entirely. Without the document itself, competing interpretations remain speculative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: welivesecurity.com">[We Live Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">welivesecurity.com</span><span class="citation-popover-title">gary mckinnon reveals detail on nasa data breach and extraterrestrial life</span><span class="citation-popover-snippet">UFO does not mean aliens, extra-terrestrials, whatever you wish to...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -373,7 +373,7 @@ Some elements are documented, but important evidence is missing. The claim remai
 
 The claim depends primarily on personal testimony and lacks independently examinable evidence.
 
-Using this framework, the fact that McKinnon accessed systems and faced prosecution falls largely into Level 1. Claims about unusual files and spacecraft imagery fall closer to Level 3 because the underlying artefacts are not publicly available for examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+Using this framework, the fact that McKinnon accessed systems and faced prosecution falls largely into Level 1. Claims about unusual files and spacecraft imagery fall closer to Level 3 because the underlying artefacts are not publicly available for examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_ufo_hacking_evidence_d07498-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Framework illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_ufo_hacking_evidence_d07498-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_anecdote_vs_document_62435a_ufo_hacking_evidence_d07498-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -390,194 +390,194 @@ The result is neither automatic belief nor automatic scepticism. It is a method 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How to Judge a UFO Hacking Story Fairly. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How to Judge a UFO Hacking Story Fairly. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches a page about judging UFO claims through credible testimony and records.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly matches a page about judging UFO claims through credible testimony and records.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Helps readers avoid both credulity and reflexive dismissal when judging unusual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Helps readers avoid both credulity and reflexive dismissal when judging unusual claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Explains how digital claims should be evaluated through artefacts, metadata, and documentation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how digital claims should be evaluated through artefacts, metadata, and documentation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BdPPngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BdPPngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Adds commercially strong context for hacking narratives and unauthorised-access claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Adds commercially strong context for hacking narratives and unauthorised-access claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Brooch 18pcs Plastic pin badge Collectible Trump secret not shoe charm"><img src="https://i.ebayimg.com/images/g/NEUAAeSw2gNqIUAk/s-l225.jpg" alt="Listing image for Alien UFO Brooch 18pcs Plastic pin badge Collectible Trump secret not shoe charm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Brooch 18pcs Plastic pin badge Collectible Trump secret not shoe charm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001 Pecos Lodge 55 with Alien and UFO Design Lapel Tack Pin Badge Collectible"><img src="https://i.ebayimg.com/images/g/rH4AAeSwL2BpaYLd/s-l225.jpg" alt="Listing image for 2001 Pecos Lodge 55 with Alien and UFO Design Lapel Tack Pin Badge Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">2001 Pecos Lodge 55 with Alien and UFO Design Lapel Tack Pin Badge Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Black Yellow UFO Abduction Enamel Pin Collectible Pinback Badge"><img src="https://i.ebayimg.com/images/g/hhoAAeSwzClp1~9y/s-l225.jpg" alt="Listing image for Black Yellow UFO Abduction Enamel Pin Collectible Pinback Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Black Yellow UFO Abduction Enamel Pin Collectible Pinback Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="evidence-framework-how-to-judge-a-ufo-hacking-story-fairly-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mars Attacks! UFO Pin Wootbox July 2018 Space Rare Pin / Badge Collectible"><img src="https://i.ebayimg.com/images/g/oGgAAOSwZKZddMiK/s-l225.jpg" alt="Listing image for Mars Attacks! UFO Pin Wootbox July 2018 Space Rare Pin / Badge Collectible" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">Mars Attacks! UFO Pin Wootbox July 2018 Space Rare Pin / Badge Collectible</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="how-to-judge-a-ufo-hacking-story-fairly-ufo-collectible-pin-book-books-series-television-gerry-anderson-band-concert-tou" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -593,7 +593,7 @@ The result is neither automatic belief nor automatic scepticism. It is a method 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -613,7 +613,7 @@ The result is neither automatic belief nor automatic scepticism. It is a method 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -645,7 +645,7 @@ The result is neither automatic belief nor automatic scepticism. It is a method 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -697,7 +697,7 @@ The result is neither automatic belief nor automatic scepticism. It is a method 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -742,7 +742,7 @@ The result is neither automatic belief nor automatic scepticism. It is a method 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -783,101 +783,101 @@ The result is neither automatic belief nor automatic scepticism. It is a method 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002).Read more...</p></details>
    Published: November 12, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — On 7 October 2004 the respondent government requested...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — On 7 October 2004 the respondent government requested...</p></details>
    Published: October 2004  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: justice.gov  
    Title: edva mckinnon indictment  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentFrom in or about September 2001, through on or about March 19, 2002, within the Eastern District of Virgin...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentFrom in or about September 2001, through on or about March 19, 2002, within the Eastern District of Virgin...</p></details>
    Published: March 19, 2002  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO does not mean aliens, extra-terrestrials, whatever you wish to...Read more...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO does not mean aliens, extra-terrestrials, whatever you wish to...Read more...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/brit-hacker-to-face-us-justice/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-to-face-us-justice/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brit Hacker To Face U.S. JusticeProsecutors alleged that McKinnon, 39, illegally accessed 97 U.S. government computers between February 2...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/brit-hacker-to-face-us-justice/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-to-face-us-justice/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brit Hacker To Face U.S. JusticeProsecutors alleged that McKinnon, 39, illegally accessed 97 U.S. government computers between February 2...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonAlien or government-made, this had to be a UFO. As the high-resolution image slowly downloaded to his computer, t...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonAlien or government-made, this had to be a UFO. As the high-resolution image slowly downloaded to his computer, t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: singjupost.com  
    Title: transcript the lone hacker that found nasas secret ufo fleet american alchemy  
-   Link: <a href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s Secret UFO Fleet...Mar 28, 2026 — Editor&#x27;s Notes: In this gripping interview, Jesse Michels sits down...</p></details>
+   Link:<a href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s Secret UFO Fleet...Mar 28, 2026 — Editor&#x27;s Notes: In this gripping interview, Jesse Michels sits down...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: film scottish hacker gary mckinnon fight against us extradition  
-   Link: <a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29 Nov 2023 — McKinnon found his way into the computer systems of the US d...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Film to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29 Nov 2023 — McKinnon found his way into the computer systems of the US d...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: itnews.com.au  
    Title: profile gary mckinnon mastermind behind us military hack 82789  
-   Link: <a href="https://www.itnews.com.au/feature/profile-gary-mckinnon-mastermind-behind-us-military-hack-82789" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/feature/profile-gary-mckinnon-mastermind-behind-us-military-hack-82789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Profile: Gary McKinnon mastermind behind US military hack4 Jun 2007 — Being public enemy number one is a lot more mundane than you might...</p></details>
+   Link:<a href="https://www.itnews.com.au/feature/profile-gary-mckinnon-mastermind-behind-us-military-hack-82789" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/feature/profile-gary-mckinnon-mastermind-behind-us-military-hack-82789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Profile: Gary McKinnon mastermind behind US military hack4 Jun 2007 — Being public enemy number one is a lot more mundane than you might...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: abc.net.au  
-   Link: <a href="https://www.abc.net.au/news/2009-10-10/eccentric-pentagon-hacker-loses-latest-extradition/1098074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2009-10-10/eccentric-pentagon-hacker-loses-latest-extradition/1098074</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Eccentric&#x27; Pentagon hacker loses latest extradition appeal9 Oct 2009 — McKinnon, whose lawyers describe him as a &quot;UFO eccentric&quot;, is acc...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2009-10-10/eccentric-pentagon-hacker-loses-latest-extradition/1098074" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2009-10-10/eccentric-pentagon-hacker-loses-latest-extradition/1098074</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Eccentric&#x27; Pentagon hacker loses latest extradition appeal9 Oct 2009 — McKinnon, whose lawyers describe him as a &quot;UFO eccentric&quot;, is acc...</p></details>

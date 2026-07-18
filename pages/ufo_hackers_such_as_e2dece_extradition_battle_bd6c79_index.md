@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-extradition/
 description: Focused pages that expand on Extradition.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_extradition_battle_bd6c79
 parent_title: Extradition
@@ -16,7 +16,7 @@ parent_permalink: /extradition/
 
 # Explore Topics in Extradition
 
-The following pages expand on the main **[Extradition]({{ '/extradition/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Extradition]({{ '/extradition/' | relative_url }})** page and cover its key branches in.
 
 - [Health Risk]({{ '/health-risk/' | relative_url }})
 - [Family Campaign]({{ '/family-campaign/' | relative_url }})

@@ -280,23 +280,23 @@ image: /assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_coul
 
 ## Introduction
 
-One of the most important details in Gary McKinnon's “Non-Terrestrial Officers” story is also one of the most frequently omitted. When describing the spreadsheet that later became the foundation for claims about a [secret space fleet]({{ 'space-fleet/' | relative_url }}), McKinnon was directly asked whether the material could have been part of a military game or simulation. His response was not a rejection of that possibility. Instead, he said: “What I found could be a game — it's hard to know for certain.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+One of the most important details in Gary McKinnon's “Non-Terrestrial Officers” story is also one of the most frequently omitted. When describing the spreadsheet that later became the foundation for claims about a [secret space fleet]({{ 'space-fleet/' | relative_url }}), McKinnon was directly asked whether the material could have been part of a military game or simulation. His response was not a rejection of that possibility. Instead, he said: “What I found could be a game — it's hard to know for certain.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-1-dark.svg" | relative_url }}" alt="Game Caveat illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That single sentence significantly changes how the alleged spreadsheet should be interpreted. Rather than presenting the file as confirmed evidence of an operational off-world military programme, McKinnon himself acknowledged uncertainty about what he was seeing. The caveat does not prove the spreadsheet was a game or training exercise, but it weakens claims that the file can be treated as straightforward evidence of a hidden space fleet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+That single sentence significantly changes how the alleged spreadsheet should be interpreted. Rather than presenting the file as confirmed evidence of an operational off-world military programme, McKinnon himself acknowledged uncertainty about what he was seeing. The caveat does not prove the spreadsheet was a game or training exercise, but it weakens claims that the file can be treated as straightforward evidence of a hidden space fleet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
 ## What Did McKinnon Actually Say?
 
-The most widely cited account comes from a 2006 interview with *Wired*. McKinnon described finding a spreadsheet labelled “Non-Terrestrial Officers” and records involving [transfers]({{ 'transfers/' | relative_url }}) between ships whose names he could not locate in public sources. Those descriptions became central to later secret-space-program narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+The most widely cited account comes from a 2006 interview with *Wired*. McKinnon described finding a spreadsheet labelled “Non-Terrestrial Officers” and records involving [transfers]({{ 'transfers/' | relative_url }}) between ships whose names he could not locate in public sources. Those descriptions became central to later secret-space-program narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
-However, the same interview contains a crucial exchange that is often excluded from [retellings]({{ 'retellings/' | relative_url }}). When the interviewer suggested that the material might have been part of a military strategy game or hypothetical scenario, McKinnon replied that it “could be a game” and that it was “hard to know for certain.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+However, the same interview contains a crucial exchange that is often excluded from [retellings]({{ 'retellings/' | relative_url }}). When the interviewer suggested that the material might have been part of a military strategy game or hypothetical scenario, McKinnon replied that it “could be a game” and that it was “hard to know for certain.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
-The significance of this statement lies less in what it proves than in what it prevents. It prevents the interview from being cited as a case in which McKinnon unequivocally identified a real-world secret fleet. His own wording shows that he lacked sufficient context to determine the file's purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+The significance of this statement lies less in what it proves than in what it prevents. It prevents the interview from being cited as a case in which McKinnon unequivocally identified a real-world secret fleet. His own wording shows that he lacked sufficient context to determine the file's purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
 ### Why This Detail Is Often Lost
 
-Many later summaries focus on the striking phrases “Non-Terrestrial Officers” and “ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }})” while omitting the uncertainty attached to them. As the story moved through UFO media, podcasts, forums and social-media discussions, the spreadsheet was increasingly presented as evidence of an existing covert programme rather than an unidentified document seen briefly on a compromised system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Gary Mckinnon talks about finding the &quot;Non-terrestrial...Non-terrestrial officers. UFO program files. The U.S. called it the “bigg...</span></span></span>
+Many later summaries focus on the striking phrases “Non-Terrestrial Officers” and “ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }})” while omitting the uncertainty attached to them. As the story moved through UFO media, podcasts, forums and social-media discussions, the spreadsheet was increasingly presented as evidence of an existing covert programme rather than an unidentified document seen briefly on a compromised system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Gary Mckinnon talks about finding the &quot;Non-terrestrial...Non-terrestrial officers. UFO program files. The U.S. called it the “bigg...</span></span></span>
 
 The result is that the strongest version of the claim often relies on a selective reading of the original interview.
 
@@ -315,13 +315,13 @@ McKinnon's own uncertainty leaves several possibilities open:
 * A planning document exploring hypothetical military structures.
 * A real administrative record whose [terminology]({{ 'terminology/' | relative_url }}) was misunderstood outside its original context.
 
-The key point is not that any one of these explanations has been proven. Rather, the existence of plausible non-extraordinary explanations means the spreadsheet cannot automatically be treated as evidence for a secret space navy. McKinnon's caveat explicitly acknowledges that limitation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+The key point is not that any one of these explanations has been proven. Rather, the existence of plausible non-extraordinary explanations means the spreadsheet cannot automatically be treated as evidence for a secret space navy. McKinnon's caveat explicitly acknowledges that limitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-2-dark.svg" | relative_url }}" alt="Game Caveat illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The Problem Of Missing Context
 
-McKinnon never publicly produced the spreadsheet, screenshots of the relevant file, metadata, directory information or accompanying documentation that might clarify its purpose. Without those details, outside observers cannot determine whether the file represented an operational system, a fictional exercise, a draft document or something else entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+McKinnon never publicly produced the spreadsheet, screenshots of the relevant file, metadata, directory information or accompanying documentation that might clarify its purpose. Without those details, outside observers cannot determine whether the file represented an operational system, a fictional exercise, a draft document or something else entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
 This absence of context is exactly why the “could be a game” remark matters. It highlights that even the person who allegedly viewed the file lacked enough information to identify it confidently.
 
@@ -334,18 +334,18 @@ There are two very different claims:
 1. **McKinnon saw a spreadsheet containing unusual terminology.**
 2. **McKinnon discovered proof of an operational secret space fleet.**
 
-The first claim is McKinnon's account of what he observed. The second is an inference built on assumptions about what the document meant. The “could be a game” statement directly affects the second claim because it shows that the meaning of the spreadsheet was never established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+The first claim is McKinnon's account of what he observed. The second is an inference built on assumptions about what the document meant. The “could be a game” statement directly affects the second claim because it shows that the meaning of the spreadsheet was never established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
-This distinction is often blurred in discussions linking McKinnon's story to later narratives about programmes such as “[Solar Warden]({{ 'solar-warden/' | relative_url }})” or hidden off-world military organisations. The caveat does not disprove those theories, but it removes one of the strongest rhetorical supports often used in their favour: the suggestion that McKinnon personally confirmed the document's operational reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+This distinction is often blurred in discussions linking McKinnon's story to later narratives about programmes such as “[Solar Warden]({{ 'solar-warden/' | relative_url }})” or hidden off-world military organisations. The caveat does not disprove those theories, but it removes one of the strongest rhetorical supports often used in their favour: the suggestion that McKinnon personally confirmed the document's operational reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OImdnvQx7sQ" title="Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer">Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN</a></p><p class="youtube-embed-meta">Channel: NordVPN &middot; Views: 28.6K &middot; Uploaded: May 2023 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OImdnvQx7sQ">Open on YouTube</a></p></div></div></div>
 
 ## Why Skeptics And Supporters Both Focus On This Sentence
 
-For sceptics, the remark is important because it demonstrates that the alleged evidence was ambiguous from the outset. If the witness himself could not determine whether the material represented reality or simulation, later certainty appears difficult to justify. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+For sceptics, the remark is important because it demonstrates that the alleged evidence was ambiguous from the outset. If the witness himself could not determine whether the material represented reality or simulation, later certainty appears difficult to justify.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
-For supporters, the sentence is often treated differently. Some argue that uncertainty is expected when viewing isolated files without access to broader classified context. From that perspective, the caveat reflects caution rather than doubt. Yet even under that interpretation, the statement remains an admission that the spreadsheet's meaning could not be verified from what McKinnon saw. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+For supporters, the sentence is often treated differently. Some argue that uncertainty is expected when viewing isolated files without access to broader classified context. From that perspective, the caveat reflects caution rather than doubt. Yet even under that interpretation, the statement remains an admission that the spreadsheet's meaning could not be verified from what McKinnon saw.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
 The debate therefore turns less on whether McKinnon made the claim and more on how much evidential weight should be attached to a document whose creator, purpose and surrounding context remain unknown.
 
@@ -356,7 +356,7 @@ The debate therefore turns less on whether McKinnon made the claim and more on h
 
 The “could be a game” comment remains one of the most consequential sentences in the entire McKinnon story because it introduces uncertainty at precisely the point where later retellings often imply certainty.
 
-Without that sentence, the spreadsheet can be portrayed as direct evidence of a hidden organisational structure. With it, the spreadsheet becomes an unresolved artefact whose interpretation is contested. The difference is substantial. It shifts the discussion from “proof of a secret fleet” to “an ambiguous document described by a witness who acknowledged alternative explanations.” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
+Without that sentence, the spreadsheet can be portrayed as direct evidence of a hidden organisational structure. With it, the spreadsheet becomes an unresolved artefact whose interpretation is contested. The difference is substantial. It shifts the discussion from “proof of a secret fleet” to “an ambiguous document described by a witness who acknowledged alternative explanations.”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</span></span></span>
 
 For anyone assessing claims about secret space programmes after McKinnon, that distinction is not a minor footnote. It is one of the central reasons the alleged spreadsheet remains intriguing but unverified.
 
@@ -364,194 +364,194 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-3-dark.svg" | relative_url }}" alt="Game Caveat illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_could_be_a_game_cave_e0bd28-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Changes If The File Was A Simulation?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Changes If The File Was A Simulation?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Contrasts documented cases with speculative interpretations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contrasts documented cases with speculative interpretations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on uncertainty, interpretation, and evidence assessment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on uncertainty, interpretation, and evidence assessment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Provides context for how uncertain claims become larger narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how uncertain claims become larger narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Kahneman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=AV9x8XakdV0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+</h4>
+<p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Explains cognitive biases that affect interpretation of ambiguous evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains cognitive biases that affect interpretation of ambiguous evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Shuttle Building Blocks Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e530797ce9c73cf2e902.jpg' | relative_url }}" alt="Listing image for Space Shuttle Building Blocks Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">Space Shuttle Building Blocks Display Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space shuttle model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space shuttle model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space Shuttle Building Blocks Display Model Kit"><img src="{{ '/assets/images/marketplace-covers/e530797ce9c73cf2e902.jpg' | relative_url }}" alt="Listing image for Space Shuttle Building Blocks Display Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">Space Shuttle Building Blocks Display Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space shuttle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: space shuttle model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Showcase Diecast Model NASA Space Shuttle Columbia"><img src="{{ '/assets/images/marketplace-covers/9c413b03e5bbd5f7622d.jpg' | relative_url }}" alt="Listing image for Corgi Showcase Diecast Model NASA Space Shuttle Columbia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Showcase Diecast Model NASA Space Shuttle Columbia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space shuttle model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space shuttle model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Corgi Showcase Diecast Model NASA Space Shuttle Columbia"><img src="{{ '/assets/images/marketplace-covers/9c413b03e5bbd5f7622d.jpg' | relative_url }}" alt="Listing image for Corgi Showcase Diecast Model NASA Space Shuttle Columbia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">Corgi Showcase Diecast Model NASA Space Shuttle Columbia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space shuttle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: space shuttle model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Space Shuttle and Booster Rockets 12707 Plastic Model Kit Scale 1/288"><img src="{{ '/assets/images/marketplace-covers/67dc9d205031d71a67fd.jpg' | relative_url }}" alt="Listing image for Academy Space Shuttle and Booster Rockets 12707 Plastic Model Kit Scale 1/288" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">Academy Space Shuttle and Booster Rockets 12707 Plastic Model Kit Scale 1/288</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space shuttle model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space shuttle model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Academy Space Shuttle and Booster Rockets 12707 Plastic Model Kit Scale 1/288"><img src="{{ '/assets/images/marketplace-covers/67dc9d205031d71a67fd.jpg' | relative_url }}" alt="Listing image for Academy Space Shuttle and Booster Rockets 12707 Plastic Model Kit Scale 1/288" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">Academy Space Shuttle and Booster Rockets 12707 Plastic Model Kit Scale 1/288</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space shuttle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: space shuttle model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Space Shuttle Rocket Nasa Diecast Model Toy Children Die Cast Fun Friction"><img src="{{ '/assets/images/marketplace-covers/fd20919907dbca0bf28e.jpg' | relative_url }}" alt="Listing image for 20cm Space Shuttle Rocket Nasa Diecast Model Toy Children Die Cast Fun Friction" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">20cm Space Shuttle Rocket Nasa Diecast Model Toy Children Die Cast Fun Friction</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space shuttle model">Search <span data-ebay-domain-label>eBay.co.uk</span>: space shuttle model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Space Shuttle Rocket Nasa Diecast Model Toy Children Die Cast Fun Friction"><img src="{{ '/assets/images/marketplace-covers/fd20919907dbca0bf28e.jpg' | relative_url }}" alt="Listing image for 20cm Space Shuttle Rocket Nasa Diecast Model Toy Children Die Cast Fun Friction" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">20cm Space Shuttle Rocket Nasa Diecast Model Toy Children Die Cast Fun Friction</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space shuttle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: space shuttle model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+shuttle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space shuttle model" data-ebay-reference="game-caveat-what-changes-if-the-file-was-a-simulation-ufo-hackers-such-space-shuttle-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,124 +757,124 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — McKinnon: The military want to have military dominance of space. What I found could b...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Mckinnon talks about finding the &quot;Non-terrestrial...Non-terrestrial officers. UFO program files. The U.S. called it the “bigg...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Mckinnon talks about finding the &quot;Non-terrestrial...Non-terrestrial officers. UFO program files. The U.S. called it the “bigg...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. Government (looking for...He supposedly found names and ranks of officers of alien beings and of an al...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. Government (looking for...He supposedly found names and ranks of officers of alien beings and of an al...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: british ufo hac  
-   Link: <a href="https://www.wired.com/2008/07/british-ufo-hac/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/british-ufo-hac/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ker Gary McKinnon Is Coming to AmericaJul 30, 2008 — In [interviews](&amp;#123;&amp;#123; &#x27;interviews/&#x27; | relative_url &amp;#125;&amp;#125;), McKinnon has admitted the hacking spree (though not the damage), whic...</p></details>
+   Link:<a href="https://www.wired.com/2008/07/british-ufo-hac/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/british-ufo-hac/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ker Gary McKinnon Is Coming to AmericaJul 30, 2008 — In [interviews](&amp;#123;&amp;#123; &#x27;interviews/&#x27; | relative_url &amp;#125;&amp;#125;), McKinnon has admitted the hacking spree (though not the damage), whic...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: WIRE D  
-   Link: <a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest in Technology, Science, Culture and...We bring you the future as it happens. From the latest in science and technolog...</p></details>
+   Link:<a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest in Technology, Science, Culture and...We bring you the future as it happens. From the latest in science and technolog...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: uk hacker gary  
-   Link: <a href="https://www.wired.com/2008/08/uk-hacker-gary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/08/uk-hacker-gary/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.K. Hacker Gary McKinnon Plays the Asperger&#x27;s CardAug 28, 2008 — Admitted Pentagon hacker Gary McKinnon lost his appeal to the European...</p></details>
+   Link:<a href="https://www.wired.com/2008/08/uk-hacker-gary/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/08/uk-hacker-gary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.K. Hacker Gary McKinnon Plays the Asperger&#x27;s CardAug 28, 2008 — Admitted Pentagon hacker Gary McKinnon lost his appeal to the European...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1bmecmw/the_man_who_hacked_the_us_government_looking_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bmecmw/the_man_who_hacked_the_us_government_looking_for/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. Government (looking for...Gary McKinnon was accused of breaking into 97 US Government computers within the A...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1bmecmw/the_man_who_hacked_the_us_government_looking_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1bmecmw/the_man_who_hacked_the_us_government_looking_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. Government (looking for...Gary McKinnon was accused of breaking into 97 US Government computers within the A...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO described by Gary McKinnon looks exactly like...r/aliens - Serious US Department of War releases UFO and potential alien life fi...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO described by Gary McKinnon looks exactly like...r/aliens - Serious US Department of War releases UFO and potential alien life fi...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot;Hacker Gary McKinnon will receive no pity, insists US&quot;. The... Retrieved 4 August 2009. ↑ &quot;UFO Hacker&quot; Tells What He Fo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot;Hacker Gary McKinnon will receive no pity, insists US&quot;. The... Retrieved 4 August 2009. ↑ &quot;UFO Hacker&quot; Tells What He Fo...</p></details>
    Published: August 2009  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: uapmurders.com  
-   Link: <a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Murdering UAP ExpertsUFO Hacker, Non-Terrestrial Officers &amp; NASA&#x27;s Hidden Craft - The Galactic Mind · &quot;Non-terrestrial of...</p></details>
+   Link:<a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Murdering UAP ExpertsUFO Hacker, Non-Terrestrial Officers &amp; NASA&#x27;s Hidden Craft - The Galactic Mind · &quot;Non-terrestrial of...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: alienexpanse.com  
-   Link: <a href="https://alienexpanse.com/index.php?threads%2Fgary-mckinnon-non-terrestrial-officers-real-or-a-game.4210%2F=" target="_blank" rel="noopener noreferrer nofollow">https://alienexpanse.com/index.php?threads%2Fgary-mckinnon-non-terrestrial-officers-real-or-a-game.4210%2F=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien ExpanseGary McKinnon &amp; Non-Terrestrial Officers: Real or a Game?Nov 7, 2019 — Notably, McKinnon did not deny such a possibility at all...</p></details>
+   Link:<a href="https://alienexpanse.com/index.php?threads%2Fgary-mckinnon-non-terrestrial-officers-real-or-a-game.4210%2F=" target="_blank" rel="noopener noreferrer nofollow">https://alienexpanse.com/index.php?threads%2Fgary-mckinnon-non-terrestrial-officers-real-or-a-game.4210%2F=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien ExpanseGary McKinnon &amp; Non-Terrestrial Officers: Real or a Game?Nov 7, 2019 — Notably, McKinnon did not deny such a possibility at all...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert Gary McKinnon candidly revealed detail on his NASA data...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert Gary McKinnon candidly revealed detail on his NASA data...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cybernews.com  
    Title: hacker who breached nasa trying prove ufo existence  
-   Link: <a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hacker who breached NASA to prove that UFOs existOct 31, 2023 — The hacker managed to infiltrate 97 military and NASA computers and w...</p></details>
+   Link:<a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hacker who breached NASA to prove that UFOs existOct 31, 2023 — The hacker managed to infiltrate 97 military and NASA computers and w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW6dx5NGdiM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW6dx5NGdiM/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the early 2000s, a British hacker named Gary McKinnon...In 2002, a British hacker named Gary McKinnon broke into 97 U.S...</p></details>
+   Link:<a href="https://www.instagram.com/p/DW6dx5NGdiM/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW6dx5NGdiM/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the early 2000s, a British hacker named Gary McKinnon...In 2002, a British hacker named Gary McKinnon broke into 97 U.S...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: sott.net  
    Title: 485581 The hacker who breached NASA to prove that UFOs exist  
-   Link: <a href="https://www.sott.net/article/485581-The-hacker-who-breached-NASA-to-prove-that-UFOs-exist" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/485581-The-hacker-who-breached-NASA-to-prove-that-UFOs-exist</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known online as Solo, McKinnon obsessively poked around US government computer systems. He based...Read more...</p></details>
+   Link:<a href="https://www.sott.net/article/485581-The-hacker-who-breached-NASA-to-prove-that-UFOs-exist" target="_blank" rel="noopener noreferrer nofollow">https://www.sott.net/article/485581-The-hacker-who-breached-NASA-to-prove-that-UFOs-exist</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Known online as Solo, McKinnon obsessively poked around US government computer systems. He based...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: podmust.com  
    Title: Listen online, share, subscribe  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Briton facing 60 years in US prison after hacking into...26 Jul 2008 — Nasa tracked back my IP address.&#x27; McKinnon&#x27;s interest in alie...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Briton facing 60 years in US prison after hacking into...26 Jul 2008 — Nasa tracked back my IP address.&#x27; McKinnon&#x27;s interest in alie...</p></details>

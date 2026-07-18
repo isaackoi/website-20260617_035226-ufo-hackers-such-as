@@ -280,15 +280,15 @@ image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_foru
 
 ## Introduction
 
-One of the most important questions in the Gary McKinnon campaign was not whether he had accessed United States military and NASA computer systems, but where he should face justice. Supporters argued that because McKinnon's actions were carried out from his home in Britain, a British court was the proper place to determine guilt and punishment. Opponents countered that the alleged victims were American government agencies and that the United States therefore had a strong claim to prosecute. This dispute became known as the "forum" issue—meaning the question of which country's courts were the appropriate forum for the case. It eventually grew beyond McKinnon himself and became a major debate about extradition law, sovereignty, and fairness in cross-border cybercrime cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
+One of the most important questions in the Gary McKinnon campaign was not whether he had accessed United States military and NASA computer systems, but where he should face justice. Supporters argued that because McKinnon's actions were carried out from his home in Britain, a British court was the proper place to determine guilt and punishment. Opponents countered that the alleged victims were American government agencies and that the United States therefore had a strong claim to prosecute. This dispute became known as the "forum" issue—meaning the question of which country's courts were the appropriate forum for the case. It eventually grew beyond McKinnon himself and became a major debate about extradition law, sovereignty, and fairness in cross-border cybercrime cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-1-dark.svg" | relative_url }}" alt="Forum Issue illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Should a British Hacker Have Been Tried at Home?
 
-The forum argument centred on a simple proposition advanced by many [campaigners]({{ 'campaigners/' | relative_url }}): McKinnon was a British citizen, living in Britain, using a computer in Britain, and therefore should be prosecuted in Britain if prosecutors believed a crime had occurred. Supporters did not necessarily deny that the alleged conduct was serious. Rather, they questioned whether extradition should be the default response when the accused had never left the United Kingdom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
+The forum argument centred on a simple proposition advanced by many [campaigners]({{ 'campaigners/' | relative_url }}): McKinnon was a British citizen, living in Britain, using a computer in Britain, and therefore should be prosecuted in Britain if prosecutors believed a crime had occurred. Supporters did not necessarily deny that the alleged conduct was serious. Rather, they questioned whether extradition should be the default response when the accused had never left the United Kingdom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
 
-This issue resonated because the case emerged during wider criticism of the UK–US extradition arrangements created under the Extradition Act 2003. Critics argued that British citizens could be sent abroad even when substantial parts of the alleged conduct had occurred on British soil. Parliamentary debates repeatedly cited McKinnon's case as the clearest example of concerns about the absence of an effective mechanism for deciding whether prosecution should instead take place in the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
+This issue resonated because the case emerged during wider criticism of the UK–US extradition arrangements created under the Extradition Act 2003. Critics argued that British citizens could be sent abroad even when substantial parts of the alleged conduct had occurred on British soil. Parliamentary debates repeatedly cited McKinnon's case as the clearest example of concerns about the absence of an effective mechanism for deciding whether prosecution should instead take place in the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y5jtyps4oaY" title="UK Hacker extradition to US blocked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer">UK Hacker extradition to US blocked</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 3.1K &middot; Uploaded: October 2012 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y5jtyps4oaY">Open on YouTube</a></p></div></div></div>
@@ -302,9 +302,9 @@ McKinnon's supporters argued that several factors pointed towards a British pros
 * The alleged conduct was carried out from the UK.
 * McKinnon was a UK resident and citizen.
 * British authorities had access to him and could prosecute him if they chose.
-* A domestic trial would allow him access to family, legal representation, and medical support in familiar surroundings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
+* A domestic trial would allow him access to family, legal representation, and medical support in familiar surroundings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
 
-American authorities, however, maintained that the affected systems belonged to US military and government agencies and that the consequences of the alleged [intrusions]({{ 'intrusions/' | relative_url }}) were felt in the United States. From that perspective, a US prosecution was both lawful and appropriate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">He is alleged to have repeatedly hacked into US Government computer networks over a...Read more...</span></span></span>
+American authorities, however, maintained that the affected systems belonged to US military and government agencies and that the consequences of the alleged [intrusions]({{ 'intrusions/' | relative_url }}) were felt in the United States. From that perspective, a US prosecution was both lawful and appropriate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">He is alleged to have repeatedly hacked into US Government computer networks over a...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5MEQVo8ENC8" title="Theresa May blocks Gary McKinnon&#x27;s extradition to US" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5MEQVo8ENC8" target="_blank" rel="noopener noreferrer">Theresa May blocks Gary McKinnon&#x27;s extradition to US</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 44.7K &middot; Uploaded: October 2012 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5MEQVo8ENC8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5MEQVo8ENC8">Open on YouTube</a></p></div></div></div>
@@ -313,23 +313,23 @@ American authorities, however, maintained that the affected systems belonged to 
 
 For campaigners, the forum issue became a practical fairness argument rather than a technical legal dispute. They contended that trying McKinnon in Britain would still allow accountability while avoiding the hardships associated with extradition to another continent.
 
-Many supporters believed that the location of the alleged offender should carry significant weight when the offender had not physically entered the requesting state. MPs, civil-liberties advocates, and public supporters repeatedly argued that British courts were fully capable of handling the case if prosecutors considered the evidence strong enough. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
+Many supporters believed that the location of the alleged offender should carry significant weight when the offender had not physically entered the requesting state. MPs, civil-liberties advocates, and public supporters repeatedly argued that British courts were fully capable of handling the case if prosecutors considered the evidence strong enough.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
 
-The argument also intersected with concerns about proportionality. Campaigners frequently contrasted the possibility of a British prosecution with fears of lengthy imprisonment and unfamiliar plea-bargaining practices in the United States. While courts ultimately rejected some of those legal objections during the extradition proceedings, the issue remained politically influential. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+The argument also intersected with concerns about proportionality. Campaigners frequently contrasted the possibility of a British prosecution with fears of lengthy imprisonment and unfamiliar plea-bargaining practices in the United States. While courts ultimately rejected some of those legal objections during the extradition proceedings, the issue remained politically influential.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
-An important feature of the campaign was that support for a UK trial did not necessarily mean support for acquittal. Many backers argued that if McKinnon had committed offences, he should answer for them in a British court. Their position was often summarised as "trial in Britain, not immunity from prosecution." <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
+An important feature of the campaign was that support for a UK trial did not necessarily mean support for acquittal. Many backers argued that if McKinnon had committed offences, he should answer for them in a British court. Their position was often summarised as "trial in Britain, not immunity from prosecution."<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-2-dark.svg" | relative_url }}" alt="Forum Issue illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Wider Legal Debate
 
-The McKinnon case helped transform the forum question from a niche legal issue into a major public policy debate. Parliamentary discussions on extradition repeatedly referred to his situation as evidence that the law lacked a satisfactory mechanism for determining when domestic prosecution should take precedence over extradition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
+The McKinnon case helped transform the forum question from a niche legal issue into a major public policy debate. Parliamentary discussions on extradition repeatedly referred to his situation as evidence that the law lacked a satisfactory mechanism for determining when domestic prosecution should take precedence over extradition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
 
-When Theresa May blocked McKinnon's extradition in 2012, she did so on [human-rights]({{ 'human-rights/' | relative_url }}) grounds related to his mental health rather than on forum grounds. However, the government simultaneously announced broader extradition reforms, including measures intended to give courts greater ability to consider whether the UK was the more appropriate place for a case to be heard. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
+When Theresa May blocked McKinnon's extradition in 2012, she did so on [human-rights]({{ 'human-rights/' | relative_url }}) grounds related to his mental health rather than on forum grounds. However, the government simultaneously announced broader extradition reforms, including measures intended to give courts greater ability to consider whether the UK was the more appropriate place for a case to be heard.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</span></span></span>
 
-These reforms became known as the "[forum bar]({{ 'forum-bar/' | relative_url }})". The idea was to allow judges, in certain circumstances, to prevent extradition when the interests of justice favoured prosecution in the United Kingdom. Legal commentators and later parliamentary reviews frequently linked the development of the forum bar to the political controversy generated by McKinnon's case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukhumanrightsblog.com/2018/02/09/the-forum-bar-it-does-exist-bruno-min/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukhumanrightsblog.com">[UK Human Rights Blog+2CrimeLine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukhumanrightsblog.com</span><span class="citation-popover-title">UK Human Rights Blog The Forum Bar: it does exist</span><span class="citation-popover-snippet">UK Human Rights BlogThe Forum Bar: it does exist - Bruno Min9 Feb 2018 — In October 2012, Theresa May, then Home Secretary, announced sig...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
+These reforms became known as the "[forum bar]({{ 'forum-bar/' | relative_url }})". The idea was to allow judges, in certain circumstances, to prevent extradition when the interests of justice favoured prosecution in the United Kingdom. Legal commentators and later parliamentary reviews frequently linked the development of the forum bar to the political controversy generated by McKinnon's case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ukhumanrightsblog.com/2018/02/09/the-forum-bar-it-does-exist-bruno-min/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ukhumanrightsblog.com">[ukhumanrightsblog.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ukhumanrightsblog.com</span><span class="citation-popover-title">UK Human Rights Blog The Forum Bar: it does exist</span><span class="citation-popover-snippet">UK Human Rights BlogThe Forum Bar: it does exist - Bruno Min9 Feb 2018 — In October 2012, Theresa May, then Home Secretary, announced sig...</span><span class="citation-popover-meta">Published: October 2012</span></span></span>
 
-The significance of the issue extended beyond McKinnon himself. Later extradition disputes involving alleged computer hackers, including [Lauri Love]({{ 'lauri-love/' | relative_url }}), were often discussed through the same lens: where should a person be tried when the accused is in Britain but the alleged victims are overseas? Courts, politicians, and campaigners continued to grapple with questions first brought into public view by the McKinnon controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2016/09/u-k-judge-oks-extradition-u-s-alleged-hacker-lauri-love" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Judge OKs Extradition to the U.S. for Hacktivist Lauri LoveSeptember 16, 2016 — British activist and alleged hacker Lauri Love will be ex...</span><span class="citation-popover-meta">Published: September 16, 2016</span></span></span>
+The significance of the issue extended beyond McKinnon himself. Later extradition disputes involving alleged computer hackers, including [Lauri Love]({{ 'lauri-love/' | relative_url }}), were often discussed through the same lens: where should a person be tried when the accused is in Britain but the alleged victims are overseas? Courts, politicians, and campaigners continued to grapple with questions first brought into public view by the McKinnon controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2016/09/u-k-judge-oks-extradition-u-s-alleged-hacker-lauri-love" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Judge OKs Extradition to the U.S. for Hacktivist Lauri LoveSeptember 16, 2016 — British activist and alleged hacker Lauri Love will be ex...</span><span class="citation-popover-meta">Published: September 16, 2016</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
@@ -338,184 +338,184 @@ The significance of the issue extended beyond McKinnon himself. Later extraditio
 
 The forum dispute endured because it touched on competing principles that were both difficult to dismiss. On one hand was the idea that countries harmed by cybercrime should be able to prosecute offenders who target their institutions. On the other was the argument that a citizen who acted entirely from within Britain should ordinarily be judged by British courts.
 
-For supporters of Gary McKinnon, this question became the central constitutional issue of the campaign. It shifted public discussion away from UFO searches and hacking allegations and towards a broader debate about jurisdiction, extradition, and the limits of cross-border criminal justice. Even after the extradition battle ended, the argument over where he should have been tried continued to influence discussions of UK extradition policy and international cybercrime prosecutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament+2UK Human Rights Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
+For supporters of Gary McKinnon, this question became the central constitutional issue of the campaign. It shifted public discussion away from UFO searches and hacking allegations and towards a broader debate about jurisdiction, extradition, and the limits of cross-border criminal justice. Even after the extradition battle ended, the argument over where he should have been tried continued to influence discussions of UK extradition policy and international cybercrime prosecutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-snippet">UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-3-dark.svg" | relative_url }}" alt="Forum Issue illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_supporters_8fc6e6_forum_trial_dispute_ff51ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Should a British Hacker Have Been Tried at Home?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Should a British Hacker Have Been Tried at Home?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snowden Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=po-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snowden Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snowden Files">The Snowden Files</a>
-        </h4>
-        <p class="fr-book-author">By Luke Harding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snowden Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=po-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snowden Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snowden Files">The Snowden Files</a>
+</h4>
+<p class="fr-book-author">By Luke Harding</p>
         
-        <p class="fr-book-desc">Raises comparable cross-border legal issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Raises comparable cross-border legal issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Connects cybercrime allegations with legal consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects cybercrime allegations with legal consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saving Gary McKinnon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDjdmwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Saving Gary McKinnon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saving Gary McKinnon">Saving Gary McKinnon</a>
-        </h4>
-        <p class="fr-book-author">By Janis Sharp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saving Gary McKinnon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDjdmwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Saving Gary McKinnon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saving Gary McKinnon">Saving Gary McKinnon</a>
+</h4>
+<p class="fr-book-author">By Janis Sharp</p>
         
-        <p class="fr-book-desc">Documents campaign arguments for a UK trial.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents campaign arguments for a UK trial.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacker Crackdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t-fnQwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacker Crackdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacker Crackdown">The Hacker Crackdown</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Sterling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacker Crackdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t-fnQwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacker Crackdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacker Crackdown">The Hacker Crackdown</a>
+</h4>
+<p class="fr-book-author">By Bruce Sterling</p>
         
-        <p class="fr-book-desc">Discusses jurisdiction and computer-crime enforcement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses jurisdiction and computer-crime enforcement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snowden+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snowden Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saving Gary McKinnon</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snowden+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snowden Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saving Gary McKinnon</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker"><img src="{{ '/assets/images/marketplace-covers/de94c9b99ed106d31b52.jpg' | relative_url }}" alt="Listing image for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker"><img src="{{ '/assets/images/marketplace-covers/de94c9b99ed106d31b52.jpg' | relative_url }}" alt="Listing image for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/7a9de0d9df84ca3f2ab2.jpg' | relative_url }}" alt="Listing image for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/7a9de0d9df84ca3f2ab2.jpg' | relative_url }}" alt="Listing image for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/66a55d4346317fac1d45.jpg' | relative_url }}" alt="Listing image for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/66a55d4346317fac1d45.jpg' | relative_url }}" alt="Listing image for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="forum-issue-should-a-british-hacker-have-been-tried-at-home-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ For supporters of Gary McKinnon, this question became the central constitutional
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ For supporters of Gary McKinnon, this question became the central constitutional
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ For supporters of Gary McKinnon, this question became the central constitutional
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ For supporters of Gary McKinnon, this question became the central constitutional
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ For supporters of Gary McKinnon, this question became the central constitutional
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,164 +721,164 @@ For supporters of Gary McKinnon, this question became the central constitutional
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201011/cmhansrd/cm111205/debtext/111205-0003.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentHouse of Commons Hansard Debates for 05 Dec 2011 (pt...The lack of discretion to allow the UK to decline extradition when t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament The US-UK Extradition Treaty  
-   Link: <a href="https://publications.parliament.uk/pa/cm201012/cmselect/cmhaff/644/64403.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201012/cmselect/cmhaff/644/64403.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If British prosecutors decide not...Read more...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm201012/cmselect/cmhaff/644/64403.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201012/cmselect/cmhaff/644/64403.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>If British prosecutors decide not...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: assets.publishing.service.gov.uk  
    Title: public views 2  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74d979e5274a3cb2867add/public-views-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74d979e5274a3cb2867add/public-views-2.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukextradition.review27 Jan 2011 — If the US Military systems left their cyber gates open, and Gary figuratively st...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74d979e5274a3cb2867add/public-views-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74d979e5274a3cb2867add/public-views-2.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>publishing.service.gov.ukextradition.review27 Jan 2011 — If the US Military systems left their cyber gates open, and Gary figuratively st...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
    Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He is alleged to have repeatedly hacked into US Government computer networks over a...Read more...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He is alleged to have repeatedly hacked into US Government computer networks over a...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Extradition  
-   Link: <a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament16 Oct 2012 — I warmly congratulate the Home Secretary on her decision not to extradite Gary McKinnon and to intro...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament16 Oct 2012 — I warmly congratulate the Home Secretary on her decision not to extradite Gary McKinnon and to intro...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2016/09/u-k-judge-oks-extradition-u-s-alleged-hacker-lauri-love" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2016/09/u-k-judge-oks-extradition-u-s-alleged-hacker-lauri-love</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Judge OKs Extradition to the U.S. for Hacktivist Lauri LoveSeptember 16, 2016 — British activist and alleged hacker Lauri Love will be ex...</p></details>
+   Link:<a href="https://www.wired.com/2016/09/u-k-judge-oks-extradition-u-s-alleged-hacker-lauri-love" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2016/09/u-k-judge-oks-extradition-u-s-alleged-hacker-lauri-love</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Judge OKs Extradition to the U.S. for Hacktivist Lauri LoveSeptember 16, 2016 — British activist and alleged hacker Lauri Love will be ex...</p></details>
    Published: September 16, 2016  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Love, accused of hacking US government bodies and facing up to 99 years in prison and significant fines, suffers from Asperger&#x27;s Syndrome...</p></details>
+   Link:<a href="https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Love, accused of hacking US government bodies and facing up to 99 years in prison and significant fines, suffers from Asperger&#x27;s Syndrome...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a750181ed915d3c7d529a80/written-reps-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a750181ed915d3c7d529a80/written-reps-17.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ReviewMr Blunkett suggested relying on new technology in very specific cases, such as Gary McKinnon&#x27;s (response to question 27)...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a750181ed915d3c7d529a80/written-reps-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a750181ed915d3c7d529a80/written-reps-17.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ReviewMr Blunkett suggested relying on new technology in very specific cases, such as Gary McKinnon&#x27;s (response to question 27)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Lords - Extradition: [UK law](&amp;#123;&amp;#123; &#x27;uk-law/&#x27; | relative_url &amp;#125;&amp;#125;) and practiceThe forum bar should not prevent extradition where a prosecution in the UK would not be possible...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Lords - Extradition: [UK law](&amp;#123;&amp;#123; &#x27;uk-law/&#x27; | relative_url &amp;#125;&amp;#125;) and practiceThe forum bar should not prevent extradition where a prosecution in the UK would not be possible...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: uk U S-UK Extradition Treaty  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-07-15/debates/09071559000001/US-UKExtraditionTreaty" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-07-15/debates/09071559000001/US-UKExtraditionTreaty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukUS-UK Extradition Treaty - Hansard15 Jul 2009 — The Gary McKinnon case has been extensively publicised in recent days, but i...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2009-07-15/debates/09071559000001/US-UKExtraditionTreaty" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-07-15/debates/09071559000001/US-UKExtraditionTreaty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukUS-UK Extradition Treaty - Hansard15 Jul 2009 — The Gary McKinnon case has been extensively publicised in recent days, but i...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: hansard.parliament.uk  
    Title: uk Extradition  
-   Link: <a href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012...</p></details>
+   Link:<a href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament16 Oct 2012 — Hansard record of the item: &#x27;Extradition&#x27; on Tuesday 16 October 2012...</p></details>
    Published: October 2012  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: hansard.parliament.uk  
    Title: uk Extradition  
-   Link: <a href="https://hansard.parliament.uk/commons/2011-11-24/debates/11112452000001/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2011-11-24/debates/11112452000001/Extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Nov 2011 —... Gary McKinnon as a political pawn in meetings with the United States. A forum bar would give courts the proper o...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2011-11-24/debates/11112452000001/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2011-11-24/debates/11112452000001/Extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>24 Nov 2011 —... Gary McKinnon as a political pawn in meetings with the United States. A forum bar would give courts the proper o...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: GOV.UK  
    Title: gary mckinnon extradition case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to suc...</p></details>
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to suc...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ukhumanrightsblog.com  
    Title: UK Human Rights Blog The Forum Bar: it does exist  
-   Link: <a href="https://ukhumanrightsblog.com/2018/02/09/the-forum-bar-it-does-exist-bruno-min/" target="_blank" rel="noopener noreferrer nofollow">https://ukhumanrightsblog.com/2018/02/09/the-forum-bar-it-does-exist-bruno-min/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Human Rights BlogThe Forum Bar: it does exist - Bruno Min9 Feb 2018 — In October 2012, Theresa May, then Home Secretary, announced sig...</p></details>
+   Link:<a href="https://ukhumanrightsblog.com/2018/02/09/the-forum-bar-it-does-exist-bruno-min/" target="_blank" rel="noopener noreferrer nofollow">https://ukhumanrightsblog.com/2018/02/09/the-forum-bar-it-does-exist-bruno-min/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Human Rights BlogThe Forum Bar: it does exist - Bruno Min9 Feb 2018 — In October 2012, Theresa May, then Home Secretary, announced sig...</p></details>
    Published: October 2012  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: crimeline.co.uk  
-   Link: <a href="https://crimeline.co.uk/knowledge-base/case-comment-good-news-for-the-future-of-the-forum-bar/" target="_blank" rel="noopener noreferrer nofollow">https://crimeline.co.uk/knowledge-base/case-comment-good-news-for-the-future-of-the-forum-bar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Case comment: good news for the future of the “forum bar”?The then Home Secretary decided to block the extradition of Gary McKinnon to th...</p></details>
+   Link:<a href="https://crimeline.co.uk/knowledge-base/case-comment-good-news-for-the-future-of-the-forum-bar/" target="_blank" rel="noopener noreferrer nofollow">https://crimeline.co.uk/knowledge-base/case-comment-good-news-for-the-future-of-the-forum-bar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case comment: good news for the future of the “forum bar”?The then Home Secretary decided to block the extradition of Gary McKinnon to th...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theyworkforyou.com  
-   Link: <a href="https://www.theyworkforyou.com/debates/?id=2009-07-15b.317.1" target="_blank" rel="noopener noreferrer nofollow">https://www.theyworkforyou.com/debates/?id=2009-07-15b.317.1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US-UK Extradition Treaty: 15 Jul 200915 Jul 2009 — The Gary McKinnon case has been extensively publicised in recent days, but it cannot c...</p></details>
+   Link:<a href="https://www.theyworkforyou.com/debates/?id=2009-07-15b.317.1" target="_blank" rel="noopener noreferrer nofollow">https://www.theyworkforyou.com/debates/?id=2009-07-15b.317.1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US-UK Extradition Treaty: 15 Jul 200915 Jul 2009 — The Gary McKinnon case has been extensively publicised in recent days, but it cannot c...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rgu-repository.worktribe.com  
    Title: It is a failure. It was unnecessary because extant law addressed, or could  
-   Link: <a href="https://rgu-repository.worktribe.com/OutputFile/836055" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/OutputFile/836055</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>forum bar in UK extradition law: an unnecessary failure.by P ARNELL · 2020 · Cited by 7 — The introduction of the forum bar into UK extra...</p></details>
+   Link:<a href="https://rgu-repository.worktribe.com/OutputFile/836055" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/OutputFile/836055</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forum bar in UK extradition law: an unnecessary failure.by P ARNELL · 2020 · Cited by 7 — The introduction of the forum bar into UK extra...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5MEQVo8ENC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5MEQVo8ENC8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May blocks Gary McKinnon&#x27;s extradition to USComputer hacker Gary McKinnon wins his 10-year fight against extradition today after...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5MEQVo8ENC8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5MEQVo8ENC8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May blocks Gary McKinnon&#x27;s extradition to USComputer hacker Gary McKinnon wins his 10-year fight against extradition today after...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: spectator.com  
    Title: gary mckinnon case campaigners accuse theresa may of double standards  
-   Link: <a href="https://spectator.com/article/gary-mckinnon-case-campaigners-accuse-theresa-may-of-double-standards/" target="_blank" rel="noopener noreferrer nofollow">https://spectator.com/article/gary-mckinnon-case-campaigners-accuse-theresa-may-of-double-standards/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May has said she will introduce a forum bar which means that judges can block extradition in cases where the alleged offence is d...</p></details>
+   Link:<a href="https://spectator.com/article/gary-mckinnon-case-campaigners-accuse-theresa-may-of-double-standards/" target="_blank" rel="noopener noreferrer nofollow">https://spectator.com/article/gary-mckinnon-case-campaigners-accuse-theresa-may-of-double-standards/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May has said she will introduce a forum bar which means that judges can block extradition in cases where the alleged offence is d...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: beltramiandcompany.co.uk  
-   Link: <a href="https://www.beltramiandcompany.co.uk/news/criminal-defence/calls-for-government-tor-amend-the-us-uk-extradition-treaty" target="_blank" rel="noopener noreferrer nofollow">https://www.beltramiandcompany.co.uk/news/criminal-defence/calls-for-government-tor-amend-the-us-uk-extradition-treaty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calls for Government to amend the US-UK Extradition TreatyThe House of Commons Home Affairs Committee has recommended that the Government...</p></details>
+   Link:<a href="https://www.beltramiandcompany.co.uk/news/criminal-defence/calls-for-government-tor-amend-the-us-uk-extradition-treaty" target="_blank" rel="noopener noreferrer nofollow">https://www.beltramiandcompany.co.uk/news/criminal-defence/calls-for-government-tor-amend-the-us-uk-extradition-treaty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calls for Government to amend the US-UK Extradition TreatyThe House of Commons Home Affairs Committee has recommended that the Government...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition halted by Theresa May – videoThe home secretary, Theresa May, withdraws an extradition order to the United Stat...</p></details>
+   Link:<a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition halted by Theresa May – videoThe home secretary, Theresa May, withdraws an extradition order to the United Stat...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: hackcur.io  
-   Link: <a href="https://hackcur.io/raising-the-bar-how-the-uk-extradition-laws-were-put-to-the-test/" target="_blank" rel="noopener noreferrer nofollow">https://hackcur.io/raising-the-bar-how-the-uk-extradition-laws-were-put-to-the-test/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>While the UK was capable of taking its own to court and had the criminal law to do so...Read more...</p></details>
+   Link:<a href="https://hackcur.io/raising-the-bar-how-the-uk-extradition-laws-were-put-to-the-test/" target="_blank" rel="noopener noreferrer nofollow">https://hackcur.io/raising-the-bar-how-the-uk-extradition-laws-were-put-to-the-test/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>While the UK was capable of taking its own to court and had the criminal law to do so...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: blog.6kbw.com  
    Title: this lopsided treaty is the us uk extradition treaty imbalanced  
-   Link: <a href="https://blog.6kbw.com/posts/this-lopsided-treaty-is-the-us-uk-extradition-treaty-imbalanced" target="_blank" rel="noopener noreferrer nofollow">https://blog.6kbw.com/posts/this-lopsided-treaty-is-the-us-uk-extradition-treaty-imbalanced</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>6kbw.com“This lopsided Treaty…” Is the US/UK Extradition...9 Apr 2020 — Second, as the decision of the Secretary of State in the Gary Mc...</p></details>
+   Link:<a href="https://blog.6kbw.com/posts/this-lopsided-treaty-is-the-us-uk-extradition-treaty-imbalanced" target="_blank" rel="noopener noreferrer nofollow">https://blog.6kbw.com/posts/this-lopsided-treaty-is-the-us-uk-extradition-treaty-imbalanced</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6kbw.com“This lopsided Treaty…” Is the US/UK Extradition...9 Apr 2020 — Second, as the decision of the Secretary of State in the Gary Mc...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ein.org.uk  
    Title: house commons votes through motion reform extradition laws  
-   Link: <a href="https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws" target="_blank" rel="noopener noreferrer nofollow">https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons agrees motion to reform extradition laws6 Dec 2011 — Parliament has given time to debate the issue of Gary McKinnon and...</p></details>
+   Link:<a href="https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws" target="_blank" rel="noopener noreferrer nofollow">https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons agrees motion to reform extradition laws6 Dec 2011 — Parliament has given time to debate the issue of Gary McKinnon and...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: news.sky.com  
    Title: gary mckinnon hacker to learn extradition fate 10467088  
-   Link: <a href="https://news.sky.com/story/gary-mckinnon-hacker-to-learn-extradition-fate-10467088" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/gary-mckinnon-hacker-to-learn-extradition-fate-10467088</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: Hacker To Learn Extradition Fate | UK News16 Oct 2012 — Computer hacker Gary McKinnon will find out later whether Home Secretar...</p></details>
+   Link:<a href="https://news.sky.com/story/gary-mckinnon-hacker-to-learn-extradition-fate-10467088" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/gary-mckinnon-hacker-to-learn-extradition-fate-10467088</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: Hacker To Learn Extradition Fate | UK News16 Oct 2012 — Computer hacker Gary McKinnon will find out later whether Home Secretar...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pinsentmasons.com  
    Title: british man faces extradition for us hacking trial  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/british-man-faces-extradition-for-us-hacking-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/british-man-faces-extradition-for-us-hacking-trial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>31 May 2005 — Arrested in November 2002 by officers from the National Hi-Tech Crime Unit, Gary McKinnon, 39, of north London faces extrad...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/british-man-faces-extradition-for-us-hacking-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/british-man-faces-extradition-for-us-hacking-trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 May 2005 — Arrested in November 2002 by officers from the National Hi-Tech Crime Unit, Gary McKinnon, 39, of north London faces extrad...</p></details>
    Published: May 2005  

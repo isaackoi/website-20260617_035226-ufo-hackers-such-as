@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_remote_
 
 ## Introduction
 
-One of the clearest cybersecurity [lessons]({{ 'lessons/' | relative_url }}) associated with the Gary McKinnon case is that the most dangerous software on a network is not always malware. Legitimate remote administration tools can become powerful persistence mechanisms once an intruder has already obtained access. In the allegations against McKinnon, the critical issue was not merely the initial compromise of systems but the subsequent installation and use of remote-access software that allowed repeated entry, administration and movement across networks. The case illustrates a broader security principle that remains relevant today: approved tools can become security liabilities when organisations do not control where they are installed, who uses them, and how their activity is monitored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval ...At that time, he is alleged to have installed the software program RemotelyAnywhere on the Port Services computer and on other c...</span></span></span>
+One of the clearest cybersecurity [lessons]({{ 'lessons/' | relative_url }}) associated with the Gary McKinnon case is that the most dangerous software on a network is not always malware. Legitimate remote administration tools can become powerful persistence mechanisms once an intruder has already obtained access. In the allegations against McKinnon, the critical issue was not merely the initial compromise of systems but the subsequent installation and use of remote-access software that allowed repeated entry, administration and movement across networks. The case illustrates a broader security principle that remains relevant today: approved tools can become security liabilities when organisations do not control where they are installed, who uses them, and how their activity is monitored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Naval ...At that time, he is alleged to have installed the software program RemotelyAnywhere on the Port Services computer and on other c...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_remote_admin_tools_6b95ff-Illustration-1-dark.svg" | relative_url }}" alt="Remote Tools illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_remote_admin_tools_6b95ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_remote_admin_tools_6b95ff-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -301,7 +301,7 @@ Once installed, a remote administration package can provide:
 
 </div>
 
-The risk is not necessarily the software itself. The risk emerges when deployment is uncontrolled, poorly logged or invisible to security teams. An attacker who acquires administrator privileges and then installs a legitimate remote-management product can effectively convert a one-time intrusion into a continuing presence on the network. This is why modern security frameworks increasingly monitor the use of remote-management and remote-monitoring tools alongside traditional malware detection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — RemotelyAnywhere is a software program that provides a remote access and remote adminis...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
+The risk is not necessarily the software itself. The risk emerges when deployment is uncontrolled, poorly logged or invisible to security teams. An attacker who acquires administrator privileges and then installs a legitimate remote-management product can effectively convert a one-time intrusion into a continuing presence on the network. This is why modern security frameworks increasingly monitor the use of remote-management and remote-monitoring tools alongside traditional malware detection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — RemotelyAnywhere is a software program that provides a remote access and remote adminis...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
 
 A recurring lesson from real-world incidents is that organisations often focus heavily on preventing entry while paying less attention to what happens after entry. Remote administration tools occupy that post-compromise stage. They are frequently part of the transition from initial access to long-term control.
 
@@ -315,7 +315,7 @@ A recurring lesson from real-world incidents is that organisations often focus h
 
 ## What the Remotely Anywhere Allegation Illustrates
 
-Court records and [US indictments]({{ 'indictments/' | relative_url }}) relating to McKinnon repeatedly referenced a commercial remote administration product called [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}). Prosecutors alleged that after obtaining administrative access to systems, he installed the software on compromised machines and used it to return to those systems remotely. According to the indictment, the software enabled remote control and administrative access over the internet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — RemotelyAnywhere is a software program that provides a remote access and remote adminis...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
+Court records and [US indictments]({{ 'indictments/' | relative_url }}) relating to McKinnon repeatedly referenced a commercial remote administration product called [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}). Prosecutors alleged that after obtaining administrative access to systems, he installed the software on compromised machines and used it to return to those systems remotely. According to the indictment, the software enabled remote control and administrative access over the internet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — RemotelyAnywhere is a software program that provides a remote access and remote adminis...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
 
 The significance of the allegation is not the particular product. Many legitimate products offer similar capabilities. The important lesson is the sequence:
 
@@ -328,7 +328,7 @@ The significance of the allegation is not the particular product. Many legitimat
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Administrative credentials were allegedly obtained.
-2. Remote administration software was installed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</span></span></span>
+2. Remote administration software was installed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</span></span></span>
 3. The software enabled ongoing access without repeating the original compromise.
 4. Additional actions could then be performed through that persistent foothold. [Department of Justice+2Department of Justice](https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm)
 
@@ -407,194 +407,194 @@ The remote administration element of the McKinnon case remains relevant because 
 For modern organisations, the lesson is straightforward. Remote administration software should be treated as privileged infrastructure. Every installation should be authorised, every session should be attributable to a specific user, and every significant action should be logged. Remote access tools are indispensable for support and operations, but the McKinnon allegations illustrate why they are not harmless by default. When unmanaged, the same software that helps administrators maintain systems can also help intruders remain inside them. [Department of Justice+2UK Parliament](https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf)
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Remote Access Tools Are Not Harmless by Default. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Remote Access Tools Are Not Harmless by Default. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Ross Anderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
+</h4>
+<p class="fr-book-author">By Ross Anderson</p>
         
-        <p class="fr-book-desc">Explains trust, access management and secure administration practices.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains trust, access management and secure administration practices.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
-        </h4>
-        <p class="fr-book-author">By Richard Bejtlich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
+</h4>
+<p class="fr-book-author">By Richard Bejtlich</p>
         
-        <p class="fr-book-desc">Directly relevant to monitoring remote administration activity and misuse.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to monitoring remote administration activity and misuse.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blue Team Handbook: Incident Response Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1f7doQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Blue Team Handbook: Incident Response Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Team Handbook: Incident Response Edition">Blue Team Handbook: Incident Response Edition</a>
-        </h4>
-        <p class="fr-book-author">By D. W. Murdoch, Don Murdoch Gse</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blue Team Handbook: Incident Response Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1f7doQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Blue Team Handbook: Incident Response Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Team Handbook: Incident Response Edition">Blue Team Handbook: Incident Response Edition</a>
+</h4>
+<p class="fr-book-author">By D. W. Murdoch, Don Murdoch Gse</p>
         
-        <p class="fr-book-desc">Covers detection and investigation of suspicious administrative activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers detection and investigation of suspicious administrative activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9VDSAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity">Cybersecurity</a>
-        </h4>
-        <p class="fr-book-author">By Peter W. Singer, Allan Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9VDSAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity">Cybersecurity</a>
+</h4>
+<p class="fr-book-author">By Peter W. Singer, Allan Friedman</p>
         
-        <p class="fr-book-desc">Provides context on how legitimate tools can become attack enablers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on how legitimate tools can become attack enablers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Blue+Team+%3A+Incident+Response+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blue Team : Incident Response Edition books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Blue+Team+%3A+Incident+Response+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blue Team : Incident Response Edition books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE Hive Systems Defense solutions Cyber security maturity challenge coin"><img src="{{ '/assets/images/marketplace-covers/7c6f3f3928f5613ef061.jpg' | relative_url }}" alt="Listing image for RARE Hive Systems Defense solutions Cyber security maturity challenge coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">RARE Hive Systems Defense solutions Cyber security maturity challenge coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE Hive Systems Defense solutions Cyber security maturity challenge coin"><img src="{{ '/assets/images/marketplace-covers/7c6f3f3928f5613ef061.jpg' | relative_url }}" alt="Listing image for RARE Hive Systems Defense solutions Cyber security maturity challenge coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">RARE Hive Systems Defense solutions Cyber security maturity challenge coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="{{ '/assets/images/marketplace-covers/62f2803d2cf6be9d80a3.jpg' | relative_url }}" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="{{ '/assets/images/marketplace-covers/62f2803d2cf6be9d80a3.jpg' | relative_url }}" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team"><img src="{{ '/assets/images/marketplace-covers/17d6a0be2ac4f9bfeff0.jpg' | relative_url }}" alt="Listing image for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team"><img src="{{ '/assets/images/marketplace-covers/17d6a0be2ac4f9bfeff0.jpg' | relative_url }}" alt="Listing image for Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Citi Cyber Security Fusion Center CSFC Corporate Challenge Coin - Global Team</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="remote-tools-c0d714-remote-access-tools-are-not-harmless-by-default-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ For modern organisations, the lesson is straightforward. Remote administration s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ For modern organisations, the lesson is straightforward. Remote administration s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ For modern organisations, the lesson is straightforward. Remote administration s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ For modern organisations, the lesson is straightforward. Remote administration s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ For modern organisations, the lesson is straightforward. Remote administration s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,110 +800,110 @@ For modern organisations, the lesson is straightforward. Remote administration s
 
 ## Endnotes
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justice.gov  
    Title: Department of Justice [Indictment](&#123;&#123; 'indictment/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — RemotelyAnywhere is a software program that provides a remote access and remote adminis...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — RemotelyAnywhere is a software program that provides a remote access and remote adminis...</p></details>
    Published: January 24, 2012  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...McKinnon installed a remote administration tool, a number of...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...McKinnon installed a remote administration tool, a number of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cybereason.com  
    Title: Malicious Life Podcast: The U.S  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonChoosing to use RemotelyAnywhere as a means of access was a sneaky move, because it&#x27;s a software tool not only used by h...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonChoosing to use RemotelyAnywhere as a means of access was a sneaky move, because it&#x27;s a software tool not only used by h...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) comphacker  
-   Link: <a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — Once he was able to access the computers, McK...</p></details>
+   Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — Once he was able to access the computers, McK...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: schneier.com  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon - Schneier on SecurityAugust 4, 2008 — The interview I saw with McKinnon implied that he just hit systems with the default...</p></details>
+   Link:<a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon - Schneier on SecurityAugust 4, 2008 — The interview I saw with McKinnon implied that he just hit systems with the default...</p></details>
    Published: August 4, 2008  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaHaving gained access to those administrative accounts, he installed unauthorised remote access and adm...</p></details>
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaHaving gained access to those administrative accounts, he installed unauthorised remote access and adm...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pinsentmasons.com  
    Title: pentagon hacker mckinnon fights extradition  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pentagon hacker&#x27; McKinnon fights extradition28 Jul 2005 — McKinnon is accused of scanning networks for vulnerabilities and extracting ad...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pentagon hacker&#x27; McKinnon fights extradition28 Jul 2005 — McKinnon is accused of scanning networks for vulnerabilities and extracting ad...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: verticalvertical.com  
-   Link: <a href="https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking the Pentagon in search of UFO&#x27;sIn November 2002, Gary McKinnon was indicted by a federal grand jury in the Eastern District of Vi...</p></details>
+   Link:<a href="https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking the Pentagon in search of UFO&#x27;sIn November 2002, Gary McKinnon was indicted by a federal grand jury in the Eastern District of Vi...</p></details>
    Published: November 2002  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en.wikisource.org  
    Title: US v Gary Mc Kinnon Indictment  
-   Link: <a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>v Gary McKinnon Indictment27 Feb 2021 — RemotelyAnywhere is a software program that provides a remote access and remote administration pa...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>v Gary McKinnon Indictment27 Feb 2021 — RemotelyAnywhere is a software program that provides a remote access and remote administration pa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: futureintelligence.co.uk  
    Title: Gary Mc Kinnon was unlucky  
-   Link: <a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — The penetration testing company, working with Surrey Police, quickly found that a backdoor...</p></details>
+   Link:<a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — The penetration testing company, working with Surrey Police, quickly found that a backdoor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: Hi, i'm Gary Mckinnon  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I was in the news for a decade after getting...February 24, 2022 — I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil net...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was in the news for a decade after getting...February 24, 2022 — I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil net...</p></details>
    Published: February 24, 2022  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | Hacking27 Jul 2005 — Mr McKinnon, 39, faces extradition to the US over claims he accessed dozens...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | Hacking27 Jul 2005 — Mr McKinnon, 39, faces extradition to the US over claims he accessed dozens...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: csoonline.com  
-   Link: <a href="https://www.csoonline.com/article/520766/data-protection-u-k-hacker-fights-u-s-extradition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csoonline.com/article/520766/data-protection-u-k-hacker-fights-u-s-extradition.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker Fights U.S. Extradition - CSO OnlineFeb 13, 2007 — Gary McKinnon of London is accused of deleting data and illegally accessing inf...</p></details>
+   Link:<a href="https://www.csoonline.com/article/520766/data-protection-u-k-hacker-fights-u-s-extradition.html" target="_blank" rel="noopener noreferrer nofollow">https://www.csoonline.com/article/520766/data-protection-u-k-hacker-fights-u-s-extradition.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker Fights U.S. Extradition - CSO OnlineFeb 13, 2007 — Gary McKinnon of London is accused of deleting data and illegally accessing inf...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Man Who Hacked the U.S. Government  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No Malware. No Alerts. Just Breach. | Living Off the Land Attacks...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No Malware. No Alerts. Just Breach. | Living Off the Land Attacks...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jun/09/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jun/09/hacking.internetcrime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Biggest hacker&#x27; fights extradition | Hacking9 Jun 2005 — US prosecutors have alleged that Gary McKinnon, 39, from Wood Green, north Lond...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2005/jun/09/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jun/09/hacking.internetcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Biggest hacker&#x27; fights extradition | Hacking9 Jun 2005 — US prosecutors have alleged that Gary McKinnon, 39, from Wood Green, north Lond...</p></details>

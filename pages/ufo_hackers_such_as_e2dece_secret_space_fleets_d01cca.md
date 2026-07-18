@@ -451,14 +451,14 @@ Gary McKinnon did not publicly prove a [secret space fleet]({{ 'space-fleet/' | 
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-overview.webp" | relative_url }}" alt="Overview image for Secret Fleets" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that the public evidence never caught up with the story. McKinnon did not release the spreadsheet, screenshots, file paths, audit logs, names that could be checked, or any document chain that would let outsiders authenticate what he says he saw. The documented part of the case is the unauthorised access and the US extradition dispute; the “secret fleet” part remains an unverified interpretation of an alleged spreadsheet, later amplified into stories about hidden space navies and programmes such as “[Solar Warden]({{ 'solar-warden/' | relative_url }})”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+The problem is that the public evidence never caught up with the story. McKinnon did not release the spreadsheet, screenshots, file paths, audit logs, names that could be checked, or any document chain that would let outsiders authenticate what he says he saw. The documented part of the case is the unauthorised access and the US extradition dispute; the “secret fleet” part remains an unverified interpretation of an alleged spreadsheet, later amplified into stories about hidden space navies and programmes such as “[Solar Warden]({{ 'solar-warden/' | relative_url }})”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eTNaTHhegw0" title="A Secret Space Fleet… Hidden Above Earth for Decades" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eTNaTHhegw0" target="_blank" rel="noopener noreferrer">A Secret Space Fleet… Hidden Above Earth for Decades</a></p><p class="youtube-embed-meta">Channel: Unknown Archive</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eTNaTHhegw0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eTNaTHhegw0">Open on YouTube</a></p></div></div></div>
 
 ## The ship-transfer claim
 
-The core of the secret-fleet narrative comes from McKinnon’s own [interviews]({{ 'interviews/' | relative_url }}). In his 2006 Wired interview, he said he found spreadsheets, one of which was titled “Non-Terrestrial Officers”. He described it as listing names and ranks of US Air Force personnel “not registered anywhere else”, together with information about [transfers]({{ 'transfers/' | relative_url }}) between ships whose names he also could not find elsewhere. Crucially, when Wired asked whether this could have been a military strategy game or hypothetical scenario, McKinnon did not exclude that possibility; he answered that it “could be a game” and was “hard to know for certain”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found</span></span></span>
+The core of the secret-fleet narrative comes from McKinnon’s own [interviews]({{ 'interviews/' | relative_url }}). In his 2006 Wired interview, he said he found spreadsheets, one of which was titled “Non-Terrestrial Officers”. He described it as listing names and ranks of US Air Force personnel “not registered anywhere else”, together with information about [transfers]({{ 'transfers/' | relative_url }}) between ships whose names he also could not find elsewhere. Crucially, when Wired asked whether this could have been a military strategy game or hypothetical scenario, McKinnon did not exclude that possibility; he answered that it “could be a game” and was “hard to know for certain”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">UFO Hacker&#x27; Tells What He Found</span></span></span>
 
 That caveat is often lost when the story is retold. In stronger versions of the claim, “non-terrestrial” becomes “off-world”, “ship transfers” becomes “spaceship transfers”, and the absence of public records becomes evidence of secrecy. But those are interpretive jumps. Without the original file, there is no way to know whether the phrase referred to personnel assigned to space-related work, a simulation, a planning exercise, a naval or aerospace classification, a fictional or training dataset, or something more exotic.
 
@@ -468,13 +468,13 @@ The “ship” language is also less decisive than it first appears. Military an
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-1-dark.svg" | relative_url }}" alt="Secret Fleets illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How the story spread
 
-The secret-fleet idea spread because McKinnon’s account had three features that conspiracy narratives value: a real intrusion, a government target and a missing artefact. US prosecutors really did allege extensive unauthorised access to US Army, Navy, Air Force, Department of Defense and NASA systems; McKinnon really did say he was looking for UFO and “free energy” evidence; and the alleged spreadsheet was never made public. That combination allowed later writers and online communities to treat the absence of proof as part of the mystery rather than as a major evidential weakness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+The secret-fleet idea spread because McKinnon’s account had three features that conspiracy narratives value: a real intrusion, a government target and a missing artefact. US prosecutors really did allege extensive unauthorised access to US Army, Navy, Air Force, Department of Defense and NASA systems; McKinnon really did say he was looking for UFO and “free energy” evidence; and the alleged spreadsheet was never made public. That combination allowed later writers and online communities to treat the absence of proof as part of the mystery rather than as a major evidential weakness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 The story also grew because it attached itself to wider speculation about secret space programmes. Later online treatments linked McKinnon’s “Non-Terrestrial Officers” phrase to “Solar Warden”, a supposed covert space fleet. Some versions describe aircraft-carrier-sized craft, off-world military personnel or a pre-existing space force hidden from the public. The connective tissue is usually thin: McKinnon’s spreadsheet claim, an ambiguous name, and repeated retellings that cite earlier retellings.
 
-A revealing example is the way dramatic “Solar Warden” imagery circulated online. Reuters fact-checked one widely shared image used to imply a secret US space programme and found that it was not classified evidence at all, but artwork associated with *Rogue One: A Star Wars Story*. That does not disprove every secret-space claim, but it shows how easily the McKinnon-adjacent mythos absorbs entertainment imagery and presents it as evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/space-image-is-an-artistic-impression-of-star-wars-not-a-secret-government-prog-idUSL2N2NY1T8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
+A revealing example is the way dramatic “Solar Warden” imagery circulated online. Reuters fact-checked one widely shared image used to imply a secret US space programme and found that it was not classified evidence at all, but artwork associated with *Rogue One: A Star Wars Story*. That does not disprove every secret-space claim, but it shows how easily the McKinnon-adjacent mythos absorbs entertainment imagery and presents it as evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reuters.com/article/fact-check/space-image-is-an-artistic-impression-of-star-wars-not-a-secret-government-prog-idUSL2N2NY1T8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Open source on reuters.com.</span></span></span>
 
-The later creation of the US Space Force in 2019 gave the rumour a new afterlife. [Believers]({{ 'believers/' | relative_url }}) could frame the official service as a public unveiling of something older. The official history is more prosaic: the Space Force was established on 20 December 2019 by the National Defense Authorization Act, reflecting the increasing military importance of satellites, communications, navigation, missile warning and other space systems. That is real military space activity, but it is not evidence of McKinnon’s alleged spreadsheet or a hidden crewed fleet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">Open source on spaceforce.mil.</span></span></span>
+The later creation of the US Space Force in 2019 gave the rumour a new afterlife. [Believers]({{ 'believers/' | relative_url }}) could frame the official service as a public unveiling of something older. The official history is more prosaic: the Space Force was established on 20 December 2019 by the National Defense Authorization Act, reflecting the increasing military importance of satellites, communications, navigation, missile warning and other space systems. That is real military space activity, but it is not evidence of McKinnon’s alleged spreadsheet or a hidden crewed fleet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">Open source on spaceforce.mil.</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WFd7XzTf6_k" title="David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer">David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WFd7XzTf6_k">Open on YouTube</a></p></div></div></div>
@@ -483,7 +483,7 @@ The later creation of the US Space Force in 2019 gave the rumour a new afterlife
 
 The strongest critical point is simple: the secret-fleet claim rests on testimony without a recoverable primary document. McKinnon’s account may be sincere, but sincerity is not the same as verification. A document-based claim normally needs at least some combination of the original file, metadata, screenshots, contemporaneous notes, corroborating witnesses, matching records, or later official disclosure. None of those has emerged publicly for the alleged “Non-Terrestrial Officers” spreadsheet.
 
-The known legal record does not fill that gap. The US Department of Justice described McKinnon’s alleged conduct as computer fraud involving numerous US government systems, not as a leak of UFO fleet records. The later UK decision to block extradition was based on human-rights concerns and McKinnon’s health, not on any official acceptance that his UFO claims were true. Reuters later reported that the Crown Prosecution Service would not try him in Britain, citing practical and evidential difficulties in pursuing the hacking case domestically; that decision also did not validate the secret-fleet story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+The known legal record does not fill that gap. The US Department of Justice described McKinnon’s alleged conduct as computer fraud involving numerous US government systems, not as a leak of UFO fleet records. The later UK decision to block extradition was based on human-rights concerns and McKinnon’s health, not on any official acceptance that his UFO claims were true. Reuters later reported that the Crown Prosecution Service would not try him in Britain, citing practical and evidential difficulties in pursuing the hacking case domestically; that decision also did not validate the secret-fleet story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 There is also a source-contamination problem. Many later articles, podcasts and social posts do not add new evidence; they restate McKinnon’s original claim in more confident language. Over time, “he says he saw a spreadsheet” becomes “he found proof”, and “hard to know for certain” disappears. That is how a weakly evidenced anecdote becomes a folklore anchor.
 
@@ -493,11 +493,11 @@ The most cautious reading is therefore not that the claim is impossible, but tha
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-2-dark.svg" | relative_url }}" alt="Secret Fleets illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What real space secrecy does and does not prove
 
-Part of the story’s appeal is that real military space secrecy exists. Governments do operate classified satellites, surveillance systems, spaceplanes, military communications networks and intelligence programmes. The US Space Force’s creation reflects a genuine strategic shift: space is treated as a national security domain, not just a scientific or civilian arena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">Open source on spaceforce.mil.</span></span></span>
+Part of the story’s appeal is that real military space secrecy exists. Governments do operate classified satellites, surveillance systems, spaceplanes, military communications networks and intelligence programmes. The US Space Force’s creation reflects a genuine strategic shift: space is treated as a national security domain, not just a scientific or civilian arena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceforce.mil">[spaceforce.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceforce.mil</span><span class="citation-popover-snippet">Open source on spaceforce.mil.</span></span></span>
 
 That reality can make secret-fleet claims feel plausible by association. But “classified space activity exists” is a much weaker statement than “a hidden fleet of crewed spacecraft exists”. The first is well documented; the second would require evidence of procurement, launch logistics, personnel pipelines, life-support systems, mission control structures, industrial suppliers, budgets, accidents, training facilities and many other traces. A single alleged spreadsheet, never produced, cannot carry that weight.
 
-Recent official UAP reviews also cut against the stronger interpretation. The Pentagon’s All-domain Anomaly Resolution Office says it has found no evidence of extraterrestrial technology, and its historical review reported no evidence that a US government investigation, academic-sponsored research or official panel confirmed a UAP sighting as extraterrestrial technology. AARO’s 2024 annual reporting similarly stated that it had discovered no evidence of extraterrestrial beings, activity or technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Recent official UAP reviews also cut against the stronger interpretation. The Pentagon’s All-domain Anomaly Resolution Office says it has found no evidence of extraterrestrial technology, and its historical review reported no evidence that a US government investigation, academic-sponsored research or official panel confirmed a UAP sighting as extraterrestrial technology. AARO’s 2024 annual reporting similarly stated that it had discovered no evidence of extraterrestrial beings, activity or technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 Those official statements do not resolve every UFO case, and they do not prove governments are fully transparent. They do, however, set the evidential bar for claims that a secret fleet has already been found in government systems. To overcome that bar, advocates would need primary documents, technical records or independently checkable witnesses — not just repeated references to McKinnon’s account.
 
@@ -516,194 +516,194 @@ The fair conclusion is therefore narrow but important. McKinnon’s case helped 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-3-dark.svg" | relative_url }}" alt="Secret Fleets illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Mc Kinnon Prove a Secret Space Fleet?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Mc Kinnon Prove a Secret Space Fleet?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rule of Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6UsjcX-IUJ4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rule of Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rule of Law">The Rule of Law</a>
-        </h4>
-        <p class="fr-book-author">By Tom Bingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rule of Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6UsjcX-IUJ4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rule of Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rule of Law">The Rule of Law</a>
+</h4>
+<p class="fr-book-author">By Tom Bingham</p>
         
-        <p class="fr-book-desc">Explains the legal principles underpinning rights-based decisions and state power.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the legal principles underpinning rights-based decisions and state power.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saving Gary McKinnon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4u1AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Saving Gary McKinnon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saving Gary McKinnon">Saving Gary McKinnon</a>
-        </h4>
-        <p class="fr-book-author">By Janis Sharp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saving Gary McKinnon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=W4u1AwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Saving Gary McKinnon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saving Gary McKinnon">Saving Gary McKinnon</a>
+</h4>
+<p class="fr-book-author">By Janis Sharp</p>
         
-        <p class="fr-book-desc">Directly recounts the family-led effort to stop extradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly recounts the family-led effort to stop extradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Rights+by+Andrew+Clapham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Rights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GCigCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human Rights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Human+Rights+by+Andrew+Clapham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Rights">Human Rights</a>
-        </h4>
-        <p class="fr-book-author">By Andrew Clapham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Human+Rights+by+Andrew+Clapham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Human Rights on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GCigCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Human Rights" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Human+Rights+by+Andrew+Clapham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Human Rights">Human Rights</a>
+</h4>
+<p class="fr-book-author">By Andrew Clapham</p>
         
-        <p class="fr-book-desc">Provides background on human-rights protections relevant to extradition decisions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Human+Rights+by+Andrew+Clapham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on human-rights protections relevant to extradition decisions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Human+Rights+by+Andrew+Clapham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rule+of+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rule of Law</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saving Gary McKinnon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rule+of+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rule of Law</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saving Gary McKinnon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch"><img src="{{ '/assets/images/marketplace-covers/a65b4b9e163913dc94e0.jpg' | relative_url }}" alt="Listing image for limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch"><img src="{{ '/assets/images/marketplace-covers/a65b4b9e163913dc94e0.jpg' | relative_url }}" alt="Listing image for limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b60d7985f32ad54a295a.jpg' | relative_url }}" alt="Listing image for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia"><img src="{{ '/assets/images/marketplace-covers/b60d7985f32ad54a295a.jpg' | relative_url }}" alt="Listing image for Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Apollo 13 &amp; Apollo 15 Astronaut Crew Photo Print Set NASA Space Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets"><img src="{{ '/assets/images/marketplace-covers/9a2c855fabc61089c3ce.jpg' | relative_url }}" alt="Listing image for 2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets"><img src="{{ '/assets/images/marketplace-covers/9a2c855fabc61089c3ce.jpg' | relative_url }}" alt="Listing image for 2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="secret-fleets-did-mc-kinnon-prove-a-secret-space-fleet-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -719,7 +719,7 @@ The fair conclusion is therefore narrow but important. McKinnon’s case helped 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -739,7 +739,7 @@ The fair conclusion is therefore narrow but important. McKinnon’s case helped 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -771,7 +771,7 @@ The fair conclusion is therefore narrow but important. McKinnon’s case helped 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -823,7 +823,7 @@ The fair conclusion is therefore narrow but important. McKinnon’s case helped 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -868,7 +868,7 @@ The fair conclusion is therefore narrow but important. McKinnon’s case helped 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -909,146 +909,146 @@ The fair conclusion is therefore narrow but important. McKinnon’s case helped 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</p></details>
    Published: June 21, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reuters.com  
    Title: UFO hacker won't be tried in Britain for U.S  
-   Link: <a href="https://www.reuters.com/article/world/uk/ufo-hacker-wont-be-tried-in-britain-for-us-crimes-idUSBRE8BD10V/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/uk/ufo-hacker-wont-be-tried-in-britain-for-us-crimes-idUSBRE8BD10V/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>crimes14 Dec 2012 — Gary McKinnon, 46, who suffers from Asperger&#x27;s Syndrome, has admitted hacking into Pentagon and NASA computers under...</p></details>
+   Link:<a href="https://www.reuters.com/article/world/uk/ufo-hacker-wont-be-tried-in-britain-for-us-crimes-idUSBRE8BD10V/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/uk/ufo-hacker-wont-be-tried-in-britain-for-us-crimes-idUSBRE8BD10V/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>crimes14 Dec 2012 — Gary McKinnon, 46, who suffers from Asperger&#x27;s Syndrome, has admitted hacking into Pentagon and NASA computers under...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reuters.com  
    Title: british nasa hacker to face us trial idUSL0623036  
-   Link: <a href="https://www.reuters.com/article/technology/british-nasa-hacker-to-face-us-trial-idUSL0623036/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/technology/british-nasa-hacker-to-face-us-trial-idUSL0623036/</a>  
+   Link:<a href="https://www.reuters.com/article/technology/british-nasa-hacker-to-face-us-trial-idUSL0623036/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/technology/british-nasa-hacker-to-face-us-trial-idUSL0623036/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/article/fact-check/space-image-is-an-artistic-impression-of-star-wars-not-a-secret-government-prog-idUSL2N2NY1T8/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/space-image-is-an-artistic-impression-of-star-wars-not-a-secret-government-prog-idUSL2N2NY1T8/</a>  
+   Link:<a href="https://www.reuters.com/article/fact-check/space-image-is-an-artistic-impression-of-star-wars-not-a-secret-government-prog-idUSL2N2NY1T8/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/fact-check/space-image-is-an-artistic-impression-of-star-wars-not-a-secret-government-prog-idUSL2N2NY1T8/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: spaceforce.mil  
-   Link: <a href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/about-us/about-space-force/history/</a>  
+   Link:<a href="https://www.spaceforce.mil/about-us/about-space-force/history/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/about-us/about-space-force/history/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
    Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: media.defense.gov  
    Title: FY24 CONSOLIDATED ANNUAL REPORT ON UAP 508  
-   Link: <a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Nov/14/2003583603/-1/-1/0/FY24-CONSOLIDATED-ANNUAL-REPORT-ON-UAP-508.PDF</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reuters.com  
    Title: uk to rule in october on pentagon hacker us extradition id USDEE86N09F  
-   Link: <a href="https://www.reuters.com/article/world/uk-to-rule-in-october-on-pentagon-hacker-us-extradition-idUSDEE86N09F/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/uk-to-rule-in-october-on-pentagon-hacker-us-extradition-idUSDEE86N09F/</a>  
+   Link:<a href="https://www.reuters.com/article/world/uk-to-rule-in-october-on-pentagon-hacker-us-extradition-idUSDEE86N09F/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/world/uk-to-rule-in-october-on-pentagon-hacker-us-extradition-idUSDEE86N09F/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/video/watch/idRW904808052026RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW904808052026RP1/</a>  
+   Link:<a href="https://www.reuters.com/video/watch/idRW904808052026RP1/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/video/watch/idRW904808052026RP1/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: space.com  
    Title: pentagon ufo office aaro historical report no emprical evidence alien technology  
-   Link: <a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
+   Link:<a href="https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-ufo-office-aaro-historical-report-no-emprical-evidence-alien-technology</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spaceforce.mil  
    Title: space force milestones  
-   Link: <a href="https://www.spaceforce.mil/about-us/space-force-milestones/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/about-us/space-force-milestones/</a>  
+   Link:<a href="https://www.spaceforce.mil/about-us/space-force-milestones/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.mil/about-us/space-force-milestones/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: spaceforce.com  
    Title: Our Mission  
-   Link: <a href="https://www.spaceforce.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/about</a>  
+   Link:<a href="https://www.spaceforce.com/about" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceforce.com/about</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: secretprojects.co.uk  
    Title: Solar Warden  
-   Link: <a href="https://www.secretprojects.co.uk/threads/solar-warden-sdi-project.22938/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/solar-warden-sdi-project.22938/</a>  
+   Link:<a href="https://www.secretprojects.co.uk/threads/solar-warden-sdi-project.22938/" target="_blank" rel="noopener noreferrer nofollow">https://www.secretprojects.co.uk/threads/solar-warden-sdi-project.22938/</a>  
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt27815290/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27815290/</a>  
+   Link:<a href="https://www.imdb.com/title/tt27815290/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27815290/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt27815290/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27815290/plotsummary/</a>  
+   Link:<a href="https://www.imdb.com/title/tt27815290/plotsummary/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt27815290/plotsummary/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/720351209712591/posts/1249838846763822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/720351209712591/posts/1249838846763822/</a>  
+   Link:<a href="https://www.facebook.com/groups/720351209712591/posts/1249838846763822/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/720351209712591/posts/1249838846763822/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/space/comments/yue550/secretive_space_ship_shakes_up_residents_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/yue550/secretive_space_ship_shakes_up_residents_with/</a>  
+   Link:<a href="https://www.reddit.com/r/space/comments/yue550/secretive_space_ship_shakes_up_residents_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/yue550/secretive_space_ship_shakes_up_residents_with/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/photo.php?fbid=1266927492207075&amp;id=100066695070201&amp;set=a.610531294513368" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1266927492207075&amp;id=100066695070201&amp;set=a.610531294513368</a>  
+   Link:<a href="https://www.facebook.com/photo.php?fbid=1266927492207075&amp;id=100066695070201&amp;set=a.610531294513368" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/photo.php?fbid=1266927492207075&amp;id=100066695070201&amp;set=a.610531294513368</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/</a>  

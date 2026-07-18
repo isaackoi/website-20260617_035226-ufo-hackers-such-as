@@ -259,7 +259,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_zer
 
 ## Introduction
 
-What makes zero-point energy distinctive within this lore is that it borrows language from real quantum physics while extending it into claims that have never been demonstrated. As a result, it serves both as a scientific-sounding explanation for extraordinary UFO performance and as a broader theory of hidden technological abundance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
+What makes zero-point energy distinctive within this lore is that it borrows language from real quantum physics while extending it into claims that have never been demonstrated. As a result, it serves both as a scientific-sounding explanation for extraordinary UFO performance and as a broader theory of hidden technological abundance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_zero_point_energy_lo_d2d17e-Illustration-1-dark.svg" | relative_url }}" alt="Zero point energy illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_zero_point_energy_lo_d2d17e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_zero_point_energy_lo_d2d17e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -267,7 +267,7 @@ What makes zero-point energy distinctive within this lore is that it borrows lan
 
 Unlike claims about alien visitors alone, zero-point energy offers a practical reason for secrecy. In conspiracy narratives, the [hidden technology]({{ 'hidden-tech/' | relative_url }}) is not merely evidence of extraterrestrial life; it is a revolutionary energy source that could transform civilisation.
 
-For figures such as McKinnon, this idea provided a [motive]({{ 'motive/' | relative_url }}) for searching classified systems. His public statements repeatedly linked UFO secrecy with suppressed energy technology, suggesting that advanced propulsion and energy generation were part of the same concealed body of knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+For figures such as McKinnon, this idea provided a [motive]({{ 'motive/' | relative_url }}) for searching classified systems. His public statements repeatedly linked UFO secrecy with suppressed energy technology, suggesting that advanced propulsion and energy generation were part of the same concealed body of knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 Within UFO hacker culture, the logic typically follows a chain of assumptions:
 
@@ -282,7 +282,7 @@ Within UFO hacker culture, the logic typically follows a chain of assumptions:
 
 </div>
 
-Zero-point energy became attractive because it seemed to provide the missing link between extraordinary craft performance and a theoretical power source. Rather than treating UFOs as mysterious objects, [believers]({{ 'believers/' | relative_url }}) could imagine them as machines operating on an undisclosed scientific principle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+Zero-point energy became attractive because it seemed to provide the missing link between extraordinary craft performance and a theoretical power source. Rather than treating UFOs as mysterious objects, [believers]({{ 'believers/' | relative_url }}) could imagine them as machines operating on an undisclosed scientific principle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ku5fFnOx5Ss" title="Zero Point Energy &amp; Vacuum Energy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ku5fFnOx5Ss" target="_blank" rel="noopener noreferrer">Zero Point Energy &amp; Vacuum Energy</a></p><p class="youtube-embed-meta">Channel: Isaac Arthur</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ku5fFnOx5Ss" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ku5fFnOx5Ss">Open on YouTube</a></p></div></div></div>
@@ -291,13 +291,13 @@ Zero-point energy became attractive because it seemed to provide the missing lin
 
 A key feature of UFO hacker lore is the transformation of a legitimate scientific concept into a much broader claim.
 
-In physics, zero-point energy refers to the minimum energy that remains in a quantum system even at its lowest possible state. Quantum theory predicts that complete stillness does not occur, meaning fluctuations persist even at absolute zero temperature. The existence of zero-point effects is widely accepted and is connected to observable phenomena such as quantum fluctuations and the Casimir effect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2van.physics.illinois.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
+In physics, zero-point energy refers to the minimum energy that remains in a quantum system even at its lowest possible state. Quantum theory predicts that complete stillness does not occur, meaning fluctuations persist even at absolute zero temperature. The existence of zero-point effects is widely accepted and is connected to observable phenomena such as quantum fluctuations and the Casimir effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
 
 The conspiracy version makes a much stronger claim. It argues that this vacuum energy can be harvested in large amounts to produce effectively limitless power or drive advanced propulsion systems. That leap is where mainstream physics and UFO lore diverge.
 
-Physicists generally note that zero-point energy represents a lowest-energy state. Because it is already the minimum state, extracting useful work from it is not straightforward and no practical device has demonstrated such capability. [Explanations]({{ 'explanations/' | relative_url }}) from physicists and science communicators repeatedly emphasise that the existence of vacuum energy does not automatically imply an accessible source of free energy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Quanta Magazine+3Reddit+3theochem.ru.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Help me understand zero point energy. Is it real or a...That BY DEFINITION means it&#x27;s impossible to extract energy from that syste...</span></span></span>
+Physicists generally note that zero-point energy represents a lowest-energy state. Because it is already the minimum state, extracting useful work from it is not straightforward and no practical device has demonstrated such capability. [Explanations]({{ 'explanations/' | relative_url }}) from physicists and science communicators repeatedly emphasise that the existence of vacuum energy does not automatically imply an accessible source of free energy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Help me understand zero point energy. Is it real or a...That BY DEFINITION means it&#x27;s impossible to extract energy from that syste...</span></span></span>
 
-This distinction is crucial. The scientific concept is real; the claim that secret programmes have turned it into limitless power remains unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2Quanta Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
+This distinction is crucial. The scientific concept is real; the claim that secret programmes have turned it into limitless power remains unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_zero_point_energy_lo_d2d17e-Illustration-2-dark.svg" | relative_url }}" alt="Zero point energy illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_zero_point_energy_lo_d2d17e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_zero_point_energy_lo_d2d17e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -305,7 +305,7 @@ This distinction is crucial. The scientific concept is real; the claim that secr
 
 In UFO hacker lore, zero-point energy is rarely discussed in isolation. It is usually paired with anti-gravity.
 
-The connection emerged from a broader body of UFO and alternative-propulsion speculation dating back decades. Various authors, inventors and activists proposed that manipulating the quantum vacuum might reduce inertia, alter gravity or generate propulsion without conventional fuel. Some speculative theories linked vacuum energy, gravitomagnetism and advanced aerospace concepts, although none became accepted engineering technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zero-point energy</span><span class="citation-popover-snippet">Zero-point energy</span></span></span>
+The connection emerged from a broader body of UFO and alternative-propulsion speculation dating back decades. Various authors, inventors and activists proposed that manipulating the quantum vacuum might reduce inertia, alter gravity or generate propulsion without conventional fuel. Some speculative theories linked vacuum energy, gravitomagnetism and advanced aerospace concepts, although none became accepted engineering technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zero-point energy</span><span class="citation-popover-snippet">Zero-point energy</span></span></span>
 
 For believers, the appeal is obvious. If a craft could draw energy directly from the vacuum, it might explain reports of:
 
@@ -315,7 +315,7 @@ For believers, the appeal is obvious. If a craft could draw energy directly from
 * Hovering without visible lift systems.
 * Apparent manoeuvres beyond known [aircraft]({{ 'aircraft/' | relative_url }}) limits.
 
-These characteristics frequently appear in UFO reports, making zero-point energy an attractive explanatory framework within the mythology. The theory effectively solves multiple problems at once: propulsion, energy supply and gravity control. Its explanatory power within the narrative is far greater than its evidential support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zero-point energy</span><span class="citation-popover-snippet">Zero-point energy</span></span></span>
+These characteristics frequently appear in UFO reports, making zero-point energy an attractive explanatory framework within the mythology. The theory effectively solves multiple problems at once: propulsion, energy supply and gravity control. Its explanatory power within the narrative is far greater than its evidential support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Zero-point energy</span><span class="citation-popover-snippet">Zero-point energy</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WvILY-h-6_Y" title="The Interview They Tried to Erase From the Internet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WvILY-h-6_Y" target="_blank" rel="noopener noreferrer">The Interview They Tried to Erase From the Internet</a></p><p class="youtube-embed-meta">Channel: Video Advice &middot; Views: 683.7K &middot; Uploaded: October 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WvILY-h-6_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WvILY-h-6_Y">Open on YouTube</a></p></div></div></div>
@@ -324,9 +324,9 @@ These characteristics frequently appear in UFO reports, making zero-point energy
 
 McKinnon is important not because he proved any zero-point energy claim, but because he helped popularise the connection between hacking and hidden technology.
 
-His public comments show that he was not merely searching for evidence of extraterrestrials. He explicitly described his interest in anti-gravity and zero-point energy. According to McKinnon, hacking was a method for locating information that he believed was being withheld from the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+His public comments show that he was not merely searching for evidence of extraterrestrials. He explicitly described his interest in anti-gravity and zero-point energy. According to McKinnon, hacking was a method for locating information that he believed was being withheld from the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
-Notably, none of the legal proceedings against him produced evidence that he discovered functioning zero-point energy systems, anti-gravity devices or secret free-energy programmes. The publicly documented case concerns unauthorised access to computer systems rather than confirmation of the technologies he hoped to find. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">uk halts extradition of accused hacker over suicide concerns</span><span class="citation-popover-snippet">Ars TechnicaUK halts extradition of accused hacker over suicide concerns16 Oct 2012 — “I knew that governments suppressed antigravity, UF...</span></span></span>
+Notably, none of the legal proceedings against him produced evidence that he discovered functioning zero-point energy systems, anti-gravity devices or secret free-energy programmes. The publicly documented case concerns unauthorised access to computer systems rather than confirmation of the technologies he hoped to find.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arstechnica.com">[Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arstechnica.com</span><span class="citation-popover-title">uk halts extradition of accused hacker over suicide concerns</span><span class="citation-popover-snippet">Ars TechnicaUK halts extradition of accused hacker over suicide concerns16 Oct 2012 — “I knew that governments suppressed antigravity, UF...</span></span></span>
 
 This distinction often becomes blurred in [retellings]({{ 'retellings/' | relative_url }}) of the story. Within UFO communities, the fact that McKinnon searched for such information is sometimes remembered more strongly than the absence of verified discoveries.
 
@@ -339,7 +339,7 @@ Zero-point energy persists in UFO hacker lore because it offers a compelling ans
 
 A hidden photograph or classified report is interesting. A hidden energy technology capable of transforming transportation, economics and environmental policy is far more consequential. That promise gives the idea enduring appeal.
 
-The concept also benefits from its scientific vocabulary. Terms such as “quantum vacuum”, “vacuum fluctuations” and “zero-point field” sound technical and modern, allowing speculative claims to borrow credibility from established physics even when the proposed applications go far beyond accepted science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
+The concept also benefits from its scientific vocabulary. Terms such as “quantum vacuum”, “vacuum fluctuations” and “zero-point field” sound technical and modern, allowing speculative claims to borrow credibility from established physics even when the proposed applications go far beyond accepted science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
 
 As a result, zero-point energy functions less as a specific engineering proposal and more as a symbolic idea within UFO hacker culture: the belief that transformative knowledge exists somewhere in classified systems, waiting to be uncovered.
 
@@ -349,201 +349,201 @@ As a result, zero-point energy functions less as a specific engineering proposal
 
 The strongest evidence available supports two separate conclusions that are often conflated.
 
-First, zero-point energy as a quantum-physics concept is real. Vacuum fluctuations and related effects are recognised parts of modern physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
+First, zero-point energy as a quantum-physics concept is real. Vacuum fluctuations and related effects are recognised parts of modern physics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[scientificamerican.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</span></span></span>
 
-Second, there is no publicly verified evidence that governments possess operational zero-point-energy generators, anti-gravity craft powered by vacuum energy, or suppressed free-energy systems of the kind imagined in UFO hacker lore. Neither McKinnon's case nor subsequent disclosures have produced such proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[Paul M. Sutter+3WIRED+3Ars Technica]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+Second, there is no publicly verified evidence that governments possess operational zero-point-energy generators, anti-gravity craft powered by vacuum energy, or suppressed free-energy systems of the kind imagined in UFO hacker lore. Neither McKinnon's case nor subsequent disclosures have produced such proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 That tension between a genuine scientific concept and an unverified conspiracy claim explains why zero-point energy remains one of the most enduring and debated ideas in the folklore surrounding UFO hackers.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Zero point energy. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Zero point energy. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly addresses the zero-point and anti-gravity lore behind McKinnon’s stated motive.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the zero-point and anti-gravity lore behind McKinnon’s stated motive.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xzCK6-Kqs6QC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Science">Voodoo Science</a>
-        </h4>
-        <p class="fr-book-author">By Robert L. Park</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Voodoo Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=xzCK6-Kqs6QC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Voodoo Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Voodoo Science">Voodoo Science</a>
+</h4>
+<p class="fr-book-author">By Robert L. Park</p>
         
-        <p class="fr-book-desc">Covers the evidentiary problems surrounding extraordinary energy and fringe-science claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers the evidentiary problems surrounding extraordinary energy and fringe-science claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Voodoo+Science+by+Robert+L.+Park&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Offers a broad framework for assessing claims about hidden unlimited energy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Offers a broad framework for assessing claims about hidden unlimited energy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Warped Passages on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MegDPxPmBMwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Warped Passages" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Warped Passages">Warped Passages</a>
-        </h4>
-        <p class="fr-book-author">By Lisa Randall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Warped Passages on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MegDPxPmBMwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Warped Passages" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Warped Passages">Warped Passages</a>
+</h4>
+<p class="fr-book-author">By Lisa Randall</p>
         
-        <p class="fr-book-desc">Keeps the topic grounded in real physics rather than unsupported zero-point energy claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Keeps the topic grounded in real physics rather than unsupported zero-point energy claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Warped+Passages+by+Lisa+Randall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Voodoo+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Voodoo Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="zero-point-energy-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=zero-point-energy-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="zero-point-energy-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -559,7 +559,7 @@ That tension between a genuine scientific concept and an unverified conspiracy c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -579,7 +579,7 @@ That tension between a genuine scientific concept and an unverified conspiracy c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -611,7 +611,7 @@ That tension between a genuine scientific concept and an unverified conspiracy c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -663,7 +663,7 @@ That tension between a genuine scientific concept and an unverified conspiracy c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -708,7 +708,7 @@ That tension between a genuine scientific concept and an unverified conspiracy c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -749,142 +749,142 @@ That tension between a genuine scientific concept and an unverified conspiracy c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — McKinnon: I knew that governments suppressed antigravity, UFO-related...</p></details>
    Published: June 21, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Zero-point energy  
-   Link: <a href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zero-point_energy</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Zero-point_energy" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Zero-point_energy</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
    Published: March 2002  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: van.physics.illinois.edu  
    Title: Zero-point Energy?  
-   Link: <a href="https://van.physics.illinois.edu/ask/listing/1256" target="_blank" rel="noopener noreferrer nofollow">https://van.physics.illinois.edu/ask/listing/1256</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics Van - University of IllinoisThe real lowest energy state has the mass spread out over a little region, with the potential and k...</p></details>
+   Link:<a href="https://van.physics.illinois.edu/ask/listing/1256" target="_blank" rel="noopener noreferrer nofollow">https://van.physics.illinois.edu/ask/listing/1256</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Physics Van - University of IllinoisThe real lowest energy state has the mass spread out over a little region, with the potential and k...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: the nothing that has the potential to be anything  
-   Link: <a href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Feb 2026 — Einstein and others invoked zero-point energy to explain numerous phenomena, including the subtle vibrations of molecules a...</p></details>
+   Link:<a href="https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/the-nothing-that-has-the-potential-to-be-anything/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>15 Feb 2026 — Einstein and others invoked zero-point energy to explain numerous phenomena, including the subtle vibrations of molecules a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Help me understand zero point energy. Is it real or a...That BY DEFINITION means it&#x27;s impossible to extract energy from that syste...</p></details>
+   Link:<a href="https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Help me understand zero point energy. Is it real or a...That BY DEFINITION means it&#x27;s impossible to extract energy from that syste...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theochem.ru.nl  
    Title: Zero-point energy  
-   Link: <a href="https://www.theochem.ru.nl/~pwormer/Knowino/knowino.org/wiki/Zero-point_energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theochem.ru.nl/~pwormer/Knowino/knowino.org/wiki/Zero-point_energy.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowino15 Jan 2011 — Because zero point energy is the lowest possible energy a system can have, this energy cannot be removed from the sy...</p></details>
+   Link:<a href="https://www.theochem.ru.nl/~pwormer/Knowino/knowino.org/wiki/Zero-point_energy.html" target="_blank" rel="noopener noreferrer nofollow">https://www.theochem.ru.nl/~pwormer/Knowino/knowino.org/wiki/Zero-point_energy.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Knowino15 Jan 2011 — Because zero point energy is the lowest possible energy a system can have, this energy cannot be removed from the sy...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmsutter.com  
    Title: Paul M  
-   Link: <a href="https://www.pmsutter.com/shows/askaspaceman-archive/2025/07/22/aas-252-why-cant-we-get-free-energy-from-the-vacuum" target="_blank" rel="noopener noreferrer nofollow">https://www.pmsutter.com/shows/askaspaceman-archive/2025/07/22/aas-252-why-cant-we-get-free-energy-from-the-vacuum</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SutterAaS! 252: Why Can&#x27;t We Get Free Energy from the Vacuum?22 Jul 2025 — But no matter how much energy the vacuum of space time has, it...</p></details>
+   Link:<a href="https://www.pmsutter.com/shows/askaspaceman-archive/2025/07/22/aas-252-why-cant-we-get-free-energy-from-the-vacuum" target="_blank" rel="noopener noreferrer nofollow">https://www.pmsutter.com/shows/askaspaceman-archive/2025/07/22/aas-252-why-cant-we-get-free-energy-from-the-vacuum</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SutterAaS! 252: Why Can&#x27;t We Get Free Energy from the Vacuum?22 Jul 2025 — But no matter how much energy the vacuum of space time has, it...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/0" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>erminology, 0 is the...Read more...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/0" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>erminology, 0 is the...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: zero.health  
-   Link: <a href="https://zero.health/" target="_blank" rel="noopener noreferrer nofollow">https://zero.health/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quality and Affordable HealthcareZERO is a “game changer” when it comes to healthcare management and cost containment. ZERO utilizes top...</p></details>
+   Link:<a href="https://zero.health/" target="_blank" rel="noopener noreferrer nofollow">https://zero.health/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quality and Affordable HealthcareZERO is a “game changer” when it comes to healthcare management and cost containment. ZERO utilizes top...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arstechnica.com  
    Title: uk halts extradition of accused hacker over suicide concerns  
-   Link: <a href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaUK halts extradition of accused hacker over suicide concerns16 Oct 2012 — “I knew that governments suppressed antigravity, UF...</p></details>
+   Link:<a href="https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/tech-policy/2012/10/uk-halts-extradition-of-accused-hacker-over-suicide-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaUK halts extradition of accused hacker over suicide concerns16 Oct 2012 — “I knew that governments suppressed antigravity, UF...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/follow-up-what-is-the-zer/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/follow-up-what-is-the-zer/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/follow-up-what-is-the-zer/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanFOLLOW-UP: What is the &#x27;zero-point energy&#x27; (or &#x27;vacuum...18 Aug 1997 — The Zero Point Energy (ZPE) is an intrinsic an...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: quantamagazine.org  
-   Link: <a href="https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/" target="_blank" rel="noopener noreferrer nofollow">https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quanta MagazinePhysicists Use Quantum Mechanics to Pull Energy out of...Feb 22, 2023 — “You can&#x27;t extract energy directly from the vacuu...</p></details>
+   Link:<a href="https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/" target="_blank" rel="noopener noreferrer nofollow">https://www.quantamagazine.org/physicists-use-quantum-mechanics-to-pull-energy-out-of-nothing-20230222/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quanta MagazinePhysicists Use Quantum Mechanics to Pull Energy out of...Feb 22, 2023 — “You can&#x27;t extract energy directly from the vacuu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: quantamagazine.org  
    Title: in quantum mechanics nothingness is the potential to be anything 20260105  
-   Link: <a href="https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/" target="_blank" rel="noopener noreferrer nofollow">https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Quantum Mechanics, Nothingness Is the Potential To Be...5 Jan 2026 — Even if not a single electron is present, the vacuum contains “e...</p></details>
+   Link:<a href="https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/" target="_blank" rel="noopener noreferrer nofollow">https://www.quantamagazine.org/in-quantum-mechanics-nothingness-is-the-potential-to-be-anything-20260105/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In Quantum Mechanics, Nothingness Is the Potential To Be...5 Jan 2026 — Even if not a single electron is present, the vacuum contains “e...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hackstory.net  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://hackstory.net/Gary_McKinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://hackstory.net/Gary_McKinnon.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2011 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-poin...</p></details>
+   Link:<a href="https://hackstory.net/Gary_McKinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://hackstory.net/Gary_McKinnon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2011 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-poin...</p></details>
    Published: May 2011  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396910341_The_Quantum_Vacuum_An_Investigation_into_the_Feasibility_of_Zero-Point_Energy_Generation_and_Advanced_Propulsion_Part_I_The_Foundation_-Zero-Point_Energy_in_Modern_Physics_Section_1_The_Energetic_Void" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396910341_The_Quantum_Vacuum_An_Investigation_into_the_Feasibility_of_Zero-Point_Energy_Generation_and_Advanced_Propulsion_Part_I_The_Foundation_-Zero-Point_Energy_in_Modern_Physics_Section_1_The_Energetic_Void</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Quantum Vacuum: An Investigation into the Feasibility...26 Oct 2025 — Zero-Point Energy (ZPE) The minimum, non-zero energy of a quan...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396910341_The_Quantum_Vacuum_An_Investigation_into_the_Feasibility_of_Zero-Point_Energy_Generation_and_Advanced_Propulsion_Part_I_The_Foundation_-Zero-Point_Energy_in_Modern_Physics_Section_1_The_Energetic_Void" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396910341_The_Quantum_Vacuum_An_Investigation_into_the_Feasibility_of_Zero-Point_Energy_Generation_and_Advanced_Propulsion_Part_I_The_Foundation_-Zero-Point_Energy_in_Modern_Physics_Section_1_The_Energetic_Void</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Quantum Vacuum: An Investigation into the Feasibility...26 Oct 2025 — Zero-Point Energy (ZPE) The minimum, non-zero energy of a quan...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: azquotes.com  
-   Link: <a href="https://www.azquotes.com/author/33696-Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.azquotes.com/author/33696-Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>QUOTES BY GARY MCKINNON“I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-poin...</p></details>
+   Link:<a href="https://www.azquotes.com/author/33696-Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.azquotes.com/author/33696-Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>QUOTES BY GARY MCKINNON“I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-poin...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: 0.email  
-   Link: <a href="https://0.email/" target="_blank" rel="noopener noreferrer nofollow">https://0.email/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ZeroZero is an AI-native email client that manages your inbox, so you don&#x27;t have to. No credit card required. Backed by Y Combinator...R...</p></details>
+   Link:<a href="https://0.email/" target="_blank" rel="noopener noreferrer nofollow">https://0.email/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ZeroZero is an AI-native email client that manages your inbox, so you don&#x27;t have to. No credit card required. Backed by Y Combinator...R...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-infinite-universe/zero-point-energy-may-not-exist-5f47f4c431d5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-infinite-universe/zero-point-energy-may-not-exist-5f47f4c431d5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-point energy may not existNumerous zero-point energy patents have been filed making wild technological claims that this energy could...</p></details>
+   Link:<a href="https://medium.com/the-infinite-universe/zero-point-energy-may-not-exist-5f47f4c431d5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-infinite-universe/zero-point-energy-may-not-exist-5f47f4c431d5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zero-point energy may not existNumerous zero-point energy patents have been filed making wild technological claims that this energy could...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/zero" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/zero</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/zero" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/zero</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Ku5fFnOx5Ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ku5fFnOx5Ss</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Zero Point Energy &amp; Vacuum EnergyToday we&#x27;ll be looking at Zer Point Energy with a particular emphasis on the type known as vacuum energy...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ku5fFnOx5Ss" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ku5fFnOx5Ss</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Zero Point Energy &amp; Vacuum EnergyToday we&#x27;ll be looking at Zer Point Energy with a particular emphasis on the type known as vacuum energy...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spacefed.com  
    Title: spacetime engineering harnessing zero point energy of the quantum vacuum  
-   Link: <a href="https://spacefed.com/physics/spacetime-engineering-harnessing-zero-point-energy-of-the-quantum-vacuum/" target="_blank" rel="noopener noreferrer nofollow">https://spacefed.com/physics/spacetime-engineering-harnessing-zero-point-energy-of-the-quantum-vacuum/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spacetime Engineering &amp; Harnessing Zero-point Energy of...16 Feb 2026 — Because material systems are just patterned excitations of under...</p></details>
+   Link:<a href="https://spacefed.com/physics/spacetime-engineering-harnessing-zero-point-energy-of-the-quantum-vacuum/" target="_blank" rel="noopener noreferrer nofollow">https://spacefed.com/physics/spacetime-engineering-harnessing-zero-point-energy-of-the-quantum-vacuum/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Spacetime Engineering &amp; Harnessing Zero-point Energy of...16 Feb 2026 — Because material systems are just patterned excitations of under...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: medium.com  
    Title: Ask Ethan: Can “zero-point energy” power the world?In  
-   Link: <a href="https://medium.com/starts-with-a-bang/ask-ethan-can-zero-point-energy-power-the-world-d3fe029c2fae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/ask-ethan-can-zero-point-energy-power-the-world-d3fe029c2fae</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>summary, zero-point energy is real, positive, and non-zero, and there are theoretically a couple of different ways that one could extract...</p></details>
+   Link:<a href="https://medium.com/starts-with-a-bang/ask-ethan-can-zero-point-energy-power-the-world-d3fe029c2fae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/ask-ethan-can-zero-point-energy-power-the-world-d3fe029c2fae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>summary, zero-point energy is real, positive, and non-zero, and there are theoretically a couple of different ways that one could extract...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: forbes.com  
    Title: ask ethan what is the zero point energy of space  
-   Link: <a href="https://www.forbes.com/sites/startswithabang/2020/04/18/ask-ethan-what-is-the-zero-point-energy-of-space/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/startswithabang/2020/04/18/ask-ethan-what-is-the-zero-point-energy-of-space/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ask Ethan: What Is The &#x27;Zero-Point Energy&#x27; Of Space?18 Apr 2020 — The first time the idea of a zero-point energy to space arose was in th...</p></details>
+   Link:<a href="https://www.forbes.com/sites/startswithabang/2020/04/18/ask-ethan-what-is-the-zero-point-energy-of-space/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/startswithabang/2020/04/18/ask-ethan-what-is-the-zero-point-energy-of-space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ask Ethan: What Is The &#x27;Zero-Point Energy&#x27; Of Space?18 Apr 2020 — The first time the idea of a zero-point energy to space arose was in th...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/intlspacefed/videos/zero-point-energy-at-the-foundation-of-quantum-mechanics-beyond-the-vacuumeven-a/1280125656829482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/intlspacefed/videos/zero-point-energy-at-the-foundation-of-quantum-mechanics-beyond-the-vacuumeven-a/1280125656829482/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>en at absolute zero, quantum fields retain fluctuations—known...</p></details>
+   Link:<a href="https://www.facebook.com/intlspacefed/videos/zero-point-energy-at-the-foundation-of-quantum-mechanics-beyond-the-vacuumeven-a/1280125656829482/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/intlspacefed/videos/zero-point-energy-at-the-foundation-of-quantum-mechanics-beyond-the-vacuumeven-a/1280125656829482/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>en at absolute zero, quantum fields retain fluctuations—known...</p></details>

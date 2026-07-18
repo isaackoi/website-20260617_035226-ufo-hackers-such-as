@@ -280,17 +280,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_verify_hacker_eviden_8e99a2_ufo
 
 ## Introduction
 
-When evaluating alleged UFO evidence obtained through hacking, one question often matters more than the content of the claim itself: who held the file before you saw it? In digital forensics, this is known as the chain of custody—the documented history of how evidence was collected, copied, stored, transferred, and examined. Without that history, even a genuinely unusual file can become impossible to authenticate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
+When evaluating alleged UFO evidence obtained through hacking, one question often matters more than the content of the claim itself: who held the file before you saw it? In digital forensics, this is known as the chain of custody—the documented history of how evidence was collected, copied, stored, transferred, and examined. Without that history, even a genuinely unusual file can become impossible to authenticate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_verify_hacker_eviden_8e99a2_ufo_hacker_chain_cus_393184-Illustration-1-dark.svg" | relative_url }}" alt="Custody illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_verify_hacker_eviden_8e99a2_ufo_hacker_chain_cus_393184-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_verify_hacker_eviden_8e99a2_ufo_hacker_chain_cus_393184-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This issue is especially important in cases associated with hackers such as Gary McKinnon. McKinnon publicly described seeing unusual NASA imagery and a file listing “Non-Terrestrial Officers”, but the public has never been able to inspect original preserved copies of those materials. What remains is primarily testimony about what was seen rather than artefacts that can be independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+This issue is especially important in cases associated with hackers such as Gary McKinnon. McKinnon publicly described seeing unusual NASA imagery and a file listing “Non-Terrestrial Officers”, but the public has never been able to inspect original preserved copies of those materials. What remains is primarily testimony about what was seen rather than artefacts that can be independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
 For UFO researchers, chain-of-custody failures are often the dividing line between a potentially testable digital artefact and an [anecdote]({{ 'anecdote/' | relative_url }}) that cannot be reconstructed years later.
 
 ## What Chain of Custody Means for Digital Files
 
-A chain of custody is the documented record showing where evidence came from, who handled it, when it changed hands, and how its integrity was protected. In digital investigations, the goal is to demonstrate that a file examined today is the same file originally collected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">The latest guidelines regarding the establishment of digital evidence...</span></span></span>
+A chain of custody is the documented record showing where evidence came from, who handled it, when it changed hands, and how its integrity was protected. In digital investigations, the goal is to demonstrate that a file examined today is the same file originally collected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">The latest guidelines regarding the establishment of digital evidence...</span></span></span>
 
 For digital evidence, that normally includes:
 
@@ -302,11 +302,11 @@ For digital evidence, that normally includes:
 * Cryptographic hashes (digital fingerprints) generated at acquisition.
 * Records of every copy and transfer.
 * Storage conditions and access logs.
-* Identification of everyone who handled the evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-f-002-swgde-best-practices-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE+2SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDESWGDE Best Practices for Digital Evidence CollectionThe chain of custody documentation should be contemporaneous to the coll...</span></span></span>
+* Identification of everyone who handled the evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-f-002-swgde-best-practices-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDESWGDE Best Practices for Digital Evidence CollectionThe chain of custody documentation should be contemporaneous to the coll...</span></span></span>
 
 </div>
 
-Digital files are unusually fragile from an evidential perspective because they can be duplicated perfectly, edited invisibly, stripped of [metadata]({{ 'metadata/' | relative_url }}), recompressed, renamed, or partially copied. As NIST notes, maintaining integrity is a central concern precisely because digital data is easy to alter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
+Digital files are unusually fragile from an evidential perspective because they can be duplicated perfectly, edited invisibly, stripped of [metadata]({{ 'metadata/' | relative_url }}), recompressed, renamed, or partially copied. As NIST notes, maintaining integrity is a central concern precisely because digital data is easy to alter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
 
 In UFO hacker cases, the chain frequently begins to break before evidence ever reaches the public.
 
@@ -322,13 +322,13 @@ A typical UFO hacker narrative involves a person accessing a system, observing s
 
 * System logs showing where it came from.
 * Metadata.
-* Hash values proving integrity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swgde.org/documents/published-complete-listing/swgde-position-on-the-use-of-md5-and-sha1-hash-algorithms-in-digital-and-multimedia-forensics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[swgde.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">When a file is hashed, a “digital fingerprint” of a file is created, which is unique to...</span></span></span>
+* Hash values proving integrity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swgde.org/documents/published-complete-listing/swgde-position-on-the-use-of-md5-and-sha1-hash-algorithms-in-digital-and-multimedia-forensics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[swgde.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">When a file is hashed, a “digital fingerprint” of a file is created, which is unique to...</span></span></span>
 * Contextual files stored alongside it.
 * Records of who subsequently accessed or modified it.
 
 </div>
 
-The result is a custody gap. Investigators know a claim exists, but cannot establish an evidential trail back to the source system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
+The result is a custody gap. Investigators know a claim exists, but cannot establish an evidential trail back to the source system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
 
 This problem becomes even more severe when years pass between the alleged discovery and public discussion. Servers are replaced, logs expire, archives are reorganised, and witnesses' memories evolve. What remains may be sincere recollection, but not necessarily verifiable evidence.
 
@@ -337,25 +337,25 @@ This problem becomes even more severe when years pass between the alleged discov
 
 ## The Gary McKinnon Example
 
-Gary McKinnon is one of the most frequently cited examples in UFO hacking discussions because he claimed to have encountered unusual material while accessing NASA and US military systems. He described seeing a high-resolution image of a non-human-looking craft and reported finding references to "Non-Terrestrial Officers" in a spreadsheet-like file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+Gary McKinnon is one of the most frequently cited examples in UFO hacking discussions because he claimed to have encountered unusual material while accessing NASA and US military systems. He described seeing a high-resolution image of a non-human-looking craft and reported finding references to "Non-Terrestrial Officers" in a spreadsheet-like file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
 From a chain-of-custody perspective, however, several problems immediately arise.
 
 ### No Public Original File
 
-The alleged image was not preserved in a publicly available original format. McKinnon has stated that he did not capture the image before losing access. As a result, researchers cannot examine the file itself, calculate hashes, inspect metadata, or compare it against known NASA imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+The alleged image was not preserved in a publicly available original format. McKinnon has stated that he did not capture the image before losing access. As a result, researchers cannot examine the file itself, calculate hashes, inspect metadata, or compare it against known NASA imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 Without the artefact, authentication becomes impossible.
 
 ### No Preserved Acquisition Record
 
-A forensic acquisition normally documents exactly where evidence came from. In this case, there is no publicly available forensic record identifying the original file path, storage location, system configuration, or acquisition procedure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+A forensic acquisition normally documents exactly where evidence came from. In this case, there is no publicly available forensic record identifying the original file path, storage location, system configuration, or acquisition procedure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
 Even if a copy later emerged, investigators would struggle to prove that it was the same file allegedly viewed during the intrusion.
 
 ### Missing Transfer History
 
-Chain-of-custody documentation requires tracking every transfer and custodian. In the McKinnon case, no public record establishes how the alleged materials moved from source system to preserved evidence because no preserved evidence has been produced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">The latest guidelines regarding the establishment of digital evidence...</span></span></span>
+Chain-of-custody documentation requires tracking every transfer and custodian. In the McKinnon case, no public record establishes how the alleged materials moved from source system to preserved evidence because no preserved evidence has been produced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Chain of Custody in the Era of Modern Forensics</span><span class="citation-popover-snippet">The latest guidelines regarding the establishment of digital evidence...</span></span></span>
 
 The practical consequence is that the claim cannot be independently reconstructed from available evidence.
 
@@ -380,7 +380,7 @@ For example, a preserved file allows investigators to ask:
 
 </div>
 
-A remembered observation allows none of these tests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
+A remembered observation allows none of these tests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
 
 This distinction explains why many UFO hacker claims remain unresolved. The debate often centres on what someone reported seeing rather than on evidence available for inspection.
 
@@ -404,7 +404,7 @@ A researcher cannot confidently determine whether a file was:
 
 </div>
 
-Even honest witnesses can misidentify technical information when viewing unfamiliar systems under unusual circumstances. Missing custody records make it difficult to separate misinterpretation from genuine discovery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/provenience-based-cross-verification-digital-forensic-artifacts-applied-ntfs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">provenience based cross verification digital forensic artifacts applied ntfs</span><span class="citation-popover-snippet">Provenience-based cross-verification of digital forensic...by A Nelson · 2024 — The results of this general workflow form comprise a...</span></span></span>
+Even honest witnesses can misidentify technical information when viewing unfamiliar systems under unusual circumstances. Missing custody records make it difficult to separate misinterpretation from genuine discovery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/publications/provenience-based-cross-verification-digital-forensic-artifacts-applied-ntfs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">provenience based cross verification digital forensic artifacts applied ntfs</span><span class="citation-popover-snippet">Provenience-based cross-verification of digital forensic...by A Nelson · 2024 — The results of this general workflow form comprise a...</span></span></span>
 
 This does not prove a UFO claim is false. Rather, it means the available evidence cannot reliably distinguish among competing explanations.
 
@@ -419,11 +419,11 @@ Ask the following questions:
 1. **Is the original file available?**
 Not a screenshot of a screenshot, but the earliest preserved version.
 2. **Was a hash generated close to acquisition?**
-Hashes provide a way to detect later modification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/swgde-position-on-the-use-of-md5-and-sha1-hash-algorithms-in-digital-and-multimedia-forensics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">When a file is hashed, a “digital fingerprint” of a file is created, which is unique to...</span></span></span>
+Hashes provide a way to detect later modification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/swgde-position-on-the-use-of-md5-and-sha1-hash-algorithms-in-digital-and-multimedia-forensics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">When a file is hashed, a “digital fingerprint” of a file is created, which is unique to...</span></span></span>
 3. **Can the source system be identified?**
 Server, archive, database, directory, or storage location.
 4. **Is there documentation of [transfers]({{ 'transfers/' | relative_url }})?**
-Who copied the file and when? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-f-002-swgde-best-practices-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDESWGDE Best Practices for Digital Evidence CollectionThe chain of custody documentation should be contemporaneous to the coll...</span></span></span>
+Who copied the file and when?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-f-002-swgde-best-practices-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDESWGDE Best Practices for Digital Evidence CollectionThe chain of custody documentation should be contemporaneous to the coll...</span></span></span>
 5. **Does metadata survive?**
 Creation dates, software signatures, embedded properties, and file history.
 6. **Can independent analysts inspect the same artefact?**
@@ -440,199 +440,199 @@ The more “no” answers a claim receives, the more it shifts from evidence eva
 
 The most dramatic UFO-related file imaginable would still require provenance. A document titled “Non-Terrestrial Officers”, a photograph of an unknown craft, or a secret database entry does not become trustworthy merely because it appears extraordinary.
 
-In digital forensics, provenance often matters more than content. A mundane file with a documented acquisition path, preserved metadata, verified hashes, and an unbroken chain of custody can be stronger evidence than a spectacular claim with no surviving artefact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
+In digital forensics, provenance often matters more than content. A mundane file with a documented acquisition path, preserved metadata, verified hashes, and an unbroken chain of custody can be stronger evidence than a spectacular claim with no surviving artefact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</span></span></span>
 
 For UFO hacker cases, that principle provides a practical rule: before asking what a file supposedly shows, establish whether anyone can demonstrate where it came from and who controlled it at every stage. Without that foundation, investigators are not examining evidence—they are examining a story about evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Held the File Before You Saw It?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Held the File Before You Saw It?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Directly addresses chain of custody and integrity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses chain of custody and integrity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Incident+Response+%26+Computer+Forensics%2C+Third+Edition+by+Kevin+Mandia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Incident Response &amp; Computer Forensics, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LuWINQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Incident Response &amp; Computer Forensics, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Incident+Response+%26+Computer+Forensics%2C+Third+Edition+by+Kevin+Mandia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Incident Response &amp; Computer Forensics, Third Edition">Incident Response &amp; Computer Forensics, Third Edition</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mandia, Matthew Pepe et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Incident+Response+%26+Computer+Forensics%2C+Third+Edition+by+Kevin+Mandia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Incident Response &amp; Computer Forensics, Third Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LuWINQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Incident Response &amp; Computer Forensics, Third Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Incident+Response+%26+Computer+Forensics%2C+Third+Edition+by+Kevin+Mandia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Incident Response &amp; Computer Forensics, Third Edition">Incident Response &amp; Computer Forensics, Third Edition</a>
+</h4>
+<p class="fr-book-author">By Kevin Mandia, Matthew Pepe et al.</p>
         
-        <p class="fr-book-desc">Explains evidence collection and preservation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Incident+Response+%26+Computer+Forensics%2C+Third+Edition+by+Kevin+Mandia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains evidence collection and preservation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Incident+Response+%26+Computer+Forensics%2C+Third+Edition+by+Kevin+Mandia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guide to Computer Forensics and Investigations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IAfGswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Guide to Computer Forensics and Investigations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guide to Computer Forensics and Investigations">Guide to Computer Forensics and Investigations</a>
-        </h4>
-        <p class="fr-book-author">By Bill Nelson, Amelia Phillips et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guide to Computer Forensics and Investigations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IAfGswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Guide to Computer Forensics and Investigations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guide to Computer Forensics and Investigations">Guide to Computer Forensics and Investigations</a>
+</h4>
+<p class="fr-book-author">By Bill Nelson, Amelia Phillips et al.</p>
         
-        <p class="fr-book-desc">Strong coverage of custody procedures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Strong coverage of custody procedures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Forensic+Imaging+by+Bruce+Nikkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Forensic Imaging on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZZC7DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Forensic Imaging" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Forensic+Imaging+by+Bruce+Nikkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Forensic Imaging">Practical Forensic Imaging</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Nikkel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Forensic+Imaging+by+Bruce+Nikkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Forensic Imaging on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ZZC7DQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Forensic Imaging" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Forensic+Imaging+by+Bruce+Nikkel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Forensic Imaging">Practical Forensic Imaging</a>
+</h4>
+<p class="fr-book-author">By Bruce Nikkel</p>
         
-        <p class="fr-book-desc">Focuses on preserving evidence integrity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Forensic+Imaging+by+Bruce+Nikkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on preserving evidence integrity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Forensic+Imaging+by+Bruce+Nikkel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Incident+Response+%26+Computer+Forensics%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Incident Response &amp; Computer Forensics, Third Edition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Computer+Forensics+and+Investigations+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Computer Forensics and Investigations books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Incident+Response+%26+Computer+Forensics%2C+Third+Edition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Incident Response &amp; Computer Forensics, Third Edition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Computer+Forensics+and+Investigations+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Computer Forensics and Investigations books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="custody-who-held-the-file-before-you-saw-it-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=who-held-the-file-before-you-saw-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="who-held-the-file-before-you-saw-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -648,7 +648,7 @@ For UFO hacker cases, that principle provides a practical rule: before asking wh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -668,7 +668,7 @@ For UFO hacker cases, that principle provides a practical rule: before asking wh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -700,7 +700,7 @@ For UFO hacker cases, that principle provides a practical rule: before asking wh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -752,7 +752,7 @@ For UFO hacker cases, that principle provides a practical rule: before asking wh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -797,7 +797,7 @@ For UFO hacker cases, that principle provides a practical rule: before asking wh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -838,149 +838,149 @@ For UFO hacker cases, that principle provides a practical rule: before asking wh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nvlpubs.nist.gov  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital files are very easy to change, so maintaining the integrity of the data is a critical concern. (See also Section...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>d that its chain of custody is tracked. The...</p></details>
+   Link:<a href="https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/forensic-science/interdisciplinary-topics/evidence-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>d that its chain of custody is tracked. The...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Chain of Custody in the Era of Modern Forensics  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest guidelines regarding the establishment of digital evidence...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10000967/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The latest guidelines regarding the establishment of digital evidence...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: swgde.org  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/18-f-002-swgde-best-practices-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/18-f-002-swgde-best-practices-for-digital-evidence-collection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDESWGDE Best Practices for Digital Evidence CollectionThe chain of custody documentation should be contemporaneous to the coll...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/18-f-002-swgde-best-practices-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/18-f-002-swgde-best-practices-for-digital-evidence-collection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDESWGDE Best Practices for Digital Evidence CollectionThe chain of custody documentation should be contemporaneous to the coll...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: swgde.org  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/18-f-002-best-practices-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/18-f-002-best-practices-for-digital-evidence-collection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDEBest Practices for Digital Evidence Collection - SWGDEAt a minimum, this documentation should include a chain of custody and...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/18-f-002-best-practices-for-digital-evidence-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/18-f-002-best-practices-for-digital-evidence-collection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDEBest Practices for Digital Evidence Collection - SWGDEAt a minimum, this documentation should include a chain of custody and...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: swgde.org  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/swgde-position-on-the-use-of-md5-and-sha1-hash-algorithms-in-digital-and-multimedia-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/swgde-position-on-the-use-of-md5-and-sha1-hash-algorithms-in-digital-and-multimedia-forensics/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When a file is hashed, a “digital fingerprint” of a file is created, which is unique to...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/swgde-position-on-the-use-of-md5-and-sha1-hash-algorithms-in-digital-and-multimedia-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/swgde-position-on-the-use-of-md5-and-sha1-hash-algorithms-in-digital-and-multimedia-forensics/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When a file is hashed, a “digital fingerprint” of a file is created, which is unique to...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nist.gov  
    Title: provenience based cross verification digital forensic [artifacts](&#123;&#123; 'artifacts/' | relative_url &#125;&#125;) applied ntfs  
-   Link: <a href="https://www.nist.gov/publications/provenience-based-cross-verification-digital-forensic-artifacts-applied-ntfs" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/provenience-based-cross-verification-digital-forensic-artifacts-applied-ntfs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Provenience-based cross-verification of digital forensic...by A Nelson · 2024 — The results of this general workflow form comprise a...</p></details>
+   Link:<a href="https://www.nist.gov/publications/provenience-based-cross-verification-digital-forensic-artifacts-applied-ntfs" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/provenience-based-cross-verification-digital-forensic-artifacts-applied-ntfs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Provenience-based cross-verification of digital forensic...by A Nelson · 2024 — The results of this general workflow form comprise a...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wired.com  
    Title: WIRE D  
-   Link: <a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest in Technology, Science, Culture and...We bring you the future as it happens. From the latest in science and technolog...</p></details>
+   Link:<a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest in Technology, Science, Culture and...We bring you the future as it happens. From the latest in science and technolog...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wired.com  
    Title: british ufo hac  
-   Link: <a href="https://www.wired.com/2008/07/british-ufo-hac/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/british-ufo-hac/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ker Gary McKinnon Is Coming to AmericaJul 30, 2008 — Threat Level extends its warmest welcome to hacker Gary McKinnon, who just lost his...</p></details>
+   Link:<a href="https://www.wired.com/2008/07/british-ufo-hac/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/british-ufo-hac/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ker Gary McKinnon Is Coming to AmericaJul 30, 2008 — Threat Level extends its warmest welcome to hacker Gary McKinnon, who just lost his...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
+   Link:<a href="https://www.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Institute of Standards and TechnologyNIST promotes U.S. innovation and industrial competitiveness by advancing measurement scien...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: csrc.nist.gov  
    Title: govchain of custody  
-   Link: <a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of custody - Glossary | CSRCA process that tracks the movement of evidence through its collection, safeguarding, and analysis lifecycle b...</p></details>
+   Link:<a href="https://csrc.nist.gov/glossary/term/chain_of_custody" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/chain_of_custody</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of custody - Glossary | CSRCA process that tracks the movement of evidence through its collection, safeguarding, and analysis lifecycle b...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: csrc.nist.gov  
    Title: govdigital forensics  
-   Link: <a href="https://csrc.nist.gov/glossary/term/digital_forensics" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/digital_forensics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>forensics - Glossary | CSRCThe application of computer science and investigative procedures involving the examination of digital evidence...</p></details>
+   Link:<a href="https://csrc.nist.gov/glossary/term/digital_forensics" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/glossary/term/digital_forensics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>forensics - Glossary | CSRCThe application of computer science and investigative procedures involving the examination of digital evidence...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: swgde.org  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/05-f-001-swgde-digital-multimedia-evidence-glossary/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/05-f-001-swgde-digital-multimedia-evidence-glossary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE Digital &amp; Multimedia Evidence GlossaryChain of Custody. The chronological documentation of the movement, location and possession of...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/05-f-001-swgde-digital-multimedia-evidence-glossary/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/05-f-001-swgde-digital-multimedia-evidence-glossary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE Digital &amp; Multimedia Evidence GlossaryChain of Custody. The chronological documentation of the movement, location and possession of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: swgde.org  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/23-q-001-best-practices-for-personnel-presenting-digital-evidence-in-legal-proceedings/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/23-q-001-best-practices-for-personnel-presenting-digital-evidence-in-legal-proceedings/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wledge, skills, and abilities investigators/digital forensic examiners need to present...Read more...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/23-q-001-best-practices-for-personnel-presenting-digital-evidence-in-legal-proceedings/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/23-q-001-best-practices-for-personnel-presenting-digital-evidence-in-legal-proceedings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wledge, skills, and abilities investigators/digital forensic examiners need to present...Read more...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: interpol.int  
-   Link: <a href="https://www.interpol.int/content/download/16243/file/Guidelines_to_Digital_Forensics_First_Responders_V7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.interpol.int/content/download/16243/file/Guidelines_to_Digital_Forensics_First_Responders_V7.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDELINES FOR DIGITAL FORENSICS FIRST...Handle evidence according to agency policy and maintain a chain of custody. • Preserve the stat...</p></details>
+   Link:<a href="https://www.interpol.int/content/download/16243/file/Guidelines_to_Digital_Forensics_First_Responders_V7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.interpol.int/content/download/16243/file/Guidelines_to_Digital_Forensics_First_Responders_V7.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDELINES FOR DIGITAL FORENSICS FIRST...Handle evidence according to agency policy and maintain a chain of custody. • Preserve the stat...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vps.net  
-   Link: <a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Hacks: Gary McKinnon – BlogIn our Historic Hacks segment, we like to look back at internet events that shocked, surprised, or ho...</p></details>
+   Link:<a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Hacks: Gary McKinnon – BlogIn our Historic Hacks segment, we like to look back at internet events that shocked, surprised, or ho...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; U.S Army networks - to find evidence of UFO co...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; U.S Army networks - to find evidence of UFO co...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital Evidence Chain of Custody: Navigating New...Dec 3, 2024 — In digital forensic practice, integrity is typically ensured thr...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/386361522_Digital_Evidence_Chain_of_Custody_Navigating_New_Realities_of_Digital_Forensics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Digital Evidence Chain of Custody: Navigating New...Dec 3, 2024 — In digital forensic practice, integrity is typically ensured thr...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spreaker.com  
    Title: gary mckinnon the hacker who found nasa s ufo non terrestrial officers 70473181  
-   Link: <a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...Dec 8, 2015 — IT expert and so-called hacker Gary McKinnon has claimed in an in...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...Dec 8, 2015 — IT expert and so-called hacker Gary McKinnon has claimed in an in...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vimQuaC3RYM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Chain of Custody in Digital ForensicsChain of custody refers to the documented process of collecting handling and preservin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vimQuaC3RYM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vimQuaC3RYM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Chain of Custody in Digital ForensicsChain of custody refers to the documented process of collecting handling and preservin...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: lcgdiscovery.com  
-   Link: <a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Body-worn cameras. Prosecutors and agencies now have guidance that pairs policy with evidence practice...Read more...</p></details>
+   Link:<a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Body-worn cameras. Prosecutors and agencies now have guidance that pairs policy with evidence practice...Read more...</p></details>

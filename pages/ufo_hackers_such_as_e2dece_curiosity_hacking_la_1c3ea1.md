@@ -447,39 +447,39 @@ image: /assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1-ove
 
 ## Introduction
 
-Curiosity can explain why someone hacks into a system, but it does not usually make the hacking lawful. In the branch of UFO-linked hacking associated with Gary McKinnon, this distinction is essential: McKinnon said he was looking for evidence of UFOs, anti-gravity technology and hidden [public-interest]({{ 'public-interest/' | relative_url }}) information, while US prosecutors described unauthorised access to military, defence and NASA computers, with alleged damage and disruption. The legal line is not drawn at whether the hacker believes the [motive]({{ 'motive/' | relative_url }}) is noble, unusual or sincere. It is drawn first at authorisation: whether the person had permission to access the computer, account, files or network in the way they did. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+Curiosity can explain why someone hacks into a system, but it does not usually make the hacking lawful. In the branch of UFO-linked hacking associated with Gary McKinnon, this distinction is essential: McKinnon said he was looking for evidence of UFOs, anti-gravity technology and hidden [public-interest]({{ 'public-interest/' | relative_url }}) information, while US prosecutors described unauthorised access to military, defence and NASA computers, with alleged damage and disruption. The legal line is not drawn at whether the hacker believes the [motive]({{ 'motive/' | relative_url }}) is noble, unusual or sincere. It is drawn first at authorisation: whether the person had permission to access the computer, account, files or network in the way they did.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1-overview.webp" | relative_url }}" alt="Overview image for Legal Limits" loading="eager" decoding="sync" fetchpriority="high">
-That is why “curiosity-driven hacking” is legally dangerous. A person may think they are merely looking, testing, exposing secrecy or proving a belief. The law may still treat the conduct as unauthorised access, and more serious charges can follow if systems are impaired, data is copied, tools are installed, logs are deleted, threats are made, or national-security computers are involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk+2Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</span></span></span>
+That is why “curiosity-driven hacking” is legally dangerous. A person may think they are merely looking, testing, exposing secrecy or proving a belief. The law may still treat the conduct as unauthorised access, and more serious charges can follow if systems are impaired, data is copied, tools are installed, logs are deleted, threats are made, or national-security computers are involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</span></span></span>
 
 ## The legal boundary starts with permission, not motive
 
-In [UK law]({{ 'uk-law/' | relative_url }}), the Computer Misuse Act 1990 was created to secure computer material against unauthorised access or modification. Its basic offence concerns causing a computer to perform a function with intent to secure access to any program or data, where that access is unauthorised and the person knows it is unauthorised. The point is deliberately broad: a person does not need to steal money, sell secrets or plant malware before the law becomes relevant. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</span></span></span>
+In [UK law]({{ 'uk-law/' | relative_url }}), the Computer Misuse Act 1990 was created to secure computer material against unauthorised access or modification. Its basic offence concerns causing a computer to perform a function with intent to secure access to any program or data, where that access is unauthorised and the person knows it is unauthorised. The point is deliberately broad: a person does not need to steal money, sell secrets or plant malware before the law becomes relevant.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</span></span></span>
 
-The Crown Prosecution Service guidance separates the basic unauthorised access offence from more serious forms of computer misuse. Section 2 concerns unauthorised access with intent to commit or facilitate a further offence, while other provisions address unauthorised acts that impair systems, create serious risk, or involve tools used for computer misuse. This structure matters for curiosity cases because the first legal question is not “Was the motive malicious?” but “Was the access authorised?” <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">computer misuse act</span></span></span>
+The Crown Prosecution Service guidance separates the basic unauthorised access offence from more serious forms of computer misuse. Section 2 concerns unauthorised access with intent to commit or facilitate a further offence, while other provisions address unauthorised acts that impair systems, create serious risk, or involve tools used for computer misuse. This structure matters for curiosity cases because the first legal question is not “Was the motive malicious?” but “Was the access authorised?”<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">computer misuse act</span></span></span>
 
 For UFO-motivated hacking, that means a belief that government networks might contain hidden information does not itself create permission to enter those networks. Nor does the absence of a conventional criminal motive automatically turn an intrusion into journalism, research or whistleblowing. A person who guesses passwords, enters poorly secured systems, uses remote-access tools without permission, or searches through internal files is still crossing the authorisation line.
 
-The National Crime Agency’s Cyber Choices programme makes the same governance point in a public-facing way: cyber skills can be developed legally, but illegal hacking of computers and networks is treated as cyber-dependent crime. The programme exists partly because young or technically curious people may not understand that “just exploring” someone else’s system can carry criminal consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalcrimeagency.gov.uk/cyber-choices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalcrimeagency.gov.uk">[National Crime Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalcrimeagency.gov.uk</span><span class="citation-popover-snippet">Open source on nationalcrimeagency.gov.uk.</span></span></span>
+The National Crime Agency’s Cyber Choices programme makes the same governance point in a public-facing way: cyber skills can be developed legally, but illegal hacking of computers and networks is treated as cyber-dependent crime. The programme exists partly because young or technically curious people may not understand that “just exploring” someone else’s system can carry criminal consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalcrimeagency.gov.uk/cyber-choices" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalcrimeagency.gov.uk">[National Crime Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalcrimeagency.gov.uk</span><span class="citation-popover-snippet">Open source on nationalcrimeagency.gov.uk.</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1-Illustration-1-dark.svg" | relative_url }}" alt="Legal Limits illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the McKinnon case is the clearest UFO-hacking example
 
-Gary McKinnon’s case became famous because his stated motive sounded different from ordinary cybercrime. In [interviews]({{ 'interviews/' | relative_url }}), he said he was searching for evidence of UFOs, suppressed energy technology and government secrecy. Wired reported his claim that he found references such as “Non-Terrestrial Officers” and saw what he believed was a UFO image on a NASA system, although those claims were not independently verified through released files or authenticated records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+Gary McKinnon’s case became famous because his stated motive sounded different from ordinary cybercrime. In [interviews]({{ 'interviews/' | relative_url }}), he said he was searching for evidence of UFOs, suppressed energy technology and government secrecy. Wired reported his claim that he found references such as “Non-Terrestrial Officers” and saw what he believed was a UFO image on a NASA system, although those claims were not independently verified through released files or authenticated records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 
-The legal allegations looked very different. The US Department of Justice said McKinnon was indicted under the Computer Fraud and Abuse Act after allegedly accessing and damaging 92 computers belonging to the US Army, Navy, Air Force, Department of Defense and NASA, as well as six computers belonging to private businesses. The [indictment]({{ 'indictment/' | relative_url }}) included a count involving a computer used by the military for national defence and security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+The legal allegations looked very different. The US Department of Justice said McKinnon was indicted under the Computer Fraud and Abuse Act after allegedly accessing and damaging 92 computers belonging to the US Army, Navy, Air Force, Department of Defense and NASA, as well as six computers belonging to private businesses. The [indictment]({{ 'indictment/' | relative_url }}) included a count involving a computer used by the military for national defence and security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
 That contrast is the heart of the legal limit. A UFO motive may explain why a hacker went looking. It may affect public sympathy, media framing, mental-health arguments, charging discretion or sentencing debate. But it does not by itself answer the criminal-law question. If the access was unauthorised, the curiosity is not a licence.
 
-The House of Lords judgment in McKinnon’s extradition litigation recorded the US allegation that the conduct damaged computers by impairing the integrity, availability and operation of programmes, systems, information and data, with repair costs alleged at over $700,000. Whether one views McKinnon as a misguided searcher, a protester, a vulnerable defendant or a serious intruder, those alleged effects moved the case far beyond a harmless look around. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">mckinn 1</span></span></span>
+The House of Lords judgment in McKinnon’s extradition litigation recorded the US allegation that the conduct damaged computers by impairing the integrity, availability and operation of programmes, systems, information and data, with repair costs alleged at over $700,000. Whether one views McKinnon as a misguided searcher, a protester, a vulnerable defendant or a serious intruder, those alleged effects moved the case far beyond a harmless look around.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">mckinn 1</span></span></span>
 
 ## Damage and intent change the seriousness
 
 Unauthorised access is often the starting point, but damage and intent determine how serious the case becomes. In a simple curiosity scenario, a person might access a system without permission, view files and leave. That can still be unlawful. But the legal risk escalates when the person copies files, deletes logs, installs software, disrupts availability, bypasses controls repeatedly, or leaves messages that imply coercion or disruption.
 
-The US allegations against McKinnon included not only access but damage. The Department of Justice described unauthorised access and damage to military, NASA and private computers. A separate report of the indictment stated that he installed tools used for obtaining unauthorised access, deleted critical system files, copied unclassified files and deleted system logs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+The US allegations against McKinnon included not only access but damage. The Department of Justice described unauthorised access and damage to military, NASA and private computers. A separate report of the indictment stated that he installed tools used for obtaining unauthorised access, deleted critical system files, copied unclassified files and deleted system logs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
 This is why “I did not mean harm” is not always decisive. Some computer misuse offences focus on knowledge that access is unauthorised. Others look at intent to impair, recklessness as to impairment, or intent to facilitate another offence. Even where a person does not set out to cause damage, careless exploration inside live systems can create operational risk. On defence, military, health, transport or critical infrastructure systems, that risk is treated especially seriously because interruption can affect more than the machine in front of the intruder.
 
@@ -494,17 +494,17 @@ Public interest arguments are strongest when someone obtains and discloses infor
 
 That distinction matters in UFO cases because the supposed public interest can be emotionally powerful. If someone genuinely believes a government is hiding evidence of non-human technology, they may see intrusion as a moral shortcut. Law generally resists that shortcut because it would allow any strongly held belief to become a self-issued warrant to enter someone else’s systems.
 
-The UK debate over Computer Misuse Act [reform]({{ 'reform/' | relative_url }}) shows how narrow this issue is. The Home Office’s review recognised that the Act is the main legislation criminalising unauthorised access and damage to computer systems and data. It also considered concerns from the cyber-security sector about whether legitimate research can be chilled by broad offences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
+The UK debate over Computer Misuse Act [reform]({{ 'reform/' | relative_url }}) shows how narrow this issue is. The Home Office’s review recognised that the Act is the main legislation criminalising unauthorised access and damage to computer systems and data. It also considered concerns from the cyber-security sector about whether legitimate research can be chilled by broad offences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Open source on gov.uk.</span></span></span>
 
-That reform debate is about properly bounded security work, not curiosity-driven raids on government systems. Campaigners for a statutory defence tend to focus on vulnerability research, threat intelligence and academic or professional cyber-security activity. Those proposals usually depend on factors such as purpose, proportionality, responsible handling of data, avoidance of harm and reporting vulnerabilities to the affected organisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bills.parliament.uk/publications/60406/documents/6385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bills.parliament.uk">[UK Parliament Bills]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bills.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
+That reform debate is about properly bounded security work, not curiosity-driven raids on government systems. Campaigners for a statutory defence tend to focus on vulnerability research, threat intelligence and academic or professional cyber-security activity. Those proposals usually depend on factors such as purpose, proportionality, responsible handling of data, avoidance of harm and reporting vulnerabilities to the affected organisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bills.parliament.uk/publications/60406/documents/6385" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bills.parliament.uk">[UK Parliament Bills]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bills.parliament.uk</span><span class="citation-popover-snippet">Open source on parliament.uk.</span></span></span>
 
-The United States has moved in a similar direction at the prosecutorial-policy level. The Department of Justice’s CFAA charging policy says prosecutors should decline prosecution where the available evidence shows the conduct consisted of, and was intended as, good-faith security research. But that is not the same as a free-standing right to break into systems out of curiosity, activism or belief. It is a limited policy aimed at security research, not a general public-interest defence for unauthorised exploration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/jm/jm-9-48000-computer-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice9-48.000</span><span class="citation-popover-snippet">Department of Justice9-48.000</span></span></span>
+The United States has moved in a similar direction at the prosecutorial-policy level. The Department of Justice’s CFAA charging policy says prosecutors should decline prosecution where the available evidence shows the conduct consisted of, and was intended as, good-faith security research. But that is not the same as a free-standing right to break into systems out of curiosity, activism or belief. It is a limited policy aimed at security research, not a general public-interest defence for unauthorised exploration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/jm/jm-9-48000-computer-fraud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice9-48.000</span><span class="citation-popover-snippet">Department of Justice9-48.000</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1-Illustration-2-dark.svg" | relative_url }}" alt="Legal Limits illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “weak security” is not consent
 
-One recurring argument in UFO-hacker stories is that the target’s poor security makes the intrusion less blameworthy. McKinnon and some supporters emphasised weak passwords and exposed systems, and commentators have often treated the case as an embarrassment for US government cyber-security as well as a prosecution. But weak security is not the same thing as permission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
+One recurring argument in UFO-hacker stories is that the target’s poor security makes the intrusion less blameworthy. McKinnon and some supporters emphasised weak passwords and exposed systems, and commentators have often treated the case as an embarrassment for US government cyber-security as well as a prosecution. But weak security is not the same thing as permission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Open source on theguardian.com.</span></span></span>
 
 The physical analogy is imperfect but useful: an unlocked office door does not authorise a stranger to enter, search filing cabinets and copy documents. In computer law, the same principle is expressed through authorisation. A badly configured system may affect how easy the intrusion was, how foreseeable the damage was, how institutions should improve security, or how proportionate a punishment should be. It does not normally convert the intruder into an authorised user.
 
@@ -512,13 +512,13 @@ This is especially important for belief-driven hacking. UFO suspicion, distrust 
 
 ## Extradition debates do not erase the offence boundary
 
-McKinnon’s eventual victory was not a ruling that curiosity-driven hacking was lawful. In 2012, then Home Secretary Theresa May blocked his extradition to the United States on human-rights grounds, stating that extradition would create such a high risk of him ending his life that it would be incompatible with his human rights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">gary mckinnon extradition case home secretarys statement</span></span></span>
+McKinnon’s eventual victory was not a ruling that curiosity-driven hacking was lawful. In 2012, then Home Secretary Theresa May blocked his extradition to the United States on human-rights grounds, stating that extradition would create such a high risk of him ending his life that it would be incompatible with his human rights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">gary mckinnon extradition case home secretarys statement</span></span></span>
 
 That decision is often misread. It addressed whether McKinnon should be sent to the US for trial, not whether unauthorised access to defence and NASA systems was legally acceptable. The distinction matters because extradition cases can turn on health, proportionality, forum, likely prison conditions, prosecutorial pressure and human-rights risks. Those issues can stop a person being extradited without validating the underlying conduct.
 
-The aftermath confirms the point. UK authorities later decided not to bring further criminal proceedings, with reporting at the time saying the police and Crown Prosecution Service considered the chances of conviction poor after the long delay and practical difficulties. That was a case-management and evidential outcome, not a broad legal endorsement of UFO-motivated hacking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">gary mckinnon no uk charges</span></span></span>
+The aftermath confirms the point. UK authorities later decided not to bring further criminal proceedings, with reporting at the time saying the police and Crown Prosecution Service considered the chances of conviction poor after the long delay and practical difficulties. That was a case-management and evidential outcome, not a broad legal endorsement of UFO-motivated hacking.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">gary mckinnon no uk charges</span></span></span>
 
-McKinnon’s case also influenced later UK extradition debate. The “forum bar”, inserted into the Extradition Act 2003 after the McKinnon controversy, became important in Lauri Love’s case, where the High Court refused extradition to the US on serious computer-hacking allegations. Again, the issue was where and whether prosecution should proceed, not whether political, activist or curiosity-driven hacking was lawful. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.matrixlaw.co.uk/judgments/lauri-love-wins-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matrixlaw.co.uk">[Matrix Chambers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matrixlaw.co.uk</span><span class="citation-popover-title">lauri love wins extradition appeal</span><span class="citation-popover-snippet">lauri love wins extradition appeal</span></span></span>
+McKinnon’s case also influenced later UK extradition debate. The “forum bar”, inserted into the Extradition Act 2003 after the McKinnon controversy, became important in Lauri Love’s case, where the High Court refused extradition to the US on serious computer-hacking allegations. Again, the issue was where and whether prosecution should proceed, not whether political, activist or curiosity-driven hacking was lawful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.matrixlaw.co.uk/judgments/lauri-love-wins-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: matrixlaw.co.uk">[Matrix Chambers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">matrixlaw.co.uk</span><span class="citation-popover-title">lauri love wins extradition appeal</span><span class="citation-popover-snippet">lauri love wins extradition appeal</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iNjRcESXSTw" title="Hacking suspect Lauri Love wins appeal against extradition to US | ITV News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iNjRcESXSTw" target="_blank" rel="noopener noreferrer">Hacking suspect Lauri Love wins appeal against extradition to US | ITV News</a></p><p class="youtube-embed-meta">Channel: ITV News &middot; Views: 1.8K &middot; Uploaded: February 2018 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iNjRcESXSTw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iNjRcESXSTw">Open on YouTube</a></p></div></div></div>
@@ -557,194 +557,194 @@ The safest and strongest form of inquiry is therefore the one that can survive s
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Curiosity Becomes a Computer Crime. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Curiosity Becomes a Computer Crime. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Illustrates how curiosity-driven intrusion can lead to serious legal consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how curiosity-driven intrusion can lead to serious legal consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
-        </h4>
-        <p class="fr-book-author">By Andy Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
+</h4>
+<p class="fr-book-author">By Andy Greenberg</p>
         
-        <p class="fr-book-desc">Shows how computer intrusions can escalate into major legal and societal issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how computer intrusions can escalate into major legal and societal issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Provides context on the risks and significance of unauthorized access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on the risks and significance of unauthorized access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
-        </h4>
-        <p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
+</h4>
+<p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
         
-        <p class="fr-book-desc">Explains legal, ethical and security dimensions of computer access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains legal, ethical and security dimensions of computer access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/5af7f9d357526d255771.jpg' | relative_url }}" alt="Listing image for COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">COOL FLYING UFO IN FOREST LANDSCAPE FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="legal-limits-when-curiosity-becomes-a-computer-crime-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -760,7 +760,7 @@ The safest and strongest form of inquiry is therefore the one that can survive s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -780,7 +780,7 @@ The safest and strongest form of inquiry is therefore the one that can survive s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -812,7 +812,7 @@ The safest and strongest form of inquiry is therefore the one that can survive s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -864,7 +864,7 @@ The safest and strongest form of inquiry is therefore the one that can survive s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -909,7 +909,7 @@ The safest and strongest form of inquiry is therefore the one that can survive s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -950,288 +950,288 @@ The safest and strongest form of inquiry is therefore the one that can survive s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1990/18/contents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</p></details>
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1990/18/contents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cps.gov.uk  
    Title: computer misuse act  
-   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act</a>  
+   Link:<a href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: nationalcrimeagency.gov.uk  
-   Link: <a href="https://www.nationalcrimeagency.gov.uk/cyber-choices" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcrimeagency.gov.uk/cyber-choices</a>  
+   Link:<a href="https://www.nationalcrimeagency.gov.uk/cyber-choices" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcrimeagency.gov.uk/cyber-choices</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: met.police.uk  
-   Link: <a href="https://www.met.police.uk/cyberchoices" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/cyberchoices</a>  
+   Link:<a href="https://www.met.police.uk/cyberchoices" target="_blank" rel="noopener noreferrer nofollow">https://www.met.police.uk/cyberchoices</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible</a>  
+   Link:<a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: GOV.UK  
    Title: analysis of responses accessible  
-   Link: <a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible</a>  
+   Link:<a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bills.parliament.uk  
-   Link: <a href="https://bills.parliament.uk/publications/60406/documents/6385" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/60406/documents/6385</a>  
+   Link:<a href="https://bills.parliament.uk/publications/60406/documents/6385" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/60406/documents/6385</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: justice.gov  
    Title: Department of Justice9-48.000  
-   Link: <a href="https://www.justice.gov/jm/jm-9-48000-computer-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/jm/jm-9-48000-computer-fraud</a>  
+   Link:<a href="https://www.justice.gov/jm/jm-9-48000-computer-fraud" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/jm/jm-9-48000-computer-fraud</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archives/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act</a>  
+   Link:<a href="https://www.justice.gov/archives/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archives/opa/pr/department-justice-announces-new-policy-charging-cases-under-computer-fraud-and-abuse-act</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
    Title: gary mckinnon extradition case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2012/10/mckinnon-extradition-win" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/10/mckinnon-extradition-win</a>  
+   Link:<a href="https://www.wired.com/2012/10/mckinnon-extradition-win" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/10/mckinnon-extradition-win</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: hansard.parliament.uk  
-   Link: <a href="https://hansard.parliament.uk/Commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990highlight%3Dstatistics" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990highlight%3Dstatistics</a>  
+   Link:<a href="https://hansard.parliament.uk/Commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990highlight%3Dstatistics" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/Commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990highlight%3Dstatistics</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: hansard.parliament.uk  
    Title: uk Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: leap.hillingdon.gov.uk  
-   Link: <a href="https://leap.hillingdon.gov.uk/media/13085/Cyber-Choices-Guidance---External/pdf/mjCyberChoices_Guidance_-_External.pdf?m=1701791050703" target="_blank" rel="noopener noreferrer nofollow">https://leap.hillingdon.gov.uk/media/13085/Cyber-Choices-Guidance---External/pdf/mjCyberChoices_Guidance_-_External.pdf?m=1701791050703</a>  
+   Link:<a href="https://leap.hillingdon.gov.uk/media/13085/Cyber-Choices-Guidance---External/pdf/mjCyberChoices_Guidance_-_External.pdf?m=1701791050703" target="_blank" rel="noopener noreferrer nofollow">https://leap.hillingdon.gov.uk/media/13085/Cyber-Choices-Guidance---External/pdf/mjCyberChoices_Guidance_-_External.pdf?m=1701791050703</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nationalcrimeagency.gov.uk  
-   Link: <a href="https://www.nationalcrimeagency.gov.uk/who-we-are/publications/811-cyber-choices-brochure-2026-parents-1/file" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcrimeagency.gov.uk/who-we-are/publications/811-cyber-choices-brochure-2026-parents-1/file</a>  
+   Link:<a href="https://www.nationalcrimeagency.gov.uk/who-we-are/publications/811-cyber-choices-brochure-2026-parents-1/file" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcrimeagency.gov.uk/who-we-are/publications/811-cyber-choices-brochure-2026-parents-1/file</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: southeastcyber.police.uk  
    Title: computer misuse act  
-   Link: <a href="https://southeastcyber.police.uk/computer-misuse-act/" target="_blank" rel="noopener noreferrer nofollow">https://southeastcyber.police.uk/computer-misuse-act/</a>  
+   Link:<a href="https://southeastcyber.police.uk/computer-misuse-act/" target="_blank" rel="noopener noreferrer nofollow">https://southeastcyber.police.uk/computer-misuse-act/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: assets.publishing.service.gov.uk  
    Title: public views 2  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a74d979e5274a3cb2867add/public-views-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74d979e5274a3cb2867add/public-views-2.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a74d979e5274a3cb2867add/public-views-2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a74d979e5274a3cb2867add/public-views-2.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Factsheet Computer Misuse Act  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a819c6de5274a2e87dbe8fd/Factsheet_-_Computer_Misuse_-_Act.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a819c6de5274a2e87dbe8fd/Factsheet_-_Computer_Misuse_-_Act.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a819c6de5274a2e87dbe8fd/Factsheet_-_Computer_Misuse_-_Act.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a819c6de5274a2e87dbe8fd/Factsheet_-_Computer_Misuse_-_Act.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: assets.publishing.service.gov.uk  
    Title: CMA consultation070223.docx  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/63e1201be90e0762637e30a9/CMA_consultation070223.docx" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/63e1201be90e0762637e30a9/CMA_consultation070223.docx</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/63e1201be90e0762637e30a9/CMA_consultation070223.docx" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/63e1201be90e0762637e30a9/CMA_consultation070223.docx</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: health-ni.gov.uk  
    Title: computer misuse act 1990  
-   Link: <a href="https://www.health-ni.gov.uk/articles/computer-misuse-act-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.health-ni.gov.uk/articles/computer-misuse-act-1990</a>  
+   Link:<a href="https://www.health-ni.gov.uk/articles/computer-misuse-act-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.health-ni.gov.uk/articles/computer-misuse-act-1990</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=48328&amp;section=3.3" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=48328&amp;section=3.3</a>  
+   Link:<a href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=48328&amp;section=3.3" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/mod/oucontent/view.php?id=48328&amp;section=3.3</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: open.edu  
-   Link: <a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=80038&amp;section=_unit8.3.3" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=80038&amp;section=_unit8.3.3</a>  
+   Link:<a href="https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=80038&amp;section=_unit8.3.3" target="_blank" rel="noopener noreferrer nofollow">https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=80038&amp;section=_unit8.3.3</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: theguardian.com  
    Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: matrixlaw.co.uk  
    Title: lauri love wins extradition appeal  
-   Link: <a href="https://www.matrixlaw.co.uk/judgments/lauri-love-wins-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.matrixlaw.co.uk/judgments/lauri-love-wins-extradition-appeal/</a>  
+   Link:<a href="https://www.matrixlaw.co.uk/judgments/lauri-love-wins-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.matrixlaw.co.uk/judgments/lauri-love-wins-extradition-appeal/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Computer Misuse Act 1990  
-   Link: <a href="https://en.wikipedia.org/wiki/Computer_Misuse_Act_1990" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Computer_Misuse_Act_1990</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Computer_Misuse_Act_1990" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Computer_Misuse_Act_1990</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: stannescatholicprimary.com  
    Title: Cyber Choices  
-   Link: <a href="https://www.stannescatholicprimary.com/wp-content/uploads/2023/07/Under-12s-Cyber-Choices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stannescatholicprimary.com/wp-content/uploads/2023/07/Under-12s-Cyber-Choices.pdf</a>  
+   Link:<a href="https://www.stannescatholicprimary.com/wp-content/uploads/2023/07/Under-12s-Cyber-Choices.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stannescatholicprimary.com/wp-content/uploads/2023/07/Under-12s-Cyber-Choices.pdf</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: theguardian.com  
    Title: gary mckinnon timeline extradition  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime</a>  
+   Link:<a href="https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: theguardian.com  
    Title: gary mckinnon hacker aspergers us  
-   Link: <a href="https://www.theguardian.com/world/2009/jul/31/gary-mckinnon-hacker-aspergers-us" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/jul/31/gary-mckinnon-hacker-aspergers-us</a>  
+   Link:<a href="https://www.theguardian.com/world/2009/jul/31/gary-mckinnon-hacker-aspergers-us" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/jul/31/gary-mckinnon-hacker-aspergers-us</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
+   Link:<a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition computer hacker  
-   Link: <a href="https://www.theguardian.com/technology/2009/jan/12/gary-mckinnon-extradition-computer-hacker" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2009/jan/12/gary-mckinnon-extradition-computer-hacker</a>  
+   Link:<a href="https://www.theguardian.com/technology/2009/jan/12/gary-mckinnon-extradition-computer-hacker" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2009/jan/12/gary-mckinnon-extradition-computer-hacker</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: theguardian.com  
    Title: gary mckinnon medical report us extradition  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/12/gary-mckinnon-medical-report-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/12/gary-mckinnon-medical-report-us-extradition</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/12/gary-mckinnon-medical-report-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/12/gary-mckinnon-medical-report-us-extradition</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: theguardian.com  
    Title: gary mckinnon hacking ill father glasgow extradition us  
-   Link: <a href="https://www.theguardian.com/world/2014/jul/31/gary-mckinnon-hacking-ill-father-glasgow-extradition-us" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2014/jul/31/gary-mckinnon-hacking-ill-father-glasgow-extradition-us</a>  
+   Link:<a href="https://www.theguardian.com/world/2014/jul/31/gary-mckinnon-hacking-ill-father-glasgow-extradition-us" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2014/jul/31/gary-mckinnon-hacking-ill-father-glasgow-extradition-us</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: theguardian.com  
    Title: gary mckinnon not extradited may  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: theguardian.com  
    Title: gary mckinnon hacker sparked storm  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
+   Link:<a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
+   Link:<a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
+   Link:<a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: theguardian.com  
    Title: computer activist lauri love loses appeal against us extradition  
-   Link: <a href="https://www.theguardian.com/law/2016/sep/16/computer-activist-lauri-love-loses-appeal-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2016/sep/16/computer-activist-lauri-love-loses-appeal-against-us-extradition</a>  
+   Link:<a href="https://www.theguardian.com/law/2016/sep/16/computer-activist-lauri-love-loses-appeal-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2016/sep/16/computer-activist-lauri-love-loses-appeal-against-us-extradition</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: media.techtarget.com  
-   Link: <a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
+   Link:<a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: freeprivacypolicy.com  
    Title: computer misuse act 1990  
-   Link: <a href="https://www.freeprivacypolicy.com/blog/computer-misuse-act-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.freeprivacypolicy.com/blog/computer-misuse-act-1990/</a>  
+   Link:<a href="https://www.freeprivacypolicy.com/blog/computer-misuse-act-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.freeprivacypolicy.com/blog/computer-misuse-act-1990/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: rahmanravelli.co.uk  
-   Link: <a href="https://www.rahmanravelli.co.uk/expertise/cybercrime/cybercrime-reducing-the-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.rahmanravelli.co.uk/expertise/cybercrime/cybercrime-reducing-the-risks/</a>  
+   Link:<a href="https://www.rahmanravelli.co.uk/expertise/cybercrime/cybercrime-reducing-the-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.rahmanravelli.co.uk/expertise/cybercrime/cybercrime-reducing-the-risks/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: termsfeed.com  
    Title: computer misuse act 1990  
-   Link: <a href="https://www.termsfeed.com/blog/computer-misuse-act-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/blog/computer-misuse-act-1990/</a>  
+   Link:<a href="https://www.termsfeed.com/blog/computer-misuse-act-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.termsfeed.com/blog/computer-misuse-act-1990/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: film-authority.com  
-   Link: <a href="https://film-authority.com/2026/05/12/gary/" target="_blank" rel="noopener noreferrer nofollow">https://film-authority.com/2026/05/12/gary/</a>  
+   Link:<a href="https://film-authority.com/2026/05/12/gary/" target="_blank" rel="noopener noreferrer nofollow">https://film-authority.com/2026/05/12/gary/</a>  
 
 ### Additional References
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zezzoxhrnZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zezzoxhrnZ8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Are The Ethical Issues Of The Computer Misuse Act In Cybersecurity?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zezzoxhrnZ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zezzoxhrnZ8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What Are The Ethical Issues Of The Computer Misuse Act In Cybersecurity?...</p></details>
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: youtube.com  
    Title: What Are The Ethical Issues Of The Computer Misuse Act In Cybersecurity?  
-   Link: <a href="https://www.youtube.com/watch?v=KkUMv1b9Z_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KkUMv1b9Z_8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ITPro Asks: Is the UK&#x27;s Computer Misuse Act fit for purpose?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KkUMv1b9Z_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KkUMv1b9Z_8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ITPro Asks: Is the UK&#x27;s Computer Misuse Act fit for purpose?...</p></details>
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: youtube.com  
    Title: The Man Who Hacked the U.S. Government  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Did Landmark Cases Define &quot;unauthorised Access&quot; Under The Computer Misuse Act?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Did Landmark Cases Define &quot;unauthorised Access&quot; Under The Computer Misuse Act?...</p></details>
 
-57. <a id="endnote-57"></a>
+57.<a id="endnote-57"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/31360553/Gary_McKinnon_A_Curious_Case_Indeed" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/31360553/Gary_McKinnon_A_Curious_Case_Indeed</a>  
+   Link:<a href="https://www.academia.edu/31360553/Gary_McKinnon_A_Curious_Case_Indeed" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/31360553/Gary_McKinnon_A_Curious_Case_Indeed</a>  
 
-58. <a id="endnote-58"></a>
+58.<a id="endnote-58"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/323786681_The_Computer_Misuse_Act_1990_to_support_vulnerability_research_Proposal_for_a_defence_for_hacking_as_a_strategy_in_the_fight_against_cybercrime" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323786681_The_Computer_Misuse_Act_1990_to_support_vulnerability_research_Proposal_for_a_defence_for_hacking_as_a_strategy_in_the_fight_against_cybercrime</a>  
+   Link:<a href="https://www.researchgate.net/publication/323786681_The_Computer_Misuse_Act_1990_to_support_vulnerability_research_Proposal_for_a_defence_for_hacking_as_a_strategy_in_the_fight_against_cybercrime" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/323786681_The_Computer_Misuse_Act_1990_to_support_vulnerability_research_Proposal_for_a_defence_for_hacking_as_a_strategy_in_the_fight_against_cybercrime</a>  
 
-59. <a id="endnote-59"></a>
+59.<a id="endnote-59"></a>
    Source: jenner.com  
-   Link: <a href="https://www.jenner.com/en/news-insights/publications/client-alert-doj-revises-cfaa-charging-policy-to-provide-clarity-for-cybersecurity-research-and-terms-of-use" target="_blank" rel="noopener noreferrer nofollow">https://www.jenner.com/en/news-insights/publications/client-alert-doj-revises-cfaa-charging-policy-to-provide-clarity-for-cybersecurity-research-and-terms-of-use</a>  
+   Link:<a href="https://www.jenner.com/en/news-insights/publications/client-alert-doj-revises-cfaa-charging-policy-to-provide-clarity-for-cybersecurity-research-and-terms-of-use" target="_blank" rel="noopener noreferrer nofollow">https://www.jenner.com/en/news-insights/publications/client-alert-doj-revises-cfaa-charging-policy-to-provide-clarity-for-cybersecurity-research-and-terms-of-use</a>  
 
-60. <a id="endnote-60"></a>
+60.<a id="endnote-60"></a>
    Source: nacdl.org  
-   Link: <a href="https://www.nacdl.org/Landing/ComputerFraudandAbuseAct" target="_blank" rel="noopener noreferrer nofollow">https://www.nacdl.org/Landing/ComputerFraudandAbuseAct</a>  
+   Link:<a href="https://www.nacdl.org/Landing/ComputerFraudandAbuseAct" target="_blank" rel="noopener noreferrer nofollow">https://www.nacdl.org/Landing/ComputerFraudandAbuseAct</a>  
 
-61. <a id="endnote-61"></a>
+61.<a id="endnote-61"></a>
    Source: cscp.org.uk  
-   Link: <a href="https://cscp.org.uk/wp-content/uploads/2021/06/Teachers-Cyber-Choices-Brochure_Online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cscp.org.uk/wp-content/uploads/2021/06/Teachers-Cyber-Choices-Brochure_Online.pdf</a>  
+   Link:<a href="https://cscp.org.uk/wp-content/uploads/2021/06/Teachers-Cyber-Choices-Brochure_Online.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cscp.org.uk/wp-content/uploads/2021/06/Teachers-Cyber-Choices-Brochure_Online.pdf</a>  
 
-62. <a id="endnote-62"></a>
+62.<a id="endnote-62"></a>
    Source: crimestoppers-uk.org  
-   Link: <a href="https://crimestoppers-uk.org/fearless/more-info/crime-types-explained/cyber-crime" target="_blank" rel="noopener noreferrer nofollow">https://crimestoppers-uk.org/fearless/more-info/crime-types-explained/cyber-crime</a>  
+   Link:<a href="https://crimestoppers-uk.org/fearless/more-info/crime-types-explained/cyber-crime" target="_blank" rel="noopener noreferrer nofollow">https://crimestoppers-uk.org/fearless/more-info/crime-types-explained/cyber-crime</a>  
 
-63. <a id="endnote-63"></a>
+63.<a id="endnote-63"></a>
    Source: jonesday.com  
-   Link: <a href="https://www.jonesday.com/en/insights/2022/06/department-of-justice-significantly-revises-policy-on-charging-cfaa-violations" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2022/06/department-of-justice-significantly-revises-policy-on-charging-cfaa-violations</a>  
+   Link:<a href="https://www.jonesday.com/en/insights/2022/06/department-of-justice-significantly-revises-policy-on-charging-cfaa-violations" target="_blank" rel="noopener noreferrer nofollow">https://www.jonesday.com/en/insights/2022/06/department-of-justice-significantly-revises-policy-on-charging-cfaa-violations</a>  

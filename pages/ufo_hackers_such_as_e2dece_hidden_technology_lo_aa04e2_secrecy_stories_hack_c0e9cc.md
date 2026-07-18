@@ -264,34 +264,34 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_sec
 
 ## Introduction
 
-In stories about [UFO hackers such]({{ 'ufo-hackers-such/' | relative_url }}) as Gary McKinnon, secrecy is not merely a backdrop; it is often the main attraction. Claims about hidden anti-gravity systems, suppressed free-energy technologies, classified space programmes, or concealed UFO evidence appeal to many technically minded enthusiasts because they transform unanswered questions into solvable puzzles. Instead of accepting that information is unavailable, the [secrecy narrative]({{ 'secrecy-logic/' | relative_url }}) suggests that the truth exists somewhere inside a database, document archive, image repository, or restricted network waiting to be discovered. That idea aligns closely with longstanding elements of hacker culture: curiosity, investigation, and the belief that systems reveal their secrets to those willing to explore them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
+In stories about [UFO hackers such]({{ 'ufo-hackers-such/' | relative_url }}) as Gary McKinnon, secrecy is not merely a backdrop; it is often the main attraction. Claims about hidden anti-gravity systems, suppressed free-energy technologies, classified space programmes, or concealed UFO evidence appeal to many technically minded enthusiasts because they transform unanswered questions into solvable puzzles. Instead of accepting that information is unavailable, the [secrecy narrative]({{ 'secrecy-logic/' | relative_url }}) suggests that the truth exists somewhere inside a database, document archive, image repository, or restricted network waiting to be discovered. That idea aligns closely with longstanding elements of hacker culture: curiosity, investigation, and the belief that systems reveal their secrets to those willing to explore them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_secrecy_stories_hack_c0e9cc-Illustration-1-dark.svg" | relative_url }}" alt="Why secrecy stories illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_secrecy_stories_hack_c0e9cc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2_secrecy_stories_hack_c0e9cc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the anti-gravity and free-energy branch of UFO lore, [secrecy stories]({{ 'secrecy-stories/' | relative_url }}) are especially powerful because they offer a simple explanation for an otherwise difficult problem. If revolutionary technology has not transformed society, [believers]({{ 'believers/' | relative_url }}) can attribute its absence not to scientific limitations but to deliberate concealment by governments, militaries, or contractors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2115 — Experiments show that exposure to conspiracy theories decreases trust in governmental ins...</span></span></span>
+Within the anti-gravity and free-energy branch of UFO lore, [secrecy stories]({{ 'secrecy-stories/' | relative_url }}) are especially powerful because they offer a simple explanation for an otherwise difficult problem. If revolutionary technology has not transformed society, [believers]({{ 'believers/' | relative_url }}) can attribute its absence not to scientific limitations but to deliberate concealment by governments, militaries, or contractors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2115 — Experiments show that exposure to conspiracy theories decreases trust in governmental ins...</span></span></span>
 
 ## Why hidden-information narratives fit hacker culture
 
-A central feature of hacker culture has long been the desire to understand systems that appear opaque from the outside. Early hacker traditions celebrated exploration, reverse engineering, and finding unexpected ways to access information. The challenge itself often carries value independent of any reward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hacker_culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hacker culture</span><span class="citation-popover-snippet">Hacker culture</span></span></span>
+A central feature of hacker culture has long been the desire to understand systems that appear opaque from the outside. Early hacker traditions celebrated exploration, reverse engineering, and finding unexpected ways to access information. The challenge itself often carries value independent of any reward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Hacker_culture" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Hacker culture</span><span class="citation-popover-snippet">Hacker culture</span></span></span>
 
 Secrecy stories map neatly onto that mindset because they present knowledge as something blocked by barriers rather than something unknowable. In the context of UFO and anti-gravity claims, the question becomes less "Does this technology exist?" and more "Where is it being hidden?"
 
 This distinction matters. If a mystery is framed as a scientific problem, solving it may require decades of research and experimentation. If it is framed as a secrecy problem, the solution appears much closer: locate the right file, programme name, photograph, budget line, or classified witness. For people drawn to investigation and technical discovery, that can feel far more actionable.
 
-Gary McKinnon's own account illustrates this pattern. He repeatedly described his searches as attempts to find evidence of UFO cover-ups, anti-gravity technologies, and free-energy suppression hidden within government systems rather than attempts to develop such technologies himself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
+Gary McKinnon's own account illustrates this pattern. He repeatedly described his searches as attempts to find evidence of UFO cover-ups, anti-gravity technologies, and free-energy suppression hidden within government systems rather than attempts to develop such technologies himself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WFd7XzTf6_k" title="David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer">David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WFd7XzTf6_k">Open on YouTube</a></p></div></div></div>
 
 ## The appeal of being among the few who know
 
-Research into conspiracy beliefs consistently finds that secret-knowledge narratives can provide a sense of uniqueness and special insight. Believers may feel they have seen behind the official story and gained access to information unavailable to the general public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2crestresearch.ac.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2115 — Experiments show that exposure to conspiracy theories decreases trust in governmental ins...</span></span></span>
+Research into conspiracy beliefs consistently finds that secret-knowledge narratives can provide a sense of uniqueness and special insight. Believers may feel they have seen behind the official story and gained access to information unavailable to the general public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2115 — Experiments show that exposure to conspiracy theories decreases trust in governmental ins...</span></span></span>
 
 For hackers, that appeal can be amplified by technical skill. Accessing restricted systems, understanding obscure databases, or navigating complex networks already distinguishes practitioners from ordinary users. A secrecy narrative adds another layer: not only can the individual access difficult information, but that information supposedly reveals a hidden reality.
 
 In UFO hacker lore, this creates a powerful identity. The investigator is no longer merely a computer enthusiast. He becomes a seeker uncovering truths that governments allegedly want concealed. The attraction is cultural as much as evidential.
 
-This dynamic helps explain why stories about classified anti-gravity projects often remain compelling even when hard proof is lacking. The search itself becomes meaningful because it reinforces the role of the investigator as someone operating beyond conventional boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-snippet">IEEE SpectrumGary McKinnon: The Autistic HackerHe claimed he had found a list of the U.S. Navy&#x27;s “nonterrestrial officers,” as well as a...</span></span></span>
+This dynamic helps explain why stories about classified anti-gravity projects often remain compelling even when hard proof is lacking. The search itself becomes meaningful because it reinforces the role of the investigator as someone operating beyond conventional boundaries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-snippet">IEEE SpectrumGary McKinnon: The Autistic HackerHe claimed he had found a list of the U.S. Navy&#x27;s “nonterrestrial officers,” as well as a...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2E1Slf2Nx_g" title="Hacking Culture, Community, and Curiosity: Evolving Security Research in a Modern World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2E1Slf2Nx_g" target="_blank" rel="noopener noreferrer">Hacking Culture, Community, and Curiosity: Evolving Security Research in a Modern World</a></p><p class="youtube-embed-meta">Channel: Phosphorus Cybersecurity Inc.</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2E1Slf2Nx_g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2E1Slf2Nx_g">Open on YouTube</a></p></div></div></div>
@@ -304,7 +304,7 @@ If a secret programme were hiding evidence of extraterrestrial visitors, the imp
 
 That raises an emotionally compelling question: if such technologies exist, why is the world still operating as it does?
 
-Secrecy narratives provide an answer. The technology is absent from public life not because it does not work, but because powerful institutions have chosen to conceal it. This explanation turns a technological mystery into a story about control, suppression, and access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
+Secrecy narratives provide an answer. The technology is absent from public life not because it does not work, but because powerful institutions have chosen to conceal it. This explanation turns a technological mystery into a story about control, suppression, and access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
 
 For technically minded audiences, this framing can be particularly attractive because it preserves faith in the possibility of revolutionary breakthroughs while shifting responsibility for their absence onto secretive organisations.
 
@@ -316,7 +316,7 @@ An important reason these stories persist is that governments genuinely do keep 
 
 Because real secrecy exists, claims about hidden anti-gravity research do not appear entirely impossible on their face. The leap occurs when legitimate secrecy becomes evidence for far broader claims.
 
-Researchers who study conspiracy beliefs note that people often build [explanations]({{ 'explanations/' | relative_url }}) by combining real examples of institutional secrecy with assumptions about what else might be hidden. Historical scandals can therefore increase the plausibility of unrelated secrecy claims in the minds of believers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.argumenta.org/wp-content/uploads/2018/05/3-Argumenta-Joseph-Uscinski-The-Study-of-Conspiracy-Theories.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argumenta.org">[argumenta.org+2gc.cuny.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argumenta.org</span><span class="citation-popover-snippet">hen this conspiracy worldview helps individuals interpret information, events, and...</span></span></span>
+Researchers who study conspiracy beliefs note that people often build [explanations]({{ 'explanations/' | relative_url }}) by combining real examples of institutional secrecy with assumptions about what else might be hidden. Historical scandals can therefore increase the plausibility of unrelated secrecy claims in the minds of believers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.argumenta.org/wp-content/uploads/2018/05/3-Argumenta-Joseph-Uscinski-The-Study-of-Conspiracy-Theories.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: argumenta.org">[argumenta.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">argumenta.org</span><span class="citation-popover-snippet">hen this conspiracy worldview helps individuals interpret information, events, and...</span></span></span>
 
 In UFO hacker lore, this creates a recurring logic:
 
@@ -339,7 +339,7 @@ Another feature of secrecy stories is that they are difficult to disprove comple
 
 As a result, the search itself often becomes more important than reaching a final answer.
 
-Accounts of McKinnon's activities frequently emphasise not only what he claimed to have found but also the excitement of the search: moving through systems, examining files, and looking for signs that a hidden reality existed behind official explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
+Accounts of McKinnon's activities frequently emphasise not only what he claimed to have found but also the excitement of the search: moving through systems, examining files, and looking for signs that a hidden reality existed behind official explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
 
 This is one reason secrecy stories remain durable within hacker folklore. They provide an endless investigative framework. Every unexplained document, every restricted programme, and every redacted file can potentially become another clue.
 
@@ -348,199 +348,199 @@ This is one reason secrecy stories remain durable within hacker folklore. They p
 
 ## Why the theme remains central to UFO hacker lore
 
-The enduring appeal of Gary McKinnon's story is not primarily that it proved anti-gravity technology, free energy, or extraterrestrial visitation. Those claims remain unverified. Rather, the story endures because it combines two powerful cultural ideas: the hacker as explorer and the government as keeper of hidden knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
+The enduring appeal of Gary McKinnon's story is not primarily that it proved anti-gravity technology, free energy, or extraterrestrial visitation. Those claims remain unverified. Rather, the story endures because it combines two powerful cultural ideas: the hacker as explorer and the government as keeper of hidden knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</span></span></span>
 
-In anti-gravity and free-energy lore, secrecy provides the bridge between belief and possibility. It explains why transformative technologies are allegedly absent from public view, gives investigators a concrete target to search for, and turns technical curiosity into a larger narrative about uncovering hidden truths. Whether or not the underlying claims are correct, that combination has proven remarkably persistent in UFO hacker culture because it speaks directly to the values of exploration, discovery, and access that have long been associated with hacking itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC+2onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2115 — Experiments show that exposure to conspiracy theories decreases trust in governmental ins...</span></span></span>
+In anti-gravity and free-energy lore, secrecy provides the bridge between belief and possibility. It explains why transformative technologies are allegedly absent from public view, gives investigators a concrete target to search for, and turns technical curiosity into a larger narrative about uncovering hidden truths. Whether or not the underlying claims are correct, that combination has proven remarkably persistent in UFO hacker culture because it speaks directly to the values of exploration, discovery, and access that have long been associated with hacking itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCThe Psychology of Conspiracy Theories</span><span class="citation-popover-snippet">NIHby KM Douglas · 2017 · Cited by 2115 — Experiments show that exposure to conspiracy theories decreases trust in governmental ins...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why secrecy stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why secrecy stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Captures the investigative puzzle-solving mindset behind hacking secret systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Captures the investigative puzzle-solving mindset behind hacking secret systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BdPPngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BdPPngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Explains the culture of access, curiosity, and boundary-testing that secrecy stories exploit.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the culture of access, curiosity, and boundary-testing that secrecy stories exploit.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Shows how secret aerospace and anti-gravity stories become investigative quests.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how secret aerospace and anti-gravity stories become investigative quests.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ArxxlAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ArxxlAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
         
-        <p class="fr-book-desc">Helps explain why hidden-truth narratives attract committed communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps explain why hidden-truth narratives attract committed communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="why-secrecy-stories-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-secrecy-stories-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-secrecy-stories-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -556,7 +556,7 @@ In anti-gravity and free-energy lore, secrecy provides the bridge between belief
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -576,7 +576,7 @@ In anti-gravity and free-energy lore, secrecy provides the bridge between belief
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -608,7 +608,7 @@ In anti-gravity and free-energy lore, secrecy provides the bridge between belief
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -660,7 +660,7 @@ In anti-gravity and free-energy lore, secrecy provides the bridge between belief
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -705,7 +705,7 @@ In anti-gravity and free-energy lore, secrecy provides the bridge between belief
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -746,117 +746,117 @@ In anti-gravity and free-energy lore, secrecy provides the bridge between belief
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — McKinnon tells what he found and discusses the motivation behind his online adventures...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Hacker culture  
-   Link: <a href="https://en.wikipedia.org/wiki/Hacker_culture" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hacker_culture</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hacker_culture" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hacker_culture</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Psychology of Conspiracy Theories  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby KM Douglas · 2017 · Cited by 2115 — Experiments show that exposure to conspiracy theories decreases trust in governmental ins...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5724570/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIHby KM Douglas · 2017 · Cited by 2115 — Experiments show that exposure to conspiracy theories decreases trust in governmental ins...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: argumenta.org  
-   Link: <a href="https://www.argumenta.org/wp-content/uploads/2018/05/3-Argumenta-Joseph-Uscinski-The-Study-of-Conspiracy-Theories.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argumenta.org/wp-content/uploads/2018/05/3-Argumenta-Joseph-Uscinski-The-Study-of-Conspiracy-Theories.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hen this conspiracy worldview helps individuals interpret information, events, and...</p></details>
+   Link:<a href="https://www.argumenta.org/wp-content/uploads/2018/05/3-Argumenta-Joseph-Uscinski-The-Study-of-Conspiracy-Theories.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.argumenta.org/wp-content/uploads/2018/05/3-Argumenta-Joseph-Uscinski-The-Study-of-Conspiracy-Theories.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hen this conspiracy worldview helps individuals interpret information, events, and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: crestresearch.ac.uk  
-   Link: <a href="https://crestresearch.ac.uk/projects/conspiracy-theories/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/projects/conspiracy-theories/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Uscinski, for many people, conspiracy belief may be more appealing than satisfying...</p></details>
+   Link:<a href="https://crestresearch.ac.uk/projects/conspiracy-theories/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/projects/conspiracy-theories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Uscinski, for many people, conspiracy belief may be more appealing than satisfying...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spectrum.ieee.org  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerHe claimed he had found a list of the U.S. Navy&#x27;s “nonterrestrial officers,” as well as a...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerHe claimed he had found a list of the U.S. Navy&#x27;s “nonterrestrial officers,” as well as a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: gc.cuny.edu  
    Title: you wish them good day conspiracy theories age information joseph uscinski  
-   Link: <a href="https://www.gc.cuny.edu/news/you-wish-them-good-day-conspiracy-theories-age-information-joseph-uscinski" target="_blank" rel="noopener noreferrer nofollow">https://www.gc.cuny.edu/news/you-wish-them-good-day-conspiracy-theories-age-information-joseph-uscinski</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;YOU WISH THEM A GOOD DAY&quot;: CONSPIRACY...6 Dec 2021 — Prof. Joseph Uscinski, University of Miami, discusses the data about conspiracy th...</p></details>
+   Link:<a href="https://www.gc.cuny.edu/news/you-wish-them-good-day-conspiracy-theories-age-information-joseph-uscinski" target="_blank" rel="noopener noreferrer nofollow">https://www.gc.cuny.edu/news/you-wish-them-good-day-conspiracy-theories-age-information-joseph-uscinski</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;YOU WISH THEM A GOOD DAY&quot;: CONSPIRACY...6 Dec 2021 — Prof. Joseph Uscinski, University of Miami, discusses the data about conspiracy th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: onlinelibrary.wiley.com  
    Title: Understanding Conspiracy Theories  
-   Link: <a href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12568" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/pops.12568</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas - 201920 Mar 2019 — Uscinski and Parent (2014) argue that conspiracy theories are for “losers” and tend to accuse those in power...</p></details>
+   Link:<a href="https://onlinelibrary.wiley.com/doi/10.1111/pops.12568" target="_blank" rel="noopener noreferrer nofollow">https://onlinelibrary.wiley.com/doi/10.1111/pops.12568</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Douglas - 201920 Mar 2019 — Uscinski and Parent (2014) argue that conspiracy theories are for “losers” and tend to accuse those in power...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Game over | Gary McKinnon9 Jul 2005 —... I find I can&#x27;t control my own legs,&quot; he says.... &quot;I found a list of officers&#x27; names,&quot; he claim...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Game over | Gary McKinnon9 Jul 2005 —... I find I can&#x27;t control my own legs,&quot; he says.... &quot;I found a list of officers&#x27; names,&quot; he claim...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Mckinnon talks about finding the &quot;Non-terrestrial...McKinnon tells what he found and discusses the motivation behind his online adv...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Mckinnon talks about finding the &quot;Non-terrestrial...McKinnon tells what he found and discusses the motivation behind his online adv...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6948427/why-we-fall-for-conspiracy-theories/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6948427/why-we-fall-for-conspiracy-theories/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>They often appeal to individuals feeling powerless or marginalized, as they offer a sense of control and special knowledge. Power dispari...</p></details>
+   Link:<a href="https://time.com/6948427/why-we-fall-for-conspiracy-theories/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6948427/why-we-fall-for-conspiracy-theories/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>They often appeal to individuals feeling powerless or marginalized, as they offer a sense of control and special knowledge. Power dispari...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: kar.kent.ac.uk  
-   Link: <a href="https://kar.kent.ac.uk/id/document/3176522" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/id/document/3176522</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theory Psychologyby MJ Wood · Cited by 58 — Uscinski, Joseph E., ed. Conspiracy Theories and the People Who Believe Them. Different theor...</p></details>
+   Link:<a href="https://kar.kent.ac.uk/id/document/3176522" target="_blank" rel="noopener noreferrer nofollow">https://kar.kent.ac.uk/id/document/3176522</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theory Psychologyby MJ Wood · Cited by 58 — Uscinski, Joseph E., ed. Conspiracy Theories and the People Who Believe Them. Different theor...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchportal.northumbria.ac.uk  
-   Link: <a href="https://researchportal.northumbria.ac.uk/ws/files/27078540/2.7_Jolley_et_al_Consequences_of_CTs_FINAL.pd" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.northumbria.ac.uk/ws/files/27078540/2.7_Jolley_et_al_Consequences_of_CTs_FINAL.pd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of conspiracy theoriesby D Jolley · Cited by 122 — We, therefore, argue that future research efforts should attempt to address the negati...</p></details>
+   Link:<a href="https://researchportal.northumbria.ac.uk/ws/files/27078540/2.7_Jolley_et_al_Consequences_of_CTs_FINAL.pd" target="_blank" rel="noopener noreferrer nofollow">https://researchportal.northumbria.ac.uk/ws/files/27078540/2.7_Jolley_et_al_Consequences_of_CTs_FINAL.pd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of conspiracy theoriesby D Jolley · Cited by 122 — We, therefore, argue that future research efforts should attempt to address the negati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spreaker.com  
    Title: gary mckinnon the hacker who found nasa s ufo non terrestrial officers 70473181  
-   Link: <a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — In an recent interview, IT expert Gary McKinnon candidly revealed...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — In an recent interview, IT expert Gary McKinnon candidly revealed...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>

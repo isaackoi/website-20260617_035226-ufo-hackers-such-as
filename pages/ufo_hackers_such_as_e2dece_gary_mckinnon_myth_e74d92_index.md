@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-gary/
 description: Focused pages that expand on Mc Kinnon.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92
 parent_title: Mc Kinnon
@@ -16,7 +16,7 @@ parent_permalink: /mc-kinnon/
 
 # Explore Topics in Mc Kinnon
 
-The following pages expand on the main **[Mc Kinnon]({{ '/mc-kinnon/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Mc Kinnon]({{ '/mc-kinnon/' | relative_url }})** page and cover its key branches in.
 
 - [Extradition]({{ '/extradition-df272c/' | relative_url }})
 - [Two Stories]({{ '/two-stories/' | relative_url }})

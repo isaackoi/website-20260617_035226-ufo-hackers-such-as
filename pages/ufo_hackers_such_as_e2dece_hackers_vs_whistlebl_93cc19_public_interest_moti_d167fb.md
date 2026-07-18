@@ -280,17 +280,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_pub
 
 ## Introduction
 
-In debates about [UFO hackers such]({{ 'ufo-hackers-such/' | relative_url }}) as Gary McKinnon, a common argument is that a sincere desire to uncover hidden truths should place the hacker in the same moral category as a whistleblower. The comparison is understandable: both may claim to act on behalf of the public rather than for personal gain. However, whistleblowing and hacking are judged by different standards. A [public-interest]({{ 'public-interest/' | relative_url }}) motive may help explain why someone carried out an intrusion, but it does not automatically transform that intrusion into whistleblowing. Whistleblowing law and policy generally focus on the disclosure of information about wrongdoing, the reasonableness of the belief behind the disclosure, and the way information is reported. By contrast, a UFO hacker often begins with a suspicion and then seeks unauthorised access in order to discover whether supporting evidence exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas+2Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas What someone can whistleblow about</span><span class="citation-popover-snippet">What someone can whistleblow about - Whistleblowing at work - AcasMarch 25, 2026 — By law, you&#x27;ll be protected as a whistleblower if...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
+In debates about [UFO hackers such]({{ 'ufo-hackers-such/' | relative_url }}) as Gary McKinnon, a common argument is that a sincere desire to uncover hidden truths should place the hacker in the same moral category as a whistleblower. The comparison is understandable: both may claim to act on behalf of the public rather than for personal gain. However, whistleblowing and hacking are judged by different standards. A [public-interest]({{ 'public-interest/' | relative_url }}) motive may help explain why someone carried out an intrusion, but it does not automatically transform that intrusion into whistleblowing. Whistleblowing law and policy generally focus on the disclosure of information about wrongdoing, the reasonableness of the belief behind the disclosure, and the way information is reported. By contrast, a UFO hacker often begins with a suspicion and then seeks unauthorised access in order to discover whether supporting evidence exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas What someone can whistleblow about</span><span class="citation-popover-snippet">What someone can whistleblow about - Whistleblowing at work - AcasMarch 25, 2026 — By law, you&#x27;ll be protected as a whistleblower if...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-1-dark.svg" | relative_url }}" alt="Motive Limits illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Public Benefit as a Claimed Justification
 
-Gary McKinnon consistently presented his actions as a search for information that he believed governments were withholding from the public. In [interviews]({{ 'interviews/' | relative_url }}), he argued that evidence relating to UFOs, advanced technology and energy research should not remain secret and described hacking as a means to reach that information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+Gary McKinnon consistently presented his actions as a search for information that he believed governments were withholding from the public. In [interviews]({{ 'interviews/' | relative_url }}), he argued that evidence relating to UFOs, advanced technology and energy research should not remain secret and described hacking as a means to reach that information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 That [motive]({{ 'motive/' | relative_url }}) matters when trying to understand the case. It distinguishes a UFO hacker from someone seeking money, espionage advantages or personal revenge. Yet motive alone is only one element in assessing conduct. Many actions can be driven by sincere convictions without becoming legally protected activities.
 
-This distinction appears repeatedly in whistleblowing frameworks. UK guidance defines whistleblowing as making a disclosure in the public interest about wrongdoing that affects others. The public-interest element is necessary, but it is not the only requirement. The disclosure must also concern recognised forms of wrongdoing and meet legal standards regarding the information being reported. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas+2Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Whistleblowing is the action someone takes to report wrongdoing at work that affects ot...</span></span></span>
+This distinction appears repeatedly in whistleblowing frameworks. UK guidance defines whistleblowing as making a disclosure in the public interest about wrongdoing that affects others. The public-interest element is necessary, but it is not the only requirement. The disclosure must also concern recognised forms of wrongdoing and meet legal standards regarding the information being reported.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Whistleblowing is the action someone takes to report wrongdoing at work that affects ot...</span></span></span>
 
 A person who says, “I believed the public deserved to know the truth,” has therefore explained a motive. They have not yet demonstrated that they made a protected disclosure, exposed wrongdoing, or qualified for whistleblower protections.
 
@@ -301,7 +301,7 @@ A person who says, “I believed the public deserved to know the truth,” has t
 
 One of the clearest differences between UFO hacking and whistleblowing is the distinction between searching for evidence and disclosing evidence.
 
-[Whistleblowers]({{ 'whistleblowers/' | relative_url }}) generally possess information because of their position inside an organisation or because they have legitimately obtained knowledge of misconduct. The key act is reporting information that they already have. Whistleblower definitions commonly focus on revealing waste, fraud, abuse, corruption, safety risks or other wrongdoing to people capable of addressing it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whistleblowers.org/what-is-a-whistleblower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowers.org">[National Whistleblower Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowers.org</span><span class="citation-popover-snippet">National Whistleblower CenterWhat is a WhistleblowerOn the simplest level, a whistleblower is someone who reports waste, fraud, abuse, co...</span></span></span>
+[Whistleblowers]({{ 'whistleblowers/' | relative_url }}) generally possess information because of their position inside an organisation or because they have legitimately obtained knowledge of misconduct. The key act is reporting information that they already have. Whistleblower definitions commonly focus on revealing waste, fraud, abuse, corruption, safety risks or other wrongdoing to people capable of addressing it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.whistleblowers.org/what-is-a-whistleblower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: whistleblowers.org">[National Whistleblower Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">whistleblowers.org</span><span class="citation-popover-snippet">National Whistleblower CenterWhat is a WhistleblowerOn the simplest level, a whistleblower is someone who reports waste, fraud, abuse, co...</span></span></span>
 
 A UFO hacker often operates in the reverse order:
 
@@ -320,13 +320,13 @@ A UFO hacker often operates in the reverse order:
 
 That sequence matters. Public-interest protections are generally designed around disclosure, not around unauthorised investigation. A person does not usually become a whistleblower merely because they broke into a system while hoping to uncover evidence of wrongdoing.
 
-The McKinnon case illustrates this distinction. His public account centred on a search for evidence of UFO concealment and related claims. The intrusion itself was undertaken in order to find information, rather than to report specific misconduct already known to him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+The McKinnon case illustrates this distinction. His public account centred on a search for evidence of UFO concealment and related claims. The intrusion itself was undertaken in order to find information, rather than to report specific misconduct already known to him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-2-dark.svg" | relative_url }}" alt="Motive Limits illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Sincere Belief Is Legally Limited
 
-Many legal frameworks recognise that whistleblowers can be mistaken. A protected disclosure does not always require proof that wrongdoing actually occurred. What matters is often whether the person reasonably believed the information indicated wrongdoing and disclosed it appropriately. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas+2Landau Law]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas What someone can whistleblow about</span><span class="citation-popover-snippet">What someone can whistleblow about - Whistleblowing at work - AcasMarch 25, 2026 — By law, you&#x27;ll be protected as a whistleblower if...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
+Many legal frameworks recognise that whistleblowers can be mistaken. A protected disclosure does not always require proof that wrongdoing actually occurred. What matters is often whether the person reasonably believed the information indicated wrongdoing and disclosed it appropriately.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas What someone can whistleblow about</span><span class="citation-popover-snippet">What someone can whistleblow about - Whistleblowing at work - AcasMarch 25, 2026 — By law, you&#x27;ll be protected as a whistleblower if...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
 
 However, reasonable belief is not an unlimited defence.
 
@@ -335,11 +335,11 @@ The law generally asks questions such as:
 * Was there information pointing to wrongdoing?
 * Did the person reasonably believe the concern was genuine?
 * Was the disclosure made to an appropriate recipient?
-* Was the matter connected to recognised categories of misconduct? Workplace Relations Commission+3Acas+3Work Wise for Screen <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-snippet">How to make a disclosure - Whistleblowing at work25 Mar 2026 — A disclosure you make to a government minister will be protected if yo...</span></span></span>
+* Was the matter connected to recognised categories of misconduct? Workplace Relations Commission+3Acas+3Work Wise for Screen<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-snippet">How to make a disclosure - Whistleblowing at work25 Mar 2026 — A disclosure you make to a government minister will be protected if yo...</span></span></span>
 
 These tests are different from asking whether someone sincerely believed a secret might exist somewhere inside a computer network.
 
-A UFO hacker may genuinely believe that evidence of hidden programmes, extraterrestrial technology or government deception exists. The sincerity of that belief does not remove the separate issue of unauthorised access. Otherwise, any individual could claim a public-interest purpose before probing private or government systems, making the existence of a strong personal conviction effectively a licence to investigate. Legal systems generally avoid that outcome by separating motive from authorisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas+2Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas What someone can whistleblow about</span><span class="citation-popover-snippet">What someone can whistleblow about - Whistleblowing at work - AcasMarch 25, 2026 — By law, you&#x27;ll be protected as a whistleblower if...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
+A UFO hacker may genuinely believe that evidence of hidden programmes, extraterrestrial technology or government deception exists. The sincerity of that belief does not remove the separate issue of unauthorised access. Otherwise, any individual could claim a public-interest purpose before probing private or government systems, making the existence of a strong personal conviction effectively a licence to investigate. Legal systems generally avoid that outcome by separating motive from authorisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas What someone can whistleblow about</span><span class="citation-popover-snippet">What someone can whistleblow about - Whistleblowing at work - AcasMarch 25, 2026 — By law, you&#x27;ll be protected as a whistleblower if...</span><span class="citation-popover-meta">Published: March 25, 2026</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -356,206 +356,206 @@ For that reason, whistleblowing frameworks typically emphasise:
 * The existence of information rather than speculation.
 * Disclosure rather than investigation.
 * Reporting channels and accountability structures.
-* The public interest in exposing identifiable wrongdoing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas+2Workplace Relations Commission]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-snippet">How to make a disclosure - Whistleblowing at work25 Mar 2026 — A disclosure you make to a government minister will be protected if yo...</span></span></span>
+* The public interest in exposing identifiable wrongdoing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-snippet">How to make a disclosure - Whistleblowing at work25 Mar 2026 — A disclosure you make to a government minister will be protected if yo...</span></span></span>
 
 </div>
 
-A useful comparison is an employee who discovers evidence of fraud and reports it to regulators, inspectors general, journalists or other authorised recipients. The public-interest motive supports the disclosure, but the person is protected because they are revealing information about suspected wrongdoing through recognised channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas+2ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-snippet">How to make a disclosure - Whistleblowing at work25 Mar 2026 — A disclosure you make to a government minister will be protected if yo...</span></span></span>
+A useful comparison is an employee who discovers evidence of fraud and reports it to regulators, inspectors general, journalists or other authorised recipients. The public-interest motive supports the disclosure, but the person is protected because they are revealing information about suspected wrongdoing through recognised channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-snippet">How to make a disclosure - Whistleblowing at work25 Mar 2026 — A disclosure you make to a government minister will be protected if yo...</span></span></span>
 
-A UFO hacker claiming to search for hidden truths occupies a different position. The public-interest motive may explain the decision to act and may even generate public sympathy. Yet the central act remains the unauthorised acquisition of information. That is why discussions of figures such as Gary McKinnon often blur together questions of motive, legality and evidence. The motive may resemble that of a whistleblower, but whistleblower status depends on much more than motive alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[Acas+3WIRED+3WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+A UFO hacker claiming to search for hidden truths occupies a different position. The public-interest motive may explain the decision to act and may even generate public sympathy. Yet the central act remains the unauthorised acquisition of information. That is why discussions of figures such as Gary McKinnon often blur together questions of motive, legality and evidence. The motive may resemble that of a whistleblower, but whistleblower status depends on much more than motive alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-3-dark.svg" | relative_url }}" alt="Motive Limits illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_public_interest_moti_d167fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Motive Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Motive Is Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F3hbyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
-        </h4>
-        <p class="fr-book-author">By Edward Snowden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F3hbyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
+</h4>
+<p class="fr-book-author">By Edward Snowden</p>
         
-        <p class="fr-book-desc">Directly addresses public-interest motivations and disclosure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses public-interest motivations and disclosure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Place to Hide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-sxBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for No Place to Hide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Place to Hide">No Place to Hide</a>
-        </h4>
-        <p class="fr-book-author">By Glenn Greenwald</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Place to Hide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-sxBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for No Place to Hide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Place to Hide">No Place to Hide</a>
+</h4>
+<p class="fr-book-author">By Glenn Greenwald</p>
         
-        <p class="fr-book-desc">Explains why evidence and process matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why evidence and process matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Provides contrast between motive and legality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides contrast between motive and legality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Encourages evaluation beyond sincere belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages evaluation beyond sincere belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Permanent+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Permanent Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Place+to+Hide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Place to Hide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Permanent+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Permanent Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Place+to+Hide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Place to Hide</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="motive-limits-when-motive-is-not-enough-ufo-hackers-such-ufo-poster-book-books-series-television-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -571,7 +571,7 @@ A UFO hacker claiming to search for hidden truths occupies a different position.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -591,7 +591,7 @@ A UFO hacker claiming to search for hidden truths occupies a different position.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -623,7 +623,7 @@ A UFO hacker claiming to search for hidden truths occupies a different position.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -675,7 +675,7 @@ A UFO hacker claiming to search for hidden truths occupies a different position.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -720,7 +720,7 @@ A UFO hacker claiming to search for hidden truths occupies a different position.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -761,200 +761,200 @@ A UFO hacker claiming to search for hidden truths occupies a different position.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: whistleblowers.org  
-   Link: <a href="https://www.whistleblowers.org/what-is-a-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/what-is-a-whistleblower/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterWhat is a WhistleblowerOn the simplest level, a whistleblower is someone who reports waste, fraud, abuse, co...</p></details>
+   Link:<a href="https://www.whistleblowers.org/what-is-a-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/what-is-a-whistleblower/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterWhat is a WhistleblowerOn the simplest level, a whistleblower is someone who reports waste, fraud, abuse, co...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: whistleblowers.org  
-   Link: <a href="https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterWhat Journalists Need to Know About WhistleblowersIf you are writing about whistleblowers, familiarize yours...</p></details>
+   Link:<a href="https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/what-journalists-need-to-know-about-whistleblowers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterWhat Journalists Need to Know About WhistleblowersIf you are writing about whistleblowers, familiarize yours...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: landaulaw.co.uk  
-   Link: <a href="https://landaulaw.co.uk/whistleblowing/" target="_blank" rel="noopener noreferrer nofollow">https://landaulaw.co.uk/whistleblowing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Landau LawWhistleblowing- employment law solicitors - Landau LawTo qualify for protection, you must have a “reasonable belief ” that a wr...</p></details>
+   Link:<a href="https://landaulaw.co.uk/whistleblowing/" target="_blank" rel="noopener noreferrer nofollow">https://landaulaw.co.uk/whistleblowing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Landau LawWhistleblowing- employment law solicitors - Landau LawTo qualify for protection, you must have a “reasonable belief ” that a wr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: workplacerelations.ie  
    Title: Workplace Relations Commission Protection of Whistleblowers  
-   Link: <a href="https://www.workplacerelations.ie/en/what_you_should_know/employer-obligations/protection-of-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.workplacerelations.ie/en/what_you_should_know/employer-obligations/protection-of-whistleblowers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However...</p></details>
+   Link:<a href="https://www.workplacerelations.ie/en/what_you_should_know/employer-obligations/protection-of-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.workplacerelations.ie/en/what_you_should_know/employer-obligations/protection-of-whistleblowers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>However...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Further, PPD-19 allows employees and...Read more...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/who-we-are/organizations/icig/icig-related-menus/icig-related-links/making-lawful-disclosures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Further, PPD-19 allows employees and...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: whistleblowers.org  
-   Link: <a href="https://www.whistleblowers.org/whistleblower-confidentiality/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/whistleblower-confidentiality/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower ConfidentialityTherefore, IC whistleblowers may use the Inspector General Act to make confidential disclosures. The ICIG is...</p></details>
+   Link:<a href="https://www.whistleblowers.org/whistleblower-confidentiality/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/whistleblower-confidentiality/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower ConfidentialityTherefore, IC whistleblowers may use the Inspector General Act to make confidential disclosures. The ICIG is...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: whistleblowers.org  
    Title: National Whistleblower Center (NWC)  
-   Link: <a href="https://www.whistleblowers.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>is the leading nonprofit working with whistleblowers around the world to fight corruption and protect people and the en...</p></details>
+   Link:<a href="https://www.whistleblowers.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is the leading nonprofit working with whistleblowers around the world to fight corruption and protect people and the en...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: whistleblowers.org  
-   Link: <a href="https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In response, the National Whistleblower Center...Read more...</p></details>
+   Link:<a href="https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In response, the National Whistleblower Center...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: whistleblowers.org  
-   Link: <a href="https://www.whistleblowers.org/how-to-stop-retaliation/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/how-to-stop-retaliation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop RetaliationWhistleblowers often face retaliation from their employers. That&#x27;s why NWC offers best practices to safeguard whis...</p></details>
+   Link:<a href="https://www.whistleblowers.org/how-to-stop-retaliation/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/how-to-stop-retaliation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Stop RetaliationWhistleblowers often face retaliation from their employers. That&#x27;s why NWC offers best practices to safeguard whis...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: whistleblowers.org  
    Title: Non-Disclosure Agreements and Whistleblowers  
-   Link: <a href="https://www.whistleblowers.org/non-disclosure-agreements-and-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/non-disclosure-agreements-and-whistleblowers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NWCMany non-disclosure agreements are void when they attempt to limit the reporting of crime. Learn more about this &amp; other whistleblower...</p></details>
+   Link:<a href="https://www.whistleblowers.org/non-disclosure-agreements-and-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/non-disclosure-agreements-and-whistleblowers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NWCMany non-disclosure agreements are void when they attempt to limit the reporting of crime. Learn more about this &amp; other whistleblower...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: whistleblowers.org  
-   Link: <a href="https://www.whistleblowers.org/debunking-whistleblower-myths/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/debunking-whistleblower-myths/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Whistleblower MythsAs many myths surround whistleblowers and whistleblower protections, the National Whistleblower Center debun...</p></details>
+   Link:<a href="https://www.whistleblowers.org/debunking-whistleblower-myths/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/debunking-whistleblower-myths/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Whistleblower MythsAs many myths surround whistleblowers and whistleblower protections, the National Whistleblower Center debun...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: whistleblowers.gov  
-   Link: <a href="https://www.whistleblowers.gov/know_your_rights" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.gov/know_your_rights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retaliation | Whistleblower Protection ProgramThe whistleblower laws that OSHA enforces prohibit employers from retaliating against emplo...</p></details>
+   Link:<a href="https://www.whistleblowers.gov/know_your_rights" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.gov/know_your_rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retaliation | Whistleblower Protection ProgramThe whistleblower laws that OSHA enforces prohibit employers from retaliating against emplo...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: whistleblowers.gov  
-   Link: <a href="https://www.whistleblowers.gov/complaint_page" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.gov/complaint_page</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to File a Whistleblower ComplaintYou have the right to file a whistleblower complaint with OSHA if you believe your employer retaliat...</p></details>
+   Link:<a href="https://www.whistleblowers.gov/complaint_page" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.gov/complaint_page</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to File a Whistleblower ComplaintYou have the right to file a whistleblower complaint with OSHA if you believe your employer retaliat...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: whistleblowers.gov  
-   Link: <a href="https://www.whistleblowers.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and health rights. You have the right to a safe workplace...</p></details>
+   Link:<a href="https://www.whistleblowers.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and health rights. You have the right to a safe workplace...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: whistleblower.gov  
-   Link: <a href="https://www.whistleblower.gov/protections" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblower.gov/protections</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHISTLEBLOWER PROTECTIONS§ 26(h)(2)) and Section 165.4 of the Whistleblower Rules. Anti-Retaliation. The Dodd-Frank Act prohibits retalia...</p></details>
+   Link:<a href="https://www.whistleblower.gov/protections" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblower.gov/protections</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHISTLEBLOWER PROTECTIONS§ 26(h)(2)) and Section 165.4 of the Whistleblower Rules. Anti-Retaliation. The Dodd-Frank Act prohibits retalia...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: acas.org.uk  
    Title: Acas What someone can whistleblow about  
-   Link: <a href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What someone can whistleblow about - Whistleblowing at work - AcasMarch 25, 2026 — By law, you&#x27;ll be protected as a whistleblower if...</p></details>
+   Link:<a href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What someone can whistleblow about - Whistleblowing at work - AcasMarch 25, 2026 — By law, you&#x27;ll be protected as a whistleblower if...</p></details>
    Published: March 25, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: acas.org.uk  
    Title: Acas The law  
-   Link: <a href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The law - Whistleblowing at work25 Mar 2026 — Whistleblowing is the action someone takes to report wrongdoing at work that affects ot...</p></details>
+   Link:<a href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The law - Whistleblowing at work25 Mar 2026 — Whistleblowing is the action someone takes to report wrongdoing at work that affects ot...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: acas.org.uk  
-   Link: <a href="https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to make a disclosure - Whistleblowing at work25 Mar 2026 — A disclosure you make to a government minister will be protected if yo...</p></details>
+   Link:<a href="https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work/how-to-make-a-whistleblowing-disclosure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to make a disclosure - Whistleblowing at work25 Mar 2026 — A disclosure you make to a government minister will be protected if yo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: workwiseforscreen.org.uk  
-   Link: <a href="https://www.workwiseforscreen.org.uk/en/topics/welfare/modules/module/resources/workplace-whistleblowing-what-it-means-and-how-employers-should-respond" target="_blank" rel="noopener noreferrer nofollow">https://www.workwiseforscreen.org.uk/en/topics/welfare/modules/module/resources/workplace-whistleblowing-what-it-means-and-how-employers-should-respond</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Workplace Whistleblowing: What It Means and…The disclosure must relate to issues like crime, legal breaches, safety risks, or financial m...</p></details>
+   Link:<a href="https://www.workwiseforscreen.org.uk/en/topics/welfare/modules/module/resources/workplace-whistleblowing-what-it-means-and-how-employers-should-respond" target="_blank" rel="noopener noreferrer nofollow">https://www.workwiseforscreen.org.uk/en/topics/welfare/modules/module/resources/workplace-whistleblowing-what-it-means-and-how-employers-should-respond</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Workplace Whistleblowing: What It Means and…The disclosure must relate to issues like crime, legal breaches, safety risks, or financial m...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/national-whistleblowers-center" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/national-whistleblowers-center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterThe National Whistleblower Center (NWC), a non-profit, tax-exempt, non-partisan organization, is the leading...</p></details>
+   Link:<a href="https://www.linkedin.com/company/national-whistleblowers-center" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/national-whistleblowers-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterThe National Whistleblower Center (NWC), a non-profit, tax-exempt, non-partisan organization, is the leading...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: whistleblowersblog.org  
-   Link: <a href="https://whistleblowersblog.org/whistleblower-news/national-whistleblower-center-celebrates-2025-us-advances-for-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/whistleblower-news/national-whistleblower-center-celebrates-2025-us-advances-for-whistleblowers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower Center Celebrates 2025 US...2 Dec 2025 — Whistleblowers are necessary in congressional oversight, and this bill a...</p></details>
+   Link:<a href="https://whistleblowersblog.org/whistleblower-news/national-whistleblower-center-celebrates-2025-us-advances-for-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/whistleblower-news/national-whistleblower-center-celebrates-2025-us-advances-for-whistleblowers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower Center Celebrates 2025 US...2 Dec 2025 — Whistleblowers are necessary in congressional oversight, and this bill a...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: whistleblowersblog.org  
    Title: national whistleblower center shaped policy and public awareness in 2025  
-   Link: <a href="https://whistleblowersblog.org/features/national-whistleblower-center-shaped-policy-and-public-awareness-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/features/national-whistleblower-center-shaped-policy-and-public-awareness-in-2025/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower Center Shaped Policy and Public...Dec 22, 2025 — NWC warned that this loophole hurts individual whistleblowers an...</p></details>
+   Link:<a href="https://whistleblowersblog.org/features/national-whistleblower-center-shaped-policy-and-public-awareness-in-2025/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblowersblog.org/features/national-whistleblower-center-shaped-policy-and-public-awareness-in-2025/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower Center Shaped Policy and Public...Dec 22, 2025 — NWC warned that this loophole hurts individual whistleblowers an...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: equalityhumanrights.com  
-   Link: <a href="https://www.equalityhumanrights.com/guidance/whistleblowing" target="_blank" rel="noopener noreferrer nofollow">https://www.equalityhumanrights.com/guidance/whistleblowing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t. Whether it is in the public interest will...</p></details>
+   Link:<a href="https://www.equalityhumanrights.com/guidance/whistleblowing" target="_blank" rel="noopener noreferrer nofollow">https://www.equalityhumanrights.com/guidance/whistleblowing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t. Whether it is in the public interest will...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: acas.org.uk  
    Title: Having a policy  
-   Link: <a href="https://www.acas.org.uk/whistleblowing-at-work/having-a-whistleblowing-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work/having-a-whistleblowing-policy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowing at work25 Mar 2026 — As an employer you should support everyone to follow the whistleblowing policy. You should: share the...</p></details>
+   Link:<a href="https://www.acas.org.uk/whistleblowing-at-work/having-a-whistleblowing-policy" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work/having-a-whistleblowing-policy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowing at work25 Mar 2026 — As an employer you should support everyone to follow the whistleblowing policy. You should: share the...</p></details>
 
 ### Additional References
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: oig.opm.gov  
-   Link: <a href="https://oig.opm.gov/report-oig/whistleblower-rights-protections" target="_blank" rel="noopener noreferrer nofollow">https://oig.opm.gov/report-oig/whistleblower-rights-protections</a>  
+   Link:<a href="https://oig.opm.gov/report-oig/whistleblower-rights-protections" target="_blank" rel="noopener noreferrer nofollow">https://oig.opm.gov/report-oig/whistleblower-rights-protections</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; U.S Army networks - to find evidence of UFO co...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; U.S Army networks - to find evidence of UFO co...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: yerty.co.uk  
-   Link: <a href="https://yerty.co.uk/guides/whistleblowing-at-work-guide" target="_blank" rel="noopener noreferrer nofollow">https://yerty.co.uk/guides/whistleblowing-at-work-guide</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowing at Work: Your Rights and ProtectionsImportant: This guide provides information about UK employment law. It is not legal ad...</p></details>
+   Link:<a href="https://yerty.co.uk/guides/whistleblowing-at-work-guide" target="_blank" rel="noopener noreferrer nofollow">https://yerty.co.uk/guides/whistleblowing-at-work-guide</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowing at Work: Your Rights and ProtectionsImportant: This guide provides information about UK employment law. It is not legal ad...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: kkc.com  
-   Link: <a href="https://kkc.com/law-library/whistleblower-disclosures-must-be-protected-under-law/" target="_blank" rel="noopener noreferrer nofollow">https://kkc.com/law-library/whistleblower-disclosures-must-be-protected-under-law/</a>  
+   Link:<a href="https://kkc.com/law-library/whistleblower-disclosures-must-be-protected-under-law/" target="_blank" rel="noopener noreferrer nofollow">https://kkc.com/law-library/whistleblower-disclosures-must-be-protected-under-law/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: davidsonmorris.com  
-   Link: <a href="https://www.davidsonmorris.com/protected-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.davidsonmorris.com/protected-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Protected Disclosure: Employers&#x27; Guide | DavidsonMorrisJune 23, 2025 — A protected disclosure is a qualifying disclosure that is made by...</p></details>
+   Link:<a href="https://www.davidsonmorris.com/protected-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.davidsonmorris.com/protected-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Protected Disclosure: Employers&#x27; Guide | DavidsonMorrisJune 23, 2025 — A protected disclosure is a qualifying disclosure that is made by...</p></details>
    Published: June 23, 2025  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: odonnellsolicitors.co.uk  
-   Link: <a href="https://odonnellsolicitors.co.uk/solicitors-for-business/employment-law/whistleblowing-and-protected-disclosures/" target="_blank" rel="noopener noreferrer nofollow">https://odonnellsolicitors.co.uk/solicitors-for-business/employment-law/whistleblowing-and-protected-disclosures/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowing Solicitors | Oldham &amp; North WestTo be a qualifying protected disclosure, it must relate to a specific type of wrongdoing...</p></details>
+   Link:<a href="https://odonnellsolicitors.co.uk/solicitors-for-business/employment-law/whistleblowing-and-protected-disclosures/" target="_blank" rel="noopener noreferrer nofollow">https://odonnellsolicitors.co.uk/solicitors-for-business/employment-law/whistleblowing-and-protected-disclosures/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowing Solicitors | Oldham &amp; North WestTo be a qualifying protected disclosure, it must relate to a specific type of wrongdoing...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: workwiselegal.com  
-   Link: <a href="https://www.workwiselegal.com/copy-of-unfair-dismissal-2" target="_blank" rel="noopener noreferrer nofollow">https://www.workwiselegal.com/copy-of-unfair-dismissal-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WhistleblowingThe other requirement is that the disclosure is in the public interest - i.e. it affects or may potentially affect others a...</p></details>
+   Link:<a href="https://www.workwiselegal.com/copy-of-unfair-dismissal-2" target="_blank" rel="noopener noreferrer nofollow">https://www.workwiselegal.com/copy-of-unfair-dismissal-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WhistleblowingThe other requirement is that the disclosure is in the public interest - i.e. it affects or may potentially affect others a...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — In an recent interview, IT expert Gary McKinnon candidly revealed...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — In an recent interview, IT expert Gary McKinnon candidly revealed...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-security/
 description: Focused pages that expand on Lessons.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_security_lessons_6d5bd7
 parent_title: Lessons
@@ -16,7 +16,7 @@ parent_permalink: /lessons/
 
 # Explore Topics in Lessons
 
-The following pages expand on the main **[Lessons]({{ '/lessons/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Lessons]({{ '/lessons/' | relative_url }})** page and cover its key branches in.
 
 - [Blank Passwords]({{ '/blank-passwords/' | relative_url }})
 - [Curiosity Risk]({{ '/curiosity-risk/' | relative_url }})

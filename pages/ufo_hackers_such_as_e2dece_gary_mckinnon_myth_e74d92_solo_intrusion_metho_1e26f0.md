@@ -274,15 +274,15 @@ image: /assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_
 
 ## Introduction
 
-One of the most misunderstood aspects of the Gary McKinnon story is the assumption that his access to US military and NASA systems required exceptionally advanced hacking techniques. The evidence that emerged during the case points in a different direction. McKinnon, using the online name “Solo”, repeatedly argued that many of the systems he entered were protected by remarkably weak security controls, including default or blank passwords and poorly configured remote-access software. The significance of the case lies not only in what he was looking for—alleged UFO-related information—but also in how far a determined outsider could travel through important networks by exploiting ordinary security failures rather than sophisticated espionage tools. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
+One of the most misunderstood aspects of the Gary McKinnon story is the assumption that his access to US military and NASA systems required exceptionally advanced hacking techniques. The evidence that emerged during the case points in a different direction. McKinnon, using the online name “Solo”, repeatedly argued that many of the systems he entered were protected by remarkably weak security controls, including default or blank passwords and poorly configured remote-access software. The significance of the case lies not only in what he was looking for—alleged UFO-related information—but also in how far a determined outsider could travel through important networks by exploiting ordinary security failures rather than sophisticated espionage tools.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-1-dark.svg" | relative_url }}" alt="Weak Access illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Did One Outsider Get So Far?
 
-The “Solo” intrusion method was less a single exploit than a pattern of persistence. According to accounts associated with the case, McKinnon spent long periods scanning internet-connected systems, searching for machines that exposed remote administration services. Once he found a vulnerable target, he looked for weak authentication practices rather than attempting to break strong encryption or defeat advanced security mechanisms. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
+The “Solo” intrusion method was less a single exploit than a pattern of persistence. According to accounts associated with the case, McKinnon spent long periods scanning internet-connected systems, searching for machines that exposed remote administration services. Once he found a vulnerable target, he looked for weak authentication practices rather than attempting to break strong encryption or defeat advanced security mechanisms.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
 
-Several descriptions of his activities refer to systems that either had no password protection on administrative accounts or still used default credentials. In [interviews]({{ 'interviews/' | relative_url }}) and later reporting, McKinnon claimed that some administrators had never changed factory-default settings and that many machines could be entered with little effort. The Guardian's reporting on the case highlighted his assertion that users had failed to change default passwords, including systems where “password” remained the password itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
+Several descriptions of his activities refer to systems that either had no password protection on administrative accounts or still used default credentials. In [interviews]({{ 'interviews/' | relative_url }}) and later reporting, McKinnon claimed that some administrators had never changed factory-default settings and that many machines could be entered with little effort. The Guardian's reporting on the case highlighted his assertion that users had failed to change default passwords, including systems where “password” remained the password itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
 
 The method generally involved:
 
@@ -290,7 +290,7 @@ The method generally involved:
 * Looking for exposed remote-control software.
 * Testing for blank, weak or default administrator credentials.
 * Using trusted-user access once inside rather than continuously attacking security barriers.
-* Moving through connected systems that trusted authenticated users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
+* Moving through connected systems that trusted authenticated users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
 
 This approach explains why the case is often cited in cybersecurity discussions as an example of poor security hygiene creating large risks.
 
@@ -299,26 +299,26 @@ This approach explains why the case is often cited in cybersecurity discussions 
 
 ### The Role of Remote Administration Tools
 
-A recurring element in discussions of the McKinnon case is the use of remote administration software. Contemporary accounts and later technical commentary have linked some of the affected systems to remote-control products that allowed administrators to manage machines from a distance. When such software is configured with weak credentials, it can become an entry point rather than a security tool. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">How Gary Mckinnon did what he did?: r/hackingI know these guys are super rare, and also security was not that strong back in the...</span></span></span>
+A recurring element in discussions of the McKinnon case is the use of remote administration software. Contemporary accounts and later technical commentary have linked some of the affected systems to remote-control products that allowed administrators to manage machines from a distance. When such software is configured with weak credentials, it can become an entry point rather than a security tool.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">How Gary Mckinnon did what he did?: r/hackingI know these guys are super rare, and also security was not that strong back in the...</span></span></span>
 
-What made the situation especially serious was not merely that individual computers were vulnerable. Once an attacker obtained administrative privileges on one trusted machine, other connected resources could become accessible through normal network relationships. In effect, weak access controls on the edge of a network could provide a pathway into far more sensitive environments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
+What made the situation especially serious was not merely that individual computers were vulnerable. Once an attacker obtained administrative privileges on one trusted machine, other connected resources could become accessible through normal network relationships. In effect, weak access controls on the edge of a network could provide a pathway into far more sensitive environments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-2-dark.svg" | relative_url }}" alt="Weak Access illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Weak Security Mattered More Than Cinematic Hacking
 
-Popular culture often depicts government [intrusions]({{ 'intrusions/' | relative_url }}) as battles against impenetrable digital fortresses. The McKinnon case suggested a less dramatic reality. Much of the alleged access appears to have depended on basic weaknesses that security professionals had already been warning about for years: default passwords, poor account management, inadequate monitoring and excessive trust between systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
+Popular culture often depicts government [intrusions]({{ 'intrusions/' | relative_url }}) as battles against impenetrable digital fortresses. The McKinnon case suggested a less dramatic reality. Much of the alleged access appears to have depended on basic weaknesses that security professionals had already been warning about for years: default passwords, poor account management, inadequate monitoring and excessive trust between systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
 
-The contrast is important because it challenges the image of the lone genius defeating state-level security through extraordinary technical brilliance. Even commentators sympathetic to McKinnon's technical curiosity have noted that investigators portrayed him less as a master spy and more as someone who repeatedly encountered avoidable security failures. Reports from people familiar with the case describe him seeking known passwords and exploiting blank administrator credentials rather than developing novel attack techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">Future Intelligence Gary Mc Kinnon was unlucky</span><span class="citation-popover-snippet">He&#x27;s not even a very good hackerOct 18, 2012 — “He was asking for passwords to US systems and ways to access them that were common knowle...</span></span></span>
+The contrast is important because it challenges the image of the lone genius defeating state-level security through extraordinary technical brilliance. Even commentators sympathetic to McKinnon's technical curiosity have noted that investigators portrayed him less as a master spy and more as someone who repeatedly encountered avoidable security failures. Reports from people familiar with the case describe him seeking known passwords and exploiting blank administrator credentials rather than developing novel attack techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">Future Intelligence Gary Mc Kinnon was unlucky</span><span class="citation-popover-snippet">He&#x27;s not even a very good hackerOct 18, 2012 — “He was asking for passwords to US systems and ways to access them that were common knowle...</span></span></span>
 
-In cybersecurity terms, [weak passwords]({{ 'weak-passwords/' | relative_url }}) are dangerous because they remove the need for sophisticated intrusion methods altogether. A system protected by a predictable credential may fall to a simple login attempt, making advanced exploits unnecessary. Security research consistently identifies default and easily guessed passwords as a major source of compromise across both public and private networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-2289/8/11/159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Their advantages and disadvantages are listed...</span></span></span>
+In cybersecurity terms, [weak passwords]({{ 'weak-passwords/' | relative_url }}) are dangerous because they remove the need for sophisticated intrusion methods altogether. A system protected by a predictable credential may fall to a simple login attempt, making advanced exploits unnecessary. Security research consistently identifies default and easily guessed passwords as a major source of compromise across both public and private networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2504-2289/8/11/159" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Their advantages and disadvantages are listed...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ### Persistence Over Technical Sophistication
 
-A defining feature of the Solo method was persistence. McKinnon reportedly spent months searching, connecting and checking systems rather than relying on a single breakthrough. This patience increased the chances of eventually finding a machine whose administrators had overlooked basic security requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
+A defining feature of the Solo method was persistence. McKinnon reportedly spent months searching, connecting and checking systems rather than relying on a single breakthrough. This patience increased the chances of eventually finding a machine whose administrators had overlooked basic security requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
 
 That distinction matters when assessing the case. The lesson was not that government networks were helpless against elite cyber-warfare techniques. Rather, it was that even highly important organisations could be undermined when routine security practices were inconsistently applied.
 
@@ -326,205 +326,205 @@ That distinction matters when assessing the case. The lesson was not that govern
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-3-dark.svg" | relative_url }}" alt="Weak Access illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_solo_intrusion_metho_1e26f0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Case Revealed About Early-2000s Cyber Risk
 
-The McKinnon affair occurred during a transitional period in network security. Many organisations had expanded internet connectivity faster than they had adapted their security practices. Remote administration tools were common, network segmentation was often weaker than modern standards, and password policies varied widely across departments and contractors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://edepot.wur.nl/647124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edepot.wur.nl">[eDepot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edepot.wur.nl</span><span class="citation-popover-snippet">Cyber-threats, legacy systems and weakening segmentationby W Hurst · Cited by 22 — OT is increasing the visibility of basic securit...</span></span></span>
+The McKinnon affair occurred during a transitional period in network security. Many organisations had expanded internet connectivity faster than they had adapted their security practices. Remote administration tools were common, network segmentation was often weaker than modern standards, and password policies varied widely across departments and contractors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://edepot.wur.nl/647124" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: edepot.wur.nl">[eDepot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">edepot.wur.nl</span><span class="citation-popover-snippet">Cyber-threats, legacy systems and weakening segmentationby W Hurst · Cited by 22 — OT is increasing the visibility of basic securit...</span></span></span>
 
-The allegations outlined by US prosecutors involved dozens of military and NASA systems and described extensive unauthorised access across multiple agencies. Whether viewed through the lens of criminal prosecution or cybersecurity history, the case exposed the consequences of relying on weak authentication in complex networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+The allegations outlined by US prosecutors involved dozens of military and NASA systems and described extensive unauthorised access across multiple agencies. Whether viewed through the lens of criminal prosecution or cybersecurity history, the case exposed the consequences of relying on weak authentication in complex networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
-For readers interested in the broader “UFO hacker” narrative, this is one of the most important distinctions to understand. The enduring mystery concerns what McKinnon claimed he saw. The documented security lesson concerns how he got there. The available evidence points far more clearly to a story of weak passwords, exposed administrative tools and persistent searching than to one of revolutionary hacking techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
+For readers interested in the broader “UFO hacker” narrative, this is one of the most important distinctions to understand. The enduring mystery concerns what McKinnon claimed he saw. The documented security lesson concerns how he got there. The available evidence points far more clearly to a story of weak passwords, exposed administrative tools and persistent searching than to one of revolutionary hacking techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Hacker&#x27;s progress: how Mc Kinnon pierced Pentagon security</span><span class="citation-popover-snippet">The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</span><span class="citation-popover-meta">Published: April 3, 2007</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did One Outsider Get So Far?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did One Outsider Get So Far?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tfc0AQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tfc0AQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Explains intrusion techniques, persistence and social engineering.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains intrusion techniques, persistence and social engineering.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how seemingly simple intrusions can have major consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Shows how seemingly simple intrusions can have major consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cult+of+the+Dead+Cow+by+Joseph+Menn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cult of the Dead Cow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0RzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cult of the Dead Cow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cult+of+the+Dead+Cow+by+Joseph+Menn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cult of the Dead Cow">Cult of the Dead Cow</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Menn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cult+of+the+Dead+Cow+by+Joseph+Menn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cult of the Dead Cow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=x0RzDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cult of the Dead Cow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cult+of+the+Dead+Cow+by+Joseph+Menn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cult of the Dead Cow">Cult of the Dead Cow</a>
+</h4>
+<p class="fr-book-author">By Joseph Menn</p>
         
-        <p class="fr-book-desc">Provides background on hacker methods and communities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cult+of+the+Dead+Cow+by+Joseph+Menn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on hacker methods and communities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cult+of+the+Dead+Cow+by+Joseph+Menn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Kingpin+by+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kingpin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NM4cUHqiLcMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Kingpin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Kingpin+by+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kingpin">Kingpin</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Poulsen</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Illustrates practical exploitation of weak systems and trust.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Kingpin+by+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Kingpin+by+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kingpin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NM4cUHqiLcMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Kingpin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Kingpin+by+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kingpin">Kingpin</a>
+</h4>
+<p class="fr-book-author">By Kevin Poulsen</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Illustrates practical exploitation of weak systems and trust.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Kingpin+by+Kevin+Poulsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cult+of+the+Dead+Cow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cult of the Dead Cow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cult+of+the+Dead+Cow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cult of the Dead Cow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft"><img src="{{ '/assets/images/marketplace-covers/03f9b9f1db439abeea53.jpg' | relative_url }}" alt="Listing image for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft"><img src="{{ '/assets/images/marketplace-covers/03f9b9f1db439abeea53.jpg' | relative_url }}" alt="Listing image for Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Flying Saucer UFO Patent Wall Art: Sci-fi Gift, UFO Wall Art, Alien Spacecraft</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for See Ya, Alien spacecraft, Alien Abd Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8f1ca11d2c85c2636df3.jpg' | relative_url }}" alt="Listing image for See Ya, Alien spacecraft, Alien Abd Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">See Ya, Alien spacecraft, Alien Abd Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for See Ya, Alien spacecraft, Alien Abd Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/8f1ca11d2c85c2636df3.jpg' | relative_url }}" alt="Listing image for See Ya, Alien spacecraft, Alien Abd Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">See Ya, Alien spacecraft, Alien Abd Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA"><img src="{{ '/assets/images/marketplace-covers/ef5539a510be39cf556c.jpg' | relative_url }}" alt="Listing image for WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA"><img src="{{ '/assets/images/marketplace-covers/ef5539a510be39cf556c.jpg' | relative_url }}" alt="Listing image for WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">WAR IN SPACE Film TOHO ALIEN SPACECRAFT SCI-FI Movie Poster GALAXIAS JUN FUKUDA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacecraft Hovering Above Alien Landscape Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/12303b110b8eb2e33712.jpg' | relative_url }}" alt="Listing image for Spacecraft Hovering Above Alien Landscape Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spacecraft Hovering Above Alien Landscape Poster 18x24in</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spacecraft Hovering Above Alien Landscape Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/12303b110b8eb2e33712.jpg' | relative_url }}" alt="Listing image for Spacecraft Hovering Above Alien Landscape Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Spacecraft Hovering Above Alien Landscape Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft poster -book -books" data-ebay-reference="weak-access-how-did-one-outsider-get-so-far-ufo-hackers-such-alien-spacecraft-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ For readers interested in the broader “UFO hacker” narrative, this is one of
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ For readers interested in the broader “UFO hacker” narrative, this is one of
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ For readers interested in the broader “UFO hacker” narrative, this is one of
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ For readers interested in the broader “UFO hacker” narrative, this is one of
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ For readers interested in the broader “UFO hacker” narrative, this is one of
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,103 +730,103 @@ For readers interested in the broader “UFO hacker” narrative, this is one of
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Gary Mckinnon did what he did?: r/hackingI know these guys are super rare, and also security was not that strong back in the...</p></details>
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Gary Mckinnon did what he did?: r/hackingI know these guys are super rare, and also security was not that strong back in the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mdpi.com  
-   Link: <a href="https://www.mdpi.com/2504-2289/8/11/159" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-2289/8/11/159</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Their advantages and disadvantages are listed...</p></details>
+   Link:<a href="https://www.mdpi.com/2504-2289/8/11/159" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2504-2289/8/11/159</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Their advantages and disadvantages are listed...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theguardian.com  
    Title: The Guardian Hacker's progress: how [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) pierced Pentagon security  
-   Link: <a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</p></details>
    Published: April 3, 2007  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: futureintelligence.co.uk  
    Title: Future Intelligence Gary Mc Kinnon was unlucky  
-   Link: <a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hackerOct 18, 2012 — “He was asking for passwords to US systems and ways to access them that were common knowle...</p></details>
+   Link:<a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hackerOct 18, 2012 — “He was asking for passwords to US systems and ways to access them that were common knowle...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: edepot.wur.nl  
-   Link: <a href="https://edepot.wur.nl/647124" target="_blank" rel="noopener noreferrer nofollow">https://edepot.wur.nl/647124</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cyber-threats, legacy systems and weakening segmentationby W Hurst · Cited by 22 — OT is increasing the visibility of basic securit...</p></details>
+   Link:<a href="https://edepot.wur.nl/647124" target="_blank" rel="noopener noreferrer nofollow">https://edepot.wur.nl/647124</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cyber-threats, legacy systems and weakening segmentationby W Hurst · Cited by 22 — OT is increasing the visibility of basic securit...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonThe US government accused McKinnon of hacking into 97 United States military and NASA computers over a 13-month period be...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonThe US government accused McKinnon of hacking into 97 United States military and NASA computers over a 13-month period be...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: agid.gov.it  
    Title: Cybersecurity Basics LR  
-   Link: <a href="https://www.agid.gov.it/sites/agid/files/2025-12/CybersecurityBasics%20-%20LR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.agid.gov.it/sites/agid/files/2025-12/CybersecurityBasics%20-%20LR.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fondamenti di Cybersecurity3 Dec 2025 — ▫ If an intrusion occurs, it is likely that the security of the system is violated. Page 14. In p...</p></details>
+   Link:<a href="https://www.agid.gov.it/sites/agid/files/2025-12/CybersecurityBasics%20-%20LR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.agid.gov.it/sites/agid/files/2025-12/CybersecurityBasics%20-%20LR.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fondamenti di Cybersecurity3 Dec 2025 — ▫ If an intrusion occurs, it is likely that the security of the system is violated. Page 14. In p...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cscjournals.org  
-   Link: <a href="https://www.cscjournals.org/manuscript/Journals/IJS/Volume8/Issue1/IJS-131.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cscjournals.org/manuscript/Journals/IJS/Volume8/Issue1/IJS-131.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Password SecurityThis study investigates users&#x27; behavior in password utilization. Good password practices are critical to the security of...</p></details>
+   Link:<a href="https://www.cscjournals.org/manuscript/Journals/IJS/Volume8/Issue1/IJS-131.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cscjournals.org/manuscript/Journals/IJS/Volume8/Issue1/IJS-131.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Password SecurityThis study investigates users&#x27; behavior in password utilization. Good password practices are critical to the security of...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thesai.org  
-   Link: <a href="https://thesai.org/Downloads/Volume5No1/Paper_25-Wireless_LAN_Security_Threats_Vulnerabilities.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesai.org/Downloads/Volume5No1/Paper_25-Wireless_LAN_Security_Threats_Vulnerabilities.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wireless LAN Security Threats &amp; VulnerabilitiesThis paper discusses the various security issues and vulnerabilities related to the IEEE 8...</p></details>
+   Link:<a href="https://thesai.org/Downloads/Volume5No1/Paper_25-Wireless_LAN_Security_Threats_Vulnerabilities.pdf" target="_blank" rel="noopener noreferrer nofollow">https://thesai.org/Downloads/Volume5No1/Paper_25-Wireless_LAN_Security_Threats_Vulnerabilities.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wireless LAN Security Threats &amp; VulnerabilitiesThis paper discusses the various security issues and vulnerabilities related to the IEEE 8...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/617328327480084/posts/793396476539934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/793396476539934/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>03-01-26 JESSE MICHELS &quot;Gary McKinnon hacked into...All accessed with a Perl script scanning for blank passwords... GARY McKiNNON: USA...</p></details>
+   Link:<a href="https://www.facebook.com/groups/617328327480084/posts/793396476539934/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/617328327480084/posts/793396476539934/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>03-01-26 JESSE MICHELS &quot;Gary McKinnon hacked into...All accessed with a Perl script scanning for blank passwords... GARY McKiNNON: USA...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s [Secret Space Fleet](&amp;#123;&amp;#123; &#x27;space-fleet/&#x27; | relative_url &amp;#125;&amp;#125;)...Gary McKinnon hacked into 97 U.S. military and government sites in... The Lone H...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s [Secret Space Fleet](&amp;#123;&amp;#123; &#x27;space-fleet/&#x27; | relative_url &amp;#125;&amp;#125;)...Gary McKinnon hacked into 97 U.S. military and government sites in... The Lone H...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
    Title: Gary Mc Kinnon, a British hacker, accessed multiple U.S  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, a Scottish hacker, gained unauthorised access to dozens of U.S. military and NASA systems between February 2001 and March...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, a Scottish hacker, gained unauthorised access to dozens of U.S. military and NASA systems between February 2001 and March...</p></details>
    Published: February 2001  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXK5kOhCK3V/?img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXK5kOhCK3V/?img_index=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon broke into 97 US military systems hunting for UFO evidence.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXK5kOhCK3V/?img_index=2" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXK5kOhCK3V/?img_index=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon broke into 97 US military systems hunting for UFO evidence.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/237748045_A_developmental_perspective_on_weak_passwords_and_password_security" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237748045_A_developmental_perspective_on_weak_passwords_and_password_security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e for an important purpose, then asked how they had developed those passwords...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/237748045_A_developmental_perspective_on_weak_passwords_and_password_security" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/237748045_A_developmental_perspective_on_weak_passwords_and_password_security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e for an important purpose, then asked how they had developed those passwords...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cybereason.com  
    Title: Malicious Life Podcast: The U.S  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonGary McKinnon had managed to breach not just NASA, but nearly 100 computers from the U.S. Army, Air Force, and Departmen...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonGary McKinnon had managed to breach not just NASA, but nearly 100 computers from the U.S. Army, Air Force, and Departmen...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: bornoe.org  
    Title: HFES09 Hoonaker CIS  
-   Link: <a href="https://www.bornoe.org/papers/HFES09-Hoonaker-CIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bornoe.org/papers/HFES09-Hoonaker-CIS.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright 2009 by Human Factors and Ergonomics Society...by P Hoonakker · 2009 · Cited by 93 — A possible method to improve password sec...</p></details>
+   Link:<a href="https://www.bornoe.org/papers/HFES09-Hoonaker-CIS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bornoe.org/papers/HFES09-Hoonaker-CIS.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Copyright 2009 by Human Factors and Ergonomics Society...by P Hoonakker · 2009 · Cited by 93 — A possible method to improve password sec...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/2510.10246" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2510.10246</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>System Password Security: Attack and Defense Mechanismsby C Shi · 2025 · Cited by 4 — This paper conducts systematic research on system p...</p></details>
+   Link:<a href="https://arxiv.org/pdf/2510.10246" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2510.10246</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>System Password Security: Attack and Defense Mechanismsby C Shi · 2025 · Cited by 4 — This paper conducts systematic research on system p...</p></details>

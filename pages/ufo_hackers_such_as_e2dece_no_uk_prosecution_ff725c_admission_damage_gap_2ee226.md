@@ -277,18 +277,18 @@ image: /assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admiss
 
 ## Introduction
 
-One of the central misunderstandings in the Gary McKinnon case is the assumption that his public admissions automatically proved the entire American prosecution narrative. They did not. McKinnon openly acknowledged that he had accessed US military and NASA systems without authorisation, but a criminal case requires proof of specific offences and specific consequences. The gap between admitting access and proving the full scale of alleged damage became especially important when British authorities considered whether they could realistically prosecute him after extradition to the United States was blocked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise t...</span></span></span>
+One of the central misunderstandings in the Gary McKinnon case is the assumption that his public admissions automatically proved the entire American prosecution narrative. They did not. McKinnon openly acknowledged that he had accessed US military and NASA systems without authorisation, but a criminal case requires proof of specific offences and specific consequences. The gap between admitting access and proving the full scale of alleged damage became especially important when British authorities considered whether they could realistically prosecute him after extradition to the United States was blocked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise t...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-1-dark.svg" | relative_url }}" alt="Proof gap illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For UK prosecutors, the issue was not simply whether McKinnon had ever entered protected systems. The harder question was whether they could prove, in a British court and beyond reasonable doubt, the broader allegations advanced by US prosecutors, including system disruption, operational impact and hundreds of thousands of dollars in alleged losses. That distinction helps explain why a case that appeared straightforward in public discussion looked much more uncertain when examined through the standards of criminal evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
+For UK prosecutors, the issue was not simply whether McKinnon had ever entered protected systems. The harder question was whether they could prove, in a British court and beyond reasonable doubt, the broader allegations advanced by US prosecutors, including system disruption, operational impact and hundreds of thousands of dollars in alleged losses. That distinction helps explain why a case that appeared straightforward in public discussion looked much more uncertain when examined through the standards of criminal evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ## What a General Admission Could Prove
 
-McKinnon's own statements substantially reduced any dispute over basic unauthorised access. He repeatedly described searching US government systems while pursuing his belief that evidence relating to UFOs and advanced technologies had been concealed. Those admissions could potentially support charges centred on gaining access to computers without permission. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+McKinnon's own statements substantially reduced any dispute over basic unauthorised access. He repeatedly described searching US government systems while pursuing his belief that evidence relating to UFOs and advanced technologies had been concealed. Those admissions could potentially support charges centred on gaining access to computers without permission.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 However, admissions of conduct are not necessarily admissions of every legal element of an offence. A defendant may concede entering a system while disputing:
 
@@ -303,9 +303,9 @@ However, admissions of conduct are not necessarily admissions of every legal ele
 
 </div>
 
-In practical terms, a public statement such as "I hacked into the systems" is not the same thing as admitting every allegation contained in an [indictment]({{ 'indictment/' | relative_url }}). Prosecutors still have to connect the defendant to each charged act and establish the consequences that make the offence as serious as alleged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-title">v Lex Mc Kinnon v United States of America</span><span class="citation-popover-snippet">McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
+In practical terms, a public statement such as "I hacked into the systems" is not the same thing as admitting every allegation contained in an [indictment]({{ 'indictment/' | relative_url }}). Prosecutors still have to connect the defendant to each charged act and establish the consequences that make the offence as serious as alleged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-title">v Lex Mc Kinnon v United States of America</span><span class="citation-popover-snippet">McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
 
-This distinction mattered because the American case was not limited to proving that unauthorised access occurred. US authorities alleged extensive interference with government networks and claimed repair and recovery costs exceeding $700,000. Those additional claims required evidence separate from McKinnon's own public acknowledgements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-title">v Lex Mc Kinnon v United States of America</span><span class="citation-popover-snippet">McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
+This distinction mattered because the American case was not limited to proving that unauthorised access occurred. US authorities alleged extensive interference with government networks and claimed repair and recovery costs exceeding $700,000. Those additional claims required evidence separate from McKinnon's own public acknowledgements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-title">v Lex Mc Kinnon v United States of America</span><span class="citation-popover-snippet">McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/y4lecD44F5E" title="Gary McKinnon wins extradition battle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=y4lecD44F5E" target="_blank" rel="noopener noreferrer">Gary McKinnon wins extradition battle</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 8.0K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=y4lecD44F5E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=y4lecD44F5E">Open on YouTube</a></p></div></div></div>
@@ -314,7 +314,7 @@ This distinction mattered because the American case was not limited to proving t
 
 The evidential burden became much heavier once the case moved beyond basic access.
 
-According to the US allegations, McKinnon's activity affected dozens of military and NASA computers and led to substantial operational disruption. To prove such claims in court, prosecutors would typically need witnesses capable of explaining what happened on the systems, how investigators linked the activity to the accused, what damage occurred, and how loss figures were calculated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+According to the US allegations, McKinnon's activity affected dozens of military and NASA computers and led to substantial operational disruption. To prove such claims in court, prosecutors would typically need witnesses capable of explaining what happened on the systems, how investigators linked the activity to the accused, what damage occurred, and how loss figures were calculated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 For a British prosecution, several categories of proof would have been especially important:
 
@@ -324,25 +324,25 @@ For a British prosecution, several categories of proof would have been especiall
 
 **Financial loss.** Large damage figures are not self-proving. Courts generally require evidence showing how costs were calculated and which expenses were directly attributable to the defendant's conduct.
 
-**Operational consequences.** If prosecutors wished to rely on allegations involving military readiness, network outages or disruption of government functions, they would need witnesses able to explain those consequences and withstand cross-examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-title">v Lex Mc Kinnon v United States of America</span><span class="citation-popover-snippet">McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
+**Operational consequences.** If prosecutors wished to rely on allegations involving military readiness, network outages or disruption of government functions, they would need witnesses able to explain those consequences and withstand cross-examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-title">v Lex Mc Kinnon v United States of America</span><span class="citation-popover-snippet">McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
 
-The fact that many of these witnesses and records were located in the United States created a significant practical obstacle. The stronger the prosecution sought to make the damage case, the more dependent it became on American evidence and American personnel. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The Home Secretary has got compelling evidence today that the de...</span></span></span>
+The fact that many of these witnesses and records were located in the United States created a significant practical obstacle. The stronger the prosecution sought to make the damage case, the more dependent it became on American evidence and American personnel.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The Home Secretary has got compelling evidence today that the de...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-2-dark.svg" | relative_url }}" alt="Proof gap illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a Narrower UK Case Was Risky
 
-Once extradition was halted on [human-rights]({{ 'human-rights/' | relative_url }}) grounds, the Director of Public Prosecutions had to decide whether a domestic prosecution met the normal test for a realistic prospect of conviction. Theresa May's decision explicitly left that question to the prosecutorial authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise t...</span></span></span>
+Once extradition was halted on [human-rights]({{ 'human-rights/' | relative_url }}) grounds, the Director of Public Prosecutions had to decide whether a domestic prosecution met the normal test for a realistic prospect of conviction. Theresa May's decision explicitly left that question to the prosecutorial authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise t...</span></span></span>
 
 A theoretical option existed: bring a narrower UK case focused primarily on unauthorised access. Yet that approach carried its own risks.
 
-First, a reduced case might not have reflected the seriousness of the conduct alleged by the United States. The American indictment was built around a much broader narrative involving multiple systems, disruption and substantial losses. A prosecution stripped down to the most easily provable elements could have produced a result that prosecutors regarded as disproportionate to the allegations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-title">v Lex Mc Kinnon v United States of America</span><span class="citation-popover-snippet">McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
+First, a reduced case might not have reflected the seriousness of the conduct alleged by the United States. The American indictment was built around a much broader narrative involving multiple systems, disruption and substantial losses. A prosecution stripped down to the most easily provable elements could have produced a result that prosecutors regarded as disproportionate to the allegations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-title">v Lex Mc Kinnon v United States of America</span><span class="citation-popover-snippet">McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</span><span class="citation-popover-meta">Published: June 18, 2019</span></span></span>
 
-Second, even a narrower prosecution would still require admissible evidence gathered many years earlier. By 2012, the alleged conduct dated back to 2001–2002. Passage of time can complicate witness availability, recollection and evidential presentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">cps confirms gary mckinnon will not face charges in the uk</span><span class="citation-popover-snippet">IT ProCPS confirms Gary McKinnon will not face charges in the UKDec 17, 2012 — The Crown Prosecution Service (CPS) has confirmed that com...</span></span></span>
+Second, even a narrower prosecution would still require admissible evidence gathered many years earlier. By 2012, the alleged conduct dated back to 2001–2002. Passage of time can complicate witness availability, recollection and evidential presentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: itpro.com">[IT Pro]</a><span class="citation-popover" role="note"><span class="citation-popover-source">itpro.com</span><span class="citation-popover-title">cps confirms gary mckinnon will not face charges in the uk</span><span class="citation-popover-snippet">IT ProCPS confirms Gary McKinnon will not face charges in the UKDec 17, 2012 — The Crown Prosecution Service (CPS) has confirmed that com...</span></span></span>
 
-Third, prosecutors had to consider whether a jury would be presented with an incomplete picture. If the most serious allegations depended on evidence that was difficult to bring before a British court, the prosecution risked ending up with a weaker case than the public narrative surrounding the affair suggested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
+Third, prosecutors had to consider whether a jury would be presented with an incomplete picture. If the most serious allegations depended on evidence that was difficult to bring before a British court, the prosecution risked ending up with a weaker case than the public narrative surrounding the affair suggested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
 
-These concerns were reflected in the eventual decision that no further criminal action would be taken in Britain, with prosecutors and police concluding that the prospects of securing a conviction were poor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2Sky News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
+These concerns were reflected in the eventual decision that no further criminal action would be taken in Britain, with prosecutors and police concluding that the prospects of securing a conviction were poor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/viLcoe_xPMU" title="Gary McKinnon will not face prosecution in the UK" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=viLcoe_xPMU" target="_blank" rel="noopener noreferrer">Gary McKinnon will not face prosecution in the UK</a></p><p class="youtube-embed-meta">Channel: ITV News &middot; Views: 32.9K &middot; Uploaded: December 2012 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=viLcoe_xPMU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=viLcoe_xPMU">Open on YouTube</a></p></div></div></div>
@@ -351,202 +351,202 @@ These concerns were reflected in the eventual decision that no further criminal 
 
 The key mechanism is therefore a proof gap rather than a factual mystery. McKinnon's own statements could help establish that unauthorised access occurred. What they could not automatically establish was the full damage case advanced by US prosecutors.
 
-To transform allegations of widespread disruption and major financial loss into criminal convictions, prosecutors would have needed detailed technical evidence, credible witnesses, and proof linking particular consequences to particular actions. Much of that material was located in the United States and related to American government systems. As British authorities assessed the possibility of a domestic prosecution, the challenge was not proving that McKinnon had spoken publicly about hacking; it was proving the entire alleged chain of damage to the criminal standard required in court. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The Home Secretary has got compelling evidence today that the de...</span></span></span>
+To transform allegations of widespread disruption and major financial loss into criminal convictions, prosecutors would have needed detailed technical evidence, credible witnesses, and proof linking particular consequences to particular actions. Much of that material was located in the United States and related to American government systems. As British authorities assessed the possibility of a domestic prosecution, the challenge was not proving that McKinnon had spoken publicly about hacking; it was proving the entire alleged chain of damage to the criminal standard required in court.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The Home Secretary has got compelling evidence today that the de...</span></span></span>
 
-That distinction helps explain why admitting access and proving the full US case were never the same thing, and why the possibility of a UK prosecution appeared considerably weaker than many observers assumed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2theregister]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
+That distinction helps explain why admitting access and proving the full US case were never the same thing, and why the possibility of a UK prosecution appeared considerably weaker than many observers assumed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-3-dark.svg" | relative_url }}" alt="Proof gap illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c_admission_damage_gap_2ee226-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Admitting Access Was Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Admitting Access Was Not Enough. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saving Gary McKinnon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDjdmwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Saving Gary McKinnon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saving Gary McKinnon">Saving Gary McKinnon</a>
-        </h4>
-        <p class="fr-book-author">By Janis Sharp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Saving Gary McKinnon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mDjdmwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Saving Gary McKinnon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Saving Gary McKinnon">Saving Gary McKinnon</a>
+</h4>
+<p class="fr-book-author">By Janis Sharp</p>
         
-        <p class="fr-book-desc">Explains the extradition battle, prosecution issues, and why admissions alone did not resolve the legal case.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the extradition battle, prosecution issues, and why admissions alone did not resolve the legal case.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Saving+Gary+McKinnon+by+Janis+Sharp&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Explains how international computer intrusions are investigated and prosecuted across borders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Explains how international computer intrusions are investigated and prosecuted across borders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+Crime+by+Matthew+Richardson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iwXfxwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyber+Crime+by+Matthew+Richardson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber Crime">Cyber Crime</a>
-        </h4>
-        <p class="fr-book-author">By Matthew Richardson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+Crime+by+Matthew+Richardson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iwXfxwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyber+Crime+by+Matthew+Richardson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber Crime">Cyber Crime</a>
+</h4>
+<p class="fr-book-author">By Matthew Richardson</p>
         
-        <p class="fr-book-desc">Covers cybercrime offences, evidential requirements, and the challenge of proving damage and losses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyber+Crime+by+Matthew+Richardson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers cybercrime offences, evidential requirements, and the challenge of proving damage and losses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyber+Crime+by+Matthew+Richardson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Crimes+and+Digital+Investigations+by+Ian+Walden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Crimes and Digital Investigations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=earvoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Computer Crimes and Digital Investigations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Computer+Crimes+and+Digital+Investigations+by+Ian+Walden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Crimes and Digital Investigations">Computer Crimes and Digital Investigations</a>
-        </h4>
-        <p class="fr-book-author">By Ian Walden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Computer+Crimes+and+Digital+Investigations+by+Ian+Walden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Computer Crimes and Digital Investigations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=earvoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Computer Crimes and Digital Investigations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Computer+Crimes+and+Digital+Investigations+by+Ian+Walden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Computer Crimes and Digital Investigations">Computer Crimes and Digital Investigations</a>
+</h4>
+<p class="fr-book-author">By Ian Walden</p>
         
-        <p class="fr-book-desc">Provides context on computer-crime law, investigation standards, and cross-border enforcement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Computer+Crimes+and+Digital+Investigations+by+Ian+Walden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on computer-crime law, investigation standards, and cross-border enforcement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Computer+Crimes+and+Digital+Investigations+by+Ian+Walden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saving Gary McKinnon</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber Crime</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Saving+Gary+McKinnon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Saving Gary McKinnon</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber Crime</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT"><img src="https://i.ebayimg.com/images/g/inMAAOSwR2Vk5fsl/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE X-FILES ALIEN UFO POSTER -FRAMED ART PICTURE PAPER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set"><img src="{{ '/assets/images/marketplace-covers/0da566b69584e4c1ebe6.jpg' | relative_url }}" alt="Listing image for UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO TV Series Rare 9 Card Memorabilia 2003 Promo Preview Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="proof-gap-why-admitting-access-was-not-enough-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-admitting-access-was-not-enough-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-admitting-access-was-not-enough-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ That distinction helps explain why admitting access and proving the full US case
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ That distinction helps explain why admitting access and proving the full US case
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ That distinction helps explain why admitting access and proving the full US case
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ That distinction helps explain why admitting access and proving the full US case
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ That distinction helps explain why admitting access and proving the full US case
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,206 +752,206 @@ That distinction helps explain why admitting access and proving the full US case
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise t...</p></details>
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise t...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: theregister.com  
    Title: pentagon hacker mckinnon will not be prosecuted in the uk  
-   Link: <a href="https://www.theregister.com/offbeat/2012/12/14/pentagon-hacker-mckinnon-will-not-be-prosecuted-in-the-uk/1304890" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/offbeat/2012/12/14/pentagon-hacker-mckinnon-will-not-be-prosecuted-in-the-uk/1304890</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>That option was rejected.Read more...</p></details>
+   Link:<a href="https://www.theregister.com/offbeat/2012/12/14/pentagon-hacker-mckinnon-will-not-be-prosecuted-in-the-uk/1304890" target="_blank" rel="noopener noreferrer nofollow">https://www.theregister.com/offbeat/2012/12/14/pentagon-hacker-mckinnon-will-not-be-prosecuted-in-the-uk/1304890</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That option was rejected.Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: news.sky.com  
    Title: hacker gary mckinnon faces no further action 10460721  
-   Link: <a href="https://news.sky.com/story/hacker-gary-mckinnon-faces-no-further-action-10460721" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/hacker-gary-mckinnon-faces-no-further-action-10460721</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsHacker Gary McKinnon Faces No Further Action14 Dec 2012 — Computer hacker Gary McKinnon will face no further criminal action, the...</p></details>
+   Link:<a href="https://news.sky.com/story/hacker-gary-mckinnon-faces-no-further-action-10460721" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/hacker-gary-mckinnon-faces-no-further-action-10460721</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsHacker Gary McKinnon Faces No Further Action14 Dec 2012 — Computer hacker Gary McKinnon will face no further criminal action, the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: assets.publishing.service.gov.uk  
    Title: public consultation 7  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7ad76ce5274a34770e77c2/public-consultation-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ad76ce5274a34770e77c2/public-consultation-7.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review Consultation submission31 Dec 2010 — the alleged financial damage against Gary was for basic computer security that the American a...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7ad76ce5274a34770e77c2/public-consultation-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ad76ce5274a34770e77c2/public-consultation-7.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review Consultation submission31 Dec 2010 — the alleged financial damage against Gary was for basic computer security that the American a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: GOV.UK  
    Title: theresa may statement on gary mckinnon extradition  
-   Link: <a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May statement on Gary McKinnon extradition16 Oct 2012 — I have therefore withdrawn the extradition order against Mr McKinnon. It will now...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May statement on Gary McKinnon extradition16 Oct 2012 — I have therefore withdrawn the extradition order against Mr McKinnon. It will now...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
    Title: Gary Mc Kinnon will not face prosecution in the UK  
-   Link: <a href="https://www.youtube.com/watch?v=viLcoe_xPMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viLcoe_xPMU</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=viLcoe_xPMU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=viLcoe_xPMU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: itpro.com  
    Title: cps confirms gary mckinnon will not face charges in the uk  
-   Link: <a href="https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IT ProCPS confirms Gary McKinnon will not face charges in the UKDec 17, 2012 — The Crown Prosecution Service (CPS) has confirmed that com...</p></details>
+   Link:<a href="https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.itpro.com/644716/cps-confirms-gary-mckinnon-will-not-face-charges-in-the-uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IT ProCPS confirms Gary McKinnon will not face charges in the UKDec 17, 2012 — The Crown Prosecution Service (CPS) has confirmed that com...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: gary mckinnon lodges challenge extradition  
-   Link: <a href="https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon challenges extradition10 Dec 2009 — McKinnon, from north London, was accused in 2002 of using his home computer to hack int...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/dec/10/gary-mckinnon-lodges-challenge-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon challenges extradition10 Dec 2009 — McKinnon, from north London, was accused in 2002 of using his home computer to hack int...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vlex.co.uk  
    Title: v Lex Mc Kinnon v United States of America  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</p></details>
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaJune 18, 2019 — As a result of his conduct, damage was caused to computers by impairing their inte...</p></details>
    Published: June 18, 2019  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Gary Mc Kinnon (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The Home Secretary has got compelling evidence today that the de...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The Home Secretary has got compelling evidence today that the de...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/54838/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/54838/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesEXL0080 - Evidence on Extradition LawAstoundingly, more than a decade after the U.S indictment; on the 14th Decem...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/54838/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/54838/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesEXL0080 - Evidence on Extradition LawAstoundingly, more than a decade after the U.S indictment; on the 14th Decem...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: parliament.uk  
-   Link: <a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on Gary McKinnonSecretary of State for the Home Department, Theresa May made a statement in the House of Commons on Tuesday 16...</p></details>
+   Link:<a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement on Gary McKinnonSecretary of State for the Home Department, Theresa May made a statement in the House of Commons on Tuesday 16...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: hansard.parliament.uk  
    Title: uk Extradition  
-   Link: <a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament16 Oct 2012 — On behalf of the Joint Committee on Human Rights, I warmly welcome the Home Secretary&#x27;s decision on...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament16 Oct 2012 — On behalf of the Joint Committee on Human Rights, I warmly welcome the Home Secretary&#x27;s decision on...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It damaged...Read more...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It damaged...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: gary mckinnon theresa may claims  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May accused of taking &#x27;easy way out&#x27; over Gary...18 Oct 2012 — Theresa May told US authorities in July that there were no legal...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May accused of taking &#x27;easy way out&#x27; over Gary...18 Oct 2012 — Theresa May told US authorities in July that there were no legal...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: gary mckinnon feels set free  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon feels &#x27;set free&#x27; after US extradition decision17 Oct 2012 — The computer hacker whose extradition to the US was blocked by...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon feels &#x27;set free&#x27; after US extradition decision17 Oct 2012 — The computer hacker whose extradition to the US was blocked by...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: gary mckinnon  
-   Link: <a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp](&amp;#123;&amp;#123; &#x27;janis-sharp/&#x27; | relative_url &amp;#125;&amp;#125;). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
+   Link:<a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp](&amp;#123;&amp;#123; &#x27;janis-sharp/&#x27; | relative_url &amp;#125;&amp;#125;). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
    Published: December 2012  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
    Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon timeline: events leading up to extradition...16 Oct 2012 — British computer hacker Gary McKinnon has been living under the...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon timeline: events leading up to extradition...16 Oct 2012 — British computer hacker Gary McKinnon has been living under the...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May had no choice but to use...16 Oct 2012 — Theresa May must have found it galling to use the despised Human Rig...</p></details>
+   Link:<a href="https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May had no choice but to use...16 Oct 2012 — Theresa May must have found it galling to use the despised Human Rig...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition halted by Theresa May – videoThe home secretary announces the withdrawal of an extradition order to the United...</p></details>
+   Link:<a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition halted by Theresa May – videoThe home secretary announces the withdrawal of an extradition order to the United...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: gary mckinnon not extradited may  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon will not be extradited to US, Theresa May...16 Oct 2012 — The home secretary, Theresa May, defied the American authorities...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon will not be extradited to US, Theresa May...16 Oct 2012 — The home secretary, Theresa May, defied the American authorities...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: judges speed gary mckinnon case  
-   Link: <a href="https://www.theguardian.com/world/2012/jan/27/judges-speed-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/jan/27/judges-speed-gary-mckinnon-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High court judges attempt to speed up Gary McKinnon caseJan 27, 2012 — The high court has expressed concern over the length of time it is...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/jan/27/judges-speed-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/jan/27/judges-speed-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High court judges attempt to speed up Gary McKinnon caseJan 27, 2012 — The high court has expressed concern over the length of time it is...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: itv.com  
    Title: gary mckinnon  
-   Link: <a href="https://www.itv.com/news/story/2012-12-14/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2012-12-14/gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No charges against US hacker14 Dec 2012 — Gary McKinnon, whose extradition to face charges of accessing U.S. government computers was hal...</p></details>
+   Link:<a href="https://www.itv.com/news/story/2012-12-14/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.itv.com/news/story/2012-12-14/gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>No charges against US hacker14 Dec 2012 — Gary McKinnon, whose extradition to face charges of accessing U.S. government computers was hal...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IndictmentGARY MCKINNON did knowingly cause the transmission of codes, information and commands, and as a result of such conduct, intenti...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IndictmentGARY MCKINNON did knowingly cause the transmission of codes, information and commands, and as a result of such conduct, intenti...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: mytheresa.com  
-   Link: <a href="https://www.mytheresa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mytheresa.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Finest Edit in LuxuryMytheresa offers you the finest edit in luxury! Fall in love with over 200 international designer br...</p></details>
+   Link:<a href="https://www.mytheresa.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.mytheresa.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Finest Edit in LuxuryMytheresa offers you the finest edit in luxury! Fall in love with over 200 international designer br...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: libertyhumanrights.org.uk  
-   Link: <a href="https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf</a>  
+   Link:<a href="https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: ukhumanrightsblog.com  
    Title: gary mckinnon price charles letters and free speech the human rights roundup  
-   Link: <a href="https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/" target="_blank" rel="noopener noreferrer nofollow">https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, Prince Charles&#x27; letters and free speech22 Oct 2012 — As was widely reported last week, Gary McKinnon will not be extradite...</p></details>
+   Link:<a href="https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/" target="_blank" rel="noopener noreferrer nofollow">https://ukhumanrightsblog.com/2012/10/22/gary-mckinnon-price-charles-letters-and-free-speech-the-human-rights-roundup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, Prince Charles&#x27; letters and free speech22 Oct 2012 — As was widely reported last week, Gary McKinnon will not be extradite...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: newstatesman.com  
    Title: theresa may blocks gary mckinnon [extradition human](&#123;&#123; 'extradition-469899/' | relative_url &#125;&#125;) rights grounds  
-   Link: <a href="https://www.newstatesman.com/politics/2012/10/theresa-may-blocks-gary-mckinnon-extradition-human-rights-grounds" target="_blank" rel="noopener noreferrer nofollow">https://www.newstatesman.com/politics/2012/10/theresa-may-blocks-gary-mckinnon-extradition-human-rights-grounds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May blocks Gary McKinnon extradition on &quot;human...16 Oct 2012 — In a statement to the House of Commons, Theresa May has just anno...</p></details>
+   Link:<a href="https://www.newstatesman.com/politics/2012/10/theresa-may-blocks-gary-mckinnon-extradition-human-rights-grounds" target="_blank" rel="noopener noreferrer nofollow">https://www.newstatesman.com/politics/2012/10/theresa-may-blocks-gary-mckinnon-extradition-human-rights-grounds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May blocks Gary McKinnon extradition on &quot;human...16 Oct 2012 — In a statement to the House of Commons, Theresa May has just anno...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: rgu-repository.worktribe.com  
    Title: hackers beware the cautionary story of gary mckinnon  
-   Link: <a href="https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>beware: the cautionary story of Gary McKinnon.The case of Gary McKinnon provides one such example. This article describes and analyses th...</p></details>
+   Link:<a href="https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>beware: the cautionary story of Gary McKinnon.The case of Gary McKinnon provides one such example. This article describes and analyses th...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: disabilitynewsservice.com  
    Title: end of mckinnons 10 year ordeal raises new questions  
-   Link: <a href="https://www.disabilitynewsservice.com/end-of-mckinnons-10-year-ordeal-raises-new-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.disabilitynewsservice.com/end-of-mckinnons-10-year-ordeal-raises-new-questions/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>End of McKinnon&#x27;s 10-year ordeal raises new questions2 Oct 2012 — Theresa May, the Conservative home secretary, announced this week that...</p></details>
+   Link:<a href="https://www.disabilitynewsservice.com/end-of-mckinnons-10-year-ordeal-raises-new-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.disabilitynewsservice.com/end-of-mckinnons-10-year-ordeal-raises-new-questions/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>End of McKinnon&#x27;s 10-year ordeal raises new questions2 Oct 2012 — Theresa May, the Conservative home secretary, announced this week that...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: aameranwar.co.uk  
    Title: hacker gary mackinnons extradition to us stopped  
-   Link: <a href="https://aameranwar.co.uk/hacker-gary-mackinnons-extradition-to-us-stopped" target="_blank" rel="noopener noreferrer nofollow">https://aameranwar.co.uk/hacker-gary-mackinnons-extradition-to-us-stopped</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aamer Anwar &amp; Co.HACKER GARY MACKINNON&#x27;S EXTRADITION TO US...14 Dec 2012 — A RELIEVED Gary McKinnon wept with joy yesterday after being...</p></details>
+   Link:<a href="https://aameranwar.co.uk/hacker-gary-mackinnons-extradition-to-us-stopped" target="_blank" rel="noopener noreferrer nofollow">https://aameranwar.co.uk/hacker-gary-mackinnons-extradition-to-us-stopped</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aamer Anwar &amp; Co.HACKER GARY MACKINNON&#x27;S EXTRADITION TO US...14 Dec 2012 — A RELIEVED Gary McKinnon wept with joy yesterday after being...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=y4lecD44F5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y4lecD44F5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon wins extradition battleGary McKinnon&#x27;s mother Janis Sharp praises Home Secretary Theresa May for her &quot;incredibly brave deci...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=y4lecD44F5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y4lecD44F5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon wins extradition battleGary McKinnon&#x27;s mother Janis Sharp praises Home Secretary Theresa May for her &quot;incredibly brave deci...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: silicon.co.uk  
    Title: gary mckinnon cps uk charges 102027  
-   Link: <a href="https://www.silicon.co.uk/workspace/gary-mckinnon-cps-uk-charges-102027" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/workspace/gary-mckinnon-cps-uk-charges-102027</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon To Face No UK Charges But Fight With US...14 Dec 2012 — Gary McKinnon is close to ending his nightmare decade as UK offici...</p></details>
+   Link:<a href="https://www.silicon.co.uk/workspace/gary-mckinnon-cps-uk-charges-102027" target="_blank" rel="noopener noreferrer nofollow">https://www.silicon.co.uk/workspace/gary-mckinnon-cps-uk-charges-102027</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon To Face No UK Charges But Fight With US...14 Dec 2012 — Gary McKinnon is close to ending his nightmare decade as UK offici...</p></details>

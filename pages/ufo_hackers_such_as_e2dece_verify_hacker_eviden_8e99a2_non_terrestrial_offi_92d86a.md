@@ -274,7 +274,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_verify_hacker_eviden_8e99a2_non
 
 ## Introduction
 
-The phrase “Non-Terrestrial Officers” is one of the most frequently repeated elements of Gary McKinnon’s UFO hacking story. It sounds dramatic, and at first glance it appears to imply personnel operating beyond Earth. Yet the central problem is that the alleged spreadsheet has never been released, independently examined, or authenticated. What exists publicly is not a document but a description of a document. That distinction is crucial when evaluating evidence. McKinnon has consistently claimed that he saw an Excel spreadsheet with that title and that it contained names, ranks, and transfer information, but neither the file itself nor any verifiable copy is available for public scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+The phrase “Non-Terrestrial Officers” is one of the most frequently repeated elements of Gary McKinnon’s UFO hacking story. It sounds dramatic, and at first glance it appears to imply personnel operating beyond Earth. Yet the central problem is that the alleged spreadsheet has never been released, independently examined, or authenticated. What exists publicly is not a document but a description of a document. That distinction is crucial when evaluating evidence. McKinnon has consistently claimed that he saw an Excel spreadsheet with that title and that it contained names, ranks, and transfer information, but neither the file itself nor any verifiable copy is available for public scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_verify_hacker_eviden_8e99a2_non_terrestrial_offi_92d86a-Illustration-1-dark.svg" | relative_url }}" alt="NTO Claim illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_verify_hacker_eviden_8e99a2_non_terrestrial_offi_92d86a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_verify_hacker_eviden_8e99a2_non_terrestrial_offi_92d86a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -282,17 +282,17 @@ For anyone trying to verify alleged UFO hacker evidence, the spreadsheet is a us
 
 ## The Reported Spreadsheet Claim
 
-The most detailed public description comes from McKinnon's own accounts. In [interviews]({{ 'interviews/' | relative_url }}), he stated that he accessed an Excel spreadsheet titled “Non-Terrestrial Officers” and that it contained names and ranks of personnel as well as information about [transfers]({{ 'transfers/' | relative_url }}) between ships. He suggested that some ship names did not correspond to vessels he could identify through public searches. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+The most detailed public description comes from McKinnon's own accounts. In [interviews]({{ 'interviews/' | relative_url }}), he stated that he accessed an Excel spreadsheet titled “Non-Terrestrial Officers” and that it contained names and ranks of personnel as well as information about [transfers]({{ 'transfers/' | relative_url }}) between ships. He suggested that some ship names did not correspond to vessels he could identify through public searches.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
-The phrase quickly became a focal point because it appears to offer something more concrete than a fleeting visual observation. An alleged image can be dismissed as misidentification; a spreadsheet title sounds like a record generated by an organisation. That difference helped the claim gain traction among those interested in secret-space-program theories. Over time, secondary [retellings]({{ 'retellings/' | relative_url }}) often transformed the spreadsheet from an alleged document into presumed evidence, even though no independent researcher has been able to inspect the underlying file. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socialecologies.wordpress.com">[socialecologies.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socialecologies.wordpress.com</span><span class="citation-popover-title">gary mckinnon the ufo image in nasa building 8</span><span class="citation-popover-snippet">Gary McKinnon: The UFO Image in Nasa Building “8”Dec 3, 2025 — Darren Perks extracted McKinnon&#x27;s reference to “non terrestrial officers,”...</span></span></span>
+The phrase quickly became a focal point because it appears to offer something more concrete than a fleeting visual observation. An alleged image can be dismissed as misidentification; a spreadsheet title sounds like a record generated by an organisation. That difference helped the claim gain traction among those interested in secret-space-program theories. Over time, secondary [retellings]({{ 'retellings/' | relative_url }}) often transformed the spreadsheet from an alleged document into presumed evidence, even though no independent researcher has been able to inspect the underlying file.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: socialecologies.wordpress.com">[socialecologies.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">socialecologies.wordpress.com</span><span class="citation-popover-title">gary mckinnon the ufo image in nasa building 8</span><span class="citation-popover-snippet">Gary McKinnon: The UFO Image in Nasa Building “8”Dec 3, 2025 — Darren Perks extracted McKinnon&#x27;s reference to “non terrestrial officers,”...</span></span></span>
 
-The key evidential fact remains unchanged: the public does not possess the spreadsheet itself. Without the original file, observers cannot verify the title, inspect the contents, determine where it was stored, identify who created it, or establish whether it was an operational record, a draft, a training file, a simulation, or something else entirely. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+The key evidential fact remains unchanged: the public does not possess the spreadsheet itself. Without the original file, observers cannot verify the title, inspect the contents, determine where it was stored, identify who created it, or establish whether it was an operational record, a draft, a training file, a simulation, or something else entirely.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
 ## Why a Strange Phrase Is Not Self-Explanatory
 
 The strongest reason for caution is that bureaucratic terminology often means something very different from what an outsider initially assumes.
 
-The phrase “non-terrestrial” sounds extraordinary because most people associate it with extraterrestrial life. However, the words themselves simply mean “not on Earth”. Even McKinnon has acknowledged this linguistic distinction in later discussions, noting that “non-terrestrial” does not automatically mean alien. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: singjupost.com">[The Singju Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">singjupost.com</span><span class="citation-popover-title">transcript the lone hacker that found nasas secret ufo fleet american alchemy</span><span class="citation-popover-snippet">GARY MCKINNON: I think I was on a Navy system at the time — I can&#x27;t remember, cloud of...Read more...</span></span></span>
+The phrase “non-terrestrial” sounds extraordinary because most people associate it with extraterrestrial life. However, the words themselves simply mean “not on Earth”. Even McKinnon has acknowledged this linguistic distinction in later discussions, noting that “non-terrestrial” does not automatically mean alien.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: singjupost.com">[The Singju Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">singjupost.com</span><span class="citation-popover-title">transcript the lone hacker that found nasas secret ufo fleet american alchemy</span><span class="citation-popover-snippet">GARY MCKINNON: I think I was on a Navy system at the time — I can&#x27;t remember, cloud of...Read more...</span></span></span>
 
 When investigators evaluate a document, they do not treat a title as proof of its apparent meaning. They ask questions such as:
 
@@ -372,199 +372,199 @@ As a result, both believers and sceptics are operating with the same fundamental
 
 The enduring fascination of the “Non-Terrestrial Officers” claim comes from the gap between the phrase's apparent significance and the lack of accessible evidence behind it. The title sounds remarkable, yet the evidential foundation is unusually thin.
 
-McKinnon's account may accurately describe what he remembers seeing. The problem is that memory, description, and interpretation are not the same thing as a preserved digital record. The spreadsheet's title has survived in public discussion, but the spreadsheet itself has not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+McKinnon's account may accurately describe what he remembers seeing. The problem is that memory, description, and interpretation are not the same thing as a preserved digital record. The spreadsheet's title has survived in public discussion, but the spreadsheet itself has not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
-For the specific question of UFO hacker evidence, that makes the spreadsheet less important as proof of a hidden programme than as an example of a broader verification challenge. A striking phrase can inspire years of speculation, but until the underlying artefact can be examined, authenticated, and placed in context, it cannot reliably establish what it appears to imply. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2socialecologies.wordpress.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+For the specific question of UFO hacker evidence, that makes the spreadsheet less important as proof of a hidden programme than as an example of a broader verification challenge. A striking phrase can inspire years of speculation, but until the underlying artefact can be examined, authenticated, and placed in context, it cannot reliably establish what it appears to imply.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Would &#x27;Non Terrestrial Officers&#x27; Actually Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Would &#x27;Non Terrestrial Officers&#x27; Actually Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines documentary claims and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines documentary claims and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Addresses extraordinary government-related claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses extraordinary government-related claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
-        </h4>
-        <p class="fr-book-author">By Eoghan Casey</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Digital Evidence and Computer Crime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6gCbJ4O4f-IC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Digital Evidence and Computer Crime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Digital Evidence and Computer Crime">Digital Evidence and Computer Crime</a>
+</h4>
+<p class="fr-book-author">By Eoghan Casey</p>
         
-        <p class="fr-book-desc">Useful for assessing whether a spreadsheet claim can be verified.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for assessing whether a spreadsheet claim can be verified.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Digital+Evidence+and+Computer+Crime+by+Eoghan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores interpretation of extraordinary narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores interpretation of extraordinary narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Digital+Evidence+Computer+Crime&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Digital Evidence Computer Crime</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992"><img src="{{ '/assets/images/marketplace-covers/47d40d130262d27a215c.jpg' | relative_url }}" alt="Listing image for Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 3 ORIGINAL Quad Film Poster Sigourney Weaver David Fincher 1992</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/d36e3ebcf7ff5c84331e.jpg' | relative_url }}" alt="Listing image for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/d36e3ebcf7ff5c84331e.jpg' | relative_url }}" alt="Listing image for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster -book -books" data-ebay-reference="nto-claim-what-would-non-terrestrial-officers-actually-prove-ufo-hackers-such-alien-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ For the specific question of UFO hacker evidence, that makes the spreadsheet les
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ For the specific question of UFO hacker evidence, that makes the spreadsheet les
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ For the specific question of UFO hacker evidence, that makes the spreadsheet les
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ For the specific question of UFO hacker evidence, that makes the spreadsheet les
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ For the specific question of UFO hacker evidence, that makes the spreadsheet les
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,87 +770,87 @@ For the specific question of UFO hacker evidence, that makes the spreadsheet les
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: socialecologies.wordpress.com  
    Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
-   Link: <a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The UFO Image in Nasa Building “8”Dec 3, 2025 — Darren Perks extracted McKinnon&#x27;s reference to “non terrestrial officers,”...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The UFO Image in Nasa Building “8”Dec 3, 2025 — Darren Perks extracted McKinnon&#x27;s reference to “non terrestrial officers,”...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he could learn about aliens. They&#x27;re...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he could learn about aliens. They&#x27;re...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: singjupost.com  
    Title: transcript the lone hacker that found nasas secret ufo fleet american alchemy  
-   Link: <a href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GARY MCKINNON: I think I was on a Navy system at the time — I can&#x27;t remember, cloud of...Read more...</p></details>
+   Link:<a href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GARY MCKINNON: I think I was on a Navy system at the time — I can&#x27;t remember, cloud of...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: podmust.com  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s NASA hack stor...</p></details>
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s NASA hack stor...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonHe described traversing through NASA&#x27;s networks as being like, quote, “walking into ano...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonHe described traversing through NASA&#x27;s networks as being like, quote, “walking into ano...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/justlearning/posts/meet-gary-mckinnon-the-british-man-behind-the-biggest-military-computer-hack-in-/1117937373681992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/justlearning/posts/meet-gary-mckinnon-the-british-man-behind-the-biggest-military-computer-hack-in-/1117937373681992/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Gary McKinnon, the British man behind the biggest...What he found was apparent evidence of a secret space program, including refere...</p></details>
+   Link:<a href="https://www.facebook.com/justlearning/posts/meet-gary-mckinnon-the-british-man-behind-the-biggest-military-computer-hack-in-/1117937373681992/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/justlearning/posts/meet-gary-mckinnon-the-british-man-behind-the-biggest-military-computer-hack-in-/1117937373681992/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Meet Gary McKinnon, the British man behind the biggest...What he found was apparent evidence of a secret space program, including refere...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert Gary McKinnon candidly revealed detail on his NASA data...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — IT expert Gary McKinnon candidly revealed detail on his NASA data...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: blackhatethicalhacking.com  
    Title: gary mckinnon and the biggest military computer hack of all time  
-   Link: <a href="https://www.blackhatethicalhacking.com/articles/gary-mckinnon-and-the-biggest-military-computer-hack-of-all-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.blackhatethicalhacking.com/articles/gary-mckinnon-and-the-biggest-military-computer-hack-of-all-time/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking Stories: Gary McKinnon and the &quot;biggest military...16 Nov 2020 — He discovered an Excel spreadsheet titled “Non-Terrestrial Offi...</p></details>
+   Link:<a href="https://www.blackhatethicalhacking.com/articles/gary-mckinnon-and-the-biggest-military-computer-hack-of-all-time/" target="_blank" rel="noopener noreferrer nofollow">https://www.blackhatethicalhacking.com/articles/gary-mckinnon-and-the-biggest-military-computer-hack-of-all-time/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking Stories: Gary McKinnon and the &quot;biggest military...16 Nov 2020 — He discovered an Excel spreadsheet titled “Non-Terrestrial Offi...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cybernews.com  
    Title: hacker who breached nasa trying prove ufo existence  
-   Link: <a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon discovered a classified personnel roster. His trembling fingers traced the words &quot;Non-Terrestrial Officers.&quot; The Excel spreadshe...</p></details>
+   Link:<a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon discovered a classified personnel roster. His trembling fingers traced the words &quot;Non-Terrestrial Officers.&quot; The Excel spreadshe...</p></details>

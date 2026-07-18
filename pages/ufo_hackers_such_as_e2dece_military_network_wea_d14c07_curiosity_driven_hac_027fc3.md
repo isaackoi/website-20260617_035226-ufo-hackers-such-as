@@ -280,15 +280,15 @@ image: /assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07_cur
 
 ## Introduction
 
-Gary McKinnon’s case is often remembered for its unusual [motive]({{ 'motive/' | relative_url }}): he said he was searching for evidence of UFOs, advanced technology and government cover-ups. Yet the legal and security significance of the case lay elsewhere. For prosecutors and defence officials, the central issue was not why an intruder entered military and NASA systems, but what that access revealed about the vulnerability of networks connected to national defence. Allegations that military computers were disrupted, passwords were exposed and operational systems were impaired transformed the case from an eccentric UFO story into a cyber-security warning. The controversy illustrates a principle that has become increasingly important in cyber governance: curiosity may explain an intrusion, but it does not reduce the risks created when sensitive government systems are compromised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+Gary McKinnon’s case is often remembered for its unusual [motive]({{ 'motive/' | relative_url }}): he said he was searching for evidence of UFOs, advanced technology and government cover-ups. Yet the legal and security significance of the case lay elsewhere. For prosecutors and defence officials, the central issue was not why an intruder entered military and NASA systems, but what that access revealed about the vulnerability of networks connected to national defence. Allegations that military computers were disrupted, passwords were exposed and operational systems were impaired transformed the case from an eccentric UFO story into a cyber-security warning. The controversy illustrates a principle that has become increasingly important in cyber governance: curiosity may explain an intrusion, but it does not reduce the risks created when sensitive government systems are compromised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07_curiosity_driven_hac_027fc3-Illustration-1-dark.svg" | relative_url }}" alt="Motive vs Risk illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07_curiosity_driven_hac_027fc3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07_curiosity_driven_hac_027fc3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Motive and System Impact Became Separate Questions
 
-A recurring theme in the McKinnon case was the gap between intent and consequence. McKinnon publicly described himself as a seeker of hidden information rather than a spy, saboteur or financially motivated criminal. His stated goal was to find evidence related to UFOs and suppressed technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+A recurring theme in the McKinnon case was the gap between intent and consequence. McKinnon publicly described himself as a seeker of hidden information rather than a spy, saboteur or financially motivated criminal. His stated goal was to find evidence related to UFOs and suppressed technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
-From a national-security perspective, however, officials treated motive as a secondary issue. The concern was that an unauthorised user had allegedly gained access to dozens of military and NASA systems, obtained administrative privileges and moved through networks that were expected to be protected from outsiders. Prosecutors alleged [intrusions]({{ 'intrusions/' | relative_url }}) into Army, Navy, Air Force, Department of Defense and NASA computers, framing the matter as a serious computer-crime case regardless of the intruder’s personal interests. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+From a national-security perspective, however, officials treated motive as a secondary issue. The concern was that an unauthorised user had allegedly gained access to dozens of military and NASA systems, obtained administrative privileges and moved through networks that were expected to be protected from outsiders. Prosecutors alleged [intrusions]({{ 'intrusions/' | relative_url }}) into Army, Navy, Air Force, Department of Defense and NASA computers, framing the matter as a serious computer-crime case regardless of the intruder’s personal interests.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 This distinction reflects a broader governance principle. Security systems are designed to protect information and operational capability, not to judge the subjective intentions of everyone who attempts access. An individual searching for unusual documents may expose the same weaknesses that could later be exploited by hostile intelligence services, criminal groups or military adversaries. Once unauthorised access exists, the security risk arises from capability and opportunity rather than declared motive.
 
@@ -297,16 +297,16 @@ This distinction reflects a broader governance principle. Security systems are d
 
 ## Why Disruption Claims Changed the Public Meaning of the Case
 
-The public discussion of McKinnon often focused on UFO claims, but prosecutors and military officials emphasised allegations of disruption. According to US authorities, the intrusions caused significant operational problems and substantial remediation costs. Officials alleged that military networks were impaired, that systems became unavailable, and that extensive effort was required to investigate and restore affected computers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find ou...</span></span></span>
+The public discussion of McKinnon often focused on UFO claims, but prosecutors and military officials emphasised allegations of disruption. According to US authorities, the intrusions caused significant operational problems and substantial remediation costs. Officials alleged that military networks were impaired, that systems became unavailable, and that extensive effort was required to investigate and restore affected computers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find ou...</span></span></span>
 
 The importance of these allegations was symbolic as well as practical. If a person motivated by curiosity could allegedly interfere with defence-related networks, then the issue was no longer merely unauthorised viewing of information. It became evidence that basic security weaknesses might permit broader operational disruption.
 
 Several claims frequently cited by prosecutors and courts heightened the perceived stakes:
 
-* Alleged access to roughly 97 US government computers across military and NASA networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</span></span></span>
-* Alleged acquisition of account information and password-related files from military and NASA systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</span></span></span>
-* Alleged impairment of military computer networks and interruption of system availability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find ou...</span></span></span>
-* Claims that recovery and investigation costs exceeded hundreds of thousands of dollars. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2iTnews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find ou...</span></span></span>
+* Alleged access to roughly 97 US government computers across military and NASA networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</span></span></span>
+* Alleged acquisition of account information and password-related files from military and NASA systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</span></span></span>
+* Alleged impairment of military computer networks and interruption of system availability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find ou...</span></span></span>
+* Claims that recovery and investigation costs exceeded hundreds of thousands of dollars.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find ou...</span></span></span>
 
 Whether one focuses on the legal allegations themselves or on the broader policy debate that followed, the key point is that disruption transformed the narrative. A UFO search became a national-security case because the alleged effects extended beyond information gathering.
 
@@ -328,7 +328,7 @@ From a governance perspective, this creates several challenges:
 
 **Curiosity can scale unexpectedly.** An individual looking for one type of information may acquire access to far more than originally intended once administrative privileges or network visibility are obtained.
 
-The McKinnon case therefore became an example of how governments increasingly assess cyber incidents through the lens of systemic risk rather than personal motivation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament+2CaseMine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</span></span></span>
+The McKinnon case therefore became an example of how governments increasingly assess cyber incidents through the lens of systemic risk rather than personal motivation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OImdnvQx7sQ" title="Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer">Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN</a></p><p class="youtube-embed-meta">Channel: NordVPN &middot; Views: 28.6K &middot; Uploaded: May 2023 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OImdnvQx7sQ">Open on YouTube</a></p></div></div></div>
@@ -338,202 +338,202 @@ The McKinnon case therefore became an example of how governments increasingly as
 
 ## The Defence-Security Lesson
 
-The lasting national-defence significance of the case was not the UFO claims themselves. Rather, it was the suggestion that sensitive government systems could be reached by an outsider who was not acting as a trained intelligence officer or military adversary. Security professionals saw a warning about access control, network segmentation, credential management and the dangers of assuming that only hostile state actors pose meaningful risks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</span></span></span>
+The lasting national-defence significance of the case was not the UFO claims themselves. Rather, it was the suggestion that sensitive government systems could be reached by an outsider who was not acting as a trained intelligence officer or military adversary. Security professionals saw a warning about access control, network segmentation, credential management and the dangers of assuming that only hostile state actors pose meaningful risks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</span></span></span>
 
-In that sense, the case sits at an important intersection between cyber-security and governance. McKinnon’s stated curiosity may have shaped public fascination with the story, but the security implications arose from the alleged exposure of defence-related networks. The lesson for policymakers was that a network vulnerable to a UFO enthusiast is also vulnerable to actors with far more dangerous objectives. That is why, throughout the legal proceedings, questions about motive remained separate from questions about risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+In that sense, the case sits at an important intersection between cyber-security and governance. McKinnon’s stated curiosity may have shaped public fascination with the story, but the security implications arose from the alleged exposure of defence-related networks. The lesson for policymakers was that a network vulnerable to a UFO enthusiast is also vulnerable to actors with far more dangerous objectives. That is why, throughout the legal proceedings, questions about motive remained separate from questions about risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07_curiosity_driven_hac_027fc3-Illustration-3-dark.svg" | relative_url }}" alt="Motive vs Risk illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07_curiosity_driven_hac_027fc3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_military_network_wea_d14c07_curiosity_driven_hac_027fc3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Curiosity Did Not Lower the Risk. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Curiosity Did Not Lower the Risk. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Explores motives, curiosity and consequences in computer intrusion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores motives, curiosity and consequences in computer intrusion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how seemingly small intrusions can have major security implications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Shows how seemingly small intrusions can have major security implications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Examines the real-world impact of cyber vulnerabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the real-world impact of cyber vulnerabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
-        </h4>
-        <p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
+</h4>
+<p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
         
-        <p class="fr-book-desc">Separates intent from national-security consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Separates intent from national-security consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE Hive Systems Defense solutions Cyber security maturity challenge coin"><img src="{{ '/assets/images/marketplace-covers/7c6f3f3928f5613ef061.jpg' | relative_url }}" alt="Listing image for RARE Hive Systems Defense solutions Cyber security maturity challenge coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">RARE Hive Systems Defense solutions Cyber security maturity challenge coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE Hive Systems Defense solutions Cyber security maturity challenge coin"><img src="{{ '/assets/images/marketplace-covers/7c6f3f3928f5613ef061.jpg' | relative_url }}" alt="Listing image for RARE Hive Systems Defense solutions Cyber security maturity challenge coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">RARE Hive Systems Defense solutions Cyber security maturity challenge coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship"><img src="{{ '/assets/images/marketplace-covers/67ee874ffa3a18ac2478.jpg' | relative_url }}" alt="Listing image for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship"><img src="{{ '/assets/images/marketplace-covers/67ee874ffa3a18ac2478.jpg' | relative_url }}" alt="Listing image for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="{{ '/assets/images/marketplace-covers/62f2803d2cf6be9d80a3.jpg' | relative_url }}" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="{{ '/assets/images/marketplace-covers/62f2803d2cf6be9d80a3.jpg' | relative_url }}" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="motive-vs-risk-why-curiosity-did-not-lower-the-risk-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -549,7 +549,7 @@ In that sense, the case sits at an important intersection between cyber-security
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -569,7 +569,7 @@ In that sense, the case sits at an important intersection between cyber-security
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -601,7 +601,7 @@ In that sense, the case sits at an important intersection between cyber-security
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -653,7 +653,7 @@ In that sense, the case sits at an important intersection between cyber-security
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -698,7 +698,7 @@ In that sense, the case sits at an important intersection between cyber-security
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -739,129 +739,129 @@ In that sense, the case sits at an important intersection between cyber-security
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The appellant is a 42 year old British citizen, an un...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorist or UFO Truth Seeker?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find ou...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorist or UFO Truth Seeker?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find ou...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: casemine.com  
-   Link: <a href="https://www.casemine.com/judgement/uk/5a8ff75e60d03e7f57eabd29" target="_blank" rel="noopener noreferrer nofollow">https://www.casemine.com/judgement/uk/5a8ff75e60d03e7f57eabd29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v USA &amp; Anor | England and Wales High Court...The allegations against the Appellant are that between February 2001 and March 20...</p></details>
+   Link:<a href="https://www.casemine.com/judgement/uk/5a8ff75e60d03e7f57eabd29" target="_blank" rel="noopener noreferrer nofollow">https://www.casemine.com/judgement/uk/5a8ff75e60d03e7f57eabd29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v USA &amp; Anor | England and Wales High Court...The allegations against the Appellant are that between February 2001 and March 20...</p></details>
    Published: February 2001  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201213/cmhansrd/chan46.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmhansrd/chan46.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DEBATES18 Sept 2012 —... Official Report, Health and Social Care Public Bill. Committee, 22... Gary McKinnon. I welcome the Deputy Lead...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/cm201213/cmhansrd/chan46.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmhansrd/chan46.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEBATES18 Sept 2012 —... Official Report, Health and Social Care Public Bill. Committee, 22... Gary McKinnon. I welcome the Deputy Lead...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonThe US government accused McKinnon of hacking into 97 United States military and NASA computers over a 13-month period be...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonThe US government accused McKinnon of hacking into 97 United States military and NASA computers over a 13-month period be...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: itnews.com.au  
    Title: nasa hacker mckinnon [appeals](&#123;&#123; 'appeals/' | relative_url &#125;&#125;) to the house of lords 88284  
-   Link: <a href="https://www.itnews.com.au/news/nasa-hacker-mckinnon-appeals-to-the-house-of-lords-88284" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/news/nasa-hacker-mckinnon-appeals-to-the-house-of-lords-88284</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa hacker McKinnon appeals to the House of Lords3 Aug 2007 — The US government claims his actions in 2001 and 2002 damaged 97 com...</p></details>
+   Link:<a href="https://www.itnews.com.au/news/nasa-hacker-mckinnon-appeals-to-the-house-of-lords-88284" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/news/nasa-hacker-mckinnon-appeals-to-the-house-of-lords-88284</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa hacker McKinnon appeals to the House of Lords3 Aug 2007 — The US government claims his actions in 2001 and 2002 damaged 97 com...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: markfoster.net  
    Title: gary mckinnon  
-   Link: <a href="https://www.markfoster.net/struc/gary_mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/struc/gary_mckinnon.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Camelot | Gary McKinnon transcript11 May 2012 — McKinnon is accused of hacking into 97 United States military and NASA computers...</p></details>
+   Link:<a href="https://www.markfoster.net/struc/gary_mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/struc/gary_mckinnon.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Camelot | Gary McKinnon transcript11 May 2012 — McKinnon is accused of hacking into 97 United States military and NASA computers...</p></details>
    Published: May 2012  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nsarchive.gwu.edu  
    Title: US Army Training and Doctrine Command DCSINT  
-   Link: <a href="https://nsarchive.gwu.edu/sites/default/files/documents/4065692/US-Army-Training-and-Doctrine-Command-DCSINT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/sites/default/files/documents/4065692/US-Army-Training-and-Doctrine-Command-DCSINT.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Operations - National Security Archive15 Aug 2005 — Gary McKinnon, (Alexandria, VA, November 2002), 2-3; available from [http://news.findl...&quot;](http://news.findl...&quot;)...</p></details>
+   Link:<a href="https://nsarchive.gwu.edu/sites/default/files/documents/4065692/US-Army-Training-and-Doctrine-Command-DCSINT.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/sites/default/files/documents/4065692/US-Army-Training-and-Doctrine-Command-DCSINT.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Operations - National Security Archive15 Aug 2005 — Gary McKinnon, (Alexandria, VA, November 2002), 2-3; available from [http://news.findl...&quot;](http://news.findl...&quot;)...</p></details>
    Published: November 2002  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.techtarget.com  
-   Link: <a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>re GARY MCKINNON23 Sept 2001 — Mr. McKinnon&#x27;s alleged criminality is set out in the House of Lords judgement. This illustrates the dispar...</p></details>
+   Link:<a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re GARY MCKINNON23 Sept 2001 — Mr. McKinnon&#x27;s alleged criminality is set out in the House of Lords judgement. This illustrates the dispar...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, a British hacker, accessed multiple U.S....Gary McKinnon, a Scottish hacker, gained unauthorised access to dozens of U.S...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, a British hacker, accessed multiple U.S....Gary McKinnon, a Scottish hacker, gained unauthorised access to dozens of U.S...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/report-on-hacking/70755651" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/report-on-hacking/70755651</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Hacking | PDF... 97 computers belonging to the U.S. Armed Forces and NASA. McKinnon claimed that he was only searching for info...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/report-on-hacking/70755651" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/report-on-hacking/70755651</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Report on Hacking | PDF... 97 computers belonging to the U.S. Armed Forces and NASA. McKinnon claimed that he was only searching for info...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2600net/posts/3659042610985504/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2600net/posts/3659042610985504/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The three most important ethical hackers of the history...12 British hacker Gary McKinnon broke into 97 U.S. Navy, Army, Pentagon, and N...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2600net/posts/3659042610985504/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2600net/posts/3659042610985504/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The three most important ethical hackers of the history...12 British hacker Gary McKinnon broke into 97 U.S. Navy, Army, Pentagon, and N...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon&#x27;s conduct was intentional and calculated to influence and affect the US Government by inti...</p></details>
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon&#x27;s conduct was intentional and calculated to influence and affect the US Government by inti...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: mg.co.za  
    Title: 2008 07 30 uk computer hacker loses appeal over us extradition  
-   Link: <a href="https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK computer hacker loses appeal over US extradition30 Jul 2008 — A British man accused of hacking into computer systems of the US militar...</p></details>
+   Link:<a href="https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK computer hacker loses appeal over US extradition30 Jul 2008 — A British man accused of hacking into computer systems of the US militar...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. Government (looking for...Gary McKinnon, the man who famously hacked into NASA in 2001 in search of evidence...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. Government (looking for...Gary McKinnon, the man who famously hacked into NASA in 2001 in search of evidence...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pinsentmasons.com  
    Title: alleged uk hacker will fight extradition to us  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2002 — US prosecutors on Tuesday indicted Gary McKinnon, 36, of Hornsey, north London, for allegedly hacking into the computer sys...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2002 — US prosecutors on Tuesday indicted Gary McKinnon, 36, of Hornsey, north London, for allegedly hacking into the computer sys...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: verticalvertical.com  
    Title: Hacking the Pentagon in search of UFO's The USA vs Gary Mc Kinnon  
-   Link: <a href="https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In November 2002, Gary McKinnon was indicted by a federal grand jury in the Eastern District of Virginia. The indictment contained...Rea...</p></details>
+   Link:<a href="https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://verticalvertical.com/hacking-the-pentagon-in-search-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In November 2002, Gary McKinnon was indicted by a federal grand jury in the Eastern District of Virginia. The indictment contained...Rea...</p></details>
    Published: November 2002  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon claims he was looking for information...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon claims he was looking for information...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/718680711/Cyber-Criminals-of-all-time" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/718680711/Cyber-Criminals-of-all-time</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Armed Forces and NASA. He claimed that he...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/718680711/Cyber-Criminals-of-all-time" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/718680711/Cyber-Criminals-of-all-time</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Armed Forces and NASA. He claimed that he...Read more...</p></details>

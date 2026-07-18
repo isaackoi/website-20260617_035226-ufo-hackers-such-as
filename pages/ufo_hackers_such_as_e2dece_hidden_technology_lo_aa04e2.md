@@ -441,29 +441,29 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2-ove
 
 ## Introduction
 
-Anti-gravity and free-energy claims sit at the centre of Gary McKinnon’s place in UFO hacker lore because they made his case about more than “aliens”. McKinnon said he broke into US military and NASA systems because he believed governments were hiding propulsion and energy technologies that could benefit the public, including anti-gravity and “zero-point” energy. That belief linked his unauthorised access to an older conspiracy tradition: the idea that advanced technology already exists, but is locked away inside military, intelligence or aerospace systems. The [legal record]({{ 'legal-record/' | relative_url }}) documents the computer [intrusions]({{ 'intrusions/' | relative_url }}); the hidden-technology claims remain unverified personal claims and cultural afterlife, not authenticated proof. US prosecutors alleged that McKinnon accessed and damaged military and NASA computers, while McKinnon told journalists that hacking was only a means to reach evidence he believed had been suppressed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+Anti-gravity and free-energy claims sit at the centre of Gary McKinnon’s place in UFO hacker lore because they made his case about more than “aliens”. McKinnon said he broke into US military and NASA systems because he believed governments were hiding propulsion and energy technologies that could benefit the public, including anti-gravity and “zero-point” energy. That belief linked his unauthorised access to an older conspiracy tradition: the idea that advanced technology already exists, but is locked away inside military, intelligence or aerospace systems. The [legal record]({{ 'legal-record/' | relative_url }}) documents the computer [intrusions]({{ 'intrusions/' | relative_url }}); the hidden-technology claims remain unverified personal claims and cultural afterlife, not authenticated proof. US prosecutors alleged that McKinnon accessed and damaged military and NASA computers, while McKinnon told journalists that hacking was only a means to reach evidence he believed had been suppressed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2-overview.webp" | relative_url }}" alt="Overview image for Hidden Tech" loading="eager" decoding="sync" fetchpriority="high">
 ## Why anti-gravity mattered to McKinnon’s story
 
-McKinnon’s stated [motive]({{ 'motive/' | relative_url }}) was unusually specific. In his 2006 Wired interview, he did not merely say he was looking for UFO files; he said he believed governments were suppressing “antigravity, UFO-related technologies, free energy or what they call [zero-point energy]({{ 'zero-point-energy/' | relative_url }})”. He framed the alleged secrecy in moral terms, arguing that such technology should not be hidden when ordinary people were struggling with energy bills. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
+McKinnon’s stated [motive]({{ 'motive/' | relative_url }}) was unusually specific. In his 2006 Wired interview, he did not merely say he was looking for UFO files; he said he believed governments were suppressing “antigravity, UFO-related technologies, free energy or what they call [zero-point energy]({{ 'zero-point-energy/' | relative_url }})”. He framed the alleged secrecy in moral terms, arguing that such technology should not be hidden when ordinary people were struggling with energy bills.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
 
 That wording is important because it shows how the McKinnon case crossed three belief systems at once. The first was classic UFO cover-up belief: the idea that government agencies possess hidden evidence of extraterrestrial craft. The second was reverse-engineering belief: the claim that recovered craft had yielded advanced propulsion. The third was suppressed-invention belief: the conviction that cheap or limitless energy exists but is held back by states, contractors or fossil-fuel interests.
 
 Anti-gravity was the bridge between them. In ordinary aviation, propulsion is still constrained by fuel, lift, drag, heat, mass and engineering limits. In UFO lore, anti-gravity is imagined as the missing principle that would explain sudden acceleration, silent hovering and motion without visible exhaust. For a technically minded believer, this makes anti-gravity feel like a solvable engineering secret rather than a purely mystical claim: somewhere, there might be a file, a programme name, a contractor archive or an image that proves the mechanism exists.
 
-The timing also mattered. McKinnon’s activity came after the May 2001 Disclosure Project event at the National Press Club in Washington, where former military and government-linked witnesses called for hearings on alleged UFO secrecy. ABC reported that the group said it had hundreds of witnesses willing to testify, while Wired’s contemporary report noted claims about anti-gravity devices, free-energy machines and advanced craft, alongside sceptics’ criticism that the event lacked hard physical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/story?id=98572&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Group Calls for Disclosure of UFO Info</span><span class="citation-popover-snippet">ABC News Group Calls for Disclosure of UFO Info</span></span></span>
+The timing also mattered. McKinnon’s activity came after the May 2001 Disclosure Project event at the National Press Club in Washington, where former military and government-linked witnesses called for hearings on alleged UFO secrecy. ABC reported that the group said it had hundreds of witnesses willing to testify, while Wired’s contemporary report noted claims about anti-gravity devices, free-energy machines and advanced craft, alongside sceptics’ criticism that the event lacked hard physical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/Technology/story?id=98572&amp;page=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-title">ABC News Group Calls for Disclosure of UFO Info</span><span class="citation-popover-snippet">ABC News Group Calls for Disclosure of UFO Info</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2-Illustration-1-dark.svg" | relative_url }}" alt="Hidden Tech illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Free-energy claims turned UFO secrecy into a public-benefit story
 
-Free-energy claims changed the emotional logic of the story. A hidden UFO file would be sensational, but a hidden energy technology would be socially transformative. In McKinnon’s account, the search was not only about proving extraterrestrial visitation; it was about finding technology that could end energy scarcity or reduce dependence on conventional fuels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
+Free-energy claims changed the emotional logic of the story. A hidden UFO file would be sensational, but a hidden energy technology would be socially transformative. In McKinnon’s account, the search was not only about proving extraterrestrial visitation; it was about finding technology that could end energy scarcity or reduce dependence on conventional fuels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
 
 That is why “zero-point energy” appears so often in this branch of UFO hacker lore. In real physics, zero-point energy refers to the lowest energy state of a quantum system and is part of legitimate quantum theory. In conspiracy settings, however, the term is often stretched into the claim that usable power can be drawn from the vacuum as a practical energy source. This shift gives the claim a scientific sound while moving far beyond what has been demonstrated.
 
-The Disclosure Project’s wider message helped supply that frame. Wired’s 2001 report described the event as combining UFO testimony with warnings about environmental and energy crisis, including a briefing-book argument that humanity needed to move to free energy before collapse. That was not simply a claim about hidden aliens; it was a claim that secrecy was blocking a better technological future. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/ooo-wee-ooo-fans-come-to-d-c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Ooo-WEE-ooo Fans Come to D.C. &#124; WIRED</span><span class="citation-popover-snippet">Ooo-WEE-ooo Fans Come to D.C. &#124; WIRED</span></span></span>
+The Disclosure Project’s wider message helped supply that frame. Wired’s 2001 report described the event as combining UFO testimony with warnings about environmental and energy crisis, including a briefing-book argument that humanity needed to move to free energy before collapse. That was not simply a claim about hidden aliens; it was a claim that secrecy was blocking a better technological future.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2001/05/ooo-wee-ooo-fans-come-to-d-c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Ooo-WEE-ooo Fans Come to D.C. &#124; WIRED</span><span class="citation-popover-snippet">Ooo-WEE-ooo Fans Come to D.C. &#124; WIRED</span></span></span>
 
 This matters for understanding hacker lore because it turns intrusion into a kind of self-appointed disclosure mission. The person looking for files can imagine themselves not as a trespasser but as someone trying to recover knowledge that belongs to humanity. That does not make unauthorised access legal or safe; it explains why the hidden-tech narrative is so powerful inside stories about McKinnon and similar figures.
 
@@ -472,11 +472,11 @@ This matters for understanding hacker lore because it turns intrusion into a kin
 
 ## The technical hook: real research makes the folklore sound plausible
 
-Anti-gravity and zero-point language did not arise only from pulp science fiction. Around the same period, some legitimate aerospace and physics discussions were exploring highly speculative ideas such as propellantless propulsion, warp-drive metrics, wormholes and quantum-vacuum effects. NASA’s Breakthrough Propulsion Physics Project, active from 1996 to 2002, examined possible physics relevant to future spaceflight beyond conventional rockets. Its own assessment stressed that no such breakthroughs appeared imminent and that many ideas were still “notional concepts”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server</span><span class="citation-popover-snippet">Technical Reports Server</span></span></span>
+Anti-gravity and zero-point language did not arise only from pulp science fiction. Around the same period, some legitimate aerospace and physics discussions were exploring highly speculative ideas such as propellantless propulsion, warp-drive metrics, wormholes and quantum-vacuum effects. NASA’s Breakthrough Propulsion Physics Project, active from 1996 to 2002, examined possible physics relevant to future spaceflight beyond conventional rockets. Its own assessment stressed that no such breakthroughs appeared imminent and that many ideas were still “notional concepts”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server</span><span class="citation-popover-snippet">Technical Reports Server</span></span></span>
 
 This is where the confusion often enters. A technical paper asking whether the quantum vacuum has propulsion implications is not the same as a working free-energy machine. A NASA-funded assessment of speculative propulsion is not proof that NASA secretly operates anti-gravity craft. Yet the existence of cautious, legitimate research gives conspiracy narratives a vocabulary: quantum vacuum, field propulsion, gravity control, zero-point energy, space drive.
 
-NASA’s assessment is actually a useful corrective to the folklore. It said research in this area required credibility checks, reliability of claims and narrow tests of immediate unknowns, not excitement about the scale of possible benefits. It also reported a mixed picture: of fourteen tasks considered, six reached null conclusions, four remained unresolved and four had possible follow-on opportunities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server</span><span class="citation-popover-snippet">Technical Reports Server</span></span></span>
+NASA’s assessment is actually a useful corrective to the folklore. It said research in this area required credibility checks, reliability of claims and narrow tests of immediate unknowns, not excitement about the scale of possible benefits. It also reported a mixed picture: of fourteen tasks considered, six reached null conclusions, four remained unresolved and four had possible follow-on opportunities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[NASA Technical Reports Server]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server</span><span class="citation-popover-snippet">Technical Reports Server</span></span></span>
 
 That distinction is central. In scientific work, “unresolved” means a question is not settled or a method has not yet been ruled in or out. In conspiracy lore, “unresolved” can be misread as “secretly proven”. Hacker lore thrives in that gap because technical terms can be copied from real research into a secrecy story without carrying over the standards of evidence that research requires.
 
@@ -486,9 +486,9 @@ That distinction is central. In scientific work, “unresolved” means a questi
 
 The hidden-technology story has special appeal to people who think in systems. A technical reader knows that complex organisations have networks, directories, file names, contractors, access controls and forgotten machines. The idea that a world-changing secret might be poorly protected somewhere inside a messy bureaucracy can feel plausible, especially when ordinary cyber-security failures are common.
 
-McKinnon’s case gave that idea a dramatic form. US prosecutors alleged that he scanned.mil networks, obtained administrative privileges and used compromised systems to find further victims; McKinnon, by contrast, portrayed the access as an unsophisticated search through weakly protected systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+McKinnon’s case gave that idea a dramatic form. US prosecutors alleged that he scanned.mil networks, obtained administrative privileges and used compromised systems to find further victims; McKinnon, by contrast, portrayed the access as an unsophisticated search through weakly protected systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-The wider hacker ethic also helps explain the attraction, although it does not excuse illegal intrusion. Classic hacker culture values hands-on exploration, mistrust of authority and the free flow of information. The Chaos Computer Club’s summary of hacker ethics traces these ideas to Steven Levy’s account of early hacker culture, including openness, decentralisation and free access to computers. Wired’s later reflection on “information wants to be free” shows how that phrase became a lasting shorthand for conflicts over who controls knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ccc.de/en/hackerethik" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccc.de">[ccc.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccc.de</span><span class="citation-popover-snippet">Open source on ccc.de.</span></span></span>
+The wider hacker ethic also helps explain the attraction, although it does not excuse illegal intrusion. Classic hacker culture values hands-on exploration, mistrust of authority and the free flow of information. The Chaos Computer Club’s summary of hacker ethics traces these ideas to Steven Levy’s account of early hacker culture, including openness, decentralisation and free access to computers. Wired’s later reflection on “information wants to be free” shows how that phrase became a lasting shorthand for conflicts over who controls knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ccc.de/en/hackerethik" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ccc.de">[ccc.de]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ccc.de</span><span class="citation-popover-snippet">Open source on ccc.de.</span></span></span>
 
 In the McKinnon story, those instincts met UFO secrecy culture. The result was a potent mechanism:
 
@@ -504,13 +504,13 @@ That mechanism is why the lore survives even when the evidence remains thin. It 
 
 ## The evidence problem: strong cyber case, weak hidden-tech proof
 
-The strongest evidence in the McKinnon affair concerns the hacking, not the anti-gravity or free-energy claims. The US Department of Justice said a federal grand jury indicted McKinnon on seven counts and alleged unauthorised access to 92 US Army, Navy, Air Force, Department of Defense and NASA computers, plus six private-business computers. The DOJ also alleged password copying, account deletion, system-file deletion and around $900,000 in losses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The strongest evidence in the McKinnon affair concerns the hacking, not the anti-gravity or free-energy claims. The US Department of Justice said a federal grand jury indicted McKinnon on seven counts and alleged unauthorised access to 92 US Army, Navy, Air Force, Department of Defense and NASA computers, plus six private-business computers. The DOJ also alleged password copying, account deletion, system-file deletion and around $900,000 in losses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-The hidden-technology evidence is much weaker. McKinnon said he saw processed and unprocessed image files, briefly viewed a strange cigar-shaped object and found a spreadsheet titled “Non-Terrestrial Officers”. Yet he did not produce the image, the spreadsheet, a verifiable file path, a captured copy or an independent witness who could authenticate the material. Wired’s interview also records McKinnon acknowledging that the spreadsheet could possibly have been a military game or hypothetical exercise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
+The hidden-technology evidence is much weaker. McKinnon said he saw processed and unprocessed image files, briefly viewed a strange cigar-shaped object and found a spreadsheet titled “Non-Terrestrial Officers”. Yet he did not produce the image, the spreadsheet, a verifiable file path, a captured copy or an independent witness who could authenticate the material. Wired’s interview also records McKinnon acknowledging that the spreadsheet could possibly have been a military game or hypothetical exercise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">ufo hacker tells what he found</span></span></span>
 
 That does not prove his experience was fabricated. It does mean the public cannot responsibly treat the anti-gravity or free-energy claims as demonstrated. They remain part of the case’s cultural significance, not established findings.
 
-The legal end of the case also reinforces the difference between documented conduct and alleged discovery. In 2012, the UK Home Secretary withdrew the extradition order because McKinnon’s extradition would create a high risk of suicide and be incompatible with his [human rights]({{ 'human-rights/' | relative_url }}); that decision did not validate the UFO or hidden-technology claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span><span class="citation-popover-snippet">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span></span></span>
+The legal end of the case also reinforces the difference between documented conduct and alleged discovery. In 2012, the UK Home Secretary withdrew the extradition order because McKinnon’s extradition would create a high risk of suicide and be incompatible with his [human rights]({{ 'human-rights/' | relative_url }}); that decision did not validate the UFO or hidden-technology claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span><span class="citation-popover-snippet">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2-Illustration-3-dark.svg" | relative_url }}" alt="Hidden Tech illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hidden_technology_lo_aa04e2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -527,194 +527,194 @@ That is the lasting mechanism. Anti-gravity promises movement without ordinary l
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Hackers Look for Hidden Technology. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Hackers Look for Hidden Technology. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly covers anti-gravity, secret aerospace research, and hidden-technology narratives central to the page.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly covers anti-gravity, secret aerospace research, and hidden-technology narratives central to the page.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rC_5nQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Area 51 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rC_5nQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Area 51" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Area 51">Area 51</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Anchors hidden-technology claims in real secrecy culture around aerospace, defence, and classified programmes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Anchors hidden-technology claims in real secrecy culture around aerospace, defence, and classified programmes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Area+51+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Gives broader UFO-investigation context for why hidden evidence and government secrecy narratives attract readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Gives broader UFO-investigation context for why hidden evidence and government secrecy narratives attract readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Supports the UFO disclosure and government-records lane behind McKinnon-style hidden-evidence searches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports the UFO disclosure and government-records lane behind McKinnon-style hidden-evidence searches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Area+51&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Area 51</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="{{ '/assets/images/marketplace-covers/5d55002ee4786459b6a4.jpg' | relative_url }}" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/2890b95e430d18fca75f.jpg' | relative_url }}" alt="Listing image for Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A0 A1 UFO UAP Close Encounter Abduction Alien Saucer Craft Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="{{ '/assets/images/marketplace-covers/a8f2e2c62ebe3a566533.jpg' | relative_url }}" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/f85be2c5b8e158c6af1f.jpg' | relative_url }}" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="hidden-tech-why-hackers-look-for-hidden-technology-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -730,7 +730,7 @@ That is the lasting mechanism. Anti-gravity promises movement without ordinary l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -750,7 +750,7 @@ That is the lasting mechanism. Anti-gravity promises movement without ordinary l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -782,7 +782,7 @@ That is the lasting mechanism. Anti-gravity promises movement without ordinary l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -834,7 +834,7 @@ That is the lasting mechanism. Anti-gravity promises movement without ordinary l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -879,7 +879,7 @@ That is the lasting mechanism. Anti-gravity promises movement without ordinary l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -920,114 +920,114 @@ That is the lasting mechanism. Anti-gravity promises movement without ordinary l
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</p></details>
    Published: November 12, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found</a>  
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: Ooo-WEE-ooo Fans Come to D.C. | WIRED  
-   Link: <a href="https://www.wired.com/2001/05/ooo-wee-ooo-fans-come-to-d-c" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2001/05/ooo-wee-ooo-fans-come-to-d-c</a>  
+   Link:<a href="https://www.wired.com/2001/05/ooo-wee-ooo-fans-come-to-d-c" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2001/05/ooo-wee-ooo-fans-come-to-d-c</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server  
-   Link: <a href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf</a>  
+   Link:<a href="https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/api/citations/20060000022/downloads/20060000022.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ccc.de  
-   Link: <a href="https://www.ccc.de/en/hackerethik" target="_blank" rel="noopener noreferrer nofollow">https://www.ccc.de/en/hackerethik</a>  
+   Link:<a href="https://www.ccc.de/en/hackerethik" target="_blank" rel="noopener noreferrer nofollow">https://www.ccc.de/en/hackerethik</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: wired.com  
    Title: hackers at 30 hackers and information wants to be free  
-   Link: <a href="https://www.wired.com/story/hackers-at-30-hackers-and-information-wants-to-be-free" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/hackers-at-30-hackers-and-information-wants-to-be-free</a>  
+   Link:<a href="https://www.wired.com/story/hackers-at-30-hackers-and-information-wants-to-be-free" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/hackers-at-30-hackers-and-information-wants-to-be-free</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) extradition case: Home Secretary's statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-[mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-[mckinnon-extradition</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/gary-[mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-[mckinnon-extradition</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: press.org  
-   Link: <a href="https://www.press.org/events/ufouap-disclosure-press-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/ufouap-disclosure-press-conference</a>  
+   Link:<a href="https://www.press.org/events/ufouap-disclosure-press-conference" target="_blank" rel="noopener noreferrer nofollow">https://www.press.org/events/ufouap-disclosure-press-conference</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: abcnews.com  
    Title: ABC News Group Calls for Disclosure of UFO Info  
-   Link: <a href="https://abcnews.com/Technology/story?id=98572&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=98572&amp;page=1</a>  
+   Link:<a href="https://abcnews.com/Technology/story?id=98572&amp;page=1" target="_blank" rel="noopener noreferrer nofollow">https://abcnews.com/Technology/story?id=98572&amp;page=1</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Breakthrough Propulsion Physics Project  
-   Link: <a href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Breakthrough_Propulsion_Physics_Project</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://de.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://de.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://it.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Hacker ethic  
-   Link: <a href="https://en.wikipedia.org/wiki/Hacker_ethic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hacker_ethic</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Hacker_ethic" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hacker_ethic</a>  
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/75660389/From_Anti_Gravity_to_Zero_Point_Energy_A_Technical_Review_of_Advanced_Propulsion_Concepts" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/75660389/From_Anti_Gravity_to_Zero_Point_Energy_A_Technical_Review_of_Advanced_Propulsion_Concepts</a>  
+   Link:<a href="https://www.academia.edu/75660389/From_Anti_Gravity_to_Zero_Point_Energy_A_Technical_Review_of_Advanced_Propulsion_Concepts" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/75660389/From_Anti_Gravity_to_Zero_Point_Energy_A_Technical_Review_of_Advanced_Propulsion_Concepts</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/4079954_Prospects_for_Breakthrough_Propulsion_from_Physics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4079954_Prospects_for_Breakthrough_Propulsion_from_Physics</a>  
+   Link:<a href="https://www.researchgate.net/publication/4079954_Prospects_for_Breakthrough_Propulsion_from_Physics" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/4079954_Prospects_for_Breakthrough_Propulsion_from_Physics</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/252029351211252/posts/709653678782148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/252029351211252/posts/709653678782148/</a>  
+   Link:<a href="https://www.facebook.com/groups/252029351211252/posts/709653678782148/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/252029351211252/posts/709653678782148/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/starts-with-a-bang/ask-ethan-can-zero-point-energy-power-the-world-d3fe029c2fae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/ask-ethan-can-zero-point-energy-power-the-world-d3fe029c2fae</a>  
+   Link:<a href="https://medium.com/starts-with-a-bang/ask-ethan-can-zero-point-energy-power-the-world-d3fe029c2fae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/starts-with-a-bang/ask-ethan-can-zero-point-energy-power-the-world-d3fe029c2fae</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DUBxlUbCCtE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUBxlUbCCtE/</a>  
+   Link:<a href="https://www.instagram.com/reel/DUBxlUbCCtE/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUBxlUbCCtE/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: podmust.com  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/</a>  
+   Link:<a href="https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AskPhysics/comments/1ahjvgy/help_me_understand_zero_point_energy_is_it_real/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: vps.net  
-   Link: <a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
+   Link:<a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/IsaacArthur/comments/7v463t/is_zero_point_energy_and_gravity_manipulation_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IsaacArthur/comments/7v463t/is_zero_point_energy_and_gravity_manipulation_real/</a>  
+   Link:<a href="https://www.reddit.com/r/IsaacArthur/comments/7v463t/is_zero_point_energy_and_gravity_manipulation_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/IsaacArthur/comments/7v463t/is_zero_point_energy_and_gravity_manipulation_real/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  

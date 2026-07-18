@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-hacked/
 description: Focused pages that expand on Secrecy Stories.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d
 parent_title: Secrecy Stories
@@ -16,7 +16,7 @@ parent_permalink: /secrecy-stories/
 
 # Explore Topics in Secrecy Stories
 
-The following pages expand on the main **[Secrecy Stories]({{ '/secrecy-stories/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Secrecy Stories]({{ '/secrecy-stories/' | relative_url }})** page and cover its key branches in.
 
 - [Hacked Access Borrow]({{ '/hacked-access-borrow/' | relative_url }})
 - [Mckinnon Breach]({{ '/mckinnon-breach/' | relative_url }})

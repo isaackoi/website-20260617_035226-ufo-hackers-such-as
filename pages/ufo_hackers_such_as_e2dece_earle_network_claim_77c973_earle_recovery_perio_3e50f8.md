@@ -279,47 +279,47 @@ image: /assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earl
 
 ## Introduction
 
-Among all the allegations linked to Gary McKinnon’s intrusion into US military systems, the claimed disruption at Naval Weapons Station Earle stands out because it was described not merely as unauthorised access but as a prolonged operational outage. According to US prosecutors, Earle’s network of roughly 300 computers was effectively shut down for an entire week after the incident, followed by a further period in which users could communicate only through internal email. If accurate, that recovery [timeline]({{ 'timeline/' | relative_url }}) would make the Earle episode one of the most tangible and consequential elements of the McKinnon case, far removed from the better-known debate about UFO files and hidden aerospace technology. At the same time, the exact duration and operational effects have never been tested in a criminal trial because McKinnon was never extradited to the United States. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+Among all the allegations linked to Gary McKinnon’s intrusion into US military systems, the claimed disruption at Naval Weapons Station Earle stands out because it was described not merely as unauthorised access but as a prolonged operational outage. According to US prosecutors, Earle’s network of roughly 300 computers was effectively shut down for an entire week after the incident, followed by a further period in which users could communicate only through internal email. If accurate, that recovery [timeline]({{ 'timeline/' | relative_url }}) would make the Earle episode one of the most tangible and consequential elements of the McKinnon case, far removed from the better-known debate about UFO files and hidden aerospace technology. At the same time, the exact duration and operational effects have never been tested in a criminal trial because McKinnon was never extradited to the United States.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-1-dark.svg" | relative_url }}" alt="Recovery Period illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The week-long shutdown claim
 
-The central claim comes from the US Department of Justice's 2002 [indictment]({{ 'indictment/' | relative_url }}) announcement. Prosecutors stated that the entire [Earle network]({{ 'earle-network/' | relative_url }}) was “effectively shut down” for one week following McKinnon’s alleged activities. The station was not an ordinary office network. Prosecutors described Earle as a key naval logistics installation responsible for replenishing munitions and supplies for the Atlantic Fleet, with computer systems used by military personnel and civilian employees. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+The central claim comes from the US Department of Justice's 2002 [indictment]({{ 'indictment/' | relative_url }}) announcement. Prosecutors stated that the entire [Earle network]({{ 'earle-network/' | relative_url }}) was “effectively shut down” for one week following McKinnon’s alleged activities. The station was not an ordinary office network. Prosecutors described Earle as a key naval logistics installation responsible for replenishing munitions and supplies for the Atlantic Fleet, with computer systems used by military personnel and civilian employees.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
-The shutdown allegation was linked to several specific actions attributed to McKinnon. Prosecutors alleged that he installed remote-access software, obtained approximately 950 passwords from Earle servers, deleted files needed to power up some computers, and removed logs that recorded the intrusion. The government argued that these actions rendered critical systems unusable and left the network vulnerable to further compromise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+The shutdown allegation was linked to several specific actions attributed to McKinnon. Prosecutors alleged that he installed remote-access software, obtained approximately 950 passwords from Earle servers, deleted files needed to power up some computers, and removed logs that recorded the intrusion. The government argued that these actions rendered critical systems unusable and left the network vulnerable to further compromise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
-What makes the claim notable is that later legal summaries repeated the allegation in broadly similar terms. In the House of Lords judgment concerning McKinnon’s extradition appeal, the court summarised the US case by stating that deleted files on Earle systems rendered the base’s network of more than 300 computers inoperable immediately after the attacks of 11 September 2001. The judgment did not independently verify the outage, but it confirms that the allegation remained a core part of the prosecution narrative throughout the extradition proceedings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — 26 navy computers, including US Naval Weapons Station...</span></span></span>
+What makes the claim notable is that later legal summaries repeated the allegation in broadly similar terms. In the House of Lords judgment concerning McKinnon’s extradition appeal, the court summarised the US case by stating that deleted files on Earle systems rendered the base’s network of more than 300 computers inoperable immediately after the attacks of 11 September 2001. The judgment did not independently verify the outage, but it confirms that the allegation remained a core part of the prosecution narrative throughout the extradition proceedings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — 26 navy computers, including US Naval Weapons Station...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ## The internal-email-only restriction
 
-The most operationally vivid detail is what prosecutors said happened after the initial shutdown. According to military officials cited in the Department of Justice announcement, Earle personnel spent an additional three weeks under significant communication restrictions. During that period, military and civilian staff were reportedly able to send and receive only internal email. External connectivity remained unavailable. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+The most operationally vivid detail is what prosecutors said happened after the initial shutdown. According to military officials cited in the Department of Justice announcement, Earle personnel spent an additional three weeks under significant communication restrictions. During that period, military and civilian staff were reportedly able to send and receive only internal email. External connectivity remained unavailable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
-The same source states that it was approximately one month after McKinnon’s last alleged intrusion before Earle could again automatically route naval message traffic and regain internet access. In practical terms, the government's account describes a phased recovery rather than a simple on-off outage. First came the week-long network shutdown; then a limited operational mode in which communications remained constrained while systems were restored and secured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+The same source states that it was approximately one month after McKinnon’s last alleged intrusion before Earle could again automatically route naval message traffic and regain internet access. In practical terms, the government's account describes a phased recovery rather than a simple on-off outage. First came the week-long network shutdown; then a limited operational mode in which communications remained constrained while systems were restored and secured.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
-This distinction matters because cyber incidents are often measured not only by the moment of compromise but by the time required to return to normal operations. A network may technically come back online while still operating under severe restrictions. The Earle account follows that pattern: the alleged damage was presented as a recovery process extending well beyond the initial outage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+This distinction matters because cyber incidents are often measured not only by the moment of compromise but by the time required to return to normal operations. A network may technically come back online while still operating under severe restrictions. The Earle account follows that pattern: the alleged damage was presented as a recovery process extending well beyond the initial outage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-2-dark.svg" | relative_url }}" alt="Recovery Period illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What “email only” likely meant
 
-The public record does not provide a detailed technical description of Earle’s recovery procedures. However, the Justice Department statement distinguishes between internal email, internet access and automated naval message routing. That wording suggests that some internal communications services remained available or were restored relatively quickly, while external connectivity and mission-related message traffic required additional remediation and security checks before being re-enabled. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+The public record does not provide a detailed technical description of Earle’s recovery procedures. However, the Justice Department statement distinguishes between internal email, internet access and automated naval message routing. That wording suggests that some internal communications services remained available or were restored relatively quickly, while external connectivity and mission-related message traffic required additional remediation and security checks before being re-enabled.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
-Importantly, there is little publicly available documentation describing the exact architecture of the Earle network in 2001 or the specific technical steps taken during recovery. As a result, descriptions of the internal-email period depend largely on the government's account rather than on independent technical reports released to the public. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+Importantly, there is little publicly available documentation describing the exact architecture of the Earle network in 2001 or the specific technical steps taken during recovery. As a result, descriptions of the internal-email period depend largely on the government's account rather than on independent technical reports released to the public.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
 
 ## Why recovery timelines matter in the story
 
-The duration of the outage became significant because it transformed the [Earle allegation]({{ 'earle-allegation/' | relative_url }}) from a discussion about unauthorised access into a discussion about operational impact. McKinnon consistently argued that he was motivated by a search for information, particularly material related to UFOs and advanced technologies. The Earle recovery timeline gave prosecutors a very different narrative: that his actions disrupted a functioning military installation during a period of heightened national-security concern immediately after 11 September 2001. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+The duration of the outage became significant because it transformed the [Earle allegation]({{ 'earle-allegation/' | relative_url }}) from a discussion about unauthorised access into a discussion about operational impact. McKinnon consistently argued that he was motivated by a search for information, particularly material related to UFOs and advanced technologies. The Earle recovery timeline gave prosecutors a very different narrative: that his actions disrupted a functioning military installation during a period of heightened national-security concern immediately after 11 September 2001.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
-The timing amplified the seriousness of the allegation. The government repeatedly emphasised that the disruption occurred in the weeks following the terrorist attacks, when military readiness and communications carried exceptional significance. The quoted recovery schedule—a week-long shutdown followed by three weeks of restricted communications—helped prosecutors frame the incident as more than a routine computer intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+The timing amplified the seriousness of the allegation. The government repeatedly emphasised that the disruption occurred in the weeks following the terrorist attacks, when military readiness and communications carried exceptional significance. The quoted recovery schedule—a week-long shutdown followed by three weeks of restricted communications—helped prosecutors frame the incident as more than a routine computer intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
-At the same time, readers should distinguish between an allegation and a judicial finding. Because the extradition battle ended before any US trial occurred, the shutdown duration, the internal-email restriction and the broader operational consequences were never subjected to cross-examination in court. [Public records]({{ 'public-records/' | relative_url }}) show that the allegations were repeated in indictments and legal proceedings, but the underlying factual claims were never fully tested before a jury. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — 26 navy computers, including US Naval Weapons Station...</span></span></span>
+At the same time, readers should distinguish between an allegation and a judicial finding. Because the extradition battle ended before any US trial occurred, the shutdown duration, the internal-email restriction and the broader operational consequences were never subjected to cross-examination in court. [Public records]({{ 'public-records/' | relative_url }}) show that the allegations were repeated in indictments and legal proceedings, but the underlying factual claims were never fully tested before a jury.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — 26 navy computers, including US Naval Weapons Station...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-3-dark.svg" | relative_url }}" alt="Recovery Period illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_earle_recovery_perio_3e50f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -330,204 +330,204 @@ The most defensible answer is that public records support a government claim of 
 The government's account is internally consistent across major documents:
 
 * The network was allegedly shut down for about one week.
-* Personnel were allegedly limited to internal email for another three weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
-* Full restoration of automated naval message routing and internet access allegedly took about a month after the final intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+* Personnel were allegedly limited to internal email for another three weeks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+* Full restoration of automated naval message routing and internet access allegedly took about a month after the final intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
-Those claims are among the strongest and most concrete allegations in the McKinnon case because they concern observable operational consequences rather than disputed claims about UFO-related discoveries. Yet they also remain allegations that were never tested through a completed criminal trial. That unresolved status explains why the Earle recovery period remains both one of the most frequently cited and one of the most debated aspects of the broader Gary McKinnon story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
+Those claims are among the strongest and most concrete allegations in the McKinnon case because they concern observable operational consequences rather than disputed claims about UFO-related discoveries. Yet they also remain allegations that were never tested through a completed criminal trial. That unresolved status explains why the Earle recovery period remains both one of the most frequently cited and one of the most debated aspects of the broader Gary McKinnon story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cQIbWtWu7V0" title="Can Gary McKinnon be extradited?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cQIbWtWu7V0" target="_blank" rel="noopener noreferrer">Can Gary McKinnon be extradited?</a></p><p class="youtube-embed-meta">Channel: Channel 4 News &middot; Views: 47.5K &middot; Uploaded: March 2012 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cQIbWtWu7V0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cQIbWtWu7V0">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How long was Earle really offline?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How long was Earle really offline?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Countdown to Zero Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1l2YAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Countdown to Zero Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
-        </h4>
-        <p class="fr-book-author">By Kim Zetter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Countdown to Zero Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1l2YAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Countdown to Zero Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
+</h4>
+<p class="fr-book-author">By Kim Zetter</p>
         
-        <p class="fr-book-desc">Examines disruption, recovery, and system outages.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines disruption, recovery, and system outages.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q1AJCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
-        </h4>
-        <p class="fr-book-author">By Fred Kaplan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q1AJCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
+</h4>
+<p class="fr-book-author">By Fred Kaplan</p>
         
-        <p class="fr-book-desc">Covers operational consequences of cyber incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers operational consequences of cyber incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Shows the impact and investigation of network compromises.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Shows the impact and investigation of network compromises.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Provides perspective on long-running intrusion cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides perspective on long-running intrusion cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Countdown to Zero Day</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Territory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Territory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Countdown to Zero Day</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Territory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Territory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage"><img src="{{ '/assets/images/marketplace-covers/2e081702f17cb9f2e5e9.jpg' | relative_url }}" alt="Listing image for Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Alien UFO Aliens Stickers 50pcs Waterproof Skateboard Scrapbook Laptop Luggage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/8d980709cf7d028fe962.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing"><img src="{{ '/assets/images/marketplace-covers/758272a90147e0fdd168.jpg' | relative_url }}" alt="Listing image for Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">Cow Abduction UFO Metal Phone Sticker With 3M Sticky Backing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker"><img src="{{ '/assets/images/marketplace-covers/eb968c20f3ed6c11e2af.jpg' | relative_url }}" alt="Listing image for UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">UFO Alien Spaceship Outer Space Flying Saucer Self Adhesive Sticker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO sticker">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO sticker</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+sticker+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO sticker -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="recovery-period-how-long-was-earle-really-offline-ufo-hackers-such-ufo-sticker" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ Those claims are among the strongest and most concrete allegations in the McKinn
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ Those claims are among the strongest and most concrete allegations in the McKinn
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ Those claims are among the strongest and most concrete allegations in the McKinn
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ Those claims are among the strongest and most concrete allegations in the McKinn
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ Those claims are among the strongest and most concrete allegations in the McKinn
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,84 +733,84 @@ Those claims are among the strongest and most concrete allegations in the McKinn
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>another three weeks afterward, military personnel and government civilian employees at NWSE were only able to send and recei...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — 26 navy computers, including US Naval Weapons Station...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — 26 navy computers, including US Naval Weapons Station...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: installations.militaryonesource.mil  
    Title: naval weapons station earle  
-   Link: <a href="https://installations.militaryonesource.mil/in-depth-overview/naval-weapons-station-earle" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/naval-weapons-station-earle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station Earle | Base Overview &amp; InfoNWS Earle Mission &amp; Vision History phone number is 732-866-2500. The base Ombudsman&#x27;s email a...</p></details>
+   Link:<a href="https://installations.militaryonesource.mil/in-depth-overview/naval-weapons-station-earle" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/naval-weapons-station-earle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station Earle | Base Overview &amp; InfoNWS Earle Mission &amp; Vision History phone number is 732-866-2500. The base Ombudsman&#x27;s email a...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cnrma.cnic.navy.mil  
-   Link: <a href="https://cnrma.cnic.navy.mil/Installations/NWS-Earle/" target="_blank" rel="noopener noreferrer nofollow">https://cnrma.cnic.navy.mil/Installations/NWS-Earle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station EarleIf you&#x27;ve recently received orders to NWS Earle, check out our Welcome Aboard Package for information regarding hous...</p></details>
+   Link:<a href="https://cnrma.cnic.navy.mil/Installations/NWS-Earle/" target="_blank" rel="noopener noreferrer nofollow">https://cnrma.cnic.navy.mil/Installations/NWS-Earle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station EarleIf you&#x27;ve recently received orders to NWS Earle, check out our Welcome Aboard Package for information regarding hous...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: accessnow.org  
-   Link: <a href="https://www.accessnow.org/release-type/open-letter/" target="_blank" rel="noopener noreferrer nofollow">https://www.accessnow.org/release-type/open-letter/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Letter ArchivesWe, the undersigned [human rights](&amp;#123;&amp;#123; &#x27;human-rights/&#x27; | relative_url &amp;#125;&amp;#125;) organizations, are writing with great concern regarding media reporting alleging tha...</p></details>
+   Link:<a href="https://www.accessnow.org/release-type/open-letter/" target="_blank" rel="noopener noreferrer nofollow">https://www.accessnow.org/release-type/open-letter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Letter ArchivesWe, the undersigned [human rights](&amp;#123;&amp;#123; &#x27;human-rights/&#x27; | relative_url &amp;#125;&amp;#125;) organizations, are writing with great concern regarding media reporting alleging tha...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: x.com  
-   Link: <a href="https://x.com/NWSEarleNJ" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NWSEarleNJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NWS Earle (@NWSEarleNJ) / Posts / XNOTICE: Naval Weapons Station Earle will conduct EOD operations tomorrow from 10 AM–3 PM. Loud noises...</p></details>
+   Link:<a href="https://x.com/NWSEarleNJ" target="_blank" rel="noopener noreferrer nofollow">https://x.com/NWSEarleNJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NWS Earle (@NWSEarleNJ) / Posts / XNOTICE: Naval Weapons Station Earle will conduct EOD operations tomorrow from 10 AM–3 PM. Loud noises...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fox5ny.com  
-   Link: <a href="https://www.fox5ny.com/news/u-s-military-email-server-left-exposed-for-two-weeks-allowing-internal-emails-to-leak" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5ny.com/news/u-s-military-email-server-left-exposed-for-two-weeks-allowing-internal-emails-to-leak</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>military email server left exposed for two weeks...21 Feb 2023 — A U.S. Department of Defense server was left exposed for the past two w...</p></details>
+   Link:<a href="https://www.fox5ny.com/news/u-s-military-email-server-left-exposed-for-two-weeks-allowing-internal-emails-to-leak" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5ny.com/news/u-s-military-email-server-left-exposed-for-two-weeks-allowing-internal-emails-to-leak</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>military email server left exposed for two weeks...21 Feb 2023 — A U.S. Department of Defense server was left exposed for the past two w...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wral.com  
-   Link: <a href="https://www.wral.com/pentagon-investigating-how-internal-emails-leaked-for-2-weeks-without-its-knowledge/20734135/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/pentagon-investigating-how-internal-emails-leaked-for-2-weeks-without-its-knowledge/20734135/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon investigating how internal emails leaked for 2...23 Feb 2023 — The Pentagon is investigating how a trove of internal US Special...</p></details>
+   Link:<a href="https://www.wral.com/pentagon-investigating-how-internal-emails-leaked-for-2-weeks-without-its-knowledge/20734135/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/pentagon-investigating-how-internal-emails-leaked-for-2-weeks-without-its-knowledge/20734135/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon investigating how internal emails leaked for 2...23 Feb 2023 — The Pentagon is investigating how a trove of internal US Special...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: wunc.org  
    Title: u k blocks extradition of hacker accused of accessing pentagon computers  
-   Link: <a href="https://www.wunc.org/2012-10-16/u-k-blocks-extradition-of-hacker-accused-of-accessing-pentagon-computers" target="_blank" rel="noopener noreferrer nofollow">https://www.wunc.org/2012-10-16/u-k-blocks-extradition-of-hacker-accused-of-accessing-pentagon-computers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blocks Extradition Of Hacker Accused Of Accessing...16 Oct 2012 — Gary McKinnon, who the US government says perpetrated the biggest mili...</p></details>
+   Link:<a href="https://www.wunc.org/2012-10-16/u-k-blocks-extradition-of-hacker-accused-of-accessing-pentagon-computers" target="_blank" rel="noopener noreferrer nofollow">https://www.wunc.org/2012-10-16/u-k-blocks-extradition-of-hacker-accused-of-accessing-pentagon-computers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blocks Extradition Of Hacker Accused Of Accessing...16 Oct 2012 — Gary McKinnon, who the US government says perpetrated the biggest mili...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ejiltalk.org  
    Title: when more is less the department of defenses statement on cyberspace  
-   Link: <a href="https://www.ejiltalk.org/when-more-is-less-the-department-of-defenses-statement-on-cyberspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.ejiltalk.org/when-more-is-less-the-department-of-defenses-statement-on-cyberspace/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When More is Less: The US Department of Defense&#x27;s...30 Mar 2020 — This post focuses on one particular aspect of the DoD&#x27;s statement: its...</p></details>
+   Link:<a href="https://www.ejiltalk.org/when-more-is-less-the-department-of-defenses-statement-on-cyberspace/" target="_blank" rel="noopener noreferrer nofollow">https://www.ejiltalk.org/when-more-is-less-the-department-of-defenses-statement-on-cyberspace/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When More is Less: The US Department of Defense&#x27;s...30 Mar 2020 — This post focuses on one particular aspect of the DoD&#x27;s statement: its...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: jerseyshorescene.com  
    Title: naval weapons station earle a part of our past present and future  
-   Link: <a href="https://jerseyshorescene.com/naval-weapons-station-earle-a-part-of-our-past-present-and-future/" target="_blank" rel="noopener noreferrer nofollow">https://jerseyshorescene.com/naval-weapons-station-earle-a-part-of-our-past-present-and-future/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Weapons Station Earle: A Part Of Our Past, Present...5 Jan 2026 — NWS Earle has a presence in five Jersey Shore municipalities: Mi...</p></details>
+   Link:<a href="https://jerseyshorescene.com/naval-weapons-station-earle-a-part-of-our-past-present-and-future/" target="_blank" rel="noopener noreferrer nofollow">https://jerseyshorescene.com/naval-weapons-station-earle-a-part-of-our-past-present-and-future/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Weapons Station Earle: A Part Of Our Past, Present...5 Jan 2026 — NWS Earle has a presence in five Jersey Shore municipalities: Mi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: mg.co.za  
    Title: 2008 07 30 uk computer hacker loses appeal over us extradition  
-   Link: <a href="https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK computer hacker loses appeal over US extradition30 Jul 2008 — Gary McKinnon (42) tried to prevent his transfer to the US to be tried o...</p></details>
+   Link:<a href="https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK computer hacker loses appeal over US extradition30 Jul 2008 — Gary McKinnon (42) tried to prevent his transfer to the US to be tried o...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: abc3340.com  
    Title: sensitive dod emails inadvertently exposed online to public  
-   Link: <a href="https://abc3340.com/news/nation-world/sensitive-dod-emails-inadvertently-exposed-online-to-public" target="_blank" rel="noopener noreferrer nofollow">https://abc3340.com/news/nation-world/sensitive-dod-emails-inadvertently-exposed-online-to-public</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Feb 2023 — A US Department of Defense email server was inadvertently leaking internal DOD communications across the internet for rough...</p></details>
+   Link:<a href="https://abc3340.com/news/nation-world/sensitive-dod-emails-inadvertently-exposed-online-to-public" target="_blank" rel="noopener noreferrer nofollow">https://abc3340.com/news/nation-world/sensitive-dod-emails-inadvertently-exposed-online-to-public</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>21 Feb 2023 — A US Department of Defense email server was inadvertently leaking internal DOD communications across the internet for rough...</p></details>

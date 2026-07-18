@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-defense/
 description: Focused pages that expand on Defense Targets.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_defense_hacking_alle_2dda88
 parent_title: Defense Targets
@@ -16,7 +16,7 @@ parent_permalink: /defense-targets/
 
 # Explore Topics in Defense Targets
 
-The following pages expand on the main **[Defense Targets]({{ '/defense-targets/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Defense Targets]({{ '/defense-targets/' | relative_url }})** page and cover its key branches in.
 
 - [Earle Network]({{ '/earle-network/' | relative_url }})
 - [Army Outage]({{ '/army-outage-c4f924/' | relative_url }})

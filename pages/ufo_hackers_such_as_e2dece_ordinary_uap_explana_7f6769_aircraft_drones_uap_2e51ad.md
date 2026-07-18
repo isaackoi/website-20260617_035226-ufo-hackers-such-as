@@ -274,7 +274,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_air
 
 ## Introduction
 
-One of the most common ordinary [explanations]({{ 'explanations/' | relative_url }}) for unresolved UAP images is that the object is a conventional aircraft or drone viewed under conditions that strip away the visual cues people normally use for identification. At long range, a jet, turboprop aircraft or unmanned aerial system can collapse into a bright infrared point, a dark silhouette or a featureless dot. Without clear metadata, radar information or flight records, observers may be left with imagery that looks unusual even when the underlying object is entirely conventional. NASA and the U.S. government's UAP investigations have repeatedly stressed that poor observational context, missing sensor data and limited [corroboration]({{ 'corroboration/' | relative_url }}) are major reasons why sightings remain unresolved. An unresolved image is therefore not the same thing as evidence of exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
+One of the most common ordinary [explanations]({{ 'explanations/' | relative_url }}) for unresolved UAP images is that the object is a conventional aircraft or drone viewed under conditions that strip away the visual cues people normally use for identification. At long range, a jet, turboprop aircraft or unmanned aerial system can collapse into a bright infrared point, a dark silhouette or a featureless dot. Without clear metadata, radar information or flight records, observers may be left with imagery that looks unusual even when the underlying object is entirely conventional. NASA and the U.S. government's UAP investigations have repeatedly stressed that poor observational context, missing sensor data and limited [corroboration]({{ 'corroboration/' | relative_url }}) are major reasons why sightings remain unresolved. An unresolved image is therefore not the same thing as evidence of exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_aircraft_drones_uap_2e51ad-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_aircraft_drones_uap_2e51ad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_aircraft_drones_uap_2e51ad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -284,7 +284,7 @@ A modern aircraft is easy to recognise when seen nearby in daylight. Wings, tail
 
 Military infrared sensors and long-range optical systems are often designed to detect targets tens or even hundreds of kilometres away. At those ranges, an aircraft may occupy only a handful of pixels. The camera records motion and heat but not shape. A viewer later examining the footage may see only a bright spot apparently moving through empty sky.
 
-This problem was highlighted in a 2021 military infrared video discussed publicly by the All-domain Anomaly Resolution Office (AARO). Three objects initially appeared unidentified. After investigators combined the imagery with commercial flight data and radar information, they concluded the objects were almost certainly ordinary commercial aircraft travelling along established air corridors. The objects looked unusual largely because they were being viewed at great distance and appeared only as small infrared points. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+This problem was highlighted in a 2021 military infrared video discussed publicly by the All-domain Anomaly Resolution Office (AARO). Three objects initially appeared unidentified. After investigators combined the imagery with commercial flight data and radar information, they concluded the objects were almost certainly ordinary commercial aircraft travelling along established air corridors. The objects looked unusual largely because they were being viewed at great distance and appeared only as small infrared points.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
 The lesson is straightforward: a camera can detect an aircraft long before it can visually identify one. The resulting image may therefore look far stranger than the object itself.
 
@@ -307,9 +307,9 @@ A distant aircraft may appear as:
 
 </div>
 
-In the Western United States case analysed by AARO, infrared footage showed objects that lacked recognisable aircraft features. Detailed review later found that commercial aircraft tracks matched the observed positions and movements. The aircraft were so distant that the sensor recorded little more than tiny heat signatures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
+In the Western United States case analysed by AARO, infrared footage showed objects that lacked recognisable aircraft features. Detailed review later found that commercial aircraft tracks matched the observed positions and movements. The aircraft were so distant that the sensor recorded little more than tiny heat signatures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</span></span></span>
 
-Drones can create similar confusion. Small unmanned aircraft often have unusual thermal profiles compared with larger aeroplanes. Electric drones may produce limited heat, while larger systems can present compact but intense infrared signatures. When viewed at long range, they may resemble glowing spheres, featureless orbs or rapidly moving points rather than identifiable aircraft. AARO has noted that unmanned aerial systems are among the recurring categories found in resolved cases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>
+Drones can create similar confusion. Small unmanned aircraft often have unusual thermal profiles compared with larger aeroplanes. Electric drones may produce limited heat, while larger systems can present compact but intense infrared signatures. When viewed at long range, they may resemble glowing spheres, featureless orbs or rapidly moving points rather than identifiable aircraft. AARO has noted that unmanned aerial systems are among the recurring categories found in resolved cases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M6Wmap12xm0" title="Pentagon shares newly-declassified UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M6Wmap12xm0" target="_blank" rel="noopener noreferrer">Pentagon shares newly-declassified UFO videos</a></p><p class="youtube-embed-meta">Channel: FOX 5 New York &middot; Views: 1.5M &middot; Uploaded: April 2023 &middot; Length: 3 minutes 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M6Wmap12xm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M6Wmap12xm0">Open on YouTube</a></p></div></div></div>
@@ -331,9 +331,9 @@ Investigators routinely compare sightings against:
 
 </div>
 
-The 2023 public AARO presentation offered a clear demonstration of this process. Investigators matched infrared targets against commercial aircraft operating in the same region at the same time. Once flight-path information was incorporated, the apparently anomalous objects aligned with ordinary aviation traffic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia &#124; U.S. Department of War31 May 2023 — The radar tracks for commercial aircraft aligned with the objects, whic...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
+The 2023 public AARO presentation offered a clear demonstration of this process. Investigators matched infrared targets against commercial aircraft operating in the same region at the same time. Once flight-path information was incorporated, the apparently anomalous objects aligned with ordinary aviation traffic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">Department of WarMultimedia &#124; U.S. Department of War31 May 2023 — The radar tracks for commercial aircraft aligned with the objects, whic...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
 
-NASA's UAP study likewise emphasised the value of integrating civilian aviation data into investigations. The agency's independent study team argued that better access to high-quality airspace information is essential for distinguishing genuine anomalies from routine aircraft activity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
+NASA's UAP study likewise emphasised the value of integrating civilian aviation data into investigations. The agency's independent study team argued that better access to high-quality airspace information is essential for distinguishing genuine anomalies from routine aircraft activity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
 
 The practical implication is that a striking image alone rarely settles the question. Flight data frequently carries more evidential weight than visual appearance.
 
@@ -358,7 +358,7 @@ Several characteristics can make drones appear unusual:
 
 </div>
 
-AARO's historical review noted that unfamiliar technologies have repeatedly been mistaken for anomalous objects throughout the history of UFO reporting, and modern unmanned aerial systems continue that pattern. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
+AARO's historical review noted that unfamiliar technologies have repeatedly been mistaken for anomalous objects throughout the history of UFO reporting, and modern unmanned aerial systems continue that pattern.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span>
 
 This does not mean every drone report is easy to resolve. Some remain unidentified because investigators lack sufficient information about the drone's operator, flight path or exact location. However, the existence of an unresolved case does not automatically imply a non-human or extraordinary explanation.
 
@@ -369,204 +369,204 @@ This does not mean every drone report is easy to resolve. Some remain unidentifi
 
 A common misunderstanding in UAP discussions is that a failure to identify an object somehow counts as evidence for an extraordinary origin.
 
-Official investigations consistently reject that inference. NASA's study team found no evidence that [UAP reports]({{ 'uap-report/' | relative_url }}) require extraterrestrial explanations and emphasised that the main challenge is inadequate data rather than inexplicable performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News+2Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">nasa ufo report uap study</span><span class="citation-popover-snippet">But we don&#x27;t know what these UAP are.&quot; What...</span></span></span>
+Official investigations consistently reject that inference. NASA's study team found no evidence that [UAP reports]({{ 'uap-report/' | relative_url }}) require extraterrestrial explanations and emphasised that the main challenge is inadequate data rather than inexplicable performance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[cbsnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">nasa ufo report uap study</span><span class="citation-popover-snippet">But we don&#x27;t know what these UAP are.&quot; What...</span></span></span>
 
-AARO has reported that many resolved cases ultimately turned out to be [balloons]({{ 'balloons/' | relative_url }}), birds, drones, satellites and aircraft. At the same time, numerous reports remain unresolved because the available imagery is incomplete, lacks metadata or cannot be correlated with other sensors. Those [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) are retained for further analysis rather than being treated as proof of something exotic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>
+AARO has reported that many resolved cases ultimately turned out to be [balloons]({{ 'balloons/' | relative_url }}), birds, drones, satellites and aircraft. At the same time, numerous reports remain unresolved because the available imagery is incomplete, lacks metadata or cannot be correlated with other sensors. Those [unresolved cases]({{ 'unresolved-cases/' | relative_url }}) are retained for further analysis rather than being treated as proof of something exotic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">uap aaro chief unveils pentagon annual caseload analysis new efforts</span><span class="citation-popover-snippet">DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</span></span></span>
 
-For readers considering claims linked to UFO narratives such as those associated with Gary McKinnon's alleged observations of unusual NASA imagery, this distinction is crucial. A visually striking image or anecdotal report may indicate a real observation, but without the contextual information needed to identify aircraft, drones or other ordinary objects, the evidential value remains limited. The history of UAP investigations shows that conventional aircraft can appear highly anomalous when distance, infrared imaging and missing flight data remove the context that normally makes identification straightforward. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
+For readers considering claims linked to UFO narratives such as those associated with Gary McKinnon's alleged observations of unusual NASA imagery, this distinction is crucial. A visually striking image or anecdotal report may indicate a real observation, but without the contextual information needed to identify aircraft, drones or other ordinary objects, the evidential value remains limited. The history of UAP investigations shows that conventional aircraft can appear highly anomalous when distance, infrared imaging and missing flight data remove the context that normally makes identification straightforward.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_aircraft_drones_uap_2e51ad-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_aircraft_drones_uap_2e51ad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_aircraft_drones_uap_2e51ad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Ordinary Aircraft Look Anomalous. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Ordinary Aircraft Look Anomalous. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides many cases that require evaluation against ordinary aircraft and observational limits.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides many cases that require evaluation against ordinary aircraft and observational limits.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
-        </h4>
-        <p class="fr-book-author">By Mick West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
+</h4>
+<p class="fr-book-author">By Mick West</p>
         
-        <p class="fr-book-desc">Focuses on investigating extraordinary claims using conventional explanations and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on investigating extraordinary claims using conventional explanations and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Useful for understanding prominent UAP cases that often involve debates over aircraft identification.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding prominent UAP cases that often involve debates over aircraft identification.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Examines classification and interpretation of sightings, including misidentifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines classification and interpretation of sightings, including misidentifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="aircraft-when-ordinary-aircraft-look-anomalous-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-ordinary-aircraft-look-anomalous-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-ordinary-aircraft-look-anomalous-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -582,7 +582,7 @@ For readers considering claims linked to UFO narratives such as those associated
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -602,7 +602,7 @@ For readers considering claims linked to UFO narratives such as those associated
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -634,7 +634,7 @@ For readers considering claims linked to UFO narratives such as those associated
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -686,7 +686,7 @@ For readers considering claims linked to UFO narratives such as those associated
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -731,7 +731,7 @@ For readers considering claims linked to UFO narratives such as those associated
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -772,163 +772,163 @@ For readers considering claims linked to UFO narratives such as those associated
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportWhat civilian airspace data related to UAPs have been collected by govern- ment agencies and are...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 — In 2023, NASA commissioned the UAP Independent Study Team to examine unidentified anomalous phenomena fr...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs8 May 2026 — In 2023, NASA commissioned the UAP Independent Study Team to examine unidentified anomalous phenomena fr...</p></details>
    Published: May 2026  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Western_United_States_Uap_508-02262024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Case Resolution of &#x27;Western United States UAP&#x27;(U) AARO assesses that the UAP in this case were almost certainly commercial aircraft t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/885190/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMultimedia | U.S. Department of War31 May 2023 — The radar tracks for commercial aircraft aligned with the objects, whic...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/videoid/885190/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/885190/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMultimedia | U.S. Department of War31 May 2023 — The radar tracks for commercial aircraft aligned with the objects, whic...</p></details>
    Published: May 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/videoid/885193/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/885193/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMultimedia | U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/videoid/885193/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/videoid/885193/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMultimedia | U.S. Department of War31 May 2023 — Sean Kirkpatrick, director of the All-domain Anomaly Resolution Office...</p></details>
    Published: May 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DefenseScoop&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases i...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resolved to prosaic objects...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resolved to prosaic objects...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryInfrared video footage of an unidentified object recorded by the aircrew of a U.S. Navy F/A-18F in 2015. the objects were thre...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryInfrared video footage of an unidentified object recorded by the aircrew of a U.S. Navy F/A-18F in 2015. the objects were thre...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nasa.gov  
    Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: war.gov  
    Title: DOW UAP D077 Unresolved Case Analysis Update Western United States Event  
-   Link: <a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO) Unidentified...5 Jun 2026 — This memorandum summarizes the All-domain Anomaly Resolution Off...</p></details>
+   Link:<a href="https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/medialink/ufo/061226/release_03/documents/DOW-UAP-D077_Unresolved-Case-Analysis-Update_Western-United-States-Event.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO) Unidentified...5 Jun 2026 — This memorandum summarizes the All-domain Anomaly Resolution Off...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/Multimedia/Videos/?dvpmoduleid=581&amp;videoid=1006094" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos/?dvpmoduleid=581&amp;videoid=1006094</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of War1 Jan 2020 —... (AARO) consisting of one minute and 34 seconds of video footage from an infrared sensor aboard a U...</p></details>
+   Link:<a href="https://www.war.gov/Multimedia/Videos/?dvpmoduleid=581&amp;videoid=1006094" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/Multimedia/Videos/?dvpmoduleid=581&amp;videoid=1006094</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of War1 Jan 2020 —... (AARO) consisting of one minute and 34 seconds of video footage from an infrared sensor aboard a U...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast puerto rico mt etna objects  
-   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — Among AARO&#x27;s closed cases from the May 1, 2023 to June 1, 2024...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UAP office reviews findings on Go Fast, Puerto...19 Nov 2024 — Among AARO&#x27;s closed cases from the May 1, 2023 to June 1, 2024...</p></details>
    Published: May 1, 2023  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Pentagon shares newly-declassified UFO videos  
-   Link: <a href="https://www.youtube.com/watch?v=M6Wmap12xm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M6Wmap12xm0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=M6Wmap12xm0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=M6Wmap12xm0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS News...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cbsnews.com  
    Title: nasa ufo report uap study  
-   Link: <a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But we don&#x27;t know what these UAP are.&quot; What...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/nasa-ufo-report-uap-study/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But we don&#x27;t know what these UAP are.&quot; What...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/885193/western-us-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/885193/western-us-objects</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Western U.S. ObjectsA video depicting three unidentified objects recorded on infrared video in 2021 from a military range in the western...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/885193/western-us-objects" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/885193/western-us-objects</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Western U.S. ObjectsA video depicting three unidentified objects recorded on infrared video in 2021 from a military range in the western...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon begins releasing new UFO files, unveiling...21 hours ago — The images are mostly still pictures from footage of suspicious obje...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon begins releasing new UFO files, unveiling...21 hours ago — The images are mostly still pictures from footage of suspicious obje...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYqCdnbl3qZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqCdnbl3qZ/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC News on Instagram: &quot;Newly released Pentagon videos...The new files include infrared videos showing unexplained aerial objects, inclu...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYqCdnbl3qZ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYqCdnbl3qZ/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ABC News on Instagram: &quot;Newly released Pentagon videos...The new files include infrared videos showing unexplained aerial objects, inclu...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ixfi0k/dod_footage_of_a_ufo_arriving_and_apparently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ixfi0k/dod_footage_of_a_ufo_arriving_and_apparently/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD footage of a UFO arriving, and apparently spitting out...An initially unidentified object which, after further analysis, was resolve...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ixfi0k/dod_footage_of_a_ufo_arriving_and_apparently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ixfi0k/dod_footage_of_a_ufo_arriving_and_apparently/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DoD footage of a UFO arriving, and apparently spitting out...An initially unidentified object which, after further analysis, was resolve...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe UAP independent study was commissioned to create a roadmap on how to use the tools...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe UAP independent study was commissioned to create a roadmap on how to use the tools...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+   Link:<a href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-ufos-aliens-report-2023</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dover.af.mil  
-   Link: <a href="https://www.dover.af.mil/News/Video/videoid/885190/dvpTag/UAP/" target="_blank" rel="noopener noreferrer nofollow">https://www.dover.af.mil/News/Video/videoid/885190/dvpTag/UAP/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick, director of the All-domain Anomaly Resolution Office (AARO), shared a video depicting three unidentified objects recorded on...</p></details>
+   Link:<a href="https://www.dover.af.mil/News/Video/videoid/885190/dvpTag/UAP/" target="_blank" rel="noopener noreferrer nofollow">https://www.dover.af.mil/News/Video/videoid/885190/dvpTag/UAP/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick, director of the All-domain Anomaly Resolution Office (AARO), shared a video depicting three unidentified objects recorded on...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: commons.wikimedia.org  
    Title: File:Western USA 2021 UAP Official Footage from the USG for Public Release.webm  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3AWestern_USA_2021_UAP_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWestern_USA_2021_UAP_Official_Footage_from_the_USG_for_Public_Release.webm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Western USA 2021 UAP Official Footage from the USG for...Sean Kirkpatrick, director of the All-domain Anomaly Resoluti...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3AWestern_USA_2021_UAP_Official_Footage_from_the_USG_for_Public_Release.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AWestern_USA_2021_UAP_Official_Footage_from_the_USG_for_Public_Release.webm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:Western USA 2021 UAP Official Footage from the USG for...Sean Kirkpatrick, director of the All-domain Anomaly Resoluti...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: twz.com  
    Title: the newly released government ufo archives will leave you shrugging  
-   Link: <a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...8 May 2026 — It is worth noting here that AARO had previously released multiple tranch...</p></details>
+   Link:<a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Newly Released Government UFO Archives Will...8 May 2026 — It is worth noting here that AARO had previously released multiple tranch...</p></details>
    Published: May 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ralphbuncheinstitute.org  
    Title: nasa unidentified anomalous phenomena independent study team report  
-   Link: <a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
+   Link:<a href="https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/" target="_blank" rel="noopener noreferrer nofollow">https://ralphbuncheinstitute.org/nasa-unidentified-anomalous-phenomena-independent-study-team-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Figuring out the truth behind Unidentified Anomalous Phenomena (UAPs) takes more than speculation, it requires hard science.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: flyingmag.com  
    Title: nasa releases ufo study appoints director of uap research  
-   Link: <a href="https://www.flyingmag.com/nasa-releases-ufo-study-appoints-director-of-uap-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/nasa-releases-ufo-study-appoints-director-of-uap-research/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases UFO Study, Appoints Director of UAP...14 Sept 2023 — A NASA-commissioned independent study team urged the agency to use ev...</p></details>
+   Link:<a href="https://www.flyingmag.com/nasa-releases-ufo-study-appoints-director-of-uap-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingmag.com/nasa-releases-ufo-study-appoints-director-of-uap-research/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Releases UFO Study, Appoints Director of UAP...14 Sept 2023 — A NASA-commissioned independent study team urged the agency to use ev...</p></details>

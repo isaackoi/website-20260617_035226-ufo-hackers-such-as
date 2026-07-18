@@ -280,231 +280,231 @@ image: /assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shu
 
 ## Introduction
 
-Among the many allegations made against Gary McKinnon, the claims involving Naval Weapons Station Earle in New Jersey became the most important example used by US prosecutors to demonstrate real-world operational consequences. While McKinnon maintained that he was searching military and NASA systems for evidence related to UFOs and advanced technologies, prosecutors argued that one intrusion had tangible effects on a key naval logistics facility immediately after the September 11 attacks. According to the [indictment]({{ 'indictment/' | relative_url }}) and subsequent government statements, the [Earle network]({{ 'earle-network/' | relative_url }}) outage was not presented merely as a security breach but as a disruption affecting a military installation responsible for supporting the US Atlantic Fleet. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+Among the many allegations made against Gary McKinnon, the claims involving Naval Weapons Station Earle in New Jersey became the most important example used by US prosecutors to demonstrate real-world operational consequences. While McKinnon maintained that he was searching military and NASA systems for evidence related to UFOs and advanced technologies, prosecutors argued that one intrusion had tangible effects on a key naval logistics facility immediately after the September 11 attacks. According to the [indictment]({{ 'indictment/' | relative_url }}) and subsequent government statements, the [Earle network]({{ 'earle-network/' | relative_url }}) outage was not presented merely as a security breach but as a disruption affecting a military installation responsible for supporting the US Atlantic Fleet.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-1-dark.svg" | relative_url }}" alt="Earle Shutdown illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For the US case, Earle mattered because it transformed the narrative from unauthorised access into one of alleged operational risk. Whether the disruption was as severe as prosecutors claimed later became a point of debate, but the [Earle allegations]({{ 'earle-allegation/' | relative_url }}) remained the clearest example cited by authorities when explaining why the hacking case was treated as a serious criminal matter rather than an eccentric search for UFO information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+For the US case, Earle mattered because it transformed the narrative from unauthorised access into one of alleged operational risk. Whether the disruption was as severe as prosecutors claimed later became a point of debate, but the [Earle allegations]({{ 'earle-allegation/' | relative_url }}) remained the clearest example cited by authorities when explaining why the hacking case was treated as a serious criminal matter rather than an eccentric search for UFO information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vC0tdwqyWrE" title="Absolute Mad Lads - The UFO Hacker, Gary McKinnon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vC0tdwqyWrE" target="_blank" rel="noopener noreferrer">Absolute Mad Lads - The UFO Hacker, Gary McKinnon</a></p><p class="youtube-embed-meta">Channel: Count Dankula &middot; Views: 691.7K &middot; Uploaded: November 2020 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vC0tdwqyWrE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vC0tdwqyWrE">Open on YouTube</a></p></div></div></div>
 
 ## Why Earle Mattered to the Atlantic Fleet
 
-Naval Weapons Station Earle is a major US Navy ammunition and logistics facility. Its mission includes receiving, storing and transferring munitions and supplies to naval vessels supporting Atlantic Fleet operations. Because of that role, prosecutors portrayed the installation as a strategically important military site rather than an ordinary administrative network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+Naval Weapons Station Earle is a major US Navy ammunition and logistics facility. Its mission includes receiving, storing and transferring munitions and supplies to naval vessels supporting Atlantic Fleet operations. Because of that role, prosecutors portrayed the installation as a strategically important military site rather than an ordinary administrative network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
-The New Jersey indictment focused particularly on a system known as the [Port Services]({{ 'port-services/' | relative_url }}) computer. According to federal prosecutors, this computer was used to monitor information relating to Navy ships, including identity, location, readiness and resupply status around the Earle pier complex. Authorities alleged that McKinnon gained access to this system, installed remote-control software and later obtained hundreds of passwords from connected servers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+The New Jersey indictment focused particularly on a system known as the [Port Services]({{ 'port-services/' | relative_url }}) computer. According to federal prosecutors, this computer was used to monitor information relating to Navy ships, including identity, location, readiness and resupply status around the Earle pier complex. Authorities alleged that McKinnon gained access to this system, installed remote-control software and later obtained hundreds of passwords from connected servers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
-This detail mattered because it linked the alleged intrusion to operational functions associated with fleet support. In the government's presentation of the case, the issue was not simply that a military computer had been accessed but that a system connected to naval logistics and readiness had allegedly been compromised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+This detail mattered because it linked the alleged intrusion to operational functions associated with fleet support. In the government's presentation of the case, the issue was not simply that a military computer had been accessed but that a system connected to naval logistics and readiness had allegedly been compromised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ## The Alleged Weeklong Network Failure
 
-The most frequently cited allegation was that Naval Weapons Station Earle's network of approximately 300 computers became effectively unusable for an entire week. Federal prosecutors stated that military officials reported a complete shutdown of the network following the discovery of the intrusion. They further claimed that, for roughly three additional weeks, personnel could communicate only through internal email before broader connectivity and message-routing functions were restored. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+The most frequently cited allegation was that Naval Weapons Station Earle's network of approximately 300 computers became effectively unusable for an entire week. Federal prosecutors stated that military officials reported a complete shutdown of the network following the discovery of the intrusion. They further claimed that, for roughly three additional weeks, personnel could communicate only through internal email before broader connectivity and message-routing functions were restored.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
-According to the indictment, McKinnon allegedly installed the remote administration tool [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}) on Earle computers and later used it to access the network remotely. Prosecutors also alleged that he stole approximately 950 passwords and [deleted logs]({{ 'deleted-logs/' | relative_url }}) and files associated with the system. Government accounts connected these actions to the subsequent network outage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+According to the indictment, McKinnon allegedly installed the remote administration tool [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}) on Earle computers and later used it to access the network remotely. Prosecutors also alleged that he stole approximately 950 passwords and [deleted logs]({{ 'deleted-logs/' | relative_url }}) and files associated with the system. Government accounts connected these actions to the subsequent network outage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
-As the case moved through extradition proceedings and media coverage, the Earle incident became one of the central examples repeatedly cited by US authorities. News reports summarising the government's allegations described the network as having been rendered inoperable after log files were deleted from systems involved in monitoring naval readiness and ship movements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Brit Hacker Loses U.S</span><span class="citation-popover-snippet">Extradition AppealJuly 30, 2008 — 30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 computers bel...</span><span class="citation-popover-meta">Published: July 30, 2008</span></span></span>
+As the case moved through extradition proceedings and media coverage, the Earle incident became one of the central examples repeatedly cited by US authorities. News reports summarising the government's allegations described the network as having been rendered inoperable after log files were deleted from systems involved in monitoring naval readiness and ship movements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">CBS News Brit Hacker Loses U.S</span><span class="citation-popover-snippet">Extradition AppealJuly 30, 2008 — 30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 computers bel...</span><span class="citation-popover-meta">Published: July 30, 2008</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-2-dark.svg" | relative_url }}" alt="Earle Shutdown illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Timing After 9/11 Raised the Stakes
 
-The timing of the alleged disruption was critical to the government's argument. Prosecutors emphasised that the Earle network problems occurred in the period immediately following the September 11 attacks, when US military and security organisations were operating under heightened alert conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+The timing of the alleged disruption was critical to the government's argument. Prosecutors emphasised that the Earle network problems occurred in the period immediately following the September 11 attacks, when US military and security organisations were operating under heightened alert conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
-US Attorney Christopher Christie described the incident as a "grave intrusion" into a vital military system at a moment when the country was mobilising against the possibility of further attacks. That framing elevated the significance of the allegations beyond the direct technical damage. The concern was not merely that computers stopped functioning, but that a military logistics installation allegedly lost critical capabilities during a period of national emergency. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+US Attorney Christopher Christie described the incident as a "grave intrusion" into a vital military system at a moment when the country was mobilising against the possibility of further attacks. That framing elevated the significance of the allegations beyond the direct technical damage. The concern was not merely that computers stopped functioning, but that a military logistics installation allegedly lost critical capabilities during a period of national emergency.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
-The post-9/11 context also helped explain why prosecutors highlighted Earle more prominently than many of the other systems involved in the broader hacking investigation. The case included allegations involving dozens of military and NASA computers, but the Earle shutdown offered a concrete story that juries, courts and the public could easily understand: a military facility responsible for supporting naval operations reportedly lost network functionality at a time when readiness was a national priority. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+The post-9/11 context also helped explain why prosecutors highlighted Earle more prominently than many of the other systems involved in the broader hacking investigation. The case included allegations involving dozens of military and NASA computers, but the Earle shutdown offered a concrete story that juries, courts and the public could easily understand: a military facility responsible for supporting naval operations reportedly lost network functionality at a time when readiness was a national priority.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
 
 ## Why the Earle Claims Remained Contested
 
-Although the Earle allegations became a cornerstone of the prosecution's narrative, they were never tested at a US criminal trial because McKinnon's extradition was ultimately blocked by the UK government in 2012. As a result, the competing claims were not fully examined through courtroom evidence and cross-examination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+Although the Earle allegations became a cornerstone of the prosecution's narrative, they were never tested at a US criminal trial because McKinnon's extradition was ultimately blocked by the UK government in 2012. As a result, the competing claims were not fully examined through courtroom evidence and cross-examination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
-McKinnon consistently denied intentionally causing damage. He argued that he had been exploiting poor security and searching for information rather than attempting to disrupt military operations. Supporters also questioned whether the reported scale of the damage reflected weaknesses in government computer systems as much as the actions of an intruder. Some commentators and security specialists suggested that official damage estimates and outage descriptions deserved scrutiny because the underlying technical details were never publicly litigated in depth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">of Washington DC network of more than 2,000 computers for 24 hours</span><span class="citation-popover-snippet">The GuardianGary McKinnon timeline: events leading up to extradition ...October 16, 2012 — 16 Oct 2012 — He is accused of leaving 300 com...</span></span></span>
+McKinnon consistently denied intentionally causing damage. He argued that he had been exploiting poor security and searching for information rather than attempting to disrupt military operations. Supporters also questioned whether the reported scale of the damage reflected weaknesses in government computer systems as much as the actions of an intruder. Some commentators and security specialists suggested that official damage estimates and outage descriptions deserved scrutiny because the underlying technical details were never publicly litigated in depth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">of Washington DC network of more than 2,000 computers for 24 hours</span><span class="citation-popover-snippet">The GuardianGary McKinnon timeline: events leading up to extradition ...October 16, 2012 — 16 Oct 2012 — He is accused of leaving 300 com...</span></span></span>
 
-Even so, from the perspective of prosecutors, Naval Weapons Station Earle remained the strongest single example of operational harm. The allegations connected unauthorised access to a named military facility, a documented disruption period, and a moment of exceptional national sensitivity after September 11. That combination made Earle the centrepiece of the argument that the case was about more than curiosity regarding UFOs and government secrets; it was about the alleged consequences of penetrating military networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
+Even so, from the perspective of prosecutors, Naval Weapons Station Earle remained the strongest single example of operational harm. The allegations connected unauthorised access to a named military facility, a documented disruption period, and a moment of exceptional national sensitivity after September 11. That combination made Earle the centrepiece of the argument that the case was about more than curiosity regarding UFOs and government secrets; it was about the alleged consequences of penetrating military networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-3-dark.svg" | relative_url }}" alt="Earle Shutdown illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_earle_shutdown_stake_5d0f82-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Navy Base Shutdown at the Center. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Navy Base Shutdown at the Center. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how intrusions into military-related systems became serious national-security matters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Shows how intrusions into military-related systems became serious national-security matters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Provides context for how authorities view unauthorised access and operational risk.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for how authorities view unauthorised access and operational risk.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
-        </h4>
-        <p class="fr-book-author">By Andy Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
+</h4>
+<p class="fr-book-author">By Andy Greenberg</p>
         
-        <p class="fr-book-desc">Demonstrates real-world consequences of network compromise and disruption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates real-world consequences of network compromise and disruption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
+</h4>
+<p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
         
-        <p class="fr-book-desc">Explains why attacks on strategic infrastructure attract major government attention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why attacks on strategic infrastructure attract major government attention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States US Navy Army Logo Embroidered Patch Badge Iron on or Sew on Patch"><img src="{{ '/assets/images/marketplace-covers/89f60e47157a78a4d9f6.jpg' | relative_url }}" alt="Listing image for United States US Navy Army Logo Embroidered Patch Badge Iron on or Sew on Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer">United States US Navy Army Logo Embroidered Patch Badge Iron on or Sew on Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for United States US Navy Army Logo Embroidered Patch Badge Iron on or Sew on Patch"><img src="{{ '/assets/images/marketplace-covers/89f60e47157a78a4d9f6.jpg' | relative_url }}" alt="Listing image for United States US Navy Army Logo Embroidered Patch Badge Iron on or Sew on Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer">United States US Navy Army Logo Embroidered Patch Badge Iron on or Sew on Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Navy patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for F-14 Tomcat Fighter Aircraft Patch Iron Sew On Clothes US Navy Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/18a1d625c80640d5d3cd.jpg' | relative_url }}" alt="Listing image for F-14 Tomcat Fighter Aircraft Patch Iron Sew On Clothes US Navy Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer">F-14 Tomcat Fighter Aircraft Patch Iron Sew On Clothes US Navy Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for F-14 Tomcat Fighter Aircraft Patch Iron Sew On Clothes US Navy Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/18a1d625c80640d5d3cd.jpg' | relative_url }}" alt="Listing image for F-14 Tomcat Fighter Aircraft Patch Iron Sew On Clothes US Navy Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer">F-14 Tomcat Fighter Aircraft Patch Iron Sew On Clothes US Navy Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Navy patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jolly Rogers Tomcat Patch Iron Sew On Cloth United States Navy Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/d66faff59cd1993bb994.jpg' | relative_url }}" alt="Listing image for Jolly Rogers Tomcat Patch Iron Sew On Cloth United States Navy Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer">Jolly Rogers Tomcat Patch Iron Sew On Cloth United States Navy Embroidered Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: US Navy patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Jolly Rogers Tomcat Patch Iron Sew On Cloth United States Navy Embroidered Badge"><img src="{{ '/assets/images/marketplace-covers/d66faff59cd1993bb994.jpg' | relative_url }}" alt="Listing image for Jolly Rogers Tomcat Patch Iron Sew On Cloth United States Navy Embroidered Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer">Jolly Rogers Tomcat Patch Iron Sew On Cloth United States Navy Embroidered Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for US Navy patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: US Navy patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=US+Navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="US Navy patch" data-ebay-reference="earle-shutdown-the-navy-base-shutdown-at-the-center-ufo-hackers-such-us-navy-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -520,7 +520,7 @@ Even so, from the perspective of prosecutors, Naval Weapons Station Earle remain
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -540,7 +540,7 @@ Even so, from the perspective of prosecutors, Naval Weapons Station Earle remain
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -572,7 +572,7 @@ Even so, from the perspective of prosecutors, Naval Weapons Station Earle remain
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -624,7 +624,7 @@ Even so, from the perspective of prosecutors, Naval Weapons Station Earle remain
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -669,7 +669,7 @@ Even so, from the perspective of prosecutors, Naval Weapons Station Earle remain
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -710,105 +710,105 @@ Even so, from the perspective of prosecutors, Naval Weapons Station Earle remain
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>entire network of 300 computers at NWS Earle, located in Colts Neck, N.J., was effectively shut down for an entire week, acc...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: brit accused of hacking pentagon  
-   Link: <a href="https://www.wired.com/2002/11/brit-accused-of-hacking-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/brit-accused-of-hacking-pentagon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2002 — In New Jersey, McKinnon was accused of hacking into a network of 300 computers at the Earle Naval Weapons Station in Colts...</p></details>
+   Link:<a href="https://www.wired.com/2002/11/brit-accused-of-hacking-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/brit-accused-of-hacking-pentagon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 Nov 2002 — In New Jersey, McKinnon was accused of hacking into a network of 300 computers at the Earle Naval Weapons Station in Colts...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: history.navy.mil  
-   Link: <a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Casualties: US Navy and Marine Corps Personnel Killed and Injured in Selected Accidents and Other Incidents Not Directly the Result...</p></details>
+   Link:<a href="https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html" target="_blank" rel="noopener noreferrer nofollow">https://www.history.navy.mil/research/library/online-reading-room/title-list-alphabetically/c/casualties-usnavy-marinecorps-personnel-killed-injured-selected-accidents-other-incidents-notdirectly-result-enemy-action.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Casualties: US Navy and Marine Corps Personnel Killed and Injured in Selected Accidents and Other Incidents Not Directly the Result...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: youtube.com  
    Title: The UFO Hacker, Gary Mc Kinnon  
-   Link: <a href="https://www.youtube.com/watch?v=vC0tdwqyWrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vC0tdwqyWrE</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | UK Computer Hacker Who Was Accused Of The Biggest US Military Hack Of All Time...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=vC0tdwqyWrE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vC0tdwqyWrE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | UK Computer Hacker Who Was Accused Of The Biggest US Military Hack Of All Time...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FIlHu3YUBN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FIlHu3YUBN4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FIlHu3YUBN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FIlHu3YUBN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cbsnews.com  
    Title: CBS News Brit Hacker Loses U.S  
-   Link: <a href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Extradition AppealJuly 30, 2008 — 30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 computers bel...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extradition AppealJuly 30, 2008 — 30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 computers bel...</p></details>
    Published: July 30, 2008  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | Hacking27 Jul 2005 — Mr McKinnon is also accused of deleting files capable of shutting down the...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | Hacking27 Jul 2005 — Mr McKinnon is also accused of deleting files capable of shutting down the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: of Washington DC network of more than 2,000 computers for 24 hours  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-[mckinnon-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-[mckinnon-timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon timeline: events leading up to extradition...October 16, 2012 — 16 Oct 2012 — He is accused of leaving 300 com...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-[mckinnon-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-[mckinnon-timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon timeline: events leading up to extradition...October 16, 2012 — 16 Oct 2012 — He is accused of leaving 300 com...</p></details>
    Published: October 16, 2012  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: flyingpenguin.com  
-   Link: <a href="https://www.flyingpenguin.com/gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingpenguin.com/gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | flyingpenguinI have seen numerous global companies go inoperable for 24 hours due to a fat-finger internal error and watc...</p></details>
+   Link:<a href="https://www.flyingpenguin.com/gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyingpenguin.com/gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | flyingpenguinI have seen numerous global companies go inoperable for 24 hours due to a fat-finger internal error and watc...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cybersecurityventures.com  
-   Link: <a href="https://cybersecurityventures.com/today/" target="_blank" rel="noopener noreferrer nofollow">https://cybersecurityventures.com/today/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chelan County officials shut down all government computers, networks and telephone systems...</p></details>
+   Link:<a href="https://cybersecurityventures.com/today/" target="_blank" rel="noopener noreferrer nofollow">https://cybersecurityventures.com/today/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chelan County officials shut down all government computers, networks and telephone systems...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: computerworld.com  
-   Link: <a href="https://www.computerworld.com/article/1564524/former-prosecutor-ufo-hack-looked-like-terrorist-attack.html" target="_blank" rel="noopener noreferrer nofollow">https://www.computerworld.com/article/1564524/former-prosecutor-ufo-hack-looked-like-terrorist-attack.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former prosecutor: UFO hack looked like terrorist attackLiebermann noted that McKinnon allegedly caused $290,431 in financia...</p></details>
+   Link:<a href="https://www.computerworld.com/article/1564524/former-prosecutor-ufo-hack-looked-like-terrorist-attack.html" target="_blank" rel="noopener noreferrer nofollow">https://www.computerworld.com/article/1564524/former-prosecutor-ufo-hack-looked-like-terrorist-attack.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former prosecutor: UFO hack looked like terrorist attackLiebermann noted that McKinnon allegedly caused $290,431 in financia...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: media.defense.gov  
    Title: Mc Kinnon comphacker  
-   Link: <a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — The indictment alleges that Gary McKinnon sca...</p></details>
+   Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — The indictment alleges that Gary McKinnon sca...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: schneier.com  
    Title: garuy mckinnon  
-   Link: <a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon4 Aug 2008 — Well, I mean it was in the loose sense of it, but I heard he just ran some perl scripts to brute force password...</p></details>
+   Link:<a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon4 Aug 2008 — Well, I mean it was in the loose sense of it, but I heard he just ran some perl scripts to brute force password...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: UK hacker to learn extradition fate  
-   Link: <a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LEvGU1b4ysw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Hacker, Gary McKinnon - Absolute Mad Lads...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LEvGU1b4ysw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Hacker, Gary McKinnon - Absolute Mad Lads...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: groups.google.com  
    Title: gmcrn NCz7Gg  
-   Link: <a href="https://groups.google.com/g/alt.comp.virus/c/gmcrnNCz7Gg" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.comp.virus/c/gmcrnNCz7Gg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>army computers &#x27;shut down by hacker&#x27;Gary McKinnon, 39, is accused of accessing 97 US government computers, causing damage estimated at $7...</p></details>
+   Link:<a href="https://groups.google.com/g/alt.comp.virus/c/gmcrnNCz7Gg" target="_blank" rel="noopener noreferrer nofollow">https://groups.google.com/g/alt.comp.virus/c/gmcrnNCz7Gg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>army computers &#x27;shut down by hacker&#x27;Gary McKinnon, 39, is accused of accessing 97 US government computers, causing damage estimated at $7...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: The Man Who Hacked the U.S. Government  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK hacker to learn extradition fate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK hacker to learn extradition fate...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b5afwWUYWVQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b5afwWUYWVQ</a>  

@@ -280,18 +280,18 @@ image: /assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_orig
 
 ## Introduction
 
-In the Gary McKinnon story, even a screenshot would have been more useful than a verbal recollection. Yet the strongest possible evidence would not have been a screenshot at all. It would have been the original NASA image file that McKinnon claimed to have viewed. The difference matters because investigators do not evaluate digital images solely by what they appear to show. They also examine the information attached to the file, the way it was created, where it was stored, and whether it can be linked to a documented chain of [custody]({{ 'custody/' | relative_url }}). In digital forensics, those details are often as important as the visible picture itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2021 s 0036standard guide image authenticationdraft osac proposed</span><span class="citation-popover-snippet">28. 1.6 This document is not intended to be used as a step-by-step practice...Read more...</span></span></span>
+In the Gary McKinnon story, even a screenshot would have been more useful than a verbal recollection. Yet the strongest possible evidence would not have been a screenshot at all. It would have been the original NASA image file that McKinnon claimed to have viewed. The difference matters because investigators do not evaluate digital images solely by what they appear to show. They also examine the information attached to the file, the way it was created, where it was stored, and whether it can be linked to a documented chain of [custody]({{ 'custody/' | relative_url }}). In digital forensics, those details are often as important as the visible picture itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2021 s 0036standard guide image authenticationdraft osac proposed</span><span class="citation-popover-snippet">28. 1.6 This document is not intended to be used as a step-by-step practice...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-1-dark.svg" | relative_url }}" alt="Original file illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Within the debate over McKinnon's UFO-related claims, the absence of the original image means that no one can test the strongest version of his account. The issue is not simply whether the object he described looked unusual. The issue is that the underlying file—the thing that could potentially be examined, authenticated, compared and contextualised—was never preserved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+Within the debate over McKinnon's UFO-related claims, the absence of the original image means that no one can test the strongest version of his account. The issue is not simply whether the object he described looked unusual. The issue is that the underlying file—the thing that could potentially be examined, authenticated, compared and contextualised—was never preserved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
 
 ## What Metadata Can Show
 
-An original image file often contains information beyond the pixels visible on screen. Depending on the file type and workflow, [metadata]({{ 'metadata/' | relative_url }}) can reveal creation times, modification times, image dimensions, compression history, software involved in processing, and other clues about how the file moved through a system. Digital-forensics standards treat such information as potentially significant evidence because it can help establish provenance, authenticity and chronology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/programs-projects/digital-forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">digital forensics</span><span class="citation-popover-snippet">Digital Forensics &#124; NISTMay 10, 2018 — Digital evidence includes data on computers and mobile devices, including audio, video, and im...</span><span class="citation-popover-meta">Published: May 10, 2018</span></span></span>
+An original image file often contains information beyond the pixels visible on screen. Depending on the file type and workflow, [metadata]({{ 'metadata/' | relative_url }}) can reveal creation times, modification times, image dimensions, compression history, software involved in processing, and other clues about how the file moved through a system. Digital-forensics standards treat such information as potentially significant evidence because it can help establish provenance, authenticity and chronology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/programs-projects/digital-forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">digital forensics</span><span class="citation-popover-snippet">Digital Forensics &#124; NISTMay 10, 2018 — Digital evidence includes data on computers and mobile devices, including audio, video, and im...</span><span class="citation-popover-meta">Published: May 10, 2018</span></span></span>
 
 In the specific context of McKinnon's claim, an original NASA image could potentially have answered questions that a screenshot cannot:
 
@@ -307,16 +307,16 @@ In the specific context of McKinnon's claim, an original NASA image could potent
 
 </div>
 
-These questions concern context rather than appearance. A photograph of a screen might show an object. The original file might show where that object came from and how it entered the system. Provenance research and forensic-image authentication place heavy emphasis on exactly these kinds of relationships between a file and its history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1807.03376" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv+2SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Beyond Pixels: Image Provenance Analysis Leveraging Metadata</span><span class="citation-popover-snippet">arXiv Beyond Pixels: Image Provenance Analysis Leveraging Metadata</span></span></span>
+These questions concern context rather than appearance. A photograph of a screen might show an object. The original file might show where that object came from and how it entered the system. Provenance research and forensic-image authentication place heavy emphasis on exactly these kinds of relationships between a file and its history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/1807.03376" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Beyond Pixels: Image Provenance Analysis Leveraging Metadata</span><span class="citation-popover-snippet">arXiv Beyond Pixels: Image Provenance Analysis Leveraging Metadata</span></span></span>
 
-Another important point is that metadata is rarely decisive on its own. Metadata can be altered or removed. However, investigators can compare multiple sources of information—file structure, directory records, timestamps, hashes, logs and surrounding artefacts—to build a broader picture. The original file provides opportunities for that analysis; a screenshot provides far fewer. TrueScreen - Trust as a Service+2sciepublish.com <span class="citation-link-wrap"><a class="citation-inline-link" href="https://truescreen.io/articles/certify-photos-legal-value/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[truescreen.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">EXIF data (Exchangeable Image File Format) record information such as date, time, GPS...Read more...</span></span></span>
+Another important point is that metadata is rarely decisive on its own. Metadata can be altered or removed. However, investigators can compare multiple sources of information—file structure, directory records, timestamps, hashes, logs and surrounding artefacts—to build a broader picture. The original file provides opportunities for that analysis; a screenshot provides far fewer. TrueScreen - Trust as a Service+2sciepublish.com<span class="citation-link-wrap"><a class="citation-inline-link" href="https://truescreen.io/articles/certify-photos-legal-value/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[truescreen.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">EXIF data (Exchangeable Image File Format) record information such as date, time, GPS...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WFd7XzTf6_k" title="David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer">David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WFd7XzTf6_k">Open on YouTube</a></p></div></div></div>
 
 ## What Screenshots Strip Away
 
-A screenshot captures what was displayed on a screen at a particular moment. In doing so, it usually creates an entirely new file. That new file often discards much of the information associated with the source image and replaces it with metadata generated by the screenshot process itself. Forensic specialists therefore distinguish between original digital evidence and derivative copies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.primeauforensics.com/digital-image-authentication-of-screenshot-evidence-in-criminal-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primeauforensics.com">[Primeau Forensics+2hackerfactor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primeauforensics.com</span><span class="citation-popover-snippet">Primeau ForensicsAuthentication of Screenshots for DefenseDigital image authentication helps determine the authenticity of images used as...</span></span></span>
+A screenshot captures what was displayed on a screen at a particular moment. In doing so, it usually creates an entirely new file. That new file often discards much of the information associated with the source image and replaces it with metadata generated by the screenshot process itself. Forensic specialists therefore distinguish between original digital evidence and derivative copies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.primeauforensics.com/digital-image-authentication-of-screenshot-evidence-in-criminal-defense/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: primeauforensics.com">[primeauforensics.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">primeauforensics.com</span><span class="citation-popover-snippet">Primeau ForensicsAuthentication of Screenshots for DefenseDigital image authentication helps determine the authenticity of images used as...</span></span></span>
 
 Imagine that McKinnon had captured a screenshot before losing his connection. Researchers could have examined the visible object, the screen layout, window titles, interface elements and image quality. That would have been valuable. Yet many potentially important details would still have been missing:
 
@@ -331,9 +331,9 @@ Imagine that McKinnon had captured a screenshot before losing his connection. Re
 
 </div>
 
-A screenshot can preserve appearance while flattening context. That distinction is central to digital-evidence analysis. Investigators frequently seek original files because screenshots and re-saved images can obscure the very clues needed to determine authenticity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-i-001-best-practices-for-image-authentication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE+2Primeau Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-title">Best Practices for Image Authentication</span><span class="citation-popover-snippet">For the purposes of this...Read more...</span></span></span>
+A screenshot can preserve appearance while flattening context. That distinction is central to digital-evidence analysis. Investigators frequently seek original files because screenshots and re-saved images can obscure the very clues needed to determine authenticity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.swgde.org/documents/published-complete-listing/18-i-001-best-practices-for-image-authentication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[swgde.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-title">Best Practices for Image Authentication</span><span class="citation-popover-snippet">For the purposes of this...Read more...</span></span></span>
 
-This is why discussions of the McKinnon case often focus on the missed capture opportunity. Even if a screenshot would not have proved the existence of an extraordinary craft, it would at least have supplied a shared object for examination. Without either a screenshot or an original file, analysts are left with a verbal description alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+This is why discussions of the McKinnon case often focus on the missed capture opportunity. Even if a screenshot would not have proved the existence of an extraordinary craft, it would at least have supplied a shared object for examination. Without either a screenshot or an original file, analysts are left with a verbal description alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-2-dark.svg" | relative_url }}" alt="Original file illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -341,7 +341,7 @@ This is why discussions of the McKinnon case often focus on the missed capture o
 
 One of the most common misunderstandings in UFO-related evidence debates is the assumption that the visual image is the entire evidence package. In practice, provenance—the documented origin and history of a file—is often more important than the image's appearance.
 
-A striking image can be interpreted in many ways. It might depict an unusual craft, a satellite component, an imaging artefact, a rendering, a test object or something entirely mundane. Determining which explanation is most plausible requires context. Provenance provides that context by linking the image to a verifiable history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2021 s 0036standard guide image authenticationdraft osac proposed</span><span class="citation-popover-snippet">28. 1.6 This document is not intended to be used as a step-by-step practice...Read more...</span></span></span>
+A striking image can be interpreted in many ways. It might depict an unusual craft, a satellite component, an imaging artefact, a rendering, a test object or something entirely mundane. Determining which explanation is most plausible requires context. Provenance provides that context by linking the image to a verifiable history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">osac 2021 s 0036standard guide image authenticationdraft osac proposed</span><span class="citation-popover-snippet">28. 1.6 This document is not intended to be used as a step-by-step practice...Read more...</span></span></span>
 
 In McKinnon's account, the strongest evidential scenario would have looked something like this:
 
@@ -359,202 +359,202 @@ In McKinnon's account, the strongest evidential scenario would have looked somet
 
 </div>
 
-That process would not automatically validate the UFO interpretation. It would, however, create a testable claim. The absence of the original file prevents that process from beginning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/programs-projects/digital-forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST+2NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">digital forensics</span><span class="citation-popover-snippet">Digital Forensics &#124; NISTMay 10, 2018 — Digital evidence includes data on computers and mobile devices, including audio, video, and im...</span><span class="citation-popover-meta">Published: May 10, 2018</span></span></span>
+That process would not automatically validate the UFO interpretation. It would, however, create a testable claim. The absence of the original file prevents that process from beginning.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/programs-projects/digital-forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">digital forensics</span><span class="citation-popover-snippet">Digital Forensics &#124; NISTMay 10, 2018 — Digital evidence includes data on computers and mobile devices, including audio, video, and im...</span><span class="citation-popover-meta">Published: May 10, 2018</span></span></span>
 
-The result is that the debate remains centred on testimony rather than evidence. McKinnon may genuinely believe he saw something extraordinary, but the original image file—the item that could potentially support, weaken or contextualise that belief—was never preserved. From an evidential perspective, that missing file is more significant than the appearance of the alleged object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+The result is that the debate remains centred on testimony rather than evidence. McKinnon may genuinely believe he saw something extraordinary, but the original image file—the item that could potentially support, weaken or contextualise that belief—was never preserved. From an evidential perspective, that missing file is more significant than the appearance of the alleged object itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-3-dark.svg" | relative_url }}" alt="Original file illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_original_file_vs_scr_b753f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the Original File Matters More. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the Original File Matters More. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guide to Computer Forensics and Investigations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IAfGswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Guide to Computer Forensics and Investigations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guide to Computer Forensics and Investigations">Guide to Computer Forensics and Investigations</a>
-        </h4>
-        <p class="fr-book-author">By Bill Nelson, Amelia Phillips et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Guide to Computer Forensics and Investigations on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=IAfGswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Guide to Computer Forensics and Investigations" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Guide to Computer Forensics and Investigations">Guide to Computer Forensics and Investigations</a>
+</h4>
+<p class="fr-book-author">By Bill Nelson, Amelia Phillips et al.</p>
         
-        <p class="fr-book-desc">Explains why original files and metadata matter.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why original files and metadata matter.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Guide+to+Computer+Forensics+and+Investigations+by+Bill+Nelson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Digital+Forensics+by+Richard+Boddington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Digital Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zwRwDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Digital Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Practical+Digital+Forensics+by+Richard+Boddington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Digital Forensics">Practical Digital Forensics</a>
-        </h4>
-        <p class="fr-book-author">By Richard Boddington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Practical+Digital+Forensics+by+Richard+Boddington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Practical Digital Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zwRwDQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Practical Digital Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Practical+Digital+Forensics+by+Richard+Boddington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Practical Digital Forensics">Practical Digital Forensics</a>
+</h4>
+<p class="fr-book-author">By Richard Boddington</p>
         
-        <p class="fr-book-desc">Covers provenance, authenticity and chain of custody.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Practical+Digital+Forensics+by+Richard+Boddington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers provenance, authenticity and chain of custody.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Practical+Digital+Forensics+by+Richard+Boddington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=File+System+Forensic+Analysis+by+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open File System Forensic Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I4gpAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for File System Forensic Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=File+System+Forensic+Analysis+by+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="File System Forensic Analysis">File System Forensic Analysis</a>
-        </h4>
-        <p class="fr-book-author">By Brian Carrier</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=File+System+Forensic+Analysis+by+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open File System Forensic Analysis on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=I4gpAQAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for File System Forensic Analysis" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=File+System+Forensic+Analysis+by+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="File System Forensic Analysis">File System Forensic Analysis</a>
+</h4>
+<p class="fr-book-author">By Brian Carrier</p>
         
-        <p class="fr-book-desc">Details metadata and file history analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=File+System+Forensic+Analysis+by+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Details metadata and file history analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=File+System+Forensic+Analysis+by+Brian+Carrier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Supports evidence-based reasoning about claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports evidence-based reasoning about claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Computer+Forensics+and+Investigations+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Computer Forensics and Investigations books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Digital+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Digital Forensics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=File+System+Forensic+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">File System Forensic Analysis</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=to+Computer+Forensics+and+Investigations+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">to Computer Forensics and Investigations books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Practical+Digital+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Practical Digital Forensics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=File+System+Forensic+Analysis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">File System Forensic Analysis</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="{{ '/assets/images/marketplace-covers/7b191f47e9d95f93e30f.jpg' | relative_url }}" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="original-file-why-the-original-file-matters-more-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-original-file-matters-more-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-original-file-matters-more-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -570,7 +570,7 @@ The result is that the debate remains centred on testimony rather than evidence.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -590,7 +590,7 @@ The result is that the debate remains centred on testimony rather than evidence.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -622,7 +622,7 @@ The result is that the debate remains centred on testimony rather than evidence.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -674,7 +674,7 @@ The result is that the debate remains centred on testimony rather than evidence.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -719,7 +719,7 @@ The result is that the debate remains centred on testimony rather than evidence.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -760,144 +760,144 @@ The result is that the debate remains centred on testimony rather than evidence.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nist.gov  
    Title: osac 2021 s 0036standard guide image authenticationdraft osac proposed  
-   Link: <a href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>28. 1.6 This document is not intended to be used as a step-by-step practice...Read more...</p></details>
+   Link:<a href="https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28. 1.6 This document is not intended to be used as a step-by-step practice...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nist.gov  
    Title: digital forensics  
-   Link: <a href="https://www.nist.gov/programs-projects/digital-forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/digital-forensics</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics | NISTMay 10, 2018 — Digital evidence includes data on computers and mobile devices, including audio, video, and im...</p></details>
+   Link:<a href="https://www.nist.gov/programs-projects/digital-forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/digital-forensics</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics | NISTMay 10, 2018 — Digital evidence includes data on computers and mobile devices, including audio, video, and im...</p></details>
    Published: May 10, 2018  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Beyond Pixels: Image Provenance Analysis Leveraging Metadata  
-   Link: <a href="https://arxiv.org/abs/1807.03376" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.03376</a>  
+   Link:<a href="https://arxiv.org/abs/1807.03376" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1807.03376</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;), images were r...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;), images were r...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nist.gov  
    Title: osac 2024 n 0011 standard guide forensic digital image management version 10  
-   Link: <a href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>54. 55. 1. Scope. 56. 57... written notes, electronic recording, image metadata, automated logging. 187.Read more...</p></details>
+   Link:<a href="https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>54. 55. 1. Scope. 56. 57... written notes, electronic recording, image metadata, automated logging. 187.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: swgde.org  
    Title: Best Practices for Image Authentication  
-   Link: <a href="https://www.swgde.org/documents/published-complete-listing/18-i-001-best-practices-for-image-authentication/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/18-i-001-best-practices-for-image-authentication/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For the purposes of this...Read more...</p></details>
+   Link:<a href="https://www.swgde.org/documents/published-complete-listing/18-i-001-best-practices-for-image-authentication/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/18-i-001-best-practices-for-image-authentication/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>For the purposes of this...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/publications/media-forensics-challenge-image-provenance-evaluation-and-state-art-analysis-large" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/media-forensics-challenge-image-provenance-evaluation-and-state-art-analysis-large</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Media Forensics Challenge Image Provenance Evaluation...by X Jin · 2020 · Cited by 1 — Media Forensics Challenge Image Provenance Ev...</p></details>
+   Link:<a href="https://www.nist.gov/publications/media-forensics-challenge-image-provenance-evaluation-and-state-art-analysis-large" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/media-forensics-challenge-image-provenance-evaluation-and-state-art-analysis-large</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Media Forensics Challenge Image Provenance Evaluation...by X Jin · 2020 · Cited by 1 — Media Forensics Challenge Image Provenance Ev...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: truescreen.io  
    Title: True Screen  
-   Link: <a href="https://truescreen.io/articles/certify-photos-legal-value/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/certify-photos-legal-value/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIF data (Exchangeable Image File Format) record information such as date, time, GPS...Read more...</p></details>
+   Link:<a href="https://truescreen.io/articles/certify-photos-legal-value/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/certify-photos-legal-value/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXIF data (Exchangeable Image File Format) record information such as date, time, GPS...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: sciepublish.com  
-   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in digital pho...</p></details>
+   Link:<a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in digital pho...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hackerfactor.com  
    Title: Say No to Screenshots  
-   Link: <a href="https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=" target="_blank" rel="noopener noreferrer nofollow">https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This effectively removes any pixel-related [artifacts](&amp;#123;&amp;#123; &#x27;artifacts/&#x27; | relative_url &amp;#125;&amp;#125;). none of the metadata will reflect...</p></details>
+   Link:<a href="https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=" target="_blank" rel="noopener noreferrer nofollow">https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This effectively removes any pixel-related [artifacts](&amp;#123;&amp;#123; &#x27;artifacts/&#x27; | relative_url &amp;#125;&amp;#125;). none of the metadata will reflect...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: truescreen.io  
    Title: evidence preservation guide  
-   Link: <a href="https://truescreen.io/articles/evidence-preservation-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/evidence-preservation-guide/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Preserve Digital Evidence for CourtMar 29, 2026 — A printed email or a screenshot of an inbox does not meet evidentiary standards...</p></details>
+   Link:<a href="https://truescreen.io/articles/evidence-preservation-guide/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/evidence-preservation-guide/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Preserve Digital Evidence for CourtMar 29, 2026 — A printed email or a screenshot of an inbox does not meet evidentiary standards...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: truescreen.io  
    Title: photo verification  
-   Link: <a href="https://truescreen.io/articles/photo-verification/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/photo-verification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Verify Image Authenticity30 Mar 2026 — Social media platforms like Instagram and WhatsApp automatically strip EXIF metadata from s...</p></details>
+   Link:<a href="https://truescreen.io/articles/photo-verification/" target="_blank" rel="noopener noreferrer nofollow">https://truescreen.io/articles/photo-verification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Verify Image Authenticity30 Mar 2026 — Social media platforms like Instagram and WhatsApp automatically strip EXIF metadata from s...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: primeauforensics.com  
-   Link: <a href="https://www.primeauforensics.com/digital-image-authentication-of-screenshot-evidence-in-criminal-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.primeauforensics.com/digital-image-authentication-of-screenshot-evidence-in-criminal-defense/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Primeau ForensicsAuthentication of Screenshots for DefenseDigital image authentication helps determine the authenticity of images used as...</p></details>
+   Link:<a href="https://www.primeauforensics.com/digital-image-authentication-of-screenshot-evidence-in-criminal-defense/" target="_blank" rel="noopener noreferrer nofollow">https://www.primeauforensics.com/digital-image-authentication-of-screenshot-evidence-in-criminal-defense/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Primeau ForensicsAuthentication of Screenshots for DefenseDigital image authentication helps determine the authenticity of images used as...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: crime-scene-investigator.net  
-   Link: <a href="https://www.crime-scene-investigator.net/best-practices-for-image-authentication.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crime-scene-investigator.net/best-practices-for-image-authentication.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Image AuthenticationThe objective of this document is to provide personnel with guidance regarding practices appropria...</p></details>
+   Link:<a href="https://www.crime-scene-investigator.net/best-practices-for-image-authentication.html" target="_blank" rel="noopener noreferrer nofollow">https://www.crime-scene-investigator.net/best-practices-for-image-authentication.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Image AuthenticationThe objective of this document is to provide personnel with guidance regarding practices appropria...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...Reminder: Gary McKinnon caught NASA editing UAP out of their images two decades...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...Reminder: Gary McKinnon caught NASA editing UAP out of their images two decades...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonThe story of how a hacker breached NASA security with the intention of proving that NASA is hidin...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: researchgate.net  
    Title: Forensic Metadata Analysis in Detecting Digital Image Manipulation  
-   Link: <a href="https://www.researchgate.net/publication/396982706_Forensic_Metadata_Analysis_in_Detecting_Digital_Image_Manipulation/fulltext/6900c97e4baee165918ddc11/Forensic-Metadata-Analysis-in-Detecting-Digital-Image-Manipulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396982706_Forensic_Metadata_Analysis_in_Detecting_Digital_Image_Manipulation/fulltext/6900c97e4baee165918ddc11/Forensic-Metadata-Analysis-in-Detecting-Digital-Image-Manipulation.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2025 — In the field of research, digital image forensics has emerged as...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396982706_Forensic_Metadata_Analysis_in_Detecting_Digital_Image_Manipulation/fulltext/6900c97e4baee165918ddc11/Forensic-Metadata-Analysis-in-Detecting-Digital-Image-Manipulation.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396982706_Forensic_Metadata_Analysis_in_Detecting_Digital_Image_Manipulation/fulltext/6900c97e4baee165918ddc11/Forensic-Metadata-Analysis-in-Detecting-Digital-Image-Manipulation.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5, 2025 — In the field of research, digital image forensics has emerged as...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blog.ampedsoftware.com  
    Title: add screenshots to forensic image reports in amped authenticate  
-   Link: <a href="https://blog.ampedsoftware.com/2019/12/03/add-screenshots-to-forensic-image-reports-in-amped-authenticate" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2019/12/03/add-screenshots-to-forensic-image-reports-in-amped-authenticate</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshots to Forensic Image Reports in Amped...Dec 3, 2019 — Learn how to add screenshots to forensic image analysis reports in Amped...</p></details>
+   Link:<a href="https://blog.ampedsoftware.com/2019/12/03/add-screenshots-to-forensic-image-reports-in-amped-authenticate" target="_blank" rel="noopener noreferrer nofollow">https://blog.ampedsoftware.com/2019/12/03/add-screenshots-to-forensic-image-reports-in-amped-authenticate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshots to Forensic Image Reports in Amped...Dec 3, 2019 — Learn how to add screenshots to forensic image analysis reports in Amped...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hackers-arise.com  
-   Link: <a href="https://hackers-arise.com/digital-forensics-part-9-extracting-exif-data-from-graphics-files/" target="_blank" rel="noopener noreferrer nofollow">https://hackers-arise.com/digital-forensics-part-9-extracting-exif-data-from-graphics-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nstall ExifReader · Step 2: Open a Picture File · Step 3: Extract EXIF from Another...Read more...</p></details>
+   Link:<a href="https://hackers-arise.com/digital-forensics-part-9-extracting-exif-data-from-graphics-files/" target="_blank" rel="noopener noreferrer nofollow">https://hackers-arise.com/digital-forensics-part-9-extracting-exif-data-from-graphics-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nstall ExifReader · Step 2: Open a Picture File · Step 3: Extract EXIF from Another...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: isaca.org  
    Title: what to know about exif data a more subtle cybersecurity risk  
-   Link: <a href="https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About EXIF Data, a More Subtle...6 Feb 2025 — EXIF metadata can serve as a critical forensic artifact, with some studies su...</p></details>
+   Link:<a href="https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk" target="_blank" rel="noopener noreferrer nofollow">https://www.isaca.org/resources/news-and-trends/industry-news/2025/what-to-know-about-exif-data-a-more-subtle-cybersecurity-risk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What to Know About EXIF Data, a More Subtle...6 Feb 2025 — EXIF metadata can serve as a critical forensic artifact, with some studies su...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a variety of details, including: Timestamps: Date and time when the image was...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392920789_Forensic_Value_of_Exif_Data_An_Analytical_Evaluation_of_Metadata_Integrity_across_Image_Transfer_Methods</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a variety of details, including: Timestamps: Date and time when the image was...Read more...</p></details>

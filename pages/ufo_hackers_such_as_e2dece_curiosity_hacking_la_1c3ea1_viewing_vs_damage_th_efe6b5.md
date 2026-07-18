@@ -280,17 +280,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_vie
 
 ## Introduction
 
-In cases associated with curiosity-driven hacking, including the Gary McKinnon affair, one of the most important legal distinctions is the difference between merely viewing information and taking actions that damage, alter or disrupt computer systems. A person may claim that they entered a network only to look for files, documents or evidence. However, once an intrusion causes systems to fail, data to be altered, accounts to be deleted, or operations to be interrupted, the legal exposure typically becomes much more serious. The shift is not merely about [motive]({{ 'motive/' | relative_url }}); it is about what the intruder actually did and the consequences that followed. In both UK and US computer-crime law, unauthorised access can be an offence on its own, but allegations of impairment or damage often trigger more severe charges and penalties. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/section/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk+2Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</span></span></span>
+In cases associated with curiosity-driven hacking, including the Gary McKinnon affair, one of the most important legal distinctions is the difference between merely viewing information and taking actions that damage, alter or disrupt computer systems. A person may claim that they entered a network only to look for files, documents or evidence. However, once an intrusion causes systems to fail, data to be altered, accounts to be deleted, or operations to be interrupted, the legal exposure typically becomes much more serious. The shift is not merely about [motive]({{ 'motive/' | relative_url }}); it is about what the intruder actually did and the consequences that followed. In both UK and US computer-crime law, unauthorised access can be an offence on its own, but allegations of impairment or damage often trigger more severe charges and penalties.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/section/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_viewing_vs_damage_th_efe6b5-Illustration-1-dark.svg" | relative_url }}" alt="Damage Threshold illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_viewing_vs_damage_th_efe6b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_viewing_vs_damage_th_efe6b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Access Without Alteration
 
-The basic legal issue in many hacking cases is unauthorised access. If a person gains entry to a computer system, account or network without permission, prosecutors do not need to prove that files were destroyed or that services were interrupted in order to allege an offence. Under the UK's Computer Misuse Act, unauthorised access itself forms the foundation of criminal liability. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/section/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk+2Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</span></span></span>
+The basic legal issue in many hacking cases is unauthorised access. If a person gains entry to a computer system, account or network without permission, prosecutors do not need to prove that files were destroyed or that services were interrupted in order to allege an offence. Under the UK's Computer Misuse Act, unauthorised access itself forms the foundation of criminal liability.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/section/1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</span></span></span>
 
-This matters in UFO-related hacking narratives because the common defence is often framed as curiosity rather than sabotage. McKinnon repeatedly stated that he was searching for evidence relating to UFOs, anti-gravity technology and alleged government secrecy rather than attempting financial theft or espionage. Yet even if an intruder only reads files, examines directories or searches internal databases, the law may still treat the conduct as unlawful if authorisation was absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+This matters in UFO-related hacking narratives because the common defence is often framed as curiosity rather than sabotage. McKinnon repeatedly stated that he was searching for evidence relating to UFOs, anti-gravity technology and alleged government secrecy rather than attempting financial theft or espionage. Yet even if an intruder only reads files, examines directories or searches internal databases, the law may still treat the conduct as unlawful if authorisation was absent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
-From a legal perspective, the distinction between "I [only looked]({{ 'only-looked/' | relative_url }})" and "I broke in" is often less significant than non-specialists assume. The act of crossing the authorisation boundary is already the key threshold. The question then becomes whether additional conduct escalated the seriousness of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 1: Unauthorised access to computer material · Actus Reus · Mens rea · Se...</span></span></span>
+From a legal perspective, the distinction between "I [only looked]({{ 'only-looked/' | relative_url }})" and "I broke in" is often less significant than non-specialists assume. The act of crossing the authorisation boundary is already the key threshold. The question then becomes whether additional conduct escalated the seriousness of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 1: Unauthorised access to computer material · Actus Reus · Mens rea · Se...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -310,11 +310,11 @@ Several actions commonly move a case beyond simple viewing:
 * Disabling security controls.
 * Altering logs or records.
 * Causing computers or networks to become unavailable.
-* Interfering with operational systems relied upon by organisations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service+2Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Cybercrime</span><span class="citation-popover-snippet">Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+* Interfering with operational systems relied upon by organisations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Cybercrime</span><span class="citation-popover-snippet">Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
 </div>
 
-In legal terms, these actions are often treated differently because they affect the integrity or availability of systems rather than merely exposing information. Courts and prosecutors generally regard disruption as creating a wider harm: administrators must investigate incidents, restore systems, verify data integrity and ensure that critical services remain operational. Even where the original motive was curiosity, the practical consequences can resemble those produced by more obviously malicious attacks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Cybercrime</span><span class="citation-popover-snippet">Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+In legal terms, these actions are often treated differently because they affect the integrity or availability of systems rather than merely exposing information. Courts and prosecutors generally regard disruption as creating a wider harm: administrators must investigate incidents, restore systems, verify data integrity and ensure that critical services remain operational. Even where the original motive was curiosity, the practical consequences can resemble those produced by more obviously malicious attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Cybercrime</span><span class="citation-popover-snippet">Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_viewing_vs_damage_th_efe6b5-Illustration-2-dark.svg" | relative_url }}" alt="Damage Threshold illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_viewing_vs_damage_th_efe6b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_curiosity_hacking_la_1c3ea1_viewing_vs_damage_th_efe6b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,11 +322,11 @@ In legal terms, these actions are often treated differently because they affect 
 
 The McKinnon case illustrates why the distinction became so important. Public discussion often focused on his UFO-related claims, but the legal allegations centred heavily on disruption and damage rather than simple observation.
 
-According to [US indictments]({{ 'indictments/' | relative_url }}) and government statements, McKinnon was accused of accessing dozens of military and NASA systems and of actions that went beyond viewing information. Prosecutors alleged that he damaged computers, deleted critical files, copied account information and caused operational disruption across military networks. One [indictment]({{ 'indictment/' | relative_url }}) alleged unauthorised access and damage involving computers used for national defence and security. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+According to [US indictments]({{ 'indictments/' | relative_url }}) and government statements, McKinnon was accused of accessing dozens of military and NASA systems and of actions that went beyond viewing information. Prosecutors alleged that he damaged computers, deleted critical files, copied account information and caused operational disruption across military networks. One [indictment]({{ 'indictment/' | relative_url }}) alleged unauthorised access and damage involving computers used for national defence and security.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
-US authorities further alleged that critical files were deleted, resulting in the shutdown of the US Army [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network, while other allegations concerned disruption affecting naval systems. Government accounts claimed substantial remediation costs and operational consequences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</span></span></span>
+US authorities further alleged that critical files were deleted, resulting in the shutdown of the US Army [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network, while other allegations concerned disruption affecting naval systems. Government accounts claimed substantial remediation costs and operational consequences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</span></span></span>
 
-Whether every allegation could have been proven at trial was never tested because the case became dominated by extradition proceedings rather than a full criminal trial. Nevertheless, the charging documents demonstrate the legal mechanism clearly: the seriousness of the prosecution did not arise solely from unauthorised entry. It arose from allegations that systems were impaired and operations disrupted after entry had been achieved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+Whether every allegation could have been proven at trial was never tested because the case became dominated by extradition proceedings rather than a full criminal trial. Nevertheless, the charging documents demonstrate the legal mechanism clearly: the seriousness of the prosecution did not arise solely from unauthorised entry. It arose from allegations that systems were impaired and operations disrupted after entry had been achieved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
@@ -335,9 +335,9 @@ Whether every allegation could have been proven at trial was never tested becaus
 
 A common misunderstanding is that prosecutors must prove a desire to cause harm. In practice, many computer misuse laws also consider recklessness.
 
-Under modern UK guidance, an offence can arise where a person performs unauthorised acts intending to impair a computer's operation or being reckless as to whether impairment will occur. In other words, someone need not set out to crash a network if they knowingly engage in conduct that creates an obvious risk of doing so. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Cybercrime</span><span class="citation-popover-snippet">Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+Under modern UK guidance, an offence can arise where a person performs unauthorised acts intending to impair a computer's operation or being reckless as to whether impairment will occur. In other words, someone need not set out to crash a network if they knowingly engage in conduct that creates an obvious risk of doing so.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Cybercrime</span><span class="citation-popover-snippet">Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
-This is particularly relevant in curiosity-driven [intrusions]({{ 'intrusions/' | relative_url }}). An individual exploring unfamiliar systems may believe they are only investigating. Yet actions such as removing files, changing settings, installing software or experimenting with administrative privileges can have unintended consequences. If those consequences interfere with system operation, the legal analysis often shifts from mere access to impairment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service+2Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Cybercrime</span><span class="citation-popover-snippet">Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
+This is particularly relevant in curiosity-driven [intrusions]({{ 'intrusions/' | relative_url }}). An individual exploring unfamiliar systems may believe they are only investigating. Yet actions such as removing files, changing settings, installing software or experimenting with administrative privileges can have unintended consequences. If those consequences interfere with system operation, the legal analysis often shifts from mere access to impairment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">Crown Prosecution Service Cybercrime</span><span class="citation-popover-snippet">Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</span><span class="citation-popover-meta">Published: May 2018</span></span></span>
 
 The law therefore focuses not only on what the person hoped to achieve but also on what they actually did and the risks they knowingly created.
 
@@ -347,187 +347,187 @@ The law therefore focuses not only on what the person hoped to achieve but also 
 
 The practical lesson from the McKinnon case and similar prosecutions is that legal exposure tends to increase in stages.
 
-At the first stage, a person may face allegations based on unauthorised access alone. At the second stage, copying sensitive information, obtaining credentials or facilitating further offences can increase the seriousness of the conduct. At the highest levels are allegations that systems were impaired, data was altered, networks were disabled or critical operations were disrupted. Each step moves the case further away from a narrative of passive observation and closer to one of active interference. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service+2Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 1: Unauthorised access to computer material · Actus Reus · Mens rea · Se...</span></span></span>
+At the first stage, a person may face allegations based on unauthorised access alone. At the second stage, copying sensitive information, obtaining credentials or facilitating further offences can increase the seriousness of the conduct. At the highest levels are allegations that systems were impaired, data was altered, networks were disabled or critical operations were disrupted. Each step moves the case further away from a narrative of passive observation and closer to one of active interference.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 1: Unauthorised access to computer material · Actus Reus · Mens rea · Se...</span></span></span>
 
-For readers examining UFO-motivated hacking claims, this distinction is crucial. The legal system generally does not assess a case solely by asking why someone entered a computer. It also asks what happened after entry was obtained. The transition from viewing files to causing damage is often the point at which a curiosity-driven intrusion becomes legally far more serious. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service+2Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 1: Unauthorised access to computer material · Actus Reus · Mens rea · Se...</span></span></span>
+For readers examining UFO-motivated hacking claims, this distinction is crucial. The legal system generally does not assess a case solely by asking why someone entered a computer. It also asks what happened after entry was obtained. The transition from viewing files to causing damage is often the point at which a curiosity-driven intrusion becomes legally far more serious.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[cps.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 1: Unauthorised access to computer material · Actus Reus · Mens rea · Se...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y5jtyps4oaY" title="UK Hacker extradition to US blocked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer">UK Hacker extradition to US blocked</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 3.1K &middot; Uploaded: October 2012 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y5jtyps4oaY">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Looking Becomes Legally More Serious. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Looking Becomes Legally More Serious. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Contains examples of unauthorized access and escalating consequences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains examples of unauthorized access and escalating consequences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
-        </h4>
-        <p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity and Cyberwar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=B88ZAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity and Cyberwar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity and Cyberwar">Cybersecurity and Cyberwar</a>
+</h4>
+<p class="fr-book-author">By P.W. Singer, Allan Friedman</p>
         
-        <p class="fr-book-desc">Explains distinctions between access, disruption and cyber harm.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains distinctions between access, disruption and cyber harm.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar+by+P.W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Shows how seemingly limited intrusions can become serious incidents.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Shows how seemingly limited intrusions can become serious incidents.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
-        </h4>
-        <p class="fr-book-author">By Andy Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
+</h4>
+<p class="fr-book-author">By Andy Greenberg</p>
         
-        <p class="fr-book-desc">Illustrates the impact of disruption and operational damage.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the impact of disruption and operational damage.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity and Cyberwar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity+and+Cyberwar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity and Cyberwar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker"><img src="{{ '/assets/images/marketplace-covers/de94c9b99ed106d31b52.jpg' | relative_url }}" alt="Listing image for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker"><img src="{{ '/assets/images/marketplace-covers/de94c9b99ed106d31b52.jpg' | relative_url }}" alt="Listing image for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/7a9de0d9df84ca3f2ab2.jpg' | relative_url }}" alt="Listing image for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/7a9de0d9df84ca3f2ab2.jpg' | relative_url }}" alt="Listing image for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/66a55d4346317fac1d45.jpg' | relative_url }}" alt="Listing image for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/66a55d4346317fac1d45.jpg' | relative_url }}" alt="Listing image for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="damage-threshold-when-looking-becomes-legally-more-serious-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ For readers examining UFO-motivated hacking claims, this distinction is crucial.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ For readers examining UFO-motivated hacking claims, this distinction is crucial.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ For readers examining UFO-motivated hacking claims, this distinction is crucial.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ For readers examining UFO-motivated hacking claims, this distinction is crucial.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ For readers examining UFO-motivated hacking claims, this distinction is crucial.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,152 +733,152 @@ For readers examining UFO-motivated hacking claims, this distinction is crucial.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1990/18/section/1" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1990/18/section/1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</p></details>
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1990/18/section/1" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1990/18/section/1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act 1990An Act to make provision for securing computer material against unauthorised access or modification; and for conn...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cps.gov.uk  
    Title: computer misuse act  
-   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 1: Unauthorised access to computer material · Actus Reus · Mens rea · Se...</p></details>
+   Link:<a href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 1: Unauthorised access to computer material · Actus Reus · Mens rea · Se...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cps.gov.uk  
    Title: Crown Prosecution Service Cybercrime  
-   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</p></details>
+   Link:<a href="https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/cybercrime-prosecution-guidance</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crown Prosecution ServiceCybercrime - prosecution guidance1 May 2018 — Section 3 CMA 1990 - unauthorised acts with intent to impair the o...</p></details>
    Published: May 2018  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of the Computer Misuse Act 1990: consultation and...14 Nov 2023 — The section 1 CMA offence of unauthorised access to computer material...</p></details>
+   Link:<a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the Computer Misuse Act 1990: consultation and...14 Nov 2023 — The section 1 CMA offence of unauthorised access to computer material...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: assets.publishing.service.gov.uk  
    Title: Factsheet Computer Misuse Act  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a819c6de5274a2e87dbe8fd/Factsheet_-_Computer_Misuse_-_Act.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a819c6de5274a2e87dbe8fd/Factsheet_-_Computer_Misuse_-_Act.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fact sheet: Part 2: Computer misuseThe 1990 Act, which applies UK-wide, makes unauthorised access to, or modification of, computer...</p></details>
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a819c6de5274a2e87dbe8fd/Factsheet_-_Computer_Misuse_-_Act.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a819c6de5274a2e87dbe8fd/Factsheet_-_Computer_Misuse_-_Act.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fact sheet: Part 2: Computer misuseThe 1990 Act, which applies UK-wide, makes unauthorised access to, or modification of, computer...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Gary (The Bear episode)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (The Bear episode)&quot;Gary&quot; is a special episode of the American comedy-drama series The Bear, written by and starring cast members...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_%28The_Bear_episode%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary (The Bear episode)&quot;Gary&quot; is a special episode of the American comedy-drama series The Bear, written by and starring cast members...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Computer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Computer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ComputerA computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (compu...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Computer" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Computer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ComputerA computer is a machine that can be programmed to automatically carry out sequences of arithmetic or logical operations (compu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IndictmentDefendant GARY MCKINNON was an unemployed computer system administrator living in London, England. h. The above introductory al...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IndictmentDefendant GARY MCKINNON was an unemployed computer system administrator living in London, England. h. The above introductory al...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: criminal.laws.com  
    Title: gary mckinnon  
-   Link: <a href="https://criminal.laws.com/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://criminal.laws.com/gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon - LAWS.com - Criminal22 Dec 2019 — He came to the attention of law enforcement authorities when he hacked into 97 computers betw...</p></details>
+   Link:<a href="https://criminal.laws.com/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://criminal.laws.com/gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon - LAWS.com - Criminal22 Dec 2019 — He came to the attention of law enforcement authorities when he hacked into 97 computers betw...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: southeastcyber.police.uk  
    Title: computer misuse act  
-   Link: <a href="https://southeastcyber.police.uk/computer-misuse-act/" target="_blank" rel="noopener noreferrer nofollow">https://southeastcyber.police.uk/computer-misuse-act/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 1990Section 2 of the Computer Misuse Act makes it illegal to gain unauthorised access to a computer with the inte...</p></details>
+   Link:<a href="https://southeastcyber.police.uk/computer-misuse-act/" target="_blank" rel="noopener noreferrer nofollow">https://southeastcyber.police.uk/computer-misuse-act/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 1990Section 2 of the Computer Misuse Act makes it illegal to gain unauthorised access to a computer with the inte...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sites.google.com  
    Title: computer misuse act  
-   Link: <a href="https://sites.google.com/rgc.aberdeen.sch.uk/rgc-highercomputing/computer-systems/security-risks-and-precautions/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/rgc.aberdeen.sch.uk/rgc-highercomputing/computer-systems/security-risks-and-precautions/computer-misuse-act</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This law makes it an offence to: Gain unauthorised access to computer...Read more...</p></details>
+   Link:<a href="https://sites.google.com/rgc.aberdeen.sch.uk/rgc-highercomputing/computer-systems/security-risks-and-precautions/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/rgc.aberdeen.sch.uk/rgc-highercomputing/computer-systems/security-risks-and-precautions/computer-misuse-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This law makes it an offence to: Gain unauthorised access to computer...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: britannica.com  
    Title: Learn more in this article about modern digital  
-   Link: <a href="https://www.britannica.com/technology/computer" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/computer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer | Definition, History, Operating Systems, &amp; Facts28 Apr 2026 — A computer is a programmable device for processing, storing, and...</p></details>
+   Link:<a href="https://www.britannica.com/technology/computer" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/technology/computer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer | Definition, History, Operating Systems, &amp; Facts28 Apr 2026 — A computer is a programmable device for processing, storing, and...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stuartmillersolicitors.co.uk  
-   Link: <a href="https://www.stuartmillersolicitors.co.uk/computer-misuse-act-offences/" target="_blank" rel="noopener noreferrer nofollow">https://www.stuartmillersolicitors.co.uk/computer-misuse-act-offences/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Computer Misuse Act OffencesUnauthorised access to computer material (Section 1 CMA): In this offence, the defendant is allege...</p></details>
+   Link:<a href="https://www.stuartmillersolicitors.co.uk/computer-misuse-act-offences/" target="_blank" rel="noopener noreferrer nofollow">https://www.stuartmillersolicitors.co.uk/computer-misuse-act-offences/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Guide to Computer Misuse Act OffencesUnauthorised access to computer material (Section 1 CMA): In this offence, the defendant is allege...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/hp/front/crucial-evidence-goes-missing-in-hacker-case-6841040.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/crucial-evidence-goes-missing-in-hacker-case-6841040.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Crucial evidence goes missing in hacker caseImportant evidence in the case of Gary McKinnon, the north London geek who hacked into the Pe...</p></details>
+   Link:<a href="https://www.standard.co.uk/hp/front/crucial-evidence-goes-missing-in-hacker-case-6841040.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/crucial-evidence-goes-missing-in-hacker-case-6841040.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crucial evidence goes missing in hacker caseImportant evidence in the case of Gary McKinnon, the north London geek who hacked into the Pe...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: scan.co.uk  
-   Link: <a href="https://www.scan.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.scan.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SCAN UK | PC components and online computer shopScan is the UK&#x27;s leading supplier of computer hardware and PC components. Customise PCs f...</p></details>
+   Link:<a href="https://www.scan.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.scan.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SCAN UK | PC components and online computer shopScan is the UK&#x27;s leading supplier of computer hardware and PC components. Customise PCs f...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ikandp.co.uk  
-   Link: <a href="https://www.ikandp.co.uk/computer-misuse-act-offences" target="_blank" rel="noopener noreferrer nofollow">https://www.ikandp.co.uk/computer-misuse-act-offences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mputer Misuse Act OffencesIn short, the Act makes the following acts illegal: Unauthorised access to computer material;. Unauthorised a...</p></details>
+   Link:<a href="https://www.ikandp.co.uk/computer-misuse-act-offences" target="_blank" rel="noopener noreferrer nofollow">https://www.ikandp.co.uk/computer-misuse-act-offences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mputer Misuse Act OffencesIn short, the Act makes the following acts illegal: Unauthorised access to computer material;. Unauthorised a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: laptopsdirect.co.uk  
-   Link: <a href="https://www.laptopsdirect.co.uk/st/acer-veriton-n4620g-series" target="_blank" rel="noopener noreferrer nofollow">https://www.laptopsdirect.co.uk/st/acer-veriton-n4620g-series</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PCs | Desktop Computer DealsShop PCs for work, school &amp; streaming. Find all-in-ones and towers from ASUS, Lenovo, HP and more. Ready for...</p></details>
+   Link:<a href="https://www.laptopsdirect.co.uk/st/acer-veriton-n4620g-series" target="_blank" rel="noopener noreferrer nofollow">https://www.laptopsdirect.co.uk/st/acer-veriton-n4620g-series</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PCs | Desktop Computer DealsShop PCs for work, school &amp; streaming. Find all-in-ones and towers from ASUS, Lenovo, HP and more. Ready for...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lexisnexis.com  
    Title: computer hacking misuse under the computer misuse act 1990  
-   Link: <a href="https://www.lexisnexis.com/en-gb/legal/guidance/computer-hacking-misuse-under-the-computer-misuse-act-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.lexisnexis.com/en-gb/legal/guidance/computer-hacking-misuse-under-the-computer-misuse-act-1990</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act 1990 (UK): unauthorised access...21 May 2026 — The Computer Misuse Act 1990 (CMA 1990) was primarily passed to tackl...</p></details>
+   Link:<a href="https://www.lexisnexis.com/en-gb/legal/guidance/computer-hacking-misuse-under-the-computer-misuse-act-1990" target="_blank" rel="noopener noreferrer nofollow">https://www.lexisnexis.com/en-gb/legal/guidance/computer-hacking-misuse-under-the-computer-misuse-act-1990</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act 1990 (UK): unauthorised access...21 May 2026 — The Computer Misuse Act 1990 (CMA 1990) was primarily passed to tackl...</p></details>
    Published: May 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pure.port.ac.uk  
    Title: port.ac.uk Insider unauthorised use of authorised access  
-   Link: <a href="https://pure.port.ac.uk/ws/portalfiles/portal/4748932/Insider_unauthorised_use_of_authorised_access_final_copy_post_acceptance_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/4748932/Insider_unauthorised_use_of_authorised_access_final_copy_post_acceptance_1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>offence of unauthorised access and the computer misuse offences in general are included in the CMA 1990, which has been amended by the Po...</p></details>
+   Link:<a href="https://pure.port.ac.uk/ws/portalfiles/portal/4748932/Insider_unauthorised_use_of_authorised_access_final_copy_post_acceptance_1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pure.port.ac.uk/ws/portalfiles/portal/4748932/Insider_unauthorised_use_of_authorised_access_final_copy_post_acceptance_1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>offence of unauthorised access and the computer misuse offences in general are included in the CMA 1990, which has been amended by the Po...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cyberupcampaign.com  
    Title: cyberup view on the dojs new guidance for prosecutors  
-   Link: <a href="https://www.cyberupcampaign.com/news/cyberup-view-on-the-dojs-new-guidance-for-prosecutors" target="_blank" rel="noopener noreferrer nofollow">https://www.cyberupcampaign.com/news/cyberup-view-on-the-dojs-new-guidance-for-prosecutors</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CyberUp view on the DoJ&#x27;s new guidance for prosecutors6 Jun 2022 — The CFAA is the US equivalent to the UK&#x27;s Computer Misuse Act (CMA) –...</p></details>
+   Link:<a href="https://www.cyberupcampaign.com/news/cyberup-view-on-the-dojs-new-guidance-for-prosecutors" target="_blank" rel="noopener noreferrer nofollow">https://www.cyberupcampaign.com/news/cyberup-view-on-the-dojs-new-guidance-for-prosecutors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CyberUp view on the DoJ&#x27;s new guidance for prosecutors6 Jun 2022 — The CFAA is the US equivalent to the UK&#x27;s Computer Misuse Act (CMA) –...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: abc.net.au  
    Title: uk man accused of hacking pentagon fronts court  
-   Link: <a href="https://www.abc.net.au/news/2005-06-09/uk-man-accused-of-hacking-pentagon-fronts-court/1588590" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2005-06-09/uk-man-accused-of-hacking-pentagon-fronts-court/1588590</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 June 2005 — Gary Mckinnon was arrested on Tuesday on charges of computer fraud issued in November 2002 by US prosecutors claiming he il...</p></details>
+   Link:<a href="https://www.abc.net.au/news/2005-06-09/uk-man-accused-of-hacking-pentagon-fronts-court/1588590" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2005-06-09/uk-man-accused-of-hacking-pentagon-fronts-court/1588590</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 June 2005 — Gary Mckinnon was arrested on Tuesday on charges of computer fraud issued in November 2002 by US prosecutors claiming he il...</p></details>
    Published: June 2005  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pinsentmasons.com  
    Title: alleged uk hacker will fight extradition to us  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2002 — US prosecutors on Tuesday indicted Gary McKinnon, 36, of Hornsey, north London, for allegedly hacking into the computer sys...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2002 — US prosecutors on Tuesday indicted Gary McKinnon, 36, of Hornsey, north London, for allegedly hacking into the computer sys...</p></details>

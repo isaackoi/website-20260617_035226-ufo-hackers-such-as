@@ -274,21 +274,21 @@ image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_bui
 
 ## Introduction
 
-Gary McKinnon’s Building 8 story is one of the most specific parts of his wider UFO-related claims. Rather than alleging that NASA openly stored photographs labelled as alien spacecraft, McKinnon said he was guided by a prior allegation that a photographic unit at NASA’s Johnson Space Center routinely removed UFOs from imagery. He believed he later accessed the department connected to that claim and found large image files stored in both processed and unprocessed forms. The central question is whether this reflected evidence of deliberate image censorship or simply a normal photographic workflow. More than two decades later, that question remains unresolved because the underlying files were never preserved, independently examined, or publicly identified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
+Gary McKinnon’s Building 8 story is one of the most specific parts of his wider UFO-related claims. Rather than alleging that NASA openly stored photographs labelled as alien spacecraft, McKinnon said he was guided by a prior allegation that a photographic unit at NASA’s Johnson Space Center routinely removed UFOs from imagery. He believed he later accessed the department connected to that claim and found large image files stored in both processed and unprocessed forms. The central question is whether this reflected evidence of deliberate image censorship or simply a normal photographic workflow. More than two decades later, that question remains unresolved because the underlying files were never preserved, independently examined, or publicly identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_building_8_photo_wor_ad68ec-Illustration-1-dark.svg" | relative_url }}" alt="Building 8 illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_building_8_photo_wor_ad68ec-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_building_8_photo_wor_ad68ec-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## What Was NASA's Building 8 Supposed To Hide?
 
-The Building 8 story did not originate with McKinnon. According to his own account, he was influenced by statements circulating in UFO disclosure circles, particularly claims attributed to a former photographic specialist associated with NASA imagery work. Those claims asserted that Building 8 at Johnson Space Center contained facilities where photographs were reviewed and that anomalous objects were removed before public release. McKinnon later told interviewers that he specifically searched NASA systems because he wanted to investigate this allegation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Darknet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
+The Building 8 story did not originate with McKinnon. According to his own account, he was influenced by statements circulating in UFO disclosure circles, particularly claims attributed to a former photographic specialist associated with NASA imagery work. Those claims asserted that Building 8 at Johnson Space Center contained facilities where photographs were reviewed and that anomalous objects were removed before public release. McKinnon later told interviewers that he specifically searched NASA systems because he wanted to investigate this allegation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
 
-Importantly, Building 8 was not an invented location. Public descriptions of Johnson Space Center facilities identify Building 8 as a photographic and multimedia operations facility. Historical listings describe it as the Photographic Laboratory and Multimedia Operations Facility, and NASA-related descriptions have associated the building with image processing and management functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of buildings in the Johnson Space Center</span><span class="citation-popover-snippet">December 12, 2025 — List of buildings in the Johnson Space Center; 8, Photographic Laboratory and Multimedia Operations Facility, 1963...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+Importantly, Building 8 was not an invented location. Public descriptions of Johnson Space Center facilities identify Building 8 as a photographic and multimedia operations facility. Historical listings describe it as the Photographic Laboratory and Multimedia Operations Facility, and NASA-related descriptions have associated the building with image processing and management functions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of buildings in the Johnson Space Center</span><span class="citation-popover-snippet">December 12, 2025 — List of buildings in the Johnson Space Center; 8, Photographic Laboratory and Multimedia Operations Facility, 1963...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
 That reality gives the story a degree of plausibility that is sometimes overlooked. McKinnon was not claiming that he found a secret building whose existence NASA denied. He was claiming that a known photographic facility performed a hidden function beyond its publicly acknowledged role. The dispute therefore concerns what happened inside the workflow, not whether the building itself existed.
 
 ## What McKinnon Said He Was Looking For
 
-McKinnon stated that he gained access to a NASA department handling large image files and found paired versions of imagery that he described as "processed and unprocessed" or "filtered and unfiltered". Because he already believed the Building 8 allegations might be true, he interpreted these file categories as potentially consistent with image alteration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
+McKinnon stated that he gained access to a NASA department handling large image files and found paired versions of imagery that he described as "processed and unprocessed" or "filtered and unfiltered". Because he already believed the Building 8 allegations might be true, he interpreted these file categories as potentially consistent with image alteration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
 
 His reasoning followed a simple chain:
 
@@ -302,7 +302,7 @@ His reasoning followed a simple chain:
 
 </div>
 
-The weakness in that chain is that the crucial step—the content difference between the files—was never documented. McKinnon did not retain the files, capture screenshots showing edits, preserve [metadata]({{ 'metadata/' | relative_url }}), or produce records identifying what processing had actually occurred. As a result, the existence of multiple file versions is known only through his recollection and cannot itself establish what the processing involved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
+The weakness in that chain is that the crucial step—the content difference between the files—was never documented. McKinnon did not retain the files, capture screenshots showing edits, preserve [metadata]({{ 'metadata/' | relative_url }}), or produce records identifying what processing had actually occurred. As a result, the existence of multiple file versions is known only through his recollection and cannot itself establish what the processing involved.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zf6YySTRd6w" title="The Biggest Pentagon Hack in History (for UFOs)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zf6YySTRd6w" target="_blank" rel="noopener noreferrer">The Biggest Pentagon Hack in History (for UFOs)</a></p><p class="youtube-embed-meta">Channel: Pezle &middot; Views: 104.1K &middot; Uploaded: December 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zf6YySTRd6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zf6YySTRd6w">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ The weakness in that chain is that the crucial step—the content difference bet
 
 The existence of processed and unprocessed imagery is not unusual in aerospace, scientific, or photographic environments.
 
-Space imagery commonly passes through multiple stages before publication. Raw images may require calibration, noise reduction, colour correction, geometric correction, contrast enhancement, annotation, cropping, compression, or conversion into formats suitable for distribution. Scientific teams often retain both original and modified versions so that later researchers can reproduce analytical results or verify how an image was prepared. NASA's image-analysis and imagery-processing activities openly involve advanced processing and interpretation techniques for scientific and operational purposes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/jsc-imagery-acquisition-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">jsc imagery acquisition analysis</span><span class="citation-popover-snippet">Imagery Acquisition &amp; AnalysisJan 22, 2026 — The lab focuses on the interpretation and analysis of images acquired from various space...</span></span></span>
+Space imagery commonly passes through multiple stages before publication. Raw images may require calibration, noise reduction, colour correction, geometric correction, contrast enhancement, annotation, cropping, compression, or conversion into formats suitable for distribution. Scientific teams often retain both original and modified versions so that later researchers can reproduce analytical results or verify how an image was prepared. NASA's image-analysis and imagery-processing activities openly involve advanced processing and interpretation techniques for scientific and operational purposes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/jsc-imagery-acquisition-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">jsc imagery acquisition analysis</span><span class="citation-popover-snippet">Imagery Acquisition &amp; AnalysisJan 22, 2026 — The lab focuses on the interpretation and analysis of images acquired from various space...</span></span></span>
 
 In practical terms, a workflow might include:
 
@@ -320,13 +320,13 @@ In practical terms, a workflow might include:
 
 * Original instrument output.
 * Calibrated scientific image.
-* Enhanced image for analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/image-science/isag/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ares.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">Learn More...Read more...</span></span></span>
+* Enhanced image for analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ares.jsc.nasa.gov/image-science/isag/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ares.jsc.nasa.gov">[ares.jsc.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ares.jsc.nasa.gov</span><span class="citation-popover-snippet">Learn More...Read more...</span></span></span>
 * Public-release version with labels or formatting.
 * Archived master copy.
 
 </div>
 
-A directory containing multiple versions of the same image would therefore be expected in many legitimate NASA operations. The mere presence of processed and unprocessed files does not indicate suppression of information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/jsc-imagery-acquisition-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">jsc imagery acquisition analysis</span><span class="citation-popover-snippet">Imagery Acquisition &amp; AnalysisJan 22, 2026 — The lab focuses on the interpretation and analysis of images acquired from various space...</span></span></span>
+A directory containing multiple versions of the same image would therefore be expected in many legitimate NASA operations. The mere presence of processed and unprocessed files does not indicate suppression of information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/reference/jsc-imagery-acquisition-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">jsc imagery acquisition analysis</span><span class="citation-popover-snippet">Imagery Acquisition &amp; AnalysisJan 22, 2026 — The lab focuses on the interpretation and analysis of images acquired from various space...</span></span></span>
 
 This point is central because the Building 8 narrative often treats the existence of file pairs as evidence of concealment. In reality, such file structures are common across photography, remote sensing, astronomy, and Earth-observation programmes.
 
@@ -336,7 +336,7 @@ This point is central because the Building 8 narrative often treats the existenc
 
 A major obstacle to evaluating the Building 8 claim is the absence of technical evidence.
 
-McKinnon said he was using a slow dial-up connection and remotely viewing large NASA image files. According to his account, he reduced display settings to make the system usable and was disconnected before he could fully retrieve the material. He later described seeing an unusual object but did not preserve the image itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
+McKinnon said he was using a slow dial-up connection and remotely viewing large NASA image files. According to his account, he reduced display settings to make the system usable and was disconnected before he could fully retrieve the material. He later described seeing an unusual object but did not preserve the image itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
 
 Because no file survives for examination, investigators cannot determine:
 
@@ -361,7 +361,7 @@ These missing pieces prevent any meaningful forensic reconstruction.
 
 Another factor often discussed by researchers examining the story is the influence of expectation.
 
-McKinnon did not arrive at NASA systems as a neutral investigator. By his own description, he was actively searching for evidence that would support claims already circulating in UFO disclosure communities. The Building 8 allegation provided a framework through which he interpreted what he later encountered. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
+McKinnon did not arrive at NASA systems as a neutral investigator. By his own description, he was actively searching for evidence that would support claims already circulating in UFO disclosure communities. The Building 8 allegation provided a framework through which he interpreted what he later encountered.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
 
 This does not mean his observations were necessarily wrong. However, it means that the discovery of routine image-processing practices could easily appear more significant when viewed through a pre-existing belief that imagery was being manipulated to conceal UFOs.
 
@@ -376,207 +376,207 @@ Without the underlying files, neither explanation can be conclusively demonstrat
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_building_8_photo_wor_ad68ec-Illustration-3-dark.svg" | relative_url }}" alt="Building 8 illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_building_8_photo_wor_ad68ec-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_building_8_photo_wor_ad68ec-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Building 8 Link Remains Unverified
 
-The Building 8 claim occupies an unusual position in the McKinnon story. Unlike some UFO rumours that rely on entirely unknown locations or undocumented facilities, Building 8 was a real photographic and multimedia facility at Johnson Space Center. NASA's public activities also undeniably involve extensive image processing and image management. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of buildings in the Johnson Space Center</span><span class="citation-popover-snippet">December 12, 2025 — List of buildings in the Johnson Space Center; 8, Photographic Laboratory and Multimedia Operations Facility, 1963...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+The Building 8 claim occupies an unusual position in the McKinnon story. Unlike some UFO rumours that rely on entirely unknown locations or undocumented facilities, Building 8 was a real photographic and multimedia facility at Johnson Space Center. NASA's public activities also undeniably involve extensive image processing and image management.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of buildings in the Johnson Space Center</span><span class="citation-popover-snippet">December 12, 2025 — List of buildings in the Johnson Space Center; 8, Photographic Laboratory and Multimedia Operations Facility, 1963...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
 What remains unverified is the leap from those facts to the allegation that UFOs were being systematically removed from photographs.
 
-No publicly available NASA document confirms such a programme. No archived image pair has surfaced showing a UFO removed from one version and absent from another. No independent witness has authenticated the specific files McKinnon described. The claim therefore rests on a combination of prior allegations, McKinnon's recollection of what he saw, and the undisputed existence of normal image-processing operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Darknet]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
+No publicly available NASA document confirms such a programme. No archived image pair has surfaced showing a UFO removed from one version and absent from another. No independent witness has authenticated the specific files McKinnon described. The claim therefore rests on a combination of prior allegations, McKinnon's recollection of what he saw, and the undisputed existence of normal image-processing operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</span></span></span>
 
-For that reason, the Building 8 episode is best understood not as proof of a UFO cover-up, but as a dispute over interpretation. The strongest documented fact is that NASA maintained photographic and image-processing facilities capable of handling large quantities of imagery. The crucial allegation—that those facilities were used to remove evidence of unidentified craft—has never been independently demonstrated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of buildings in the Johnson Space Center</span><span class="citation-popover-snippet">December 12, 2025 — List of buildings in the Johnson Space Center; 8, Photographic Laboratory and Multimedia Operations Facility, 1963...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
+For that reason, the Building 8 episode is best understood not as proof of a UFO cover-up, but as a dispute over interpretation. The strongest documented fact is that NASA maintained photographic and image-processing facilities capable of handling large quantities of imagery. The crucial allegation—that those facilities were used to remove evidence of unidentified craft—has never been independently demonstrated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">List of buildings in the Johnson Space Center</span><span class="citation-popover-snippet">December 12, 2025 — List of buildings in the Johnson Space Center; 8, Photographic Laboratory and Multimedia Operations Facility, 1963...</span><span class="citation-popover-meta">Published: December 12, 2025</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Was NASA&#x27;s Building 8 Supposed To Hide?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Was NASA&#x27;s Building 8 Supposed To Hide?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Covers evidence-focused UFO claims similar to those discussed around NASA imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers evidence-focused UFO claims similar to those discussed around NASA imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mx_AjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin David Mitnick, William L Simon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mx_AjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin David Mitnick, William L Simon</p>
         
-        <p class="fr-book-desc">Provides background on unauthorized system access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on unauthorized system access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Relevant to interpreting unusual visual reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to interpreting unusual visual reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Helpful for assessing image-based extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helpful for assessing image-based extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pale Blue Dot poster, NASA Voyager Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7fbb3b5c5abd5dce4e24.jpg' | relative_url }}" alt="Listing image for Pale Blue Dot poster, NASA Voyager Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">Pale Blue Dot poster, NASA Voyager Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pale Blue Dot poster, NASA Voyager Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/7fbb3b5c5abd5dce4e24.jpg' | relative_url }}" alt="Listing image for Pale Blue Dot poster, NASA Voyager Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">Pale Blue Dot poster, NASA Voyager Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints"><img src="{{ '/assets/images/marketplace-covers/1ce1f51166ca07e2dc4a.jpg' | relative_url }}" alt="Listing image for NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints"><img src="{{ '/assets/images/marketplace-covers/1ce1f51166ca07e2dc4a.jpg' | relative_url }}" alt="Listing image for NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1"><img src="{{ '/assets/images/marketplace-covers/194d56f7ceba0d65ea54.jpg' | relative_url }}" alt="Listing image for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1"><img src="{{ '/assets/images/marketplace-covers/194d56f7ceba0d65ea54.jpg' | relative_url }}" alt="Listing image for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Europa Poster Artwork Wall Art Print A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/dac885b3ff0c50b49bac.jpg' | relative_url }}" alt="Listing image for NASA Europa Poster Artwork Wall Art Print A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">NASA Europa Poster Artwork Wall Art Print A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Europa Poster Artwork Wall Art Print A5 A4 A3"><img src="{{ '/assets/images/marketplace-covers/dac885b3ff0c50b49bac.jpg' | relative_url }}" alt="Listing image for NASA Europa Poster Artwork Wall Art Print A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">NASA Europa Poster Artwork Wall Art Print A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA poster" data-ebay-reference="building-8-what-was-nasa-s-building-8-supposed-to-hide-ufo-hackers-such-nasa-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ For that reason, the Building 8 episode is best understood not as proof of a UFO
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ For that reason, the Building 8 episode is best understood not as proof of a UFO
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ For that reason, the Building 8 episode is best understood not as proof of a UFO
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ For that reason, the Building 8 episode is best understood not as proof of a UFO
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ For that reason, the Building 8 episode is best understood not as proof of a UFO
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,144 +782,144 @@ For that reason, the Building 8 episode is best understood not as proof of a UFO
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs lande...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: List of buildings in the Johnson Space Center  
-   Link: <a href="https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 12, 2025 — List of buildings in the Johnson Space Center; 8, Photographic Laboratory and Multimedia Operations Facility, 1963...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_buildings_in_the_Johnson_Space_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 12, 2025 — List of buildings in the Johnson Space Center; 8, Photographic Laboratory and Multimedia Operations Facility, 1963...</p></details>
    Published: December 12, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NASAJSC/photos/jsc-building-8-video-and-photography-laboratory-which-coordinates-and-processes-/1522698091085662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASAJSC/photos/jsc-building-8-video-and-photography-laboratory-which-coordinates-and-processes-/1522698091085662/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JSC Building 8 video and photography laboratory...Building 8 video and photography laboratory, which coordinates and processes all digit...</p></details>
+   Link:<a href="https://www.facebook.com/NASAJSC/photos/jsc-building-8-video-and-photography-laboratory-which-coordinates-and-processes-/1522698091085662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASAJSC/photos/jsc-building-8-video-and-photography-laboratory-which-coordinates-and-processes-/1522698091085662/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>JSC Building 8 video and photography laboratory...Building 8 video and photography laboratory, which coordinates and processes all digit...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: nasa.gov  
    Title: jsc imagery acquisition analysis  
-   Link: <a href="https://www.nasa.gov/reference/jsc-imagery-acquisition-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-imagery-acquisition-analysis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Imagery Acquisition &amp; AnalysisJan 22, 2026 — The lab focuses on the interpretation and analysis of images acquired from various space...</p></details>
+   Link:<a href="https://www.nasa.gov/reference/jsc-imagery-acquisition-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/reference/jsc-imagery-acquisition-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Imagery Acquisition &amp; AnalysisJan 22, 2026 — The lab focuses on the interpretation and analysis of images acquired from various space...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BroBible/posts/gary-mckinnon-who-prosecutors-said-committed-the-biggest-military-computer-hack-/1390572326443225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/gary-mckinnon-who-prosecutors-said-committed-the-biggest-military-computer-hack-/1390572326443225/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, who prosecutors said committed “the...McKinnon was seeking evidence of a UFO cover up &amp; proof that the US had acquired al...</p></details>
+   Link:<a href="https://www.facebook.com/BroBible/posts/gary-mckinnon-who-prosecutors-said-committed-the-biggest-military-computer-hack-/1390572326443225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/gary-mckinnon-who-prosecutors-said-committed-the-biggest-military-computer-hack-/1390572326443225/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, who prosecutors said committed “the...McKinnon was seeking evidence of a UFO cover up &amp; proof that the US had acquired al...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NASAJSC/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASAJSC/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Johnson Space Center (@NASAJSC)NASA&#x27;s Johnson Space Center. 2085645 likes · 20203 talking about this · 712883 were here. Lead cent...</p></details>
+   Link:<a href="https://www.facebook.com/NASAJSC/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NASAJSC/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Johnson Space Center (@NASAJSC)NASA&#x27;s Johnson Space Center. 2085645 likes · 20203 talking about this · 712883 were here. Lead cent...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s Building 8, images were r...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s Building 8, images were r...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Johnson Space Center  
-   Link: <a href="https://en.wikipedia.org/wiki/Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Johnson_Space_Center</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson Space CenterJSC consists of a complex of 100 buildings constructed on 1,620 acres (660 ha) in Clear Lake. The center is home t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Johnson_Space_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Johnson_Space_Center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson Space CenterJSC consists of a complex of 100 buildings constructed on 1,620 acres (660 ha) in Clear Lake. The center is home t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he could learn about aliens. They&#x27;re...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he could learn about aliens. They&#x27;re...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/johnson/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/johnson/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson Space CenterExplore NASA Johnson&#x27;s labs and facilities to learn more about their capabilities. scientifically processed in a spec...</p></details>
+   Link:<a href="https://www.nasa.gov/johnson/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/johnson/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson Space CenterExplore NASA Johnson&#x27;s labs and facilities to learn more about their capabilities. scientifically processed in a spec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: ares.jsc.nasa.gov  
-   Link: <a href="https://ares.jsc.nasa.gov/image-science/isag/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/image-science/isag/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn More...Read more...</p></details>
+   Link:<a href="https://ares.jsc.nasa.gov/image-science/isag/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/image-science/isag/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Learn More...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/gallery/johnson-space-center/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/gallery/johnson-space-center/page/3/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson Space Center Image GalleryWelcome to the Johnson Space Center Image Gallery, where you can find imagery from the beginning of hum...</p></details>
+   Link:<a href="https://www.nasa.gov/gallery/johnson-space-center/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/gallery/johnson-space-center/page/3/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson Space Center Image GalleryWelcome to the Johnson Space Center Image Gallery, where you can find imagery from the beginning of hum...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/gallery/johnson-space-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/gallery/johnson-space-center/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson Space Center Image GalleryWelcome to the Johnson Space Center Image Gallery, where you can find imagery from the beginning of hum...</p></details>
+   Link:<a href="https://www.nasa.gov/gallery/johnson-space-center/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/gallery/johnson-space-center/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Johnson Space Center Image GalleryWelcome to the Johnson Space Center Image Gallery, where you can find imagery from the beginning of hum...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: 20420 nasa johnson space center photos  
-   Link: <a href="https://www.space.com/20420-nasa-johnson-space-center-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/20420-nasa-johnson-space-center-photos.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Tour: Inside NASA&#x27;s Johnson Space CenterApr 4, 2013 — See photos from the Space Mission Simulation Facility, Neutral Bouyancy Labor...</p></details>
+   Link:<a href="https://www.space.com/20420-nasa-johnson-space-center-photos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/20420-nasa-johnson-space-center-photos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Tour: Inside NASA&#x27;s Johnson Space CenterApr 4, 2013 — See photos from the Space Mission Simulation Facility, Neutral Bouyancy Labor...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: darknet.org.uk  
    Title: They had filtered and unfiltered, or processed and unprocessed, files.Read more  
-   Link: <a href="https://www.darknet.org.uk/2006/06/ufo-hacker-gary-mckinnon-reveals-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.darknet.org.uk/2006/06/ufo-hacker-gary-mckinnon-reveals-what-he-found/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;Hacker&#x27; Gary McKinnon Reveals What He Found - Darknet25 Jun 2006 — McKinnon: A NASA photographic expert said that there was a...</p></details>
+   Link:<a href="https://www.darknet.org.uk/2006/06/ufo-hacker-gary-mckinnon-reveals-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.darknet.org.uk/2006/06/ufo-hacker-gary-mckinnon-reveals-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;Hacker&#x27; Gary McKinnon Reveals What He Found - Darknet25 Jun 2006 — McKinnon: A NASA photographic expert said that there was a...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gettyimages.com  
    Title: johnson space center  
-   Link: <a href="https://www.gettyimages.com/photos/johnson-space-center" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/johnson-space-center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4768 Johnson Space Center Photos &amp; High Res PicturesBrowse 4,768 authentic johnson space center photos, pictures, and images, flight cont...</p></details>
+   Link:<a href="https://www.gettyimages.com/photos/johnson-space-center" target="_blank" rel="noopener noreferrer nofollow">https://www.gettyimages.com/photos/johnson-space-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4768 Johnson Space Center Photos &amp; High Res PicturesBrowse 4,768 authentic johnson space center photos, pictures, and images, flight cont...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/nasa/comments/13tdou9/building_9_johnson_space_center/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/13tdou9/building_9_johnson_space_center/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Building 9??? (Johnson space center): r/nasaIt is a full-scale, high fidelity replica and is being used right now to train astronauts an...</p></details>
+   Link:<a href="https://www.reddit.com/r/nasa/comments/13tdou9/building_9_johnson_space_center/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/nasa/comments/13tdou9/building_9_johnson_space_center/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Building 9??? (Johnson space center): r/nasaIt is a full-scale, high fidelity replica and is being used right now to train astronauts an...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spacecenter.org  
-   Link: <a href="https://spacecenter.org/news-center/digital-assets/general-photos/" target="_blank" rel="noopener noreferrer nofollow">https://spacecenter.org/news-center/digital-assets/general-photos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>General PhotosSuspended from the ceiling, gaze at the Lunar Module LTA-8 that was used for testing at Johnson Space Center. Photo courtes...</p></details>
+   Link:<a href="https://spacecenter.org/news-center/digital-assets/general-photos/" target="_blank" rel="noopener noreferrer nofollow">https://spacecenter.org/news-center/digital-assets/general-photos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>General PhotosSuspended from the ceiling, gaze at the Lunar Module LTA-8 that was used for testing at Johnson Space Center. Photo courtes...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: tshaonline.org  
-   Link: <a href="https://www.tshaonline.org/handbook/entries/lyndon-b-johnson-space-center" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/handbook/entries/lyndon-b-johnson-space-center</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lyndon B. Johnson Space CenterSection 107. Johnson Space Center Photograph, Picture of Apollo 8 mission heading toward the dark side of t...</p></details>
+   Link:<a href="https://www.tshaonline.org/handbook/entries/lyndon-b-johnson-space-center" target="_blank" rel="noopener noreferrer nofollow">https://www.tshaonline.org/handbook/entries/lyndon-b-johnson-space-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lyndon B. Johnson Space CenterSection 107. Johnson Space Center Photograph, Picture of Apollo 8 mission heading toward the dark side of t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: spacecenter.org  
-   Link: <a href="https://spacecenter.org/news-center/media-inquiries/" target="_blank" rel="noopener noreferrer nofollow">https://spacecenter.org/news-center/media-inquiries/</a>  
+   Link:<a href="https://spacecenter.org/news-center/media-inquiries/" target="_blank" rel="noopener noreferrer nofollow">https://spacecenter.org/news-center/media-inquiries/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...A NASA photographic expert said that there was a Building 8 at Johnson Space Ce...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...A NASA photographic expert said that there was a Building 8 at Johnson Space Ce...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-lindberg-[interviews" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-lindberg-[interviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with UFO hacker Gary McKinnonGary McKinnon has been branded an evil hacker and could end up at Guantanamo Bay. Oliver Lindberg...</p></details>
+   Link:<a href="https://medium.com/the-lindberg-[interviews" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-lindberg-[interviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with UFO hacker Gary McKinnonGary McKinnon has been branded an evil hacker and could end up at Guantanamo Bay. Oliver Lindberg...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DIjcIMrpM5u/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DIjcIMrpM5u/?hl=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cover image: The historic WB-57 formation flight of three WB-57&#x27;s over the Houston area as it passes by Johnson Space Center...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DIjcIMrpM5u/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DIjcIMrpM5u/?hl=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cover image: The historic WB-57 formation flight of three WB-57&#x27;s over the Houston area as it passes by Johnson Space Center...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: singjupost.com  
    Title: transcript the lone hacker that found nasas secret ufo fleet american alchemy  
-   Link: <a href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s Secret UFO Fleet...Mar 28, 2026 — NASA&#x27;s Johnson Space Center in Houston is not only where McKinnon fo...</p></details>
+   Link:<a href="https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/" target="_blank" rel="noopener noreferrer nofollow">https://singjupost.com/transcript-the-lone-hacker-that-found-nasas-secret-ufo-fleet-american-alchemy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s Secret UFO Fleet...Mar 28, 2026 — NASA&#x27;s Johnson Space Center in Houston is not only where McKinnon fo...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=E4fN14LUUg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4fN14LUUg4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Claims NASA Is Hiding UFO EvidenceGary McKinnon Claims NASA Is Hiding UFO Evidence — Then They Came After Him Sometime afte...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=E4fN14LUUg4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4fN14LUUg4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Claims NASA Is Hiding UFO EvidenceGary McKinnon Claims NASA Is Hiding UFO Evidence — Then They Came After Him Sometime afte...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=zf6YySTRd6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zf6YySTRd6w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Pentagon Hack in History (for UFOs)... Gary McKinnon, the hacker who claimed to have found pictures of UFOs in government sys...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zf6YySTRd6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zf6YySTRd6w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Pentagon Hack in History (for UFOs)... Gary McKinnon, the hacker who claimed to have found pictures of UFOs in government sys...</p></details>

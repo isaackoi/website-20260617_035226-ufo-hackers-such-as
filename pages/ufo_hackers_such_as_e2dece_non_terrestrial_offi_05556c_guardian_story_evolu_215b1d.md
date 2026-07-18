@@ -280,17 +280,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_gua
 
 ## Introduction
 
-The phrase “Non-Terrestrial Officers” became one of the most widely repeated elements of Gary McKinnon’s UFO-hacker story, but its public meaning did not emerge all at once. A comparison between the earliest widely cited account in *The Guardian* and McKinnon’s later [interviews]({{ 'interviews/' | relative_url }}) shows a clear evolution: the core claim remained largely the same, while additional details gradually expanded its significance. Understanding that progression is important because many modern [retellings]({{ 'retellings/' | relative_url }}) merge details from different years into a single narrative, making it appear as though the most elaborate version existed from the beginning when it did not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
+The phrase “Non-Terrestrial Officers” became one of the most widely repeated elements of Gary McKinnon’s UFO-hacker story, but its public meaning did not emerge all at once. A comparison between the earliest widely cited account in *The Guardian* and McKinnon’s later [interviews]({{ 'interviews/' | relative_url }}) shows a clear evolution: the core claim remained largely the same, while additional details gradually expanded its significance. Understanding that progression is important because many modern [retellings]({{ 'retellings/' | relative_url }}) merge details from different years into a single narrative, making it appear as though the most elaborate version existed from the beginning when it did not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-1-dark.svg" | relative_url }}" alt="Story Evolution illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The 2005 Guardian Version
 
-The earliest major published account appeared in *The Guardian* in July 2005 during Jon Ronson’s profile of McKinnon. At that stage, the story was comparatively brief. McKinnon described finding a list of names under the heading “Non-Terrestrial Officers”, presenting the phrase itself as the striking discovery. The emphasis was on the unusual title rather than on extensive supporting details. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
+The earliest major published account appeared in *The Guardian* in July 2005 during Jon Ronson’s profile of McKinnon. At that stage, the story was comparatively brief. McKinnon described finding a list of names under the heading “Non-Terrestrial Officers”, presenting the phrase itself as the striking discovery. The emphasis was on the unusual title rather than on extensive supporting details.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
 
-What stands out in retrospect is what was *not* yet being highlighted. The 2005 account did not centre on a secret fleet, unknown spacecraft, or a detailed personnel system. Instead, the phrase appeared as one element among McKinnon’s broader search for UFO-related information inside military and NASA-connected computer systems. The wording was intriguing enough to attract attention, but the narrative had not yet acquired many of the features that later became standard in UFO discussions of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
+What stands out in retrospect is what was *not* yet being highlighted. The 2005 account did not centre on a secret fleet, unknown spacecraft, or a detailed personnel system. Instead, the phrase appeared as one element among McKinnon’s broader search for UFO-related information inside military and NASA-connected computer systems. The wording was intriguing enough to attract attention, but the narrative had not yet acquired many of the features that later became standard in UFO discussions of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
 
-This early publication is historically important because it demonstrates that “Non-Terrestrial Officers” was not a late internet invention added years afterwards. The phrase was already present in McKinnon’s public account before the story expanded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
+This early publication is historically important because it demonstrates that “Non-Terrestrial Officers” was not a late internet invention added years afterwards. The phrase was already present in McKinnon’s public account before the story expanded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WvILY-h-6_Y" title="The Interview They Tried to Erase From the Internet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WvILY-h-6_Y" target="_blank" rel="noopener noreferrer">The Interview They Tried to Erase From the Internet</a></p><p class="youtube-embed-meta">Channel: Video Advice &middot; Views: 683.7K &middot; Uploaded: October 2025 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WvILY-h-6_Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WvILY-h-6_Y">Open on YouTube</a></p></div></div></div>
@@ -299,22 +299,22 @@ This early publication is historically important because it demonstrates that �
 
 By 2006, McKinnon was providing a much fuller description. In an interview with *Wired*, he stated that he had accessed Excel spreadsheets and that one was titled “Non-Terrestrial Officers”. He added several details that had not been prominent in the earlier public version:
 
-* The spreadsheet allegedly contained names and ranks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
+* The spreadsheet allegedly contained names and ranks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
 * The personnel were said to be “not registered anywhere else”.
 * The document allegedly included information about “ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }})”.
-* McKinnon suggested that the ship names were unfamiliar to him and not found elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
+* McKinnon suggested that the ship names were unfamiliar to him and not found elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
 
-These additions significantly altered how audiences interpreted the claim. A simple list of officers under an unusual heading could be read in several ways. A spreadsheet containing ranks, [transfers]({{ 'transfers/' | relative_url }}), and apparently unique [personnel records]({{ 'personnel-records/' | relative_url }}) encouraged speculation about a hidden organisational structure. The story therefore shifted from an odd phrase to what some readers interpreted as evidence of a covert space-based programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
+These additions significantly altered how audiences interpreted the claim. A simple list of officers under an unusual heading could be read in several ways. A spreadsheet containing ranks, [transfers]({{ 'transfers/' | relative_url }}), and apparently unique [personnel records]({{ 'personnel-records/' | relative_url }}) encouraged speculation about a hidden organisational structure. The story therefore shifted from an odd phrase to what some readers interpreted as evidence of a covert space-based programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
 
-Another notable aspect of the 2006 interview is that McKinnon acknowledged uncertainty. When asked whether the material could have represented a military game, simulation, or hypothetical planning exercise, he did not categorically reject the possibility. That qualification is often absent from later retellings that present the claim more definitively than McKinnon himself did in the interview. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
+Another notable aspect of the 2006 interview is that McKinnon acknowledged uncertainty. When asked whether the material could have represented a military game, simulation, or hypothetical planning exercise, he did not categorically reject the possibility. That qualification is often absent from later retellings that present the claim more definitively than McKinnon himself did in the interview.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-2-dark.svg" | relative_url }}" alt="Story Evolution illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Later Retellings and Reinforcement
 
-As media coverage continued through the extradition battle, newspapers increasingly summarised the claim using the expanded version. Reports in 2007 and 2008 referred to names, ranks, spreadsheets, and the possibility of a secret space-oriented military programme. The phrase became linked in public discussion with ideas such as a hidden fleet or an undeclared space force. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGary McKinnon &#124; Life and styleApr 21, 2007 — I discovered names and ranks of non-terrestrial officers. They were all very hum...</span></span></span>
+As media coverage continued through the extradition battle, newspapers increasingly summarised the claim using the expanded version. Reports in 2007 and 2008 referred to names, ranks, spreadsheets, and the possibility of a secret space-oriented military programme. The phrase became linked in public discussion with ideas such as a hidden fleet or an undeclared space force.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGary McKinnon &#124; Life and styleApr 21, 2007 — I discovered names and ranks of non-terrestrial officers. They were all very hum...</span></span></span>
 
-Importantly, these later reports generally relied on McKinnon’s own recollections rather than newly released documents. The narrative grew richer because more details were being described publicly, not because independent evidence of the spreadsheet had emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe Briton facing 60 years in US prison after hacking into...Jul 26, 2008 — The material included an Excel spreadsheet entit...</span></span></span>
+Importantly, these later reports generally relied on McKinnon’s own recollections rather than newly released documents. The narrative grew richer because were being described publicly, not because independent evidence of the spreadsheet had emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe Briton facing 60 years in US prison after hacking into...Jul 26, 2008 — The material included an Excel spreadsheet entit...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
@@ -323,213 +323,213 @@ Importantly, these later reports generally relied on McKinnon’s own recollecti
 
 Despite the evolution of the story, several elements remained remarkably stable across accounts.
 
-First, the central phrase itself never changed. From the 2005 *Guardian* profile onward, “Non-Terrestrial Officers” remained the key term associated with the claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
+First, the central phrase itself never changed. From the 2005 *Guardian* profile onward, “Non-Terrestrial Officers” remained the key term associated with the claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
 
-Second, McKinnon consistently described the material as something he encountered while searching government and military systems for evidence related to UFOs and advanced technology. The broader motivation behind the search remained the same across interviews and years of media coverage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he...</span></span></span>
+Second, McKinnon consistently described the material as something he encountered while searching government and military systems for evidence related to UFOs and advanced technology. The broader motivation behind the search remained the same across interviews and years of media coverage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he...</span></span></span>
 
-Third, the underlying evidential situation did not change. Although additional descriptive details appeared over time, no publicly authenticated copy of the spreadsheet emerged. [No screenshot]({{ 'no-screenshot/' | relative_url }}), document archive, metadata record, or independent verification entered the public domain to confirm the contents as described. The story therefore evolved primarily through recollection and retelling rather than through the release of new documentary evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
+Third, the underlying evidential situation did not change. Although additional descriptive details appeared over time, no publicly authenticated copy of the spreadsheet emerged. [No screenshot]({{ 'no-screenshot/' | relative_url }}), document archive, metadata record, or independent verification entered the public domain to confirm the contents as described. The story therefore evolved primarily through recollection and retelling rather than through the release of new documentary evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-3-dark.svg" | relative_url }}" alt="Story Evolution illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_non_terrestrial_offi_05556c_guardian_story_evolu_215b1d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Evolution Matters
 
-The comparison between the 2005 and later versions helps explain why the phrase has acquired such a powerful reputation in UFO culture. The earliest reporting introduced an unusual heading and a claim about a list of officers. Subsequent interviews layered on details about ranks, transfers, and apparently unique personnel records. Those additions transformed an intriguing phrase into a narrative that many readers interpreted as evidence of a hidden organisational system operating beyond conventional military structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
+The comparison between the 2005 and later versions helps explain why the phrase has acquired such a powerful reputation in UFO culture. The earliest reporting introduced an unusual heading and a claim about a list of officers. Subsequent interviews layered on details about ranks, transfers, and apparently unique personnel records. Those additions transformed an intriguing phrase into a narrative that many readers interpreted as evidence of a hidden organisational system operating beyond conventional military structures.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
 
-For historians of the McKinnon case, the chronology is significant. The original public story was narrower than many later summaries suggest. The phrase “Non-Terrestrial Officers” was present from the start, but much of the meaning now attached to it arose through later elaboration rather than through new publicly verified evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
+For historians of the McKinnon case, the chronology is significant. The original public story was narrower than many later summaries suggest. The phrase “Non-Terrestrial Officers” was present from the start, but much of the meaning now attached to it arose through later elaboration rather than through new publicly verified evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b5afwWUYWVQ" title="Gary McKinnon Case (Interview from 2009)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer">Gary McKinnon Case (Interview from 2009)</a></p><p class="youtube-embed-meta">Channel: Bill Buchanan OBE &middot; Views: 15.3K &middot; Uploaded: February 2017 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b5afwWUYWVQ">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How the Non Terrestrial Officers Story Changed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How the Non Terrestrial Officers Story Changed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Examines how UFO stories develop and change over time.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how UFO stories develop and change over time.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides a benchmark for evidence-based UFO reporting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a benchmark for evidence-based UFO reporting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
-        <p class="fr-book-desc">Explores how unusual beliefs and narratives spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XVJPQ2-aieMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 6 Google Books ratings</p>
+<p class="fr-book-desc">Explores how unusual beliefs and narratives spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses the evolution of recurring UFO narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the evolution of recurring UFO narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Them</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/UeQAAOSwgwJiVKK2/s-l225.jpg" alt="Listing image for FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">FS02 VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="story-evolution-how-the-non-terrestrial-officers-story-changed-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar"><img src="https://i.ebayimg.com/images/g/nG4AAeSwKWdqMw0f/s-l225.jpg" alt="Listing image for UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO S4 Framed Picture Poster Print Wall Art A3 Bob Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-the-non-terrestrial-officers-story-changed-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-the-non-terrestrial-officers-story-changed-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -545,7 +545,7 @@ For historians of the McKinnon case, the chronology is significant. The original
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -565,7 +565,7 @@ For historians of the McKinnon case, the chronology is significant. The original
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -597,7 +597,7 @@ For historians of the McKinnon case, the chronology is significant. The original
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -649,7 +649,7 @@ For historians of the McKinnon case, the chronology is significant. The original
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -694,7 +694,7 @@ For historians of the McKinnon case, the chronology is significant. The original
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -735,148 +735,148 @@ For historians of the McKinnon case, the chronology is significant. The original
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — One was titled &quot;Non-Terrestrial Officers.&quot; It contained names and ranks of U.S. Air F...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorist or UFO Truth Seeker?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorist or UFO Truth Seeker?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnonJul 9, 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of al...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe Briton facing 60 years in US prison after hacking into...Jul 26, 2008 — The material included an Excel spreadsheet entit...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2008/jul/27/internationalcrime.hacking</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe Briton facing 60 years in US prison after hacking into...Jul 26, 2008 — The material included an Excel spreadsheet entit...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon | Life and styleApr 21, 2007 — I discovered names and ranks of non-terrestrial officers. They were all very hum...</p></details>
+   Link:<a href="https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theobserver/2007/apr/22/features.magazine7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon | Life and styleApr 21, 2007 — I discovered names and ranks of non-terrestrial officers. They were all very hum...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/uk/2006/may/10/usa.september11" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2006/may/10/usa.september11</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The humble superhacker | UK newsFew people seriously believe Mr McKinnon posed any deliberate threat to the US. The information he claims...</p></details>
+   Link:<a href="https://www.theguardian.com/uk/2006/may/10/usa.september11" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2006/may/10/usa.september11</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The humble superhacker | UK newsFew people seriously believe Mr McKinnon posed any deliberate threat to the US. The information he claims...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: gary mckinnon hacker sparked storm  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon: how unknown hacker sparked political...Oct 16, 2012 — Gary McKinnon was an unknown computer nerd hunched over...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-hacker-sparked-storm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon: how unknown hacker sparked political...Oct 16, 2012 — Gary McKinnon was an unknown computer nerd hunched over...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Latest news, sport and opinion from the GuardianLatest US news, world news, sports, business, opinion, analysis and reviews from the Guar...</p></details>
+   Link:<a href="https://www.theguardian.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Latest news, sport and opinion from the GuardianLatest US news, world news, sports, business, opinion, analysis and reviews from the Guar...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jun/11/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jun/11/hacking.internetcrime</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s pursuit of &#x27;scapegoat&#x27; hacker hides real threat...Jun 10, 2005 — Gary McKinnon is deemed to be so deviously manipulative at t...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2005/jun/11/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jun/11/hacking.internetcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s pursuit of &#x27;scapegoat&#x27; hacker hides real threat...Jun 10, 2005 — Gary McKinnon is deemed to be so deviously manipulative at t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: film scottish hacker gary mckinnon fight against us extradition  
-   Link: <a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29-Nov-2023 — McKinnon found his way into the computer systems of the US d...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Film to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29-Nov-2023 — McKinnon found his way into the computer systems of the US d...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker Gary McKinnon loses appeal against extradition to...Aug 28, 2008 — Gary McKinnon, a computer expert who hacked into dozens of US...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2008/aug/28/hacking.security" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/aug/28/hacking.security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker Gary McKinnon loses appeal against extradition to...Aug 28, 2008 — Gary McKinnon, a computer expert who hacked into dozens of US...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/politics/2009/jan/27/boris-johnson-slams-extradition-decision" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2009/jan/27/boris-johnson-slams-extradition-decision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boris Johnson slams US attempt to extradite hacker Gary...Jan 27, 2009 — He even knows the names and ranks of various non-terrestrial of...</p></details>
+   Link:<a href="https://www.theguardian.com/politics/2009/jan/27/boris-johnson-slams-extradition-decision" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/politics/2009/jan/27/boris-johnson-slams-extradition-decision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Boris Johnson slams US attempt to extradite hacker Gary...Jan 27, 2009 — He even knows the names and ranks of various non-terrestrial of...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bumbling nerd&#x27; who broke into Pentagon computers loses...Jul 30, 2008 — McKinnon, an unemployed IT worker from north London, has consis...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/jul/31/hacking.hitechcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Bumbling nerd&#x27; who broke into Pentagon computers loses...Jul 30, 2008 — McKinnon, an unemployed IT worker from north London, has consis...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | HackingJul 27, 2005 — Mr McKinnon, 39, of Wood Green, north London, is contesting the extraditio...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | HackingJul 27, 2005 — Mr McKinnon, 39, of Wood Green, north London, is contesting the extraditio...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2008/jul/30/gary.mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/jul/30/gary.mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon – &#x27;world&#x27;s most dangerous hacker&#x27;Jul 30, 2008 — A British man who hacked into computers at the Pentagon will face trial in...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2008/jul/30/gary.mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2008/jul/30/gary.mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon – &#x27;world&#x27;s most dangerous hacker&#x27;Jul 30, 2008 — A British man who hacked into computers at the Pentagon will face trial in...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: uapmurders.com  
-   Link: <a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Murdering UAP ExpertsUFO Hacker, Non-Terrestrial Officers &amp; NASA&#x27;s Hidden Craft - The Galactic Mind · &quot;Non-terrestrial of...</p></details>
+   Link:<a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Murdering UAP ExpertsUFO Hacker, Non-Terrestrial Officers &amp; NASA&#x27;s Hidden Craft - The Galactic Mind · &quot;Non-terrestrial of...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: podmust.com  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1jbcwj7/ufo_hackers_claim_government_coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jbcwj7/ufo_hackers_claim_government_coverup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hackers Claim Government Coverup: r/UFOs39 votes, 34 comments. Three hackers targeted US government computer systems looking for UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1jbcwj7/ufo_hackers_claim_government_coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1jbcwj7/ufo_hackers_claim_government_coverup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hackers Claim Government Coverup: r/UFOs39 votes, 34 comments. Three hackers targeted US government computer systems looking for UFO...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/OFfQo4HkGp0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/OFfQo4HkGp0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Hacker Found Alien Officers List...Gary McKinnon, the hacker who broke into NASA, claimed to have found evidence of UFOs and a secr...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WvILY-h-6_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WvILY-h-6_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Interview They Tried to Erase From the InternetGary McKinnon took it upon himself a computer hacker to find out if the government had...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WvILY-h-6_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WvILY-h-6_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Interview They Tried to Erase From the InternetGary McKinnon took it upon himself a computer hacker to find out if the government had...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO described by Gary McKinnon looks exactly like...r/aliens - Serious US Department of War releases UFO and potential alien life fi...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO described by Gary McKinnon looks exactly like...r/aliens - Serious US Department of War releases UFO and potential alien life fi...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DSu-ejbkWLz/?hl=pt" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSu-ejbkWLz/?hl=pt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1986, American astronomer Clifford Stoll spotted a 75...How he discovered a Hacker Through a 75-cent Accounting Error This...</p></details>
+   Link:<a href="https://www.instagram.com/p/DSu-ejbkWLz/?hl=pt" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DSu-ejbkWLz/?hl=pt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1986, American astronomer Clifford Stoll spotted a 75...How he discovered a Hacker Through a 75-cent Accounting Error This...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cybernews.com  
    Title: hacker who breached nasa trying prove ufo existence  
-   Link: <a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hacker who breached NASA to prove that UFOs existOct 31, 2023 — The hacker managed to infiltrate 97 military and NASA computers and w...</p></details>
+   Link:<a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hacker who breached NASA to prove that UFOs existOct 31, 2023 — The hacker managed to infiltrate 97 military and NASA computers and w...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: socialecologies.wordpress.com  
    Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
-   Link: <a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”Dec 3, 2025 — He browsed a log file referencing “non terrestrial officers,” which has no corr...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”Dec 3, 2025 — He browsed a log file referencing “non terrestrial officers,” which has no corr...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: redhotcyber.com  
    Title: famous hackers the story of gary mckinnon  
-   Link: <a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.Jul 1, 2025 — He claimed to have found a list of “non-terrestrial officers” in the U.S. Navy...</p></details>
+   Link:<a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.Jul 1, 2025 — He claimed to have found a list of “non-terrestrial officers” in the U.S. Navy...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: welivesecurity.com  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — I have no problem with his hack, I do have a problem with his inte...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon reveals detail on NASA data breach and &#x27;...8 Dec 2015 — I have no problem with his hack, I do have a problem with his inte...</p></details>

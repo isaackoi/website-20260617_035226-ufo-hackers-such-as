@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_bir
 
 ## Introduction
 
-One of the most common ordinary [explanations]({{ 'explanations/' | relative_url }}) for apparent “orbs” in UAP and UFO imagery is not an exotic craft at all, but a bird viewed under conditions that erase the visual clues people normally use for identification. When a bird is distant, recorded through a heavily compressed video stream, or seen through an infrared sensor, wings can disappear into a few bright pixels. The result may look like a glowing sphere, a flickering object, or a featureless blob that appears difficult to explain. Official UAP investigations have repeatedly identified birds as the solution to cases that initially appeared anomalous, particularly in military infrared footage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery featuring birds and...</span></span></span>
+One of the most common ordinary [explanations]({{ 'explanations/' | relative_url }}) for apparent “orbs” in UAP and UFO imagery is not an exotic craft at all, but a bird viewed under conditions that erase the visual clues people normally use for identification. When a bird is distant, recorded through a heavily compressed video stream, or seen through an infrared sensor, wings can disappear into a few bright pixels. The result may look like a glowing sphere, a flickering object, or a featureless blob that appears difficult to explain. Official UAP investigations have repeatedly identified birds as the solution to cases that initially appeared anomalous, particularly in military infrared footage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery featuring birds and...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_birds_as_orbs_cda2f7-Illustration-1-dark.svg" | relative_url }}" alt="Birds illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_birds_as_orbs_cda2f7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_birds_as_orbs_cda2f7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -315,7 +315,7 @@ Infrared imagery introduces another layer of confusion. Thermal sensors do not d
 
 A bird flying through an infrared scene may present only a small thermal signature. Depending on the sensor and processing mode, parts of the bird can appear brighter than others, while wings may intermittently vanish against the background. During flapping, the apparent size and brightness of the target can change from frame to frame. To a viewer unfamiliar with thermal imaging, this can resemble a self-luminous object that flickers or changes form.
 
-Researchers who use thermal cameras to study nocturnal bird migration routinely detect birds as small thermal targets moving across the sky, demonstrating that birds can appear as minimal heat signatures rather than detailed animal silhouettes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/auk/article/143/2/1/8506565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicUsing thermal imaging to directly observe nocturnal migrationby Y Morales-Góngora · 2026 — With the aid of thermal imaging op...</span></span></span>
+Researchers who use thermal cameras to study nocturnal bird migration routinely detect birds as small thermal targets moving across the sky, demonstrating that birds can appear as minimal heat signatures rather than detailed animal silhouettes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://academic.oup.com/auk/article/143/2/1/8506565" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academic.oup.com">[OUP Academic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academic.oup.com</span><span class="citation-popover-snippet">OUP AcademicUsing thermal imaging to directly observe nocturnal migrationby Y Morales-Góngora · 2026 — With the aid of thermal imaging op...</span></span></span>
 
 Atmospheric effects can further complicate interpretation. Heat shimmer, moisture, sensor noise and automatic contrast adjustments may cause the target to brighten, dim or momentarily distort. In extreme cases, a bird can appear less like a living creature and more like a fluctuating energy source.
 
@@ -340,11 +340,11 @@ This helps explain why some videos initially attract attention as potential anom
 
 Bird explanations are not merely theoretical. Official UAP investigations have repeatedly resolved cases as birds after detailed analysis.
 
-The U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO) has released examples of imagery that it assessed as birds with high confidence. In one publicly released Europe 2023 case, AARO concluded that objects captured by an infrared sensor were almost certainly birds based on their appearance and behaviour when compared with other resolved imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DYG3MK1hA0l/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">PR-016, Resolved as Birds, Europe 2023 The United...May 8, 2026 — AARO assesses, with high confidence, that the objects depicte...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
+The U.S. Department of Defense's All-domain Anomaly Resolution Office (AARO) has released examples of imagery that it assessed as birds with high confidence. In one publicly released Europe 2023 case, AARO concluded that objects captured by an infrared sensor were almost certainly birds based on their appearance and behaviour when compared with other resolved imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.instagram.com/reel/DYG3MK1hA0l/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[Instagram]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-snippet">PR-016, Resolved as Birds, Europe 2023 The United...May 8, 2026 — AARO assesses, with high confidence, that the objects depicte...</span><span class="citation-popover-meta">Published: May 8, 2026</span></span></span>
 
-More broadly, AARO has reported resolving numerous UAP cases as ordinary objects including birds, [balloons]({{ 'balloons/' | relative_url }}) and unmanned systems. Official statements from the office emphasise that many reports initially regarded as anomalous are ultimately explained by commonplace aerial targets once sufficient data becomes available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War+2DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span>
+More broadly, AARO has reported resolving numerous UAP cases as ordinary objects including birds, [balloons]({{ 'balloons/' | relative_url }}) and unmanned systems. Official statements from the office emphasise that many reports initially regarded as anomalous are ultimately explained by commonplace aerial targets once sufficient data becomes available.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[war.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</span></span></span>
 
-The significance of these cases is not that every unexplained object is a bird. AARO itself explicitly states that not all reports resolve that way. Rather, the lesson is methodological: bird identifications demonstrate how easily sensor imagery can mislead when shape, scale and environmental context are degraded. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">We do have some very anomalous objects,&quot; he said.Read more</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Kosloski noted that his office does not believe that every...</span></span></span>
+The significance of these cases is not that every unexplained object is a bird. AARO itself explicitly states that not all reports resolve that way. Rather, the lesson is methodological: bird identifications demonstrate how easily sensor imagery can mislead when shape, scale and environmental context are degraded.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">We do have some very anomalous objects,&quot; he said.Read more</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Kosloski noted that his office does not believe that every...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_birds_as_orbs_cda2f7-Illustration-3-dark.svg" | relative_url }}" alt="Birds illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_birds_as_orbs_cda2f7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_ordinary_uap_explana_7f6769_birds_as_orbs_cda2f7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -372,197 +372,197 @@ The key point is that identification often emerges from pattern analysis rather 
 
 Birds misread as orbs illustrate a broader principle in UAP analysis: the loss of information can create the illusion of mystery. A living animal with wings, feathers and ordinary flight behaviour can become an apparently mechanical object once distance, compression and infrared rendering strip away recognisable detail.
 
-In discussions connected to claims of hidden or unusual imagery, including long-running debates around alleged UFO-related discoveries, this serves as an important caution. A striking visual appearance is not necessarily evidence of an extraordinary object. Sometimes the most important question is not what the object was, but what the sensor failed to show. Official investigations repeatedly finding birds among resolved UAP cases underscore how easily familiar airborne targets can be transformed into unexplained-looking orbs when recorded under challenging conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO+2metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery featuring birds and...</span></span></span>
+In discussions connected to claims of hidden or unusual imagery, including long-running debates around alleged UFO-related discoveries, this serves as an important caution. A striking visual appearance is not necessarily evidence of an extraordinary object. Sometimes the most important question is not what the object was, but what the sensor failed to show. Official investigations repeatedly finding birds among resolved UAP cases underscore how easily familiar airborne targets can be transformed into unexplained-looking orbs when recorded under challenging conditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery featuring birds and...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Birds Become Orbs on Camera. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Birds Become Orbs on Camera. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
-        </h4>
-        <p class="fr-book-author">By Mick West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Escaping the Rabbit Hole on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1R-UEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Escaping the Rabbit Hole" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Escaping the Rabbit Hole">Escaping the Rabbit Hole</a>
+</h4>
+<p class="fr-book-author">By Mick West</p>
         
-        <p class="fr-book-desc">Promotes evidence-based evaluation of apparent anomalies.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Promotes evidence-based evaluation of apparent anomalies.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole+by+Mick+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Bird+Photography+by+Arthur+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Bird Photography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LxMyOQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Bird Photography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Bird+Photography+by+Arthur+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Bird Photography">The Art of Bird Photography</a>
-        </h4>
-        <p class="fr-book-author">By Arthur Morris</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Bird+Photography+by+Arthur+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Bird Photography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LxMyOQAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Bird Photography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Bird+Photography+by+Arthur+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Bird Photography">The Art of Bird Photography</a>
+</h4>
+<p class="fr-book-author">By Arthur Morris</p>
         
-        <p class="fr-book-desc">Provides insight into how camera limitations affect the appearance of birds.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Bird+Photography+by+Arthur+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides insight into how camera limitations affect the appearance of birds.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Bird+Photography+by+Arthur+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Includes discussion of observational errors and sighting classifications.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Includes discussion of observational errors and sighting classifications.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=National+Geographic+Field+Guide+to+the+Birds+of+North+America%2C+7th+Edition%2C+With+Map+by+Jonathan+Alderfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic Field Guide to the Birds of North America, 7th Edition, With Map on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=National+Geographic+Field+Guide+to+the+Birds+of+North+America%2C+7th+Edition%2C+With+Map+by+Jonathan+Alderfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic Field Guide to the Birds of North America, 7th Edition, With Map">National Geographic Field Guide to the Birds of North America...</a>
-        </h4>
-        <p class="fr-book-author">By Jonathan Alderfer, Jon L. Dunn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=National+Geographic+Field+Guide+to+the+Birds+of+North+America%2C+7th+Edition%2C+With+Map+by+Jonathan+Alderfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open National Geographic Field Guide to the Birds of North America, 7th Edition, With Map on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=National+Geographic+Field+Guide+to+the+Birds+of+North+America%2C+7th+Edition%2C+With+Map+by+Jonathan+Alderfer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic Field Guide to the Birds of North America, 7th Edition, With Map">National Geographic Field Guide to the Birds of North America...</a>
+</h4>
+<p class="fr-book-author">By Jonathan Alderfer, Jon L. Dunn</p>
         
-        <p class="fr-book-desc">Useful for recognizing birds that may be misidentified in distant imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=National+Geographic+Field+Guide+to+the+Birds+of+North+America%2C+7th+Edition%2C+With+Map+by+Jonathan+Alderfer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for recognizing birds that may be misidentified in distant imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=National+Geographic+Field+Guide+to+the+Birds+of+North+America%2C+7th+Edition%2C+With+Map+by+Jonathan+Alderfer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Bird+Photography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Bird Photography</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Escaping+the+Rabbit+Hole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Escaping the Rabbit Hole</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Bird+Photography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Bird Photography</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s"><img src="{{ '/assets/images/marketplace-covers/75cb875931daf7e1dceb.jpg' | relative_url }}" alt="Listing image for UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Walter Photo Original Coloured Press Promotion Circa 1990&#x27;s</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3"><img src="https://i.ebayimg.com/images/g/QikAAeSwQdhqDsZy/s-l225.jpg" alt="Listing image for The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X-FILES I WANT TO BELIEVE UFO METAL SIGN WALL PLAQUE poster A6 A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Trail information board This information board in the main c2013"><img src="{{ '/assets/images/marketplace-covers/8040b67e32d83bc531bc.jpg' | relative_url }}" alt="Listing image for UFO Trail information board This information board in the main c2013" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Trail information board This information board in the main c2013</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print"><img src="https://i.ebayimg.com/images/g/ZTsAAOSwRRZjovDf/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Print The X-Files Television TV A5 A4 A3 Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA"><img src="{{ '/assets/images/marketplace-covers/089e187e1876638c9c25.jpg' | relative_url }}" alt="Listing image for ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">ED WALTERS UFO GULF BREEZE POSTCARD UFOLOGY MEMORABILIA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA"><img src="{{ '/assets/images/marketplace-covers/d1a9ede89dec7aff09e9.jpg' | relative_url }}" alt="Listing image for UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO gerry anderson genuine tv prop harness buckle used in sky one UACC RD COA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia -series -television" data-ebay-reference="birds-how-birds-become-orbs-on-camera-ufo-hackers-such-ufo-memorabilia-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-birds-become-orbs-on-camera-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-birds-become-orbs-on-camera-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -578,7 +578,7 @@ In discussions connected to claims of hidden or unusual imagery, including long-
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -598,7 +598,7 @@ In discussions connected to claims of hidden or unusual imagery, including long-
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -630,7 +630,7 @@ In discussions connected to claims of hidden or unusual imagery, including long-
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -682,7 +682,7 @@ In discussions connected to claims of hidden or unusual imagery, including long-
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -727,7 +727,7 @@ In discussions connected to claims of hidden or unusual imagery, including long-
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -768,119 +768,119 @@ In discussions connected to claims of hidden or unusual imagery, including long-
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery featuring birds and...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the objects&#x27; strong morphological consistency with other resolved imagery featuring birds and...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: defensescoop.com  
    Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: <a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
+   Link:<a href="https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: academic.oup.com  
-   Link: <a href="https://academic.oup.com/auk/article/143/2/1/8506565" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/auk/article/143/2/1/8506565</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicUsing thermal imaging to directly observe nocturnal migrationby Y Morales-Góngora · 2026 — With the aid of thermal imaging op...</p></details>
+   Link:<a href="https://academic.oup.com/auk/article/143/2/1/8506565" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/auk/article/143/2/1/8506565</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicUsing thermal imaging to directly observe nocturnal migrationby Y Morales-Góngora · 2026 — With the aid of thermal imaging op...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYG3MK1hA0l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYG3MK1hA0l/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-016, Resolved as Birds, Europe 2023 The United...May 8, 2026 — AARO assesses, with high confidence, that the objects depicte...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYG3MK1hA0l/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYG3MK1hA0l/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-016, Resolved as Birds, Europe 2023 The United...May 8, 2026 — AARO assesses, with high confidence, that the objects depicte...</p></details>
    Published: May 8, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: space.com  
    Title: "We do have some very anomalous objects," he said.Read more  
-   Link: <a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Kosloski noted that his office does not believe that every...</p></details>
+   Link:<a href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...19 Nov 2024 — Kosloski noted that his office does not believe that every...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: metabunk.org  
    Title: aaro 2024 annual report on uap.13762  
-   Link: <a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resolved to prosaic objects...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO 2024 Annual Report on UAP14 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resolved to prosaic objects...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... We will follow the science wherever it leads. Quick...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeThe official website for the All-domain Anomaly Resolution Office (AARO)... We will follow the science wherever it leads. Quick...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Bird" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bird</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BirdBirds are a group of warm-blooded vertebrate animals constituting the class Aves, There are over 11,000 living species passerine o...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bird" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bird</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BirdBirds are a group of warm-blooded vertebrate animals constituting the class Aves, There are over 11,000 living species passerine o...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-[uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-[uap-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/977839/pr-008-unresolved-[uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977839/pr-008-unresolved-[uap-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rspca.org.uk  
-   Link: <a href="https://www.rspca.org.uk/adviceandwelfare/wildlife/birds" target="_blank" rel="noopener noreferrer nofollow">https://www.rspca.org.uk/adviceandwelfare/wildlife/birds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Birds | Wildlife AdviceDiscover the different species of birds in the UK and how they live. We have advice on bird nests and what to feed...</p></details>
+   Link:<a href="https://www.rspca.org.uk/adviceandwelfare/wildlife/birds" target="_blank" rel="noopener noreferrer nofollow">https://www.rspca.org.uk/adviceandwelfare/wildlife/birds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Birds | Wildlife AdviceDiscover the different species of birds in the UK and how they live. We have advice on bird nests and what to feed...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bto.org  
-   Link: <a href="https://www.bto.org/learn/about-birds" target="_blank" rel="noopener noreferrer nofollow">https://www.bto.org/learn/about-birds</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>About birdsExplore pages that explain bird behaviour and more about their lives, learn about the British List and bird taxonomy, and disc...</p></details>
+   Link:<a href="https://www.bto.org/learn/about-birds" target="_blank" rel="noopener noreferrer nofollow">https://www.bto.org/learn/about-birds</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>About birdsExplore pages that explain bird behaviour and more about their lives, learn about the British List and bird taxonomy, and disc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/unit/AARO" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/AARO</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All Domain Anomaly Resolution OfficeThe United States Africa Command submitted a report of an unidentified anomalous phenomenon to the Al...</p></details>
+   Link:<a href="https://www.dvidshub.net/unit/AARO" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/AARO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All Domain Anomaly Resolution OfficeThe United States Africa Command submitted a report of an unidentified anomalous phenomenon to the Al...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“We Do Have Some Very Anomalous Objects,” New...19 Nov 2024 — “To be clear, AARO does not believe that every object is a bird, a balloon...</p></details>
+   Link:<a href="https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/we-do-have-some-very-anomalous-objects-new-director-of-pentagons-uap-investigations-tells-lawmakers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“We Do Have Some Very Anomalous Objects,” New...19 Nov 2024 — “To be clear, AARO does not believe that every object is a bird, a balloon...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: twz.com  
    Title: balloons no ufos found by satellites shoot down video coming says aaro chief  
-   Link: <a href="https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons, No UFOs, Found By Satellites, Shoot Down...Oct 31, 2023 — In a rare press briefing, the head of the Pentagon office charged wi...</p></details>
+   Link:<a href="https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons, No UFOs, Found By Satellites, Shoot Down...Oct 31, 2023 — In a rare press briefing, the head of the Pentagon office charged wi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: birdguides.com  
-   Link: <a href="https://www.birdguides.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.birdguides.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In-depth species profiles, insightful analysis, engaging opinions and inspiring trip reports; Plus...Read more...</p></details>
+   Link:<a href="https://www.birdguides.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.birdguides.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In-depth species profiles, insightful analysis, engaging opinions and inspiring trip reports; Plus...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: allaboutbirds.org  
-   Link: <a href="https://www.allaboutbirds.org/news/" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutbirds.org/news/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y, listen to the sounds, and watch bird behavior on video--the most comprehensive guide to...</p></details>
+   Link:<a href="https://www.allaboutbirds.org/news/" target="_blank" rel="noopener noreferrer nofollow">https://www.allaboutbirds.org/news/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y, listen to the sounds, and watch bird behavior on video--the most comprehensive guide to...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rev.com  
    Title: senate hearing on unidentified aerial phenomena  
-   Link: <a href="https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO Senate Hearing Unidentified Aerial PhenomenaJan 23, 2026 — You&#x27;ll see that many reports resolve to commonplace objects like birds...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/senate-hearing-on-unidentified-aerial-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP UFO Senate Hearing Unidentified Aerial PhenomenaJan 23, 2026 — You&#x27;ll see that many reports resolve to commonplace objects like birds...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: dvidshub.net  
    Title: pr 006 uap report resolved balloon europe 2022  
-   Link: <a href="https://www.dvidshub.net/video/977837/pr-006-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977837/pr-006-uap-report-resolved-balloon-europe-2022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-006, UAP Report Resolved as a Balloon, Europe 2022AARO assesses, with high confidence, that the object depicted in the video is almost...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/977837/pr-006-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977837/pr-006-uap-report-resolved-balloon-europe-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-006, UAP Report Resolved as a Balloon, Europe 2022AARO assesses, with high confidence, that the object depicted in the video is almost...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: dvidshub.net  
    Title: pr 009 uap report resolved balloon europe 2022  
-   Link: <a href="https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-009, UAP Report Resolved as a Balloon, Europe 2022AARO bases its assessment on the object&#x27;s strong morphological consistency with othe...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-009, UAP Report Resolved as a Balloon, Europe 2022AARO bases its assessment on the object&#x27;s strong morphological consistency with othe...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: dvidshub.net  
    Title: pr 010 uap report resolved balloon europe 2022  
-   Link: <a href="https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-010, UAP Report Resolved as a Balloon, Europe 2022Sep 15, 2025 — AARO bases its assessment on the object&#x27;s strong morphological consis...</p></details>
+   Link:<a href="https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>PR-010, UAP Report Resolved as a Balloon, Europe 2022Sep 15, 2025 — AARO bases its assessment on the object&#x27;s strong morphological consis...</p></details>

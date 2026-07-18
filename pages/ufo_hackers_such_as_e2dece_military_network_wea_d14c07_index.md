@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-military/
 description: Focused pages that expand on Weak Security.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_military_network_wea_d14c07
 parent_title: Weak Security
@@ -16,7 +16,7 @@ parent_permalink: /weak-security/
 
 # Explore Topics in Weak Security
 
-The following pages expand on the main **[Weak Security]({{ '/weak-security/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Weak Security]({{ '/weak-security/' | relative_url }})** page and cover its key branches in.
 
 - [Blank Passwords]({{ '/blank-passwords-e05d64/' | relative_url }})
 - [Password Files]({{ '/password-files-cff2f3/' | relative_url }})

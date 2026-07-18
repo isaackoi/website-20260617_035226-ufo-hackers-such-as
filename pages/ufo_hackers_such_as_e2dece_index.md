@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-index/
 description: Focused pages that expand on UFO Hackers Such.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece
 parent_title: UFO Hackers Such
@@ -16,7 +16,7 @@ parent_permalink: /ufo-hackers-such/
 
 # Explore Topics in UFO Hackers Such
 
-The following pages expand on the main **[UFO Hackers Such]({{ '/ufo-hackers-such/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UFO Hackers Such]({{ '/ufo-hackers-such/' | relative_url }})** page and cover its key branches in.
 
 - [Anecdote]({{ '/anecdote/' | relative_url }})
 - [Believers]({{ '/believers/' | relative_url }})

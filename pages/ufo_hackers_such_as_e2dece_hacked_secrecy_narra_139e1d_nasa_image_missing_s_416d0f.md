@@ -265,13 +265,13 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_nas
 
 ## The claimed remote desktop viewing moment
 
-McKinnon's account centres on a remote session into a NASA system that he believed was associated with image processing. In a 2006 interview, he said he had been examining large image files and noticed what he described as both processed and unprocessed imagery. Because he was using a slow dial-up connection, he did not successfully download the file. Instead, he reportedly viewed it directly through a remote desktop connection while the image slowly rendered on screen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+McKinnon's account centres on a remote session into a NASA system that he believed was associated with image processing. In a 2006 interview, he said he had been examining large image files and noticed what he described as both processed and unprocessed imagery. Because he was using a slow dial-up connection, he did not successfully download the file. Instead, he reportedly viewed it directly through a remote desktop connection while the image slowly rendered on screen.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_nasa_image_missing_s_416d0f-Illustration-1-dark.svg" | relative_url }}" alt="NASA Image Missing illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_nasa_image_missing_s_416d0f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_nasa_image_missing_s_416d0f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-According to his description, the object appeared as a silvery, cigar-shaped craft with spherical structures on either side. He stated that there were no visible seams, rivets, wings, or other obvious features associated with conventional [aircraft]({{ 'aircraft/' | relative_url }}). He also said he could not determine the object's size because the image lacked scale information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+According to his description, the object appeared as a silvery, cigar-shaped craft with spherical structures on either side. He stated that there were no visible seams, rivets, wings, or other obvious features associated with conventional [aircraft]({{ 'aircraft/' | relative_url }}). He also said he could not determine the object's size because the image lacked scale information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
-The crucial detail is what happened next. McKinnon said that before he could secure the image, his connection was interrupted and the session ended. The image therefore survived only as a personal recollection rather than as a recoverable digital artefact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+The crucial detail is what happened next. McKinnon said that before he could secure the image, his connection was interrupted and the session ended. The image therefore survived only as a personal recollection rather than as a recoverable digital artefact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
@@ -295,7 +295,7 @@ If a screenshot, image file, or forensic copy had survived, investigators could 
 
 </div>
 
-Without any of those elements, there is no way to establish whether the image depicted an unidentified object, a satellite, an imaging artefact, a test platform, or something entirely mundane. The absence of [metadata]({{ 'metadata/' | relative_url }}) removes the ability to perform the normal chain of verification used in digital investigations. The result is a claim that cannot be independently tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+Without any of those elements, there is no way to establish whether the image depicted an unidentified object, a satellite, an imaging artefact, a test platform, or something entirely mundane. The absence of [metadata]({{ 'metadata/' | relative_url }}) removes the ability to perform the normal chain of verification used in digital investigations. The result is a claim that cannot be independently tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 This missing evidential layer is especially important because NASA imagery often contains objects that can appear strange when viewed without accompanying mission data. Spacecraft, satellites, sensor reflections, compression artefacts, and partially rendered images can all produce unusual shapes when isolated from their operational context.
 
@@ -304,9 +304,9 @@ This missing evidential layer is especially important because NASA imagery often
 
 ## The screenshot gap became the story
 
-One reason the image remains controversial is that the [missing screenshot]({{ 'no-screenshot/' | relative_url }}) itself became a central topic of debate. Critics have long argued that a technically capable computer user should have been able to capture at least some record of what was on screen. Online discussions frequently focus less on the alleged object and more on why no image survives despite the availability of screenshot functions in operating systems and remote-access software at the time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reminder: Gary McKinnon caught NASA editing UAP out of...September 14, 2023 — &quot;It was a silvery, cigar-shaped object with geodesic spher...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
+One reason the image remains controversial is that the [missing screenshot]({{ 'no-screenshot/' | relative_url }}) itself became a central topic of debate. Critics have long argued that a technically capable computer user should have been able to capture at least some record of what was on screen. Online discussions frequently focus less on the alleged object and more on why no image survives despite the availability of screenshot functions in operating systems and remote-access software at the time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reminder: Gary McKinnon caught NASA editing UAP out of...September 14, 2023 — &quot;It was a silvery, cigar-shaped object with geodesic spher...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span>
 
-McKinnon's explanation has generally been that he was focused on viewing the image, operating over a slow connection, and did not anticipate losing access at that moment. He later stated that he was effectively mesmerised by what he was seeing and did not immediately think about preserving it before the connection ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Gary McKinnon... images. He stated to have viewed a detailed image of &quot;something not man-made&quot; and &quot;cigar shaped&quot; floating above the nort...</span></span></span>
+McKinnon's explanation has generally been that he was focused on viewing the image, operating over a slow connection, and did not anticipate losing access at that moment. He later stated that he was effectively mesmerised by what he was seeing and did not immediately think about preserving it before the connection ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Gary McKinnon... images. He stated to have viewed a detailed image of &quot;something not man-made&quot; and &quot;cigar shaped&quot; floating above the nort...</span></span></span>
 
 Whether that explanation is persuasive depends largely on the reader's prior assumptions. Supporters see an unexpected interruption during a fragile remote session. [Skeptics]({{ 'skeptics/' | relative_url }}) see the absence of a screenshot as the critical failure that prevents the claim from moving beyond [anecdote]({{ 'anecdote/' | relative_url }}).
 
@@ -318,7 +318,7 @@ The NASA image illustrates a broader evidential problem: once a digital artefact
 
 Human recollection is valuable for generating leads, but it is a weak substitute for preserved data. Memories tend to become simplified over time, details can be unconsciously reconstructed, and later discussions may influence how an event is remembered. None of this requires deliberate deception. It is a normal feature of human cognition.
 
-In the McKinnon case, the remembered image has remained relatively consistent in broad outline—a cigar-shaped object viewed in NASA imagery—but the absence of the [original file]({{ 'original-file/' | relative_url }}) means there is no way to compare the memory against the source material. The claim therefore depends almost entirely on trust in the witness rather than inspection of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+In the McKinnon case, the remembered image has remained relatively consistent in broad outline—a cigar-shaped object viewed in NASA imagery—but the absence of the [original file]({{ 'original-file/' | relative_url }}) means there is no way to compare the memory against the source material. The claim therefore depends almost entirely on trust in the witness rather than inspection of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 This changes the nature of the discussion. A preserved image would invite technical analysis. A remembered image invites assessment of testimony. Those are fundamentally different forms of evidence.
 
@@ -327,9 +327,9 @@ This changes the nature of the discussion. A preserved image would invite techni
 
 ## What can actually be concluded
 
-The strongest defensible conclusion is limited. McKinnon consistently maintained that he briefly viewed an unusual image while accessing NASA systems and that he failed to preserve it before losing the connection. Multiple interviews over many years repeat essentially the same core narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+The strongest defensible conclusion is limited. McKinnon consistently maintained that he briefly viewed an unusual image while accessing NASA systems and that he failed to preserve it before losing the connection. Multiple interviews over many years repeat essentially the same core narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
-What cannot be established is equally important. There is no publicly available screenshot, image file, metadata record, forensic copy, corroborating witness, or authenticated NASA documentation confirming the object's nature. Without those elements, the image cannot be independently examined or verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
+What cannot be established is equally important. There is no publicly available screenshot, image file, metadata record, forensic copy, corroborating witness, or authenticated NASA documentation confirming the object's nature. Without those elements, the image cannot be independently examined or verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</span></span></span>
 
 That missing screenshot gap is what makes the NASA image claim such a durable part of UFO culture. The story contains a vivid visual description and a credible route by which the witness encountered it, yet the crucial piece of evidence vanished before anyone else could inspect it. The result is a claim that remains memorable precisely because it cannot be tested.
 
@@ -337,194 +337,194 @@ That missing screenshot gap is what makes the NASA image claim such a durable pa
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_nasa_image_missing_s_416d0f-Illustration-3-dark.svg" | relative_url }}" alt="NASA Image Missing illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_nasa_image_missing_s_416d0f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d_nasa_image_missing_s_416d0f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to NASA Image Missing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to NASA Image Missing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Provides real-world context for separating confirmed intrusions from broader claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides real-world context for separating confirmed intrusions from broader claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Explains why compelling stories, secrecy claims, and belief formation can feel convincing even when evidence is weak.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why compelling stories, secrecy claims, and belief formation can feel convincing even when evidence is weak.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
+</h4>
+<p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
         
-        <p class="fr-book-desc">Helps readers understand the significance of actual network breaches.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers understand the significance of actual network breaches.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on evaluating UFO claims and evidence rather than accepting extraordinary conclusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evaluating UFO claims and evidence rather than accepting extraordinary conclusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="{{ '/assets/images/marketplace-covers/fecc3801368785b177c2.jpg' | relative_url }}" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="{{ '/assets/images/marketplace-covers/fecc3801368785b177c2.jpg' | relative_url }}" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes"><img src="{{ '/assets/images/marketplace-covers/048b93cb4acc79ed26eb.jpg' | relative_url }}" alt="Listing image for NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes"><img src="{{ '/assets/images/marketplace-covers/048b93cb4acc79ed26eb.jpg' | relative_url }}" alt="Listing image for NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/2b28e3027c0e7d54243f.jpg' | relative_url }}" alt="Listing image for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/2b28e3027c0e7d54243f.jpg' | relative_url }}" alt="Listing image for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge"><img src="{{ '/assets/images/marketplace-covers/8167604e2c7a6946709d.jpg' | relative_url }}" alt="Listing image for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge"><img src="{{ '/assets/images/marketplace-covers/8167604e2c7a6946709d.jpg' | relative_url }}" alt="Listing image for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="nasa-image-missing-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -540,7 +540,7 @@ That missing screenshot gap is what makes the NASA image claim such a durable pa
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -560,7 +560,7 @@ That missing screenshot gap is what makes the NASA image claim such a durable pa
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -592,7 +592,7 @@ That missing screenshot gap is what makes the NASA image claim such a durable pa
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -644,7 +644,7 @@ That missing screenshot gap is what makes the NASA image claim such a durable pa
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -689,7 +689,7 @@ That missing screenshot gap is what makes the NASA image claim such a durable pa
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -730,98 +730,98 @@ That missing screenshot gap is what makes the NASA image claim such a durable pa
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of troub...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon... images. He stated to have viewed a detailed image of &quot;something not man-made&quot; and &quot;cigar shaped&quot; floating above the nort...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon... images. He stated to have viewed a detailed image of &quot;something not man-made&quot; and &quot;cigar shaped&quot; floating above the nort...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spectrum.ieee.org  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack. Convinced that the gover...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack. Convinced that the gover...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...September 14, 2023 — &quot;It was a silvery, cigar-shaped object with geodesic spher...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...September 14, 2023 — &quot;It was a silvery, cigar-shaped object with geodesic spher...</p></details>
    Published: September 14, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
    Published: March 2002  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: uapmurders.com  
-   Link: <a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Murdering UAP ExpertsMcKinnon claimed he viewed an unprocessed satellite image showing &quot;a silvery, cigar-shaped object wi...</p></details>
+   Link:<a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | Murdering UAP ExpertsMcKinnon claimed he viewed an unprocessed satellite image showing &quot;a silvery, cigar-shaped object wi...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/BroBible/posts/gary-mckinnon-who-prosecutors-said-committed-the-biggest-military-computer-hack-/1390572326443225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/gary-mckinnon-who-prosecutors-said-committed-the-biggest-military-computer-hack-/1390572326443225/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, who prosecutors said committed “the...Gary McKinnon, who prosecutors said committed “the biggest military computer hack o...</p></details>
+   Link:<a href="https://www.facebook.com/BroBible/posts/gary-mckinnon-who-prosecutors-said-committed-the-biggest-military-computer-hack-/1390572326443225/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/BroBible/posts/gary-mckinnon-who-prosecutors-said-committed-the-biggest-military-computer-hack-/1390572326443225/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, who prosecutors said committed “the...Gary McKinnon, who prosecutors said committed “the biggest military computer hack o...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ClintonDesveaux/status/2028242533684215873" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ClintonDesveaux/status/2028242533684215873</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This looks funHalfway across the world in the UK, a lone IT guy named Gary McKinnon hacked into the same NASA facility and saw an image o...</p></details>
+   Link:<a href="https://x.com/ClintonDesveaux/status/2028242533684215873" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ClintonDesveaux/status/2028242533684215873</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This looks funHalfway across the world in the UK, a lone IT guy named Gary McKinnon hacked into the same NASA facility and saw an image o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: nasa hack revelation hacker gary mckinnon claims he discovered a secret image o  
-   Link: <a href="https://www.facebook.com/OuterSpaceFacts/videos/-nasa-hack-revelation-hacker-gary-mckinnon-claims-he-discovered-a-secret-image-o/923313817117690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OuterSpaceFacts/videos/-nasa-hack-revelation-hacker-gary-mckinnon-claims-he-discovered-a-secret-image-o/923313817117690/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸💻 NASA HACK REVELATION!! Hacker Gary McKinnon...11 Mar 2026 — NASA HACK REVELATION!! Hacker Gary McKinnon Claims He Discovered a Secret...</p></details>
+   Link:<a href="https://www.facebook.com/OuterSpaceFacts/videos/-nasa-hack-revelation-hacker-gary-mckinnon-claims-he-discovered-a-secret-image-o/923313817117690/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OuterSpaceFacts/videos/-nasa-hack-revelation-hacker-gary-mckinnon-claims-he-discovered-a-secret-image-o/923313817117690/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸💻 NASA HACK REVELATION!! Hacker Gary McKinnon...11 Mar 2026 — NASA HACK REVELATION!! Hacker Gary McKinnon Claims He Discovered a Secret...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe claimed to find high-resolution images of unidentified flying objects, files listing “non-terr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe claimed to find high-resolution images of unidentified flying objects, files listing “non-terr...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: film scottish hacker gary mckinnon fight against us extradition  
-   Link: <a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29 Nov 2023 — The story of the computer hacker Gary McKinnon and his long...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Film to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29 Nov 2023 — The story of the computer hacker Gary McKinnon and his long...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — McKinnon claims an image held at the Johnson Space Center&#x27;s [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;) showe...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — McKinnon claims an image held at the Johnson Space Center&#x27;s [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;) showe...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: easternsierranow.com  
    Title: beyond the beyond gary mckinnon nasa and the ufo coverup  
-   Link: <a href="https://www.easternsierranow.com/beyond-the-beyond-gary-mckinnon-nasa-and-the-ufo-coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.easternsierranow.com/beyond-the-beyond-gary-mckinnon-nasa-and-the-ufo-coverup/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Beyond: Gary McKinnon, NASA, and the UFO...31 Dec 2024 — Gary McKinnon worked IT-related jobs, but in his spare time enjoyed...</p></details>
+   Link:<a href="https://www.easternsierranow.com/beyond-the-beyond-gary-mckinnon-nasa-and-the-ufo-coverup/" target="_blank" rel="noopener noreferrer nofollow">https://www.easternsierranow.com/beyond-the-beyond-gary-mckinnon-nasa-and-the-ufo-coverup/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond the Beyond: Gary McKinnon, NASA, and the UFO...31 Dec 2024 — Gary McKinnon worked IT-related jobs, but in his spare time enjoyed...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ladbible.com  
    Title: nasa ufo evidence computer hack truth 577322 20230922  
-   Link: <a href="https://www.ladbible.com/news/technology/nasa-ufo-evidence-computer-hack-truth-577322-20230922" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/news/technology/nasa-ufo-evidence-computer-hack-truth-577322-20230922</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brit who hacked NASA computers and &#x27;found photo...22 Sept 2023 — Gary McKinnon hacked into US Army, government and NASA computers back i...</p></details>
+   Link:<a href="https://www.ladbible.com/news/technology/nasa-ufo-evidence-computer-hack-truth-577322-20230922" target="_blank" rel="noopener noreferrer nofollow">https://www.ladbible.com/news/technology/nasa-ufo-evidence-computer-hack-truth-577322-20230922</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brit who hacked NASA computers and &#x27;found photo...22 Sept 2023 — Gary McKinnon hacked into US Army, government and NASA computers back i...</p></details>

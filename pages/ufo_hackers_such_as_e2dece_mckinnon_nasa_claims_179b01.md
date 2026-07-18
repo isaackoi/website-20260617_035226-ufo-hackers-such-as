@@ -447,7 +447,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-ove
 
 ## Introduction
 
-Gary McKinnon’s most famous NASA claim is narrow but striking: he said he accessed image files at NASA’s Johnson Space Center, in a department connected with [Building 8]({{ 'building-8/' | relative_url }}), and briefly saw an image of a silvery, cigar-shaped object before being disconnected. The claim matters because it is often retold as if McKinnon “proved” NASA hid UFO evidence. The public record does not support that stronger version. What exists is McKinnon’s own account, repeated in [interviews]({{ 'interviews/' | relative_url }}), alongside official records showing he was accused of unauthorised access to US military and NASA systems. No public image file, screenshot, file path, technical log, or independent authentication has ever established that the object he described was real, anomalous, or hidden by NASA. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+Gary McKinnon’s most famous NASA claim is narrow but striking: he said he accessed image files at NASA’s Johnson Space Center, in a department connected with [Building 8]({{ 'building-8/' | relative_url }}), and briefly saw an image of a silvery, cigar-shaped object before being disconnected. The claim matters because it is often retold as if McKinnon “proved” NASA hid UFO evidence. The public record does not support that stronger version. What exists is McKinnon’s own account, repeated in [interviews]({{ 'interviews/' | relative_url }}), alongside official records showing he was accused of unauthorised access to US military and NASA systems. No public image file, screenshot, file path, technical log, or independent authentication has ever established that the object he described was real, anomalous, or hidden by NASA.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-overview.webp" | relative_url }}" alt="Overview image for NASA Claims" loading="eager" decoding="sync" fetchpriority="high">
@@ -458,11 +458,11 @@ That distinction is the key to understanding McKinnon’s place among UFO hacker
 
 ## The Building 8 Image Story
 
-McKinnon told Wired in 2006 that his NASA search was shaped by testimony from the Disclosure Project, a UFO-oriented campaign that presented witnesses claiming government knowledge of alien technology. In his version, a “NASA photographic expert” had said that Building 8 at Johnson Space Center was used to remove UFOs from high-resolution satellite imagery. McKinnon said he then accessed a NASA department where large picture files were stored in paired forms: “filtered and unfiltered”, or “processed and unprocessed”, versions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+McKinnon told Wired in 2006 that his NASA search was shaped by testimony from the Disclosure Project, a UFO-oriented campaign that presented witnesses claiming government knowledge of alien technology. In his version, a “NASA photographic expert” had said that Building 8 at Johnson Space Center was used to remove UFOs from high-resolution satellite imagery. McKinnon said he then accessed a NASA department where large picture files were stored in paired forms: “filtered and unfiltered”, or “processed and unprocessed”, versions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 The important point is that McKinnon did not claim he found a labelled folder saying “alien spacecraft” or a formal NASA document admitting image manipulation. His claim was more circumstantial: he believed he had reached a photographic area matching what he had heard about, and he interpreted the existence of processed and unprocessed image files through that prior UFO-cover-up framework. In normal imaging work, processed and unprocessed files can exist for many reasons, including calibration, enhancement, compression, contrast correction, annotation, or routine workflow. Without the files themselves, the labels alone cannot show what was being altered or why.
 
-McKinnon’s account also includes a technical bottleneck that later became central to the credibility dispute. He said he was using a slow 56K dial-up connection while remotely viewing a NASA desktop, and that the image file was extremely large. To see anything at all, he said he lowered the remote display to 4-bit colour and a low screen resolution. That means the image he described was, by his own account, not a clean saved original but a brief, degraded remote view during an unauthorised session. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">He claims to have discovered a NASA department that airbrushes UFO images from high-resolution photos and an Excel spreadsheet titled &quot;No...</span></span></span>
+McKinnon’s account also includes a technical bottleneck that later became central to the credibility dispute. He said he was using a slow 56K dial-up connection while remotely viewing a NASA desktop, and that the image file was extremely large. To see anything at all, he said he lowered the remote display to 4-bit colour and a low screen resolution. That means the image he described was, by his own account, not a clean saved original but a brief, degraded remote view during an unauthorised session.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">He claims to have discovered a NASA department that airbrushes UFO images from high-resolution photos and an Excel spreadsheet titled &quot;No...</span></span></span>
 
 This does not prove the claim false, but it sharply limits what can be inferred from it. A fleeting low-colour remote display gives no public chain of custody. It also makes later reconstruction difficult because there is no preserved file, no [metadata]({{ 'metadata/' | relative_url }}), no original resolution, no known instrument, no date, no coordinates, and no independent analyst who can inspect the image.
 
@@ -470,11 +470,11 @@ This does not prove the claim false, but it sharply limits what can be inferred 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-1-dark.svg" | relative_url }}" alt="NASA Claims illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Alleged Object Description
 
-McKinnon’s most repeated description is vivid. He said the image showed a “silvery, cigar-shaped object” with “geodesic spheres” on either side, no visible seams or rivets, and no clear size reference. He believed the picture had probably been taken from above, by a satellite looking down, and said the object did not look man-made to him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+McKinnon’s most repeated description is vivid. He said the image showed a “silvery, cigar-shaped object” with “geodesic spheres” on either side, no visible seams or rivets, and no clear size reference. He believed the picture had probably been taken from above, by a satellite looking down, and said the object did not look man-made to him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 Those details explain why the story spread so widely in UFO culture. The description sounds specific enough to be memorable but not specific enough to verify. “Cigar-shaped” has a long history in UFO reporting, while “geodesic spheres” gives the image an unusual mechanical geometry. Yet McKinnon’s phrasing also leaves open basic interpretive questions: whether the object was in space, in the atmosphere, on the ground, over Earth’s horizon, or even a misread artefact in a processed image. He said there was no size reference, which removes one of the first checks an image analyst would need.
 
-An earlier [Guardian profile]({{ 'guardian-profile/' | relative_url }}) presented the Johnson Space Center episode more cautiously, saying McKinnon had looked at photographs of cigar-shaped objects that “might have been UFOs” but that he himself said were “probably satellites”. That version is less dramatic than later retellings, but it is useful because it shows how the claim could be framed with more uncertainty close to the period when his case was active. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — At the Johnson Space Centre he spied on photographs of cigar-shaped obje...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
+An earlier [Guardian profile]({{ 'guardian-profile/' | relative_url }}) presented the Johnson Space Center episode more cautiously, saying McKinnon had looked at photographs of cigar-shaped objects that “might have been UFOs” but that he himself said were “probably satellites”. That version is less dramatic than later retellings, but it is useful because it shows how the claim could be framed with more uncertainty close to the period when his case was active.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Game over &#124; Gary Mc Kinnon</span><span class="citation-popover-snippet">The GuardianGame over &#124; Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — At the Johnson Space Centre he spied on photographs of cigar-shaped obje...</span><span class="citation-popover-meta">Published: July 9, 2005</span></span></span>
 
 The gap between those two tellings matters. In the strongest UFO retellings, McKinnon is said to have seen a non-human craft. In the more careful version, he saw something he could not confidently identify. A reader should treat the latter as closer to what the evidence can bear: McKinnon claimed a brief sighting of an unusual object inside NASA image files, not a publicly demonstrated discovery of extraterrestrial hardware.
 
@@ -483,11 +483,11 @@ The gap between those two tellings matters. In the strongest UFO retellings, McK
 
 ## Why No Public File Proves It
 
-The central weakness in the NASA claim is simple: McKinnon did not produce the image. He told Wired that because he was using a Java application, the picture did not end up in his temporary internet files, and he could only have captured a screenshot. He said that at the crucial moment someone at NASA noticed the intrusion and disconnected him. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+The central weakness in the NASA claim is simple: McKinnon did not produce the image. He told Wired that because he was using a Java application, the picture did not end up in his temporary internet files, and he could only have captured a screenshot. He said that at the crucial moment someone at NASA noticed the intrusion and disconnected him.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 That explanation is internally coherent as an anecdote, but it does not create evidence other people can test. A public proof would need at least one of the following: the original file, a screenshot with intact metadata, a verifiable file path, logs correlating his session with the alleged image, another witness who saw the same file, or a later official release matching his description. None of those has emerged.
 
-This is why the claim sits in a different evidential category from the intrusion case itself. US Justice Department records state that McKinnon was indicted for computer fraud and related activity, and that the case involved intrusions into US Army, Navy, Air Force, Department of Defense and NASA systems. Those allegations are part of an official legal record. The UFO image claim, by contrast, is not substantiated by an official release or independently reviewable dataset. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
+This is why the claim sits in a different evidential category from the intrusion case itself. US Justice Department records state that McKinnon was indicted for computer fraud and related activity, and that the case involved intrusions into US Army, Navy, Air Force, Department of Defense and NASA systems. Those allegations are part of an official legal record. The UFO image claim, by contrast, is not substantiated by an official release or independently reviewable dataset.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</span></span></span>
 
 The absence of a file also prevents ordinary image-forensics questions from being answered. No one can check whether the image was a satellite, spacecraft, lens artefact, processing error, calibration target, terrestrial structure, ordinary aerospace object, or something more unusual. Nor can anyone confirm whether “filtered” meant censorship, enhancement, or routine image processing. The evidential ceiling is therefore low: the story can be reported as McKinnon’s claim, but not as proof of NASA concealment.
 
@@ -495,9 +495,9 @@ The absence of a file also prevents ordinary image-forensics questions from bein
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-2-dark.svg" | relative_url }}" alt="NASA Claims illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “Non-Terrestrial Officers” Detail Is Related, But Not the NASA Image
 
-McKinnon’s “Non-Terrestrial Officers” claim is often blended with the Building 8 image story, but it is a separate allegation. In the same Wired interview, he said he accessed Excel spreadsheets, one titled “Non-Terrestrial Officers”, containing names and ranks of US Air Force personnel and information about ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }}). He also said he had not seen the ship names elsewhere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+McKinnon’s “Non-Terrestrial Officers” claim is often blended with the Building 8 image story, but it is a separate allegation. In the same Wired interview, he said he accessed Excel spreadsheets, one titled “Non-Terrestrial Officers”, containing names and ranks of US Air Force personnel and information about ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }}). He also said he had not seen the ship names elsewhere.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
-That phrase has become one of the most mythologised parts of the McKinnon case because it sounds like a secret space-fleet reference. Yet McKinnon himself accepted uncertainty when asked whether it might have been a military strategy game or hypothetical scenario, saying it was “hard to know for certain”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+That phrase has become one of the most mythologised parts of the McKinnon case because it sounds like a secret space-fleet reference. Yet McKinnon himself accepted uncertainty when asked whether it might have been a military strategy game or hypothetical scenario, saying it was “hard to know for certain”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 For this NASA-focused page, the spreadsheet matters mainly as a caution. It shows the pattern of the broader case: McKinnon described suggestive labels and unusual material, but without recoverable files. The NASA image story is stronger as a visual anecdote because it includes a concrete object description. It is weaker as evidence because the claimed image cannot be inspected.
 
@@ -511,10 +511,10 @@ McKinnon’s account can support a modest conclusion: he says that while searchi
 It cannot support the stronger conclusion that NASA hid a proven extraterrestrial craft. The reasons are evidential, not merely sceptical:
 
 * **No public image exists.** The alleged object cannot be examined, enhanced, dated, located, or compared with known spacecraft or satellites.
-* **The viewing conditions were poor.** McKinnon described a slow dial-up connection, remote desktop access, low resolution, and 4-bit colour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">He claims to have discovered a NASA department that airbrushes UFO images from high-resolution photos and an Excel spreadsheet titled &quot;No...</span></span></span>
+* **The viewing conditions were poor.** McKinnon described a slow dial-up connection, remote desktop access, low resolution, and 4-bit colour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">He claims to have discovered a NASA department that airbrushes UFO images from high-resolution photos and an Excel spreadsheet titled &quot;No...</span></span></span>
 * **The [file context]({{ 'file-context/' | relative_url }}) is unknown.** “Processed” and “unprocessed” can indicate ordinary imaging workflow as well as deliberate alteration.
 * **The source is single-witness.** The public UFO claim rests on McKinnon’s memory and interpretation, not on corroborated documentation.
-* **Even McKinnon’s related claims included uncertainty.** On the “Non-Terrestrial Officers” spreadsheet, he acknowledged possible non-extraordinary explanations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+* **Even McKinnon’s related claims included uncertainty.** On the “Non-Terrestrial Officers” spreadsheet, he acknowledged possible non-extraordinary explanations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 That does not make the story irrelevant. It explains why McKinnon became the archetypal UFO hacker: unlike a passive believer, he actually entered restricted systems looking for hidden evidence. But the evidential outcome is frustratingly thin. The case offers a powerful story about belief, secrecy and unauthorised access; it does not offer a public NASA file that proves a UFO cover-up.
 
@@ -522,194 +522,194 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-3-dark.svg" | relative_url }}" alt="NASA Claims illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Mc Kinnon Say NASA Hid?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Mc Kinnon Say NASA Hid?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Closely matches modern evidence standards discussed in UAP reviews.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Closely matches modern evidence standards discussed in UAP reviews.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains observational mistakes and misperception.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains observational mistakes and misperception.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacker Crackdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t-fnQwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacker Crackdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacker Crackdown">The Hacker Crackdown</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Sterling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacker Crackdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t-fnQwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacker Crackdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacker Crackdown">The Hacker Crackdown</a>
+</h4>
+<p class="fr-book-author">By Bruce Sterling</p>
         
-        <p class="fr-book-desc">Provides historical context on hacking, computer intrusion cases and the culture surrounding high-profile cyber investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on hacking, computer intrusion cases and the culture surrounding high-profile cyber investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Poster Space Shuttle NASA Extra Large Rare"><img src="{{ '/assets/images/marketplace-covers/01e1737a5415961c5ef4.jpg' | relative_url }}" alt="Listing image for Original Vintage Poster Space Shuttle NASA Extra Large Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Poster Space Shuttle NASA Extra Large Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA vintage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA vintage poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original Vintage Poster Space Shuttle NASA Extra Large Rare"><img src="{{ '/assets/images/marketplace-covers/01e1737a5415961c5ef4.jpg' | relative_url }}" alt="Listing image for Original Vintage Poster Space Shuttle NASA Extra Large Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">Original Vintage Poster Space Shuttle NASA Extra Large Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA vintage poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA vintage poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints"><img src="{{ '/assets/images/marketplace-covers/1ce1f51166ca07e2dc4a.jpg' | relative_url }}" alt="Listing image for NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA vintage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA vintage poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints"><img src="{{ '/assets/images/marketplace-covers/1ce1f51166ca07e2dc4a.jpg' | relative_url }}" alt="Listing image for NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">NASA POSTERS: Earth, Mars, Jupiter, Venus etc. JPL Retro Space Tourism Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA vintage poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA vintage poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1"><img src="{{ '/assets/images/marketplace-covers/194d56f7ceba0d65ea54.jpg' | relative_url }}" alt="Listing image for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA vintage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA vintage poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1"><img src="{{ '/assets/images/marketplace-covers/194d56f7ceba0d65ea54.jpg' | relative_url }}" alt="Listing image for Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">Nasa Retro Vintage Style Sci-fi Space Travel Planets Posters - A4/A3/A2/A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA vintage poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA vintage poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1969 NASA Apollo 11 Moon Landing Poster Vintage Space Program Wall Art"><img src="{{ '/assets/images/marketplace-covers/1d532c20fdaefcab1af0.jpg' | relative_url }}" alt="Listing image for 1969 NASA Apollo 11 Moon Landing Poster Vintage Space Program Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">1969 NASA Apollo 11 Moon Landing Poster Vintage Space Program Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA vintage poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA vintage poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1969 NASA Apollo 11 Moon Landing Poster Vintage Space Program Wall Art"><img src="{{ '/assets/images/marketplace-covers/1d532c20fdaefcab1af0.jpg' | relative_url }}" alt="Listing image for 1969 NASA Apollo 11 Moon Landing Poster Vintage Space Program Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">1969 NASA Apollo 11 Moon Landing Poster Vintage Space Program Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA vintage poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA vintage poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+vintage+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA vintage poster" data-ebay-reference="nasa-claims-what-did-mc-kinnon-say-nasa-hid-ufo-hackers-such-nasa-vintage-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -725,7 +725,7 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -745,7 +745,7 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -777,7 +777,7 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -829,7 +829,7 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -874,7 +874,7 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -915,98 +915,98 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — A NASA photographic expert said that there was a Building 8 at Johnson...</p></details>
    Published: June 21, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: justice.gov  
    Title: 06.30.23. -- Mar-a-Lago Search Warrant  
-   Link: <a href="https://www.justice.gov/d9/2023-07/06.30.23.%20--%20Mar-a-Lago%20Search%20Warrant%20-%20Interim.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-07/06.30.23.%20--%20Mar-a-Lago%20Search%20Warrant%20-%20Interim.pdf</a>  
+   Link:<a href="https://www.justice.gov/d9/2023-07/06.30.23.%20--%20Mar-a-Lago%20Search%20Warrant%20-%20Interim.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-07/06.30.23.%20--%20Mar-a-Lago%20Search%20Warrant%20-%20Interim.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/oip/lawrevart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/oip/lawrevart.pdf</a>  
+   Link:<a href="https://www.justice.gov/archive/oip/lawrevart.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/oip/lawrevart.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: justice.gov  
    Title: 02.14.23. Protests Supreme Court Residences Part 1  
-   Link: <a href="https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf</a>  
+   Link:<a href="https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian Game over | Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — At the Johnson Space Centre he spied on photographs of cigar-shaped obje...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — At the Johnson Space Centre he spied on photographs of cigar-shaped obje...</p></details>
    Published: July 9, 2005  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: gary mckinnon no uk charges  
-   Link: <a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History  
-   Link: <a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: The Man Who Hacked the U.S. Government  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/xl3ezx/the_bbc_interviews_gary_mckinnon_hacker_who_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xl3ezx/the_bbc_interviews_gary_mckinnon_hacker_who_saw/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/xl3ezx/the_bbc_interviews_gary_mckinnon_hacker_who_saw/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xl3ezx/the_bbc_interviews_gary_mckinnon_hacker_who_saw/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/r2ssj9/what_are_your_thoughts_on_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/r2ssj9/what_are_your_thoughts_on_gary_mckinnon/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/r2ssj9/what_are_your_thoughts_on_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/r2ssj9/what_are_your_thoughts_on_gary_mckinnon/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  

@@ -280,17 +280,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_ins
 
 ## Introduction
 
-When people compare [UFO hackers such]({{ 'ufo-hackers-such/' | relative_url }}) as Gary McKinnon with [whistleblowers]({{ 'whistleblowers/' | relative_url }}), the most important distinction is not what they claim to have found but how they obtained access to information. A whistleblower generally starts with authorised access acquired through employment, military service, contracting, or another official role. A UFO hacker begins outside the institution and attempts to reach information through unauthorised means. That difference affects the credibility of the evidence, the legal duties involved, and the ability of investigators, journalists, or the public to verify what was disclosed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas+2ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</span></span></span>
+When people compare [UFO hackers such]({{ 'ufo-hackers-such/' | relative_url }}) as Gary McKinnon with [whistleblowers]({{ 'whistleblowers/' | relative_url }}), the most important distinction is not what they claim to have found but how they obtained access to information. A whistleblower generally starts with authorised access acquired through employment, military service, contracting, or another official role. A UFO hacker begins outside the institution and attempts to reach information through unauthorised means. That difference affects the credibility of the evidence, the legal duties involved, and the ability of investigators, journalists, or the public to verify what was disclosed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_insider_vs_outsider_b80c84-Illustration-1-dark.svg" | relative_url }}" alt="Insider Test illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_insider_vs_outsider_b80c84-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_insider_vs_outsider_b80c84-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The contrast is especially relevant in UFO debates because many claims concern allegedly hidden government programmes. Whether information comes from an insider reporting what they encountered in the course of their duties or from an outsider searching computer systems changes how the claim can be evaluated. Gary McKinnon's case remains a useful example because he openly described himself as looking for evidence of UFO secrecy rather than reporting information encountered through an official position. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Cybereason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+The contrast is especially relevant in UFO debates because many claims concern allegedly hidden government programmes. Whether information comes from an insider reporting what they encountered in the course of their duties or from an outsider searching computer systems changes how the claim can be evaluated. Gary McKinnon's case remains a useful example because he openly described himself as looking for evidence of UFO secrecy rather than reporting information encountered through an official position.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 ## How Whistleblowers Usually Get Access
 
-A whistleblower's central advantage is that access already exists before any disclosure occurs. The person may have seen documents, attended meetings, worked on a programme, or handled records as part of their responsibilities. The disclosure therefore begins with information that was encountered through a recognised role rather than sought through intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI+2Government Accountability Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
+A whistleblower's central advantage is that access already exists before any disclosure occurs. The person may have seen documents, attended meetings, worked on a programme, or handled records as part of their responsibilities. The disclosure therefore begins with information that was encountered through a recognised role rather than sought through intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
 
-In most legal and policy frameworks, whistleblowing is connected to reporting wrongdoing, abuse, fraud, waste, dangers to public safety, or other matters of [public interest]({{ 'public-interest/' | relative_url }}). The disclosure is expected to concern information the individual reasonably believes evidences misconduct, and many systems provide procedures for reporting concerns through designated channels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[National Whistleblower Center+3Acas+3Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</span></span></span>
+In most legal and policy frameworks, whistleblowing is connected to reporting wrongdoing, abuse, fraud, waste, dangers to public safety, or other matters of [public interest]({{ 'public-interest/' | relative_url }}). The disclosure is expected to concern information the individual reasonably believes evidences misconduct, and many systems provide procedures for reporting concerns through designated channels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</span></span></span>
 
 From an evidential perspective, insiders can often provide:
 
@@ -300,7 +300,7 @@ From an evidential perspective, insiders can often provide:
 * Context explaining how a programme operates.
 * A clearer chain of [custody]({{ 'custody/' | relative_url }}) for evidence.
 
-These features do not automatically make a whistleblower correct. Insiders can misunderstand, exaggerate, or misremember events. However, investigators can usually test their claims against [personnel records]({{ 'personnel-records/' | relative_url }}), programme histories, other witnesses, and documentary evidence. The fact that the source occupied a known role creates a framework for verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
+These features do not automatically make a whistleblower correct. Insiders can misunderstand, exaggerate, or misremember events. However, investigators can usually test their claims against [personnel records]({{ 'personnel-records/' | relative_url }}), programme histories, other witnesses, and documentary evidence. The fact that the source occupied a known role creates a framework for verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x_9gTDXF9Vc" title="David Grusch UFO/UAP bombshells: Ross Coulthart reveals the inside story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x_9gTDXF9Vc" target="_blank" rel="noopener noreferrer">David Grusch UFO/UAP bombshells: Ross Coulthart reveals the inside story</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 4.1M &middot; Uploaded: July 2023</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x_9gTDXF9Vc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x_9gTDXF9Vc">Open on YouTube</a></p></div></div></div>
@@ -309,15 +309,15 @@ These features do not automatically make a whistleblower correct. Insiders can m
 
 The outsider UFO hacker follows a different path. Rather than beginning with authorised knowledge, the hacker attempts to reach information that would otherwise be inaccessible. The act of obtaining access is therefore part of the story itself.
 
-Gary McKinnon is the best-known example. He stated that he entered US military and NASA systems because he believed governments were concealing information about UFOs, advanced technologies, and related subjects. In later [interviews]({{ 'interviews/' | relative_url }}) he described finding references such as a spreadsheet mentioning "non-terrestrial officers" and imagery that he interpreted as potentially showing unusual craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+Gary McKinnon is the best-known example. He stated that he entered US military and NASA systems because he believed governments were concealing information about UFOs, advanced technologies, and related subjects. In later [interviews]({{ 'interviews/' | relative_url }}) he described finding references such as a spreadsheet mentioning "non-terrestrial officers" and imagery that he interpreted as potentially showing unusual craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 This approach creates several evidential difficulties.
 
-First, the hacker is often searching for confirmation of a pre-existing belief. The process begins with a hypothesis—such as a UFO cover-up—and then seeks supporting evidence. By contrast, a whistleblower often starts with direct exposure to information and only later decides whether to disclose it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+First, the hacker is often searching for confirmation of a pre-existing belief. The process begins with a hypothesis—such as a UFO cover-up—and then seeks supporting evidence. By contrast, a whistleblower often starts with direct exposure to information and only later decides whether to disclose it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
-Second, the alleged evidence may no longer be available for independent review. In McKinnon's case, the most widely discussed UFO-related observations were based on what he reported seeing on computer screens rather than on documents later released for public examination. As a result, debates often focus on recollections rather than preserved evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+Second, the alleged evidence may no longer be available for independent review. In McKinnon's case, the most widely discussed UFO-related observations were based on what he reported seeing on computer screens rather than on documents later released for public examination. As a result, debates often focus on recollections rather than preserved evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
-Third, unauthorised access itself becomes a competing issue. Investigators, courts, and journalists must assess not only the content of the claim but also the circumstances under which the information was obtained. This can shift attention away from the alleged discovery and towards the intrusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">film scottish hacker gary mckinnon fight against us extradition</span><span class="citation-popover-snippet">The GuardianFilm to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29 Nov 2023 — It will tell the story of how a young man huntin...</span></span></span>
+Third, unauthorised access itself becomes a competing issue. Investigators, courts, and journalists must assess not only the content of the claim but also the circumstances under which the information was obtained. This can shift attention away from the alleged discovery and towards the intrusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">film scottish hacker gary mckinnon fight against us extradition</span><span class="citation-popover-snippet">The GuardianFilm to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29 Nov 2023 — It will tell the story of how a young man huntin...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_insider_vs_outsider_b80c84-Illustration-2-dark.svg" | relative_url }}" alt="Insider Test illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_insider_vs_outsider_b80c84-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_insider_vs_outsider_b80c84-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -337,11 +337,11 @@ If a whistleblower claims to have worked on a classified programme, investigator
 
 </div>
 
-The existence of an organisational role creates multiple avenues for [corroboration]({{ 'corroboration/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
+The existence of an organisational role creates multiple avenues for [corroboration]({{ 'corroboration/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
 
 With UFO hackers, verification is often harder because the key claim may depend on a moment of observation during an intrusion. If screenshots, original files, metadata, or [independent witnesses]({{ 'witness-check/' | relative_url }}) are unavailable, the public may be left evaluating personal testimony alone. This does not prove the claim false, but it limits the methods available for testing it.
 
-The result is a recurring pattern in UFO history: hacker narratives can become culturally influential even when the underlying evidence remains difficult to examine directly. McKinnon's account remains widely discussed largely because of what he said he saw rather than because the claimed material entered the public record in a form that could be extensively analysed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+The result is a recurring pattern in UFO history: hacker narratives can become culturally influential even when the underlying evidence remains difficult to examine directly. McKinnon's account remains widely discussed largely because of what he said he saw rather than because the claimed material entered the public record in a form that could be extensively analysed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xp6Ph5iTIgc" title="Reggie Watts to Barack Obama: What&#x27;s w/ Dem Aliens?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xp6Ph5iTIgc" target="_blank" rel="noopener noreferrer">Reggie Watts to Barack Obama: What&#x27;s w/ Dem Aliens?</a></p><p class="youtube-embed-meta">Channel: The Late Late Show with James Corden</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xp6Ph5iTIgc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xp6Ph5iTIgc">Open on YouTube</a></p></div></div></div>
@@ -350,11 +350,11 @@ The result is a recurring pattern in UFO history: hacker narratives can become c
 
 Accountability differs sharply between the two categories.
 
-Whistleblowers are generally evaluated according to whether they disclosed information reasonably believed to show wrongdoing and whether the disclosure served a public-interest purpose. Many legal systems provide protections against retaliation when those conditions are met. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[peoplemanagement.co.uk+3Acas+3Acas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</span></span></span>
+Whistleblowers are generally evaluated according to whether they disclosed information reasonably believed to show wrongdoing and whether the disclosure served a public-interest purpose. Many legal systems provide protections against retaliation when those conditions are met.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</span></span></span>
 
-The whistleblower may still face professional, legal, or political consequences, particularly in national-security cases, but the act is conceptually framed as reporting information already encountered through legitimate access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI+2National Whistleblower Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
+The whistleblower may still face professional, legal, or political consequences, particularly in national-security cases, but the act is conceptually framed as reporting information already encountered through legitimate access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
 
-The UFO hacker faces a different accountability question: was the intrusion itself justified by the belief that hidden information existed? Public-interest arguments may influence how observers judge the person's motives, but they do not erase the fact that access was obtained without authorisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[Acas+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</span></span></span>
+The UFO hacker faces a different accountability question: was the intrusion itself justified by the belief that hidden information existed? Public-interest arguments may influence how observers judge the person's motives, but they do not erase the fact that access was obtained without authorisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acas.org.uk">[acas.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acas.org.uk</span><span class="citation-popover-title">Acas The law</span><span class="citation-popover-snippet">The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</span></span></span>
 
 This distinction explains why a person can be viewed sympathetically by parts of the UFO community while still being treated primarily as a hacking defendant by legal authorities. The debate concerns not only what may have been discovered but whether the search itself was legitimate.
 
@@ -364,9 +364,9 @@ This distinction explains why a person can be viewed sympathetically by parts of
 
 A useful way to distinguish insider whistleblowers from outsider UFO hackers is to ask which came first: evidence or access.
 
-For whistleblowers, access usually comes first through a recognised role, and evidence is encountered during that role. The disclosure is an attempt to report what was already observed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[ODNI+2Government Accountability Project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
+For whistleblowers, access usually comes first through a recognised role, and evidence is encountered during that role. The disclosure is an attempt to report what was already observed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[dni.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">an authorized recipient.Read more...</span></span></span>
 
-For UFO hackers, the search for evidence is often the reason for obtaining access in the first place. The intrusion is undertaken because the individual suspects hidden information exists and wants to locate it. Gary McKinnon's story fits this model: he sought access to government systems specifically to investigate beliefs about UFO secrecy and related subjects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Cybereason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
+For UFO hackers, the search for evidence is often the reason for obtaining access in the first place. The intrusion is undertaken because the individual suspects hidden information exists and wants to locate it. Gary McKinnon's story fits this model: he sought access to government systems specifically to investigate beliefs about UFO secrecy and related subjects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</span></span></span>
 
 That difference does not automatically determine whether a claim is true or false. It does, however, shape how seriously investigators can test the claim, how legal systems respond, and how much weight the public can place on the resulting evidence. In UFO controversies, those questions often matter as much as the alleged discovery itself.
 
@@ -375,178 +375,178 @@ That difference does not automatically determine whether a claim is true or fals
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Insider Evidence Or Outside Intrusion?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Insider Evidence Or Outside Intrusion?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F3hbyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
-        </h4>
-        <p class="fr-book-author">By Edward Snowden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F3hbyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
+</h4>
+<p class="fr-book-author">By Edward Snowden</p>
         
-        <p class="fr-book-desc">Demonstrates insider access and disclosure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates insider access and disclosure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Place to Hide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-sxBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for No Place to Hide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Place to Hide">No Place to Hide</a>
-        </h4>
-        <p class="fr-book-author">By Glenn Greenwald</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Place to Hide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-sxBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for No Place to Hide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Place to Hide">No Place to Hide</a>
+</h4>
+<p class="fr-book-author">By Glenn Greenwald</p>
         
-        <p class="fr-book-desc">Shows how insider information is documented and reported.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how insider information is documented and reported.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Represents the outsider-intrusion side of the comparison.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Represents the outsider-intrusion side of the comparison.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Explains security vulnerabilities exploited by outsiders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains security vulnerabilities exploited by outsiders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Permanent+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Permanent Record</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Place+to+Hide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Place to Hide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Permanent+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Permanent Record</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Place+to+Hide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Place to Hide</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/08970d404cdaabe091d4.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print"><img src="{{ '/assets/images/marketplace-covers/08970d404cdaabe091d4.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer City Abstract Illustration XL Wall Art Canvas Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large"><img src="{{ '/assets/images/marketplace-covers/f831d5ef2997af7f51bb.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large"><img src="{{ '/assets/images/marketplace-covers/f831d5ef2997af7f51bb.jpg' | relative_url }}" alt="Listing image for Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">Retro Vintage UFO Flying Saucer Car Black &amp; White Framed Wall Art Print Large</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6b3c670b27172235f91d.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6b3c670b27172235f91d.jpg' | relative_url }}" alt="Listing image for FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">FLYING SAUCER UFO IN THE DESERT -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for flying saucer wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: flying saucer wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=flying+saucer+wall+art+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="flying saucer wall art -book -books -dvd" data-ebay-reference="insider-test-insider-evidence-or-outside-intrusion-ufo-hackers-such-flying-saucer-wall-art-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -562,7 +562,7 @@ That difference does not automatically determine whether a claim is true or fals
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -582,7 +582,7 @@ That difference does not automatically determine whether a claim is true or fals
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -614,7 +614,7 @@ That difference does not automatically determine whether a claim is true or fals
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -666,7 +666,7 @@ That difference does not automatically determine whether a claim is true or fals
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -711,7 +711,7 @@ That difference does not automatically determine whether a claim is true or fals
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -752,113 +752,113 @@ That difference does not automatically determine whether a claim is true or fals
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: whistleblowers.org  
-   Link: <a href="https://www.whistleblowers.org/what-is-a-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/what-is-a-whistleblower/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterWhat is a WhistleblowerOn the simplest level, a whistleblower is someone who reports waste, fraud, abuse, co...</p></details>
+   Link:<a href="https://www.whistleblowers.org/what-is-a-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/what-is-a-whistleblower/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterWhat is a WhistleblowerOn the simplest level, a whistleblower is someone who reports waste, fraud, abuse, co...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — After allegedly hacking into NASA websites -- where he says he found images of what lo...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: whistleblower.org  
    Title: what is a whistleblower  
-   Link: <a href="https://whistleblower.org/what-is-a-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblower.org/what-is-a-whistleblower/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability ProjectWhat is a Whistleblower?Oct 20, 2025 — A whistleblower is an employee who discloses information that the...</p></details>
+   Link:<a href="https://whistleblower.org/what-is-a-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://whistleblower.org/what-is-a-whistleblower/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Accountability ProjectWhat is a Whistleblower?Oct 20, 2025 — A whistleblower is an employee who discloses information that the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/whistleblowing" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/whistleblowing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowing for employeesThe wrongdoing you disclose must be in the public interest. This means it must affect others, for example the...</p></details>
+   Link:<a href="https://www.gov.uk/whistleblowing" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/whistleblowing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblowing for employeesThe wrongdoing you disclose must be in the public interest. This means it must affect others, for example the...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: whistleblowers.org  
    Title: whistleblower protection laws for federal whistleblowers  
-   Link: <a href="https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterWhistleblower Protection Laws for Federal Employee...Passed in 1989, the Whistleblower Protection Act (WPA)...</p></details>
+   Link:<a href="https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/" target="_blank" rel="noopener noreferrer nofollow">https://www.whistleblowers.org/whistleblower-protection-laws-for-federal-whistleblowers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Whistleblower CenterWhistleblower Protection Laws for Federal Employee...Passed in 1989, the Whistleblower Protection Act (WPA)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: GOV.UK  
    Title: whistleblowing guidance for employers  
-   Link: <a href="https://www.gov.uk/guidance/whistleblowing-guidance-for-employers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/whistleblowing-guidance-for-employers</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>6 Apr 2026 — Whistleblowing is when a worker reports any wrongdoing that is in the public interest.... disclosure is in the public inter...</p></details>
+   Link:<a href="https://www.gov.uk/guidance/whistleblowing-guidance-for-employers" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/whistleblowing-guidance-for-employers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>6 Apr 2026 — Whistleblowing is when a worker reports any wrongdoing that is in the public interest.... disclosure is in the public inter...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: spectrum.ieee.org  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerHe claimed he had found a list of the U.S. Navy&#x27;s “nonterrestrial officers,” as well as a...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerHe claimed he had found a list of the U.S. Navy&#x27;s “nonterrestrial officers,” as well as a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: peoplemanagement.co.uk  
-   Link: <a href="https://www.peoplemanagement.co.uk/article/1958475/employers-need-know-changes-whistleblowing-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.peoplemanagement.co.uk/article/1958475/employers-need-know-changes-whistleblowing-rules</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What employers need to know about the changes...18 May 2026 — Whistleblowing refers to reporting suspected wrongdoing in the workplace t...</p></details>
+   Link:<a href="https://www.peoplemanagement.co.uk/article/1958475/employers-need-know-changes-whistleblowing-rules" target="_blank" rel="noopener noreferrer nofollow">https://www.peoplemanagement.co.uk/article/1958475/employers-need-know-changes-whistleblowing-rules</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What employers need to know about the changes...18 May 2026 — Whistleblowing refers to reporting suspected wrongdoing in the workplace t...</p></details>
    Published: May 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: acas.org.uk  
    Title: Acas The law  
-   Link: <a href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</p></details>
+   Link:<a href="https://www.acas.org.uk/whistleblowing-at-work" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The law - Whistleblowing at work25 Mar 2026 — Legally this is known as &#x27;making a disclosure in the public interest&#x27;. The action of wh...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/ICIG-Whistleblower/what-is.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an authorized recipient.Read more...</p></details>
+   Link:<a href="https://www.dni.gov/ICIG-Whistleblower/what-is.html" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/ICIG-Whistleblower/what-is.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an authorized recipient.Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
    Title: film scottish hacker gary mckinnon fight against us extradition  
-   Link: <a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianFilm to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29 Nov 2023 — It will tell the story of how a young man huntin...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianFilm to tell story of Scottish hacker Gary McKinnon&#x27;s fight...29 Nov 2023 — It will tell the story of how a young man huntin...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: acas.org.uk  
    Title: what someone can whistleblow about  
-   Link: <a href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What someone can whistleblow about25 Mar 2026 — When a qualifying disclosure is protected... If your concern is personal only to you...</p></details>
+   Link:<a href="https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about" target="_blank" rel="noopener noreferrer nofollow">https://www.acas.org.uk/whistleblowing-at-work/what-someone-can-whistleblow-about</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What someone can whistleblow about25 Mar 2026 — When a qualifying disclosure is protected... If your concern is personal only to you...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnon9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of all...</p></details>
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnon9 Jul 2005 — Gary McKinnon has been accused of committing the &#x27;biggest military computer hack of all...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dol.gov  
-   Link: <a href="https://www.dol.gov/general/topics/whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.dol.gov/general/topics/whistleblower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower ProtectionsYou are protected from retaliation for reporting issues relating to employee safety, consumer product and foo...</p></details>
+   Link:<a href="https://www.dol.gov/general/topics/whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.dol.gov/general/topics/whistleblower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower ProtectionsYou are protected from retaliation for reporting issues relating to employee safety, consumer product and foo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>what looked like extraterrestrial spaceships -- the 40-year-old...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>what looked like extraterrestrial spaceships -- the 40-year-old...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=T1CzaBgVDao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T1CzaBgVDao</a>  
+   Link:<a href="https://www.youtube.com/watch?v=T1CzaBgVDao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T1CzaBgVDao</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=_YSrVhCS-rc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YSrVhCS-rc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=_YSrVhCS-rc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_YSrVhCS-rc</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=x_9gTDXF9Vc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x_9gTDXF9Vc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=x_9gTDXF9Vc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x_9gTDXF9Vc</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=xp6Ph5iTIgc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xp6Ph5iTIgc</a>  
+   Link:<a href="https://www.youtube.com/watch?v=xp6Ph5iTIgc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xp6Ph5iTIgc</a>  

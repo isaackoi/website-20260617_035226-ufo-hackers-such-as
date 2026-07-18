@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_com
 
 ## Introduction
 
-For a UFO hacker in the United Kingdom, the central legal risk is usually not whether the search was motivated by curiosity, activism, or a belief that governments are concealing evidence. The key question under the Computer Misuse Act 1990 (CMA) is whether access to a computer system was authorised. The Act was designed to criminalise unauthorised access to computer material, and the basic offence does not depend on proving a malicious [motive]({{ 'motive/' | relative_url }}) or financial gain. As a result, a person who breaks into military, government, aerospace, or scientific systems while searching for UFO-related information can face criminal liability even if they sincerely believe they are acting in the [public interest]({{ 'public-interest/' | relative_url }}). The long-running Gary McKinnon case remains one of the clearest examples of how UFO-motivated hacking collides with computer-crime law. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">analysis of responses accessible</span><span class="citation-popover-snippet">Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</span></span></span>
+For a UFO hacker in the United Kingdom, the central legal risk is usually not whether the search was motivated by curiosity, activism, or a belief that governments are concealing evidence. The key question under the Computer Misuse Act 1990 (CMA) is whether access to a computer system was authorised. The Act was designed to criminalise unauthorised access to computer material, and the basic offence does not depend on proving a malicious [motive]({{ 'motive/' | relative_url }}) or financial gain. As a result, a person who breaks into military, government, aerospace, or scientific systems while searching for UFO-related information can face criminal liability even if they sincerely believe they are acting in the [public interest]({{ 'public-interest/' | relative_url }}). The long-running Gary McKinnon case remains one of the clearest examples of how UFO-motivated hacking collides with computer-crime law.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">analysis of responses accessible</span><span class="citation-popover-snippet">Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-1-dark.svg" | relative_url }}" alt="Legal Risk illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,11 +288,11 @@ For a UFO hacker in the United Kingdom, the central legal risk is usually not wh
 
 ### Unauthorised access as the central offence
 
-The Computer Misuse Act was created around a simple principle: accessing computer material without permission is itself a criminal wrong. Section 1 of the Act covers unauthorised access to computer material, while other sections address more serious conduct such as accessing systems to facilitate further offences or impairing computer operations. The legislation focuses on authorisation rather than political purpose. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk+2Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990Computer misuse offences · 1.Unauthorised access to computer material. 2.Unauthorised access with intent to commi...</span></span></span>
+The Computer Misuse Act was created around a simple principle: accessing computer material without permission is itself a criminal wrong. Section 1 of the Act covers unauthorised access to computer material, while other sections address more serious conduct such as accessing systems to facilitate further offences or impairing computer operations. The legislation focuses on authorisation rather than political purpose.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Computer Misuse Act 1990Computer misuse offences · 1.Unauthorised access to computer material. 2.Unauthorised access with intent to commi...</span></span></span>
 
-This creates a significant distinction between UFO hackers and conventional [whistleblowers]({{ 'whistleblowers/' | relative_url }}). A whistleblower typically begins with authorised access obtained through employment or an official role. A UFO hacker generally begins with no right of access and attempts to enter systems specifically to discover information. Under the CMA, the act of crossing that access boundary is often enough to trigger criminal liability regardless of whether the person was searching for evidence of extraterrestrial technology, secret aerospace projects, or government concealment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">analysis of responses accessible</span><span class="citation-popover-snippet">Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</span></span></span>
+This creates a significant distinction between UFO hackers and conventional [whistleblowers]({{ 'whistleblowers/' | relative_url }}). A whistleblower typically begins with authorised access obtained through employment or an official role. A UFO hacker generally begins with no right of access and attempts to enter systems specifically to discover information. Under the CMA, the act of crossing that access boundary is often enough to trigger criminal liability regardless of whether the person was searching for evidence of extraterrestrial technology, secret aerospace projects, or government concealment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">analysis of responses accessible</span><span class="citation-popover-snippet">Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</span></span></span>
 
-Gary McKinnon illustrates the point. He openly stated that he was looking for suppressed UFO and advanced-technology information, yet the legal controversy centred on alleged unauthorised access to US government systems rather than on the truth or falsity of his UFO claims. British government summaries of the case describe allegations involving access to dozens of defence-related computers, reflecting how cybercrime law focuses first on the intrusion itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</span></span></span>
+Gary McKinnon illustrates the point. He openly stated that he was looking for suppressed UFO and advanced-technology information, yet the legal controversy centred on alleged unauthorised access to US government systems rather than on the truth or falsity of his UFO claims. British government summaries of the case describe allegations involving access to dozens of defence-related computers, reflecting how cybercrime law focuses first on the intrusion itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -309,13 +309,13 @@ A person searching government or defence networks for UFO evidence may face lega
 * Accessed a system without permission.
 * Used credentials they were not authorised to use.
 * Circumvented technical restrictions.
-* Entered areas of a network beyond their approved access rights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service+2National Crime Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 2: Unauthorised access with intent to commit or facilitate commission of...</span></span></span>
+* Entered areas of a network beyond their approved access rights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[cps.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">computer misuse act</span><span class="citation-popover-snippet">Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 2: Unauthorised access with intent to commit or facilitate commission of...</span></span></span>
 
 </div>
 
-The law therefore separates the search from the result. A UFO hacker does not need to uncover classified evidence, leak documents, or cause damage before significant legal issues arise. The unauthorised access itself is the primary concern. Government guidance and prosecutorial materials consistently frame the protection of system integrity and authorised access as the Act's central objective. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">analysis of responses accessible</span><span class="citation-popover-snippet">Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</span></span></span>
+The law therefore separates the search from the result. A UFO hacker does not need to uncover classified evidence, leak documents, or cause damage before significant legal issues arise. The unauthorised access itself is the primary concern. Government guidance and prosecutorial materials consistently frame the protection of system integrity and authorised access as the Act's central objective.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">analysis of responses accessible</span><span class="citation-popover-snippet">Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</span></span></span>
 
-For UFO researchers who believe hidden information exists somewhere within military or aerospace databases, this creates a practical dilemma. The stronger their belief that evidence is being concealed, the stronger the temptation may be to search restricted systems. Yet each additional attempt to gain access can increase legal exposure without producing any evidence that would support a later public-interest argument. The law generally does not recognise a right to investigate suspicions by breaking into computer systems first and justifying the action later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">We should not introduce a blanket public interest defence for...Read more...</span></span></span>
+For UFO researchers who believe hidden information exists somewhere within military or aerospace databases, this creates a practical dilemma. The stronger their belief that evidence is being concealed, the stronger the temptation may be to search restricted systems. Yet each additional attempt to gain access can increase legal exposure without producing any evidence that would support a later public-interest argument. The law generally does not recognise a right to investigate suspicions by breaking into computer systems first and justifying the action later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">We should not introduce a blanket public interest defence for...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-2-dark.svg" | relative_url }}" alt="Legal Risk illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -323,22 +323,22 @@ For UFO researchers who believe hidden information exists somewhere within milit
 
 Public discussion of UFO hacking often concentrates on motive. Supporters may argue that exposing government secrecy serves society, while critics see the activity as unlawful intrusion.
 
-The structure of the CMA means motive is usually a secondary issue. A person may hack for money, political activism, curiosity, national security concerns, or UFO research. Those motivations can influence public perception and, in some circumstances, prosecutorial decisions or sentencing considerations, but they do not automatically negate the underlying offence of unauthorised access. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard+2GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">We should not introduce a blanket public interest defence for...Read more...</span></span></span>
+The structure of the CMA means motive is usually a secondary issue. A person may hack for money, political activism, curiosity, national security concerns, or UFO research. Those motivations can influence public perception and, in some circumstances, prosecutorial decisions or sentencing considerations, but they do not automatically negate the underlying offence of unauthorised access.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">We should not introduce a blanket public interest defence for...Read more...</span></span></span>
 
-This is one reason the comparison with whistleblowing remains controversial. Whistleblower protections are generally designed for disclosures made by individuals who already possess lawful access to information. UFO hackers often seek protection for the acquisition stage itself—the moment they decide to obtain information through unauthorised means. The law has historically treated those situations very differently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">We should not introduce a blanket public interest defence for...Read more...</span></span></span>
+This is one reason the comparison with whistleblowing remains controversial. Whistleblower protections are generally designed for disclosures made by individuals who already possess lawful access to information. UFO hackers often seek protection for the acquisition stage itself—the moment they decide to obtain information through unauthorised means. The law has historically treated those situations very differently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">We should not introduce a blanket public interest defence for...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v4Js8DF80HY" title="UK hacker&#x27;s extradition to US blocked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v4Js8DF80HY" target="_blank" rel="noopener noreferrer">UK hacker&#x27;s extradition to US blocked</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 3.2K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v4Js8DF80HY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v4Js8DF80HY">Open on YouTube</a></p></div></div></div>
 
 ## Public interest and computer misuse reform debates
 
-The question of whether public-interest hacking should receive greater legal protection has become part of a broader debate about reforming the Computer Misuse Act. Much of this discussion has focused on cyber-security researchers rather than UFO investigators, but the underlying principle is relevant: should intent and public benefit matter more than they currently do? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2House of Commons Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Review of the Computer Misuse Act 1990: consultation and...14 Nov 2023 — The section 1 CMA offence of unauthorised access to computer ma...</span></span></span>
+The question of whether public-interest hacking should receive greater legal protection has become part of a broader debate about reforming the Computer Misuse Act. Much of this discussion has focused on cyber-security researchers rather than UFO investigators, but the underlying principle is relevant: should intent and public benefit matter more than they currently do?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-snippet">Review of the Computer Misuse Act 1990: consultation and...14 Nov 2023 — The section 1 CMA offence of unauthorised access to computer ma...</span></span></span>
 
-Campaign groups, industry bodies, and some parliamentarians have argued that the CMA can capture activities carried out in the public interest, particularly vulnerability research intended to improve security. [Reform]({{ 'reform/' | relative_url }}) proposals have included forms of statutory public-interest defence or other legal mechanisms to distinguish beneficial activity from malicious cybercrime. Computer Weekly+3UK Parliament Bills+3UK Parliament Committees <span class="citation-link-wrap"><a class="citation-inline-link" href="https://bills.parliament.uk/publications/64762/documents/7784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bills.parliament.uk">[bills.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bills.parliament.uk</span><span class="citation-popover-snippet">UK Parliament BillsCyberUp Campaign &#124; Cyber Security and Resilience (...The CyberUp Campaign is calling for the inclusion of a legal def...</span></span></span>
+Campaign groups, industry bodies, and some parliamentarians have argued that the CMA can capture activities carried out in the public interest, particularly vulnerability research intended to improve security. [Reform]({{ 'reform/' | relative_url }}) proposals have included forms of statutory public-interest defence or other legal mechanisms to distinguish beneficial activity from malicious cybercrime. Computer Weekly+3UK Parliament Bills+3UK Parliament Committees<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bills.parliament.uk/publications/64762/documents/7784" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bills.parliament.uk">[bills.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bills.parliament.uk</span><span class="citation-popover-snippet">UK Parliament BillsCyberUp Campaign &#124; Cyber Security and Resilience (...The CyberUp Campaign is calling for the inclusion of a legal def...</span></span></span>
 
-However, opponents of broad reform warn that an expansive defence could become difficult to police. Parliamentary debates have highlighted concerns that people caught accessing systems without permission could retrospectively claim they intended to expose a flaw or serve the public interest. Critics therefore argue against creating what they see as a de facto licence to hack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">We should not introduce a blanket public interest defence for...Read more...</span></span></span>
+However, opponents of broad reform warn that an expansive defence could become difficult to police. Parliamentary debates have highlighted concerns that people caught accessing systems without permission could retrospectively claim they intended to expose a flaw or serve the public interest. Critics therefore argue against creating what they see as a de facto licence to hack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-snippet">We should not introduce a blanket public interest defence for...Read more...</span></span></span>
 
-For UFO hackers, these debates reveal an important limitation. Even proposals for a public-interest defence have generally been framed around recognised cyber-security research, vulnerability disclosure, and protection of digital infrastructure. They have not been designed specifically to protect people searching military or government networks for evidence of UFO secrecy. As a result, anyone attempting to justify unauthorised access on the basis of uncovering hidden UFO information would still face substantial legal uncertainty even if future reforms introduced narrower public-interest protections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lewissilkin.com/insights/2024/01/11/what-lies-ahead-in-2024-for-the-reform-of-the-computer-misuse-act-102iwrw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lewissilkin.com">[Lewis Silkin+2Computer Weekly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lewissilkin.com</span><span class="citation-popover-title">what lies ahead in 2024 for the reform of the computer misuse act 102iwrw</span><span class="citation-popover-snippet">Lewis SilkinWhat lies ahead in 2024 for the reform of the Computer...11 Jan 2024 — The consultation also covered the Government&#x27;s propos...</span></span></span>
+For UFO hackers, these debates reveal an important limitation. Even proposals for a public-interest defence have generally been framed around recognised cyber-security research, vulnerability disclosure, and protection of digital infrastructure. They have not been designed specifically to protect people searching military or government networks for evidence of UFO secrecy. As a result, anyone attempting to justify unauthorised access on the basis of uncovering hidden UFO information would still face substantial legal uncertainty even if future reforms introduced narrower public-interest protections.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.lewissilkin.com/insights/2024/01/11/what-lies-ahead-in-2024-for-the-reform-of-the-computer-misuse-act-102iwrw" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lewissilkin.com">[lewissilkin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lewissilkin.com</span><span class="citation-popover-title">what lies ahead in 2024 for the reform of the computer misuse act 102iwrw</span><span class="citation-popover-snippet">Lewis SilkinWhat lies ahead in 2024 for the reform of the Computer...11 Jan 2024 — The consultation also covered the Government&#x27;s propos...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-3-dark.svg" | relative_url }}" alt="Legal Risk illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19_computer_misuse_ufo_5c1a33-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -346,203 +346,203 @@ For UFO hackers, these debates reveal an important limitation. Even proposals fo
 
 The enduring significance of Gary McKinnon's case is not that it proved or disproved UFO claims. Rather, it demonstrated how little protection a UFO-related motive provides when measured against computer-access laws.
 
-The case became famous because it combined alleged government-system intrusion, claims about hidden UFO information, and a lengthy extradition dispute. Yet the legal foundation remained the same: authorities focused on alleged unauthorised access to protected computer systems. The broader debate about government secrecy never displaced the core legal issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2RGU Repository]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</span></span></span>
+The case became famous because it combined alleged government-system intrusion, claims about hidden UFO information, and a lengthy extradition dispute. Yet the legal foundation remained the same: authorities focused on alleged unauthorised access to protected computer systems. The broader debate about government secrecy never displaced the core legal issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">latest on gary mckinnon case</span><span class="citation-popover-snippet">4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</span></span></span>
 
-For anyone comparing UFO hackers with whistleblowers, that remains the central lesson. Under the Computer Misuse Act, the question is usually not whether the search was inspired by public curiosity or a belief in disclosure. The first question is whether the person had permission to enter the system at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK+2Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">analysis of responses accessible</span><span class="citation-popover-snippet">Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</span></span></span>
+For anyone comparing UFO hackers with whistleblowers, that remains the central lesson. Under the Computer Misuse Act, the question is usually not whether the search was inspired by public curiosity or a belief in disclosure. The first question is whether the person had permission to enter the system at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">analysis of responses accessible</span><span class="citation-popover-snippet">Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zezzoxhrnZ8" title="How Did Landmark Cases Define &quot;unauthorised Access&quot; Under The Computer Misuse Act?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zezzoxhrnZ8" target="_blank" rel="noopener noreferrer">How Did Landmark Cases Define &quot;unauthorised Access&quot; Under The Computer Misuse Act?</a></p><p class="youtube-embed-meta">Channel: AI and Technology Law</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zezzoxhrnZ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zezzoxhrnZ8">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can UFO Hacking Be Defended?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can UFO Hacking Be Defended?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybercrime+and+Digital+Forensics+by+Thomas+J.+Holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybercrime and Digital Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NsWgBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybercrime and Digital Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybercrime+and+Digital+Forensics+by+Thomas+J.+Holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybercrime and Digital Forensics">Cybercrime and Digital Forensics</a>
-        </h4>
-        <p class="fr-book-author">By Thomas J. Holt, Adam M. Bossler et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybercrime+and+Digital+Forensics+by+Thomas+J.+Holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybercrime and Digital Forensics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NsWgBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybercrime and Digital Forensics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybercrime+and+Digital+Forensics+by+Thomas+J.+Holt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybercrime and Digital Forensics">Cybercrime and Digital Forensics</a>
+</h4>
+<p class="fr-book-author">By Thomas J. Holt, Adam M. Bossler et al.</p>
         
-        <p class="fr-book-desc">Explains computer-crime law and unauthorised access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybercrime+and+Digital+Forensics+by+Thomas+J.+Holt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains computer-crime law and unauthorised access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybercrime+and+Digital+Forensics+by+Thomas+J.+Holt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Shows the consequences of unauthorised system access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows the consequences of unauthorised system access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Invisibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o2z_jwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Invisibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Invisibility">The Art of Invisibility</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Art of Invisibility on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=o2z_jwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Art of Invisibility" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Art of Invisibility">The Art of Invisibility</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Provides context for security, privacy and access controls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for security, privacy and access controls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Art+of+Invisibility+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F3hbyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
-        </h4>
-        <p class="fr-book-author">By Edward Snowden</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Permanent Record on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=F3hbyAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Permanent Record" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Permanent Record">Permanent Record</a>
+</h4>
+<p class="fr-book-author">By Edward Snowden</p>
         
-        <p class="fr-book-desc">Raises questions about public interest versus legal restrictions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Raises questions about public interest versus legal restrictions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Permanent+Record+by+Edward+Snowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybercrime+and+Digital+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybercrime and Digital Forensics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Invisibility&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Invisibility</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybercrime+and+Digital+Forensics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybercrime and Digital Forensics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Art+of+Invisibility&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Art of Invisibility</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE PC CODE PROGRAMMER CODING GEEK TOP BIG TALL SIZE 3XL 4XL 5XL"><img src="{{ '/assets/images/marketplace-covers/5c6ba8792239d7443217.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE PC CODE PROGRAMMER CODING GEEK TOP BIG TALL SIZE 3XL 4XL 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE PC CODE PROGRAMMER CODING GEEK TOP BIG TALL SIZE 3XL 4XL 5XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE PC CODE PROGRAMMER CODING GEEK TOP BIG TALL SIZE 3XL 4XL 5XL"><img src="{{ '/assets/images/marketplace-covers/5c6ba8792239d7443217.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE PC CODE PROGRAMMER CODING GEEK TOP BIG TALL SIZE 3XL 4XL 5XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE PC CODE PROGRAMMER CODING GEEK TOP BIG TALL SIZE 3XL 4XL 5XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/16e6940403f23eedb292.jpg' | relative_url }}" alt="Listing image for Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/16e6940403f23eedb292.jpg' | relative_url }}" alt="Listing image for Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Mask Hoodie - Guy Fawkes V for Vendetta Disobey Hacker T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/2c7d5d9aa021da4c2f8d.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/2c7d5d9aa021da4c2f8d.jpg' | relative_url }}" alt="Listing image for HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">HACKER HOODY HOODIE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/c8903a4e3b4ffb521e35.jpg' | relative_url }}" alt="Listing image for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search <span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt"><img src="{{ '/assets/images/marketplace-covers/c8903a4e3b4ffb521e35.jpg' | relative_url }}" alt="Listing image for Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">Anonymous Piracy Hoodie - Guy Fawkes Mask V for Vendetta Disobey Hacker T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for hacker hoodie">Search<span data-ebay-domain-label>eBay.co.uk</span>: hacker hoodie</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=hacker+hoodie&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="hacker hoodie" data-ebay-reference="legal-risk-can-ufo-hacking-be-defended-ufo-hackers-such-hacker-hoodie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ For anyone comparing UFO hackers with whistleblowers, that remains the central l
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ For anyone comparing UFO hackers with whistleblowers, that remains the central l
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ For anyone comparing UFO hackers with whistleblowers, that remains the central l
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ For anyone comparing UFO hackers with whistleblowers, that remains the central l
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ For anyone comparing UFO hackers with whistleblowers, that remains the central l
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,191 +748,191 @@ For anyone comparing UFO hackers with whistleblowers, that remains the central l
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: analysis of responses accessible  
-   Link: <a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</p></details>
+   Link:<a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/outcome/analysis-of-responses-accessible</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of responses (accessible)14 Nov 2023 — The Act has the intention of protecting the integrity and security of computer systems an...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1990/18/contents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act 1990Computer misuse offences · 1.Unauthorised access to computer material. 2.Unauthorised access with intent to commi...</p></details>
+   Link:<a href="https://www.legislation.gov.uk/ukpga/1990/18/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/1990/18/contents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act 1990Computer misuse offences · 1.Unauthorised access to computer material. 2.Unauthorised access with intent to commi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerned with national defen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cps.gov.uk  
    Title: computer misuse act  
-   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 2: Unauthorised access with intent to commit or facilitate commission of...</p></details>
+   Link:<a href="https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/computer-misuse-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Crown Prosecution ServiceComputer Misuse Act5 Feb 2020 — Section 2: Unauthorised access with intent to commit or facilitate commission of...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: call for information unauthorised access to online accounts and personal data  
-   Link: <a href="https://www.gov.uk/government/consultations/unauthorised-access-to-online-accounts-and-personal-data/call-for-information-unauthorised-access-to-online-accounts-and-personal-data" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/unauthorised-access-to-online-accounts-and-personal-data/call-for-information-unauthorised-access-to-online-accounts-and-personal-data</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 1990 makes accessing online accounts and computer systems without authorisation a criminal offence – cyber crime...</p></details>
+   Link:<a href="https://www.gov.uk/government/consultations/unauthorised-access-to-online-accounts-and-personal-data/call-for-information-unauthorised-access-to-online-accounts-and-personal-data" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/unauthorised-access-to-online-accounts-and-personal-data/call-for-information-unauthorised-access-to-online-accounts-and-personal-data</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 1990 makes accessing online accounts and computer systems without authorisation a criminal offence – cyber crime...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: nationalcrimeagency.gov.uk  
-   Link: <a href="https://www.nationalcrimeagency.gov.uk/who-we-are/publications/75-guide-to-the-computer-misuse-act/file" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcrimeagency.gov.uk/who-we-are/publications/75-guide-to-the-computer-misuse-act/file</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>You used a booter tool to knock a friend offline from an...Read more...</p></details>
+   Link:<a href="https://www.nationalcrimeagency.gov.uk/who-we-are/publications/75-guide-to-the-computer-misuse-act/file" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalcrimeagency.gov.uk/who-we-are/publications/75-guide-to-the-computer-misuse-act/file</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>You used a booter tool to knock a friend offline from an...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
-   Link: <a href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We should not introduce a blanket public interest defence for...Read more...</p></details>
+   Link:<a href="https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2022-04-19/debates/AE9413F3-D4F2-44EC-890E-75B0250328C4/ComputerMisuseAct1990</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We should not introduce a blanket public interest defence for...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of the Computer Misuse Act 1990: consultation and...14 Nov 2023 — The section 1 CMA offence of unauthorised access to computer ma...</p></details>
+   Link:<a href="https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/consultations/review-of-the-computer-misuse-act-1990/review-of-the-computer-misuse-act-1990-consultation-and-response-to-call-for-information-accessible</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Review of the Computer Misuse Act 1990: consultation and...14 Nov 2023 — The section 1 CMA offence of unauthorised access to computer ma...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: commonslibrary.parliament.uk  
    Title: cdp 2022 0082  
-   Link: <a href="https://commonslibrary.parliament.uk/research-briefings/cdp-2022-0082/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cdp-2022-0082/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryWestminster Hall debate on the Computer Misuse Act 199017 Apr 2022 — A Westminster Hall debate has been scheduled...</p></details>
+   Link:<a href="https://commonslibrary.parliament.uk/research-briefings/cdp-2022-0082/" target="_blank" rel="noopener noreferrer nofollow">https://commonslibrary.parliament.uk/research-briefings/cdp-2022-0082/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House of Commons LibraryWestminster Hall debate on the Computer Misuse Act 199017 Apr 2022 — A Westminster Hall debate has been scheduled...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/128598/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/128598/html/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesWritten evidence submitted by CyberUp Campaign33 years on, the legislation is now the main regime covering cyberc...</p></details>
+   Link:<a href="https://committees.parliament.uk/writtenevidence/128598/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/128598/html/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament CommitteesWritten evidence submitted by CyberUp Campaign33 years on, the legislation is now the main regime covering cyberc...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bills.parliament.uk  
-   Link: <a href="https://bills.parliament.uk/publications/64762/documents/7784" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/64762/documents/7784</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament BillsCyberUp Campaign | Cyber Security and Resilience (...The CyberUp Campaign is calling for the inclusion of a legal def...</p></details>
+   Link:<a href="https://bills.parliament.uk/publications/64762/documents/7784" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/64762/documents/7784</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Parliament BillsCyberUp Campaign | Cyber Security and Resilience (...The CyberUp Campaign is calling for the inclusion of a legal def...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bills.parliament.uk  
-   Link: <a href="https://bills.parliament.uk/publications/60406/documents/6385" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/60406/documents/6385</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Crime and Policing Bill: a critical opportunity...The CyberUp Campaign wants to see the inclusion of a legal defence in the Compu...</p></details>
+   Link:<a href="https://bills.parliament.uk/publications/60406/documents/6385" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/60406/documents/6385</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Crime and Policing Bill: a critical opportunity...The CyberUp Campaign wants to see the inclusion of a legal defence in the Compu...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bills.parliament.uk  
-   Link: <a href="https://bills.parliament.uk/publications/59431/documents/6125" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/59431/documents/6125</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Opportunity to improve cyber security in the...The CyberUp Campaign wants to see the inclusion of a legal defence in the Comput...</p></details>
+   Link:<a href="https://bills.parliament.uk/publications/59431/documents/6125" target="_blank" rel="noopener noreferrer nofollow">https://bills.parliament.uk/publications/59431/documents/6125</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical Opportunity to improve cyber security in the...The CyberUp Campaign wants to see the inclusion of a legal defence in the Comput...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: southeastcyber.police.uk  
    Title: computer misuse act  
-   Link: <a href="https://southeastcyber.police.uk/computer-misuse-act/" target="_blank" rel="noopener noreferrer nofollow">https://southeastcyber.police.uk/computer-misuse-act/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 1990Section 2 of the Computer Misuse Act makes it illegal to gain unauthorised access to a computer with the inte...</p></details>
+   Link:<a href="https://southeastcyber.police.uk/computer-misuse-act/" target="_blank" rel="noopener noreferrer nofollow">https://southeastcyber.police.uk/computer-misuse-act/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 1990Section 2 of the Computer Misuse Act makes it illegal to gain unauthorised access to a computer with the inte...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sentencing.uk  
    Title: cyber crime unauthorised access  
-   Link: <a href="https://sentencing.uk/offences/cyber-crime-unauthorised-access" target="_blank" rel="noopener noreferrer nofollow">https://sentencing.uk/offences/cyber-crime-unauthorised-access</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maximum sentence: 2 years&#x27; [custody](&amp;#123;&amp;#123; &#x27;custody/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+   Link:<a href="https://sentencing.uk/offences/cyber-crime-unauthorised-access" target="_blank" rel="noopener noreferrer nofollow">https://sentencing.uk/offences/cyber-crime-unauthorised-access</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maximum sentence: 2 years&#x27; [custody](&amp;#123;&amp;#123; &#x27;custody/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: computerweekly.com  
    Title: Computer Misuse Act reform gains traction in Parliament  
-   Link: <a href="https://www.computerweekly.com/news/366617262/Computer-Misuse-Act-reform-gains-traction-in-Parliament" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/news/366617262/Computer-Misuse-Act-reform-gains-traction-in-Parliament</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Dec 2024 — “By introducing a statutory defence, the UK could protect legitimate cyber security professionals, strengthen its cyber def...</p></details>
+   Link:<a href="https://www.computerweekly.com/news/366617262/Computer-Misuse-Act-reform-gains-traction-in-Parliament" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/news/366617262/Computer-Misuse-Act-reform-gains-traction-in-Parliament</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Dec 2024 — “By introducing a statutory defence, the UK could protect legitimate cyber security professionals, strengthen its cyber def...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: lewissilkin.com  
    Title: what lies ahead in 2024 for the reform of the computer misuse act 102iwrw  
-   Link: <a href="https://www.lewissilkin.com/insights/2024/01/11/what-lies-ahead-in-2024-for-the-reform-of-the-computer-misuse-act-102iwrw" target="_blank" rel="noopener noreferrer nofollow">https://www.lewissilkin.com/insights/2024/01/11/what-lies-ahead-in-2024-for-the-reform-of-the-computer-misuse-act-102iwrw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lewis SilkinWhat lies ahead in 2024 for the reform of the Computer...11 Jan 2024 — The consultation also covered the Government&#x27;s propos...</p></details>
+   Link:<a href="https://www.lewissilkin.com/insights/2024/01/11/what-lies-ahead-in-2024-for-the-reform-of-the-computer-misuse-act-102iwrw" target="_blank" rel="noopener noreferrer nofollow">https://www.lewissilkin.com/insights/2024/01/11/what-lies-ahead-in-2024-for-the-reform-of-the-computer-misuse-act-102iwrw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lewis SilkinWhat lies ahead in 2024 for the reform of the Computer...11 Jan 2024 — The consultation also covered the Government&#x27;s propos...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: computerweekly.com  
    Title: Computer Weekly Computer Misuse Act reform is overdue  
-   Link: <a href="https://www.computerweekly.com/opinion/Computer-Misuse-Act-reform-is-overdue-not-all-anniversaries-should-be-celebrated" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/opinion/Computer-Misuse-Act-reform-is-overdue-not-all-anniversaries-should-be-celebrated</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act reform is overdue - not all...9 Jan 2026 — The purpose of seeking to introduce a statutory defence is to provide leg...</p></details>
+   Link:<a href="https://www.computerweekly.com/opinion/Computer-Misuse-Act-reform-is-overdue-not-all-anniversaries-should-be-celebrated" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/opinion/Computer-Misuse-Act-reform-is-overdue-not-all-anniversaries-should-be-celebrated</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act reform is overdue - not all...9 Jan 2026 — The purpose of seeking to introduce a statutory defence is to provide leg...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: rgu-repository.worktribe.com  
    Title: hackers beware the cautionary story of gary mckinnon  
-   Link: <a href="https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RGU RepositoryHackers beware: the cautionary story of Gary McKinnon.by P Arnell · 2009 · Cited by 14 — This article describes and analyse...</p></details>
+   Link:<a href="https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/output/248043/hackers-beware-the-cautionary-story-of-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RGU RepositoryHackers beware: the cautionary story of Gary McKinnon.by P Arnell · 2009 · Cited by 14 — This article describes and analyse...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: burtoncopeland.com  
    Title: computer misuse act 1990 offences you probably didnt know existed  
-   Link: <a href="https://www.burtoncopeland.com/news/computer-misuse-act-1990-offences-you-probably-didnt-know-existed/" target="_blank" rel="noopener noreferrer nofollow">https://www.burtoncopeland.com/news/computer-misuse-act-1990-offences-you-probably-didnt-know-existed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 1990 - offences you probably...The offence can be dealt with in either the Magistrates or Crown Court, and sente...</p></details>
+   Link:<a href="https://www.burtoncopeland.com/news/computer-misuse-act-1990-offences-you-probably-didnt-know-existed/" target="_blank" rel="noopener noreferrer nofollow">https://www.burtoncopeland.com/news/computer-misuse-act-1990-offences-you-probably-didnt-know-existed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 1990 - offences you probably...The offence can be dealt with in either the Magistrates or Crown Court, and sente...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: computerweekly.com  
    Title: Computer Misuse Act reform to move forward in National Security Bill  
-   Link: <a href="https://www.computerweekly.com/news/366642884/Computer-Misuse-Act-reform-to-move-forward-in-National-Security-Bill" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/news/366642884/Computer-Misuse-Act-reform-to-move-forward-in-National-Security-Bill</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act reform to move forward in National...5 days ago — January 2020: A group of [campaigners](&amp;#123;&amp;#123; &#x27;campaigners/&#x27; | relative_url &amp;#125;&amp;#125;) says the Computer Misuse Act...</p></details>
+   Link:<a href="https://www.computerweekly.com/news/366642884/Computer-Misuse-Act-reform-to-move-forward-in-National-Security-Bill" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/news/366642884/Computer-Misuse-Act-reform-to-move-forward-in-National-Security-Bill</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act reform to move forward in National...5 days ago — January 2020: A group of [campaigners](&amp;#123;&amp;#123; &#x27;campaigners/&#x27; | relative_url &amp;#125;&amp;#125;) says the Computer Misuse Act...</p></details>
    Published: January 2020  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: freeprivacypolicy.com  
    Title: computer misuse act 1990  
-   Link: <a href="https://www.freeprivacypolicy.com/blog/computer-misuse-act-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.freeprivacypolicy.com/blog/computer-misuse-act-1990/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 199025 Feb 2025 — The main principle of the Computer Misuse Act is to ban unauthorized access to computers. This...</p></details>
+   Link:<a href="https://www.freeprivacypolicy.com/blog/computer-misuse-act-1990/" target="_blank" rel="noopener noreferrer nofollow">https://www.freeprivacypolicy.com/blog/computer-misuse-act-1990/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Computer Misuse Act 199025 Feb 2025 — The main principle of the Computer Misuse Act is to ban unauthorized access to computers. This...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: sites.google.com  
    Title: computer misuse act  
-   Link: <a href="https://sites.google.com/rgc.aberdeen.sch.uk/rgc-highercomputing/computer-systems/security-risks-and-precautions/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/rgc.aberdeen.sch.uk/rgc-highercomputing/computer-systems/security-risks-and-precautions/computer-misuse-act</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· Unauthorised access with intent to commit or facilitate commission of further offences.Read more...</p></details>
+   Link:<a href="https://sites.google.com/rgc.aberdeen.sch.uk/rgc-highercomputing/computer-systems/security-risks-and-precautions/computer-misuse-act" target="_blank" rel="noopener noreferrer nofollow">https://sites.google.com/rgc.aberdeen.sch.uk/rgc-highercomputing/computer-systems/security-risks-and-precautions/computer-misuse-act</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· Unauthorised access with intent to commit or facilitate commission of further offences.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rahmanravelli.co.uk  
-   Link: <a href="https://www.rahmanravelli.co.uk/expertise/cybercrime/cybercrime-reducing-the-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.rahmanravelli.co.uk/expertise/cybercrime/cybercrime-reducing-the-risks/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing The Risks - Investigation LawyersSection 1 of the Computer Misuse Act 1990 makes it an offence to knowingly use a computer to &#x27;h...</p></details>
+   Link:<a href="https://www.rahmanravelli.co.uk/expertise/cybercrime/cybercrime-reducing-the-risks/" target="_blank" rel="noopener noreferrer nofollow">https://www.rahmanravelli.co.uk/expertise/cybercrime/cybercrime-reducing-the-risks/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reducing The Risks - Investigation LawyersSection 1 of the Computer Misuse Act 1990 makes it an offence to knowingly use a computer to &#x27;h...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: ucb.ac.uk  
-   Link: <a href="https://www.ucb.ac.uk/university/higher-education-student-handbook/computer-misuse-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.ucb.ac.uk/university/higher-education-student-handbook/computer-misuse-policy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse PolicyThis act has created three criminal offences covering the usage of computers: 1. Unauthorised access to computer ma...</p></details>
+   Link:<a href="https://www.ucb.ac.uk/university/higher-education-student-handbook/computer-misuse-policy/" target="_blank" rel="noopener noreferrer nofollow">https://www.ucb.ac.uk/university/higher-education-student-handbook/computer-misuse-policy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse PolicyThis act has created three criminal offences covering the usage of computers: 1. Unauthorised access to computer ma...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: ikandp.co.uk  
-   Link: <a href="https://www.ikandp.co.uk/computer-misuse-act-offences" target="_blank" rel="noopener noreferrer nofollow">https://www.ikandp.co.uk/computer-misuse-act-offences</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mputer Misuse Act OffencesComputer Misuse Act Offences · Up to two years in prison and a £5,000 fine for unauthorised access to a compu...</p></details>
+   Link:<a href="https://www.ikandp.co.uk/computer-misuse-act-offences" target="_blank" rel="noopener noreferrer nofollow">https://www.ikandp.co.uk/computer-misuse-act-offences</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mputer Misuse Act OffencesComputer Misuse Act Offences · Up to two years in prison and a £5,000 fine for unauthorised access to a compu...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nccgroup.com  
-   Link: <a href="https://www.nccgroup.com/newsroom/ncc-group-welcomes-uk-government-response-to-computer-misuse-act-review-but-urges-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.nccgroup.com/newsroom/ncc-group-welcomes-uk-government-response-to-computer-misuse-act-review-but-urges-[timeline</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCC Group welcomes UK Government response to...8 Feb 2023 — It&#x27;s great news too that the Government has committed to working with the cy...</p></details>
+   Link:<a href="https://www.nccgroup.com/newsroom/ncc-group-welcomes-uk-government-response-to-computer-misuse-act-review-but-urges-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.nccgroup.com/newsroom/ncc-group-welcomes-uk-government-response-to-computer-misuse-act-review-but-urges-[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCC Group welcomes UK Government response to...8 Feb 2023 — It&#x27;s great news too that the Government has committed to working with the cy...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: cyberupcampaign.com  
-   Link: <a href="https://www.cyberupcampaign.com/in-the-press" target="_blank" rel="noopener noreferrer nofollow">https://www.cyberupcampaign.com/in-the-press</a>  
+   Link:<a href="https://www.cyberupcampaign.com/in-the-press" target="_blank" rel="noopener noreferrer nofollow">https://www.cyberupcampaign.com/in-the-press</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: media.product.which.co.uk  
-   Link: <a href="https://media.product.which.co.uk/prod/files/file/gm-a7246a37-2a00-4085-a831-f263019651e7-which-response-to-computer-misuse-act-1990-call-for-information.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.product.which.co.uk/prod/files/file/gm-a7246a37-2a00-4085-a831-f263019651e7-which-response-to-computer-misuse-act-1990-call-for-information.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>which.co.ukWhich? Response to Computer Misuse Act 19908 Jun 2021 — Updated guidance on fair use of tools, such as port scanning, so that...</p></details>
+   Link:<a href="https://media.product.which.co.uk/prod/files/file/gm-a7246a37-2a00-4085-a831-f263019651e7-which-response-to-computer-misuse-act-1990-call-for-information.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.product.which.co.uk/prod/files/file/gm-a7246a37-2a00-4085-a831-f263019651e7-which-response-to-computer-misuse-act-1990-call-for-information.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>which.co.ukWhich? Response to Computer Misuse Act 19908 Jun 2021 — Updated guidance on fair use of tools, such as port scanning, so that...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: jdspicer.co.uk  
-   Link: <a href="https://www.jdspicer.co.uk/site/our-services/criminal-law-solicitors/computer-misuse-act-offences/" target="_blank" rel="noopener noreferrer nofollow">https://www.jdspicer.co.uk/site/our-services/criminal-law-solicitors/computer-misuse-act-offences/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mputer Misuse Act OffencesThe Computer Misuse Act was introduced in the UK to directly address and combat unauthorised access, misuse...</p></details>
+   Link:<a href="https://www.jdspicer.co.uk/site/our-services/criminal-law-solicitors/computer-misuse-act-offences/" target="_blank" rel="noopener noreferrer nofollow">https://www.jdspicer.co.uk/site/our-services/criminal-law-solicitors/computer-misuse-act-offences/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mputer Misuse Act OffencesThe Computer Misuse Act was introduced in the UK to directly address and combat unauthorised access, misuse...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: techuk.org  
-   Link: <a href="https://www.techuk.org/resource/government-launches-new-consultation-on-the-review-of-the-computer-misuse-act-1990.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/government-launches-new-consultation-on-the-review-of-the-computer-misuse-act-1990.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government launches new consultation on the review of...13 Feb 2023 — A Home Office consultation on new powers to help tackle cybercrime...</p></details>
+   Link:<a href="https://www.techuk.org/resource/government-launches-new-consultation-on-the-review-of-the-computer-misuse-act-1990.html" target="_blank" rel="noopener noreferrer nofollow">https://www.techuk.org/resource/government-launches-new-consultation-on-the-review-of-the-computer-misuse-act-1990.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government launches new consultation on the review of...13 Feb 2023 — A Home Office consultation on new powers to help tackle cybercrime...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: thelens.slaughterandmay.com  
-   Link: <a href="https://thelens.slaughterandmay.com/post/102itms/uk-government-publishes-responses-to-consultation-on-the-computer-misuse-act-1990" target="_blank" rel="noopener noreferrer nofollow">https://thelens.slaughterandmay.com/post/102itms/uk-government-publishes-responses-to-consultation-on-the-computer-misuse-act-1990</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government publishes responses to consultation on the...23 Nov 2023 — The UK government has been considering for some time whether to up...</p></details>
+   Link:<a href="https://thelens.slaughterandmay.com/post/102itms/uk-government-publishes-responses-to-consultation-on-the-computer-misuse-act-1990" target="_blank" rel="noopener noreferrer nofollow">https://thelens.slaughterandmay.com/post/102itms/uk-government-publishes-responses-to-consultation-on-the-computer-misuse-act-1990</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government publishes responses to consultation on the...23 Nov 2023 — The UK government has been considering for some time whether to up...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: infolawcentre.blogs.sas.ac.uk  
    Title: exploring the challenges of the new transnational cyber policing  
-   Link: <a href="https://infolawcentre.blogs.sas.ac.uk/2017/07/24/exploring-the-challenges-of-the-new-transnational-cyber-policing/" target="_blank" rel="noopener noreferrer nofollow">https://infolawcentre.blogs.sas.ac.uk/2017/07/24/exploring-the-challenges-of-the-new-transnational-cyber-policing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the challenges of the new transnational cyber policing24 Jul 2017 — Lead speaker Dr Monique Mann explored the new challenges posed for po...</p></details>
+   Link:<a href="https://infolawcentre.blogs.sas.ac.uk/2017/07/24/exploring-the-challenges-of-the-new-transnational-cyber-policing/" target="_blank" rel="noopener noreferrer nofollow">https://infolawcentre.blogs.sas.ac.uk/2017/07/24/exploring-the-challenges-of-the-new-transnational-cyber-policing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the challenges of the new transnational cyber policing24 Jul 2017 — Lead speaker Dr Monique Mann explored the new challenges posed for po...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: researchgate.net  
    Title: 50953384 Hackers beware The cautionary story of Gary McKinnon  
-   Link: <a href="https://www.researchgate.net/publication/50953384_Hackers_beware_The_cautionary_story_of_Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/50953384_Hackers_beware_The_cautionary_story_of_Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hackers beware: The cautionary story of Gary McKinnon6 Aug 2025 — This article describes and analyses the facts and law surrounding the e...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/50953384_Hackers_beware_The_cautionary_story_of_Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/50953384_Hackers_beware_The_cautionary_story_of_Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hackers beware: The cautionary story of Gary McKinnon6 Aug 2025 — This article describes and analyses the facts and law surrounding the e...</p></details>

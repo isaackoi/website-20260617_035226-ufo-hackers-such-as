@@ -444,7 +444,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-ove
 
 ## Introduction
 
-Gary McKinnon’s blocked extradition turned a UFO-linked hacking case into a wider test of how far human rights can limit cross-border cyber prosecution. The direct legal lesson was not that alleged hackers avoid trial because they are sympathetic, unusual, or politically controversial. It was narrower and more important: extradition can be stopped where credible medical evidence shows that removal, detention, trial conditions, or sentence exposure would create a severe risk to life or inhuman treatment. In McKinnon’s case, the decisive point was the Home Secretary’s 2012 conclusion that extradition to the United States would create such a high suicide risk that it would be incompatible with his human rights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">theresa may statement on gary mckinnon extradition</span></span></span>
+Gary McKinnon’s blocked extradition turned a UFO-linked hacking case into a wider test of how far human rights can limit cross-border cyber prosecution. The direct legal lesson was not that alleged hackers avoid trial because they are sympathetic, unusual, or politically controversial. It was narrower and more important: extradition can be stopped where credible medical evidence shows that removal, detention, trial conditions, or sentence exposure would create a severe risk to life or inhuman treatment. In McKinnon’s case, the decisive point was the Home Secretary’s 2012 conclusion that extradition to the United States would create such a high suicide risk that it would be incompatible with his human rights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">theresa may statement on gary mckinnon extradition</span><span class="citation-popover-snippet">theresa may statement on gary mckinnon extradition</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-overview.webp" | relative_url }}" alt="Overview image for Human Rights" loading="eager" decoding="sync" fetchpriority="high">
@@ -452,11 +452,11 @@ That made the case a landmark for cyber extradition because computer [intrusions
 
 ## Why McKinnon’s Health Became the Extradition Issue
 
-The United States sought McKinnon for alleged computer intrusions into US military and NASA systems. By the later stages of the UK proceedings, however, the central public argument had shifted from whether the US had jurisdiction to whether extradition would be medically and morally tolerable. McKinnon had been diagnosed with Asperger syndrome and depression, and his lawyers relied on psychiatric evidence that removal to the United States, exposure to a harsh sentencing regime, and possible imprisonment far from his support network would create a grave suicide risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-title">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span><span class="citation-popover-snippet">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span></span></span>
+The United States sought McKinnon for alleged computer intrusions into US military and NASA systems. By the later stages of the UK proceedings, however, the central public argument had shifted from whether the US had jurisdiction to whether extradition would be medically and morally tolerable. McKinnon had been diagnosed with Asperger syndrome and depression, and his lawyers relied on psychiatric evidence that removal to the United States, exposure to a harsh sentencing regime, and possible imprisonment far from his support network would create a grave suicide risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-title">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span><span class="citation-popover-snippet">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span></span></span>
 
-The key distinction is between sympathy and evidence. Courts and ministers did not accept a general claim that a vulnerable hacker should automatically be spared extradition. Earlier legal challenges failed even after the Asperger diagnosis entered the case. A 2009 High Court summary records that extradition would worsen McKinnon’s mental health and create risks including suicide, but that the case was still judged not to meet the severity required under Article 3 of the European Convention on Human Rights at that stage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-title">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span><span class="citation-popover-snippet">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span></span></span>
+The key distinction is between sympathy and evidence. Courts and ministers did not accept a general claim that a vulnerable hacker should automatically be spared extradition. Earlier legal challenges failed even after the Asperger diagnosis entered the case. A 2009 High Court summary records that extradition would worsen McKinnon’s mental health and create risks including suicide, but that the case was still judged not to meet the severity required under Article 3 of the European Convention on Human Rights at that stage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-title">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span><span class="citation-popover-snippet">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span></span></span>
 
-The eventual block came after further consideration by the Home Secretary, Theresa May. Her statement to Parliament said she had considered “all of the relevant material” and concluded that extradition would create such a high risk of McKinnon ending his life that ordering removal would be incompatible with his human rights. She therefore withdrew the extradition order and left any decision on UK prosecution to the Director of Public Prosecutions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Hansard Extradition</span></span></span>
+The eventual block came after further consideration by the Home Secretary, Theresa May. Her statement to Parliament said she had considered “all of the relevant material” and concluded that extradition would create such a high risk of McKinnon ending his life that ordering removal would be incompatible with his human rights. She therefore withdrew the extradition order and left any decision on UK prosecution to the Director of Public Prosecutions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Extradition</span><span class="citation-popover-snippet">Hansard Extradition</span></span></span>
 
 For readers following the UFO-hacker dimension, this is why McKinnon’s case is often misunderstood. The law did not validate his claims about hidden UFO material. Nor did it excuse unauthorised access to defence systems. The human-rights intervention concerned the consequences of extradition for a diagnosed, vulnerable individual in a specific evidential record.
 
@@ -464,9 +464,9 @@ For readers following the UFO-hacker dimension, this is why McKinnon’s case is
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-1-dark.svg" | relative_url }}" alt="Human Rights illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Human-Rights Threshold Was High, Not Sentimental
 
-UK extradition law contains several routes through which health and human rights may matter. Under section 87 of the Extradition Act 2003, a judge must decide whether extradition would be compatible with Convention rights under the Human Rights Act 1998. Under section 91, extradition can be barred if the person’s physical or mental condition is such that removal would be unjust or oppressive. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/2003/41/section/87" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-title">Section 87</span><span class="citation-popover-snippet">Section 87</span></span></span>
+UK extradition law contains several routes through which health and human rights may matter. Under section 87 of the Extradition Act 2003, a judge must decide whether extradition would be compatible with Convention rights under the Human Rights Act 1998. Under section 91, extradition can be barred if the person’s physical or mental condition is such that removal would be unjust or oppressive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/2003/41/section/87" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-title">Section 87</span><span class="citation-popover-snippet">Section 87</span></span></span>
 
-These are not easy tests. Article 3 of the European Convention prohibits torture and inhuman or degrading treatment or punishment, but extradition cases usually require a strong showing that the requested person faces a real and serious risk in the receiving state. The European Union Agency for Fundamental Rights reproduces Article 3’s core text in absolute terms, but the practical question in extradition is whether the forecast consequences of removal meet that high threshold. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://fra.europa.eu/en/law-reference/european-convention-human-rights-article-3-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fra.europa.eu">[Fra EU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fra.europa.eu</span><span class="citation-popover-title">Fra EUEuropean Convention on Human Rights</span><span class="citation-popover-snippet">Fra EUEuropean Convention on Human Rights</span></span></span>
+These are not easy tests. Article 3 of the European Convention prohibits torture and inhuman or degrading treatment or punishment, but extradition cases usually require a strong showing that the requested person faces a real and serious risk in the receiving state. The European Union Agency for Fundamental Rights reproduces Article 3’s core text in absolute terms, but the practical question in extradition is whether the forecast consequences of removal meet that high threshold.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://fra.europa.eu/en/law-reference/european-convention-human-rights-article" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fra.europa.eu">[Fra EU]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fra.europa.eu</span><span class="citation-popover-title">Fra EUEuropean Convention on Human Rights</span><span class="citation-popover-snippet">Fra EUEuropean Convention on Human Rights</span></span></span>
 
 McKinnon’s case therefore sits at the edge of the system. On one side is the normal principle that states cooperate to prosecute crimes that cross borders, including computer offences. On the other is the rule that cooperation cannot be pursued in a way that knowingly exposes someone to a severe risk of death or inhuman treatment. The controversy came from the fact that both ideas were strong: the alleged targets were highly sensitive US systems, but the medical case was eventually treated as too serious to override.
 
@@ -479,9 +479,9 @@ The hardest policy question was not whether mental illness should matter. It was
 
 The McKinnon model of argument depended on connecting clinical evidence to the actual extradition pathway. That pathway included arrest or removal, transport, pre-trial detention, trial in a foreign system, possible conviction, sentencing exposure, and imprisonment far from family support. The legal issue was not simply “is this person unwell?” but “would extradition itself foreseeably push this person into a level of risk the law cannot permit?”
 
-In later cyber cases, courts examined that chain in far more detail. [Lauri Love]({{ 'lauri-love/' | relative_url }})’s case is the closest successor. Love, a British man accused by the United States of hacking US agencies and private bodies, also relied on autism, depression, physical illness, family dependence, and suicide risk. In 2018, the High Court accepted that he faced a substantial risk of suicide if extradited, and the judgment linked that risk to his dependence on his home environment and parents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
+In later cyber cases, courts examined that chain in far. [Lauri Love]({{ 'lauri-love/' | relative_url }})’s case is the closest successor. Love, a British man accused by the United States of hacking US agencies and private bodies, also relied on autism, depression, physical illness, family dependence, and suicide risk. In 2018, the High Court accepted that he faced a substantial risk of suicide if extradited, and the judgment linked that risk to his dependence on his home environment and parents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
 
-The Love judgment is useful because it shows what McKinnon’s case helped make legible. The court did not treat suicide risk as a magic phrase. It asked whether the risk could realistically be managed by transport safeguards, prison suicide watch, medical treatment, or other protective steps in the United States. The court was troubled by the possibility that the very mechanisms designed to prevent suicide, such as isolation or suicide-watch conditions, could worsen the underlying mental condition. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
+The Love judgment is useful because it shows what McKinnon’s case helped make legible. The court did not treat suicide risk as a magic phrase. It asked whether the risk could realistically be managed by transport safeguards, prison suicide watch, medical treatment, or other protective steps in the United States. The court was troubled by the possibility that the very mechanisms designed to prevent suicide, such as isolation or suicide-watch conditions, could worsen the underlying mental condition.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
 
 That is the crucial evidential lesson for cyber extradition. Medical arguments become stronger when they are concrete and operational: how the person behaves under stress, what support prevents deterioration, what detention conditions would remove that support, whether treatment would be accessible, and whether suicide prevention would merely keep the person alive while causing severe or lasting psychological harm.
 
@@ -489,13 +489,13 @@ That is the crucial evidential lesson for cyber extradition. Medical arguments b
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-2-dark.svg" | relative_url }}" alt="Human Rights illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## From McKinnon to the Forum Bar
 
-McKinnon’s case also helped drive a governance change: the “[forum bar]({{ 'forum-bar/' | relative_url }})”. This is a legal mechanism allowing UK courts to stop extradition in some cases where prosecution could fairly occur in the UK instead. Section 83A of the Extradition Act 2003 now provides that extradition to a category 2 territory, such as the United States, is barred by reason of forum if extradition would not be in the interests of justice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/2003/41/section/83A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span>
+McKinnon’s case also helped drive a governance change: the “[forum bar]({{ 'forum-bar/' | relative_url }})”. This is a legal mechanism allowing UK courts to stop extradition in some cases where prosecution could fairly occur in the UK instead. Section 83A of the Extradition Act 2003 now provides that extradition to a category 2 territory, such as the United States, is barred by reason of forum if extradition would not be in the interests of justice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/2003/41/section/83A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span>
 
-The Love judgment expressly noted that the forum bar was inserted into the 2003 Act after the Home Secretary’s refusal to order McKinnon’s extradition to the United States for computer-hacking-related offences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span> That matters because cybercrime often creates overlapping jurisdiction. A person may sit in Britain, use computers in Britain, affect servers or victims abroad, and be chargeable under both British and foreign law.
+The Love judgment expressly noted that the forum bar was inserted into the 2003 Act after the Home Secretary’s refusal to order McKinnon’s extradition to the United States for computer-hacking-related offences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span> That matters because cybercrime often creates overlapping jurisdiction. A person may sit in Britain, use computers in Britain, affect servers or victims abroad, and be chargeable under both British and foreign law.
 
-The forum bar does not say “British suspects should always be tried in Britain”. It asks a structured interests-of-justice question. Relevant factors include where the harm occurred, victims’ interests, whether evidence can be made available in the UK, delay, the practicability of one jurisdiction handling related prosecutions, and the defendant’s connection with the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/2003/41/section/83A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span>
+The forum bar does not say “British suspects should always be tried in Britain”. It asks a structured interests-of-justice question. Relevant factors include where the harm occurred, victims’ interests, whether evidence can be made available in the UK, delay, the practicability of one jurisdiction handling related prosecutions, and the defendant’s connection with the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.legislation.gov.uk/ukpga/2003/41/section/83A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legislation.gov.uk">[Legislation.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legislation.gov.uk</span><span class="citation-popover-snippet">Open source on legislation.gov.uk.</span></span></span>
 
-In Love, the High Court treated forum and health together. It held that the forum bar applied and that extradition would also be oppressive by reason of Love’s physical and mental condition. At the same time, the court stressed that prosecution in England would not be oppressive and that blocking extradition should not mean impunity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
+In Love, the High Court treated forum and health together. It held that the forum bar applied and that extradition would also be oppressive by reason of Love’s physical and mental condition. At the same time, the court stressed that prosecution in England would not be oppressive and that blocking extradition should not mean impunity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
 
 This is the policy compromise that grew out of the McKinnon problem: do not ignore serious cross-border cyber allegations, but do not assume that the only legitimate venue is the foreign state with the most powerful prosecutorial interest.
 
@@ -508,23 +508,23 @@ The McKinnon and Love cases established a practical vocabulary for resisting ext
 
 Three [lessons]({{ 'lessons/' | relative_url }}) stand out.
 
-**First, medical evidence must be individualised.** Courts look for expert evidence tied to the person’s diagnosis, history, coping capacity, treatment needs, and likely response to extradition. In Love, the High Court accepted evidence from Professor Simon Baron-Cohen and Professor Michael Kopelman about autism, depression, suicide risk, and the effect of separation from family support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
+**First, medical evidence must be individualised.** Courts look for expert evidence tied to the person’s diagnosis, history, coping capacity, treatment needs, and likely response to extradition. In Love, the High Court accepted evidence from Professor Simon Baron-Cohen and Professor Michael Kopelman about autism, depression, suicide risk, and the effect of separation from family support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
 
-**Second, assurances matter but may not settle everything.** Requesting states often give assurances about medical care, prison placement, or suicide prevention. The hard question is whether those assurances answer the real risk. In Love, the court was not satisfied that the available arrangements removed the danger, particularly because segregation or suicide watch could themselves worsen the conditions that produced the risk. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
+**Second, assurances matter but may not settle everything.** Requesting states often give assurances about medical care, prison placement, or suicide prevention. The hard question is whether those assurances answer the real risk. In Love, the court was not satisfied that the available arrangements removed the danger, particularly because segregation or suicide watch could themselves worsen the conditions that produced the risk.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
 
-**Third, local prosecution can be the humane alternative.** McKinnon’s 2012 statement left open whether he should face proceedings in the UK. Love went further: the High Court made clear that, if extradition was barred, prosecution in England was the expected consequence rather than immunity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">gary mckinnon extradition case home secretarys statement</span></span></span>
+**Third, local prosecution can be the humane alternative.** McKinnon’s 2012 statement left open whether he should face proceedings in the UK. Love went further: the High Court made clear that, if extradition was barred, prosecution in England was the expected consequence rather than immunity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">gary mckinnon extradition case home secretarys statement</span><span class="citation-popover-snippet">gary mckinnon extradition case home secretarys statement</span></span></span>
 
-Julian Assange’s extradition litigation, although not a UFO-hacker case and broader than ordinary cybercrime, reinforced the importance of mental-health evidence and detention-condition assurances in US extradition disputes. The 2021 High Court judgment recorded findings about suicide risk, restrictive detention measures, and possible imprisonment at ADX Florence, before the appeal turned heavily on US assurances about treatment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2022/07/USA-v-Assange-judgment101221.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-title">Courts and Tribunals Judiciary USA -v- Julian Assange judgment</span><span class="citation-popover-snippet">Courts and Tribunals Judiciary USA -v- Julian Assange judgment</span></span></span>
+Julian Assange’s extradition litigation, although not a UFO-hacker case and broader than ordinary cybercrime, reinforced the importance of mental-health evidence and detention-condition assurances in US extradition disputes. The 2021 High Court judgment recorded findings about suicide risk, restrictive detention measures, and possible imprisonment at ADX Florence, before the appeal turned heavily on US assurances about treatment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2022/07/USA-v-Assange-judgment101221.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-title">Courts and Tribunals Judiciary USA -v- Julian Assange judgment</span><span class="citation-popover-snippet">Courts and Tribunals Judiciary USA -v- Julian Assange judgment</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-3-dark.svg" | relative_url }}" alt="Human Rights illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What McKinnon Did Not Prove
 
-McKinnon’s blocked extradition is sometimes retold as if it proved that cyber defendants can defeat extradition by invoking autism, depression, political [motive]({{ 'motive/' | relative_url }}), or public sympathy. That is not accurate. The record shows repeated failed challenges before the final ministerial decision, and later case law continued to describe the threshold for oppression as high. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-title">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span><span class="citation-popover-snippet">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span></span></span>
+McKinnon’s blocked extradition is sometimes retold as if it proved that cyber defendants can defeat extradition by invoking autism, depression, political [motive]({{ 'motive/' | relative_url }}), or public sympathy. That is not accurate. The record shows repeated failed challenges before the final ministerial decision, and later case law continued to describe the threshold for oppression as high.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mentalhealthlaw.co.uk">[Mental Health Law Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mentalhealthlaw.co.uk</span><span class="citation-popover-title">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span><span class="citation-popover-snippet">R (McKinnon) v SSHA (2009) EWHC 2021 (Admin</span></span></span>
 
 Nor did the case prove that UFO-related motive had legal force. McKinnon’s interest in UFOs explains why the public remembers him, but the human-rights argument did not depend on whether his motive was curiosity, obsession, protest, or belief in secrecy. It depended on the medical consequences of extradition.
 
-It also did not prove that US cyber prosecutions are illegitimate. Courts continued to recognise the seriousness of alleged hacking against government systems and the interests of foreign victims. In Love, even after extradition was blocked, the court said the allegations were grave, that the harm had been done to victims, and that the Crown Prosecution Service should pursue prosecution with assistance from US authorities if appropriate. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
+It also did not prove that US cyber prosecutions are illegitimate. Courts continued to recognise the seriousness of alleged hacking against government systems and the interests of foreign victims. In Love, even after extradition was blocked, the court said the allegations were grave, that the harm had been done to victims, and that the Crown Prosecution Service should pursue prosecution with assistance from US authorities if appropriate.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: judiciary.uk">[Courts and Tribunals Judiciary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">judiciary.uk</span><span class="citation-popover-snippet">Open source on judiciary.uk.</span></span></span>
 
 The narrower, stronger conclusion is that cyber extradition cannot be treated as a purely technical transfer between states. When the requested person is medically vulnerable, the process itself becomes part of the human-rights analysis.
 
@@ -540,194 +540,194 @@ For future cyber cases, the most durable lesson is procedural rather than sentim
 McKinnon’s story therefore belongs within the history of UFO hackers, but its legal afterlife is broader. It marks the point at which a case remembered for UFO searches and NASA intrusion claims became a landmark example of how human rights, medical evidence, and extradition governance can interrupt even a powerful cross-border prosecution demand.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Health Stop a Cyber Extradition?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Health Stop a Cyber Extradition?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snowden Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=po-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snowden Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snowden Files">The Snowden Files</a>
-        </h4>
-        <p class="fr-book-author">By Luke Harding</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snowden Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=po-TEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Snowden Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snowden Files">The Snowden Files</a>
+</h4>
+<p class="fr-book-author">By Luke Harding</p>
         
-        <p class="fr-book-desc">Connects hacking, international legal pressure, and human-rights concerns in a readable way.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects hacking, international legal pressure, and human-rights concerns in a readable way.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Snowden+Files+by+Luke+Harding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Place to Hide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-sxBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for No Place to Hide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Place to Hide">No Place to Hide</a>
-        </h4>
-        <p class="fr-book-author">By Glenn Greenwald</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open No Place to Hide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Q-sxBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for No Place to Hide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No Place to Hide">No Place to Hide</a>
+</h4>
+<p class="fr-book-author">By Glenn Greenwald</p>
         
-        <p class="fr-book-desc">Frames cyber conduct, state secrecy, and human rights in a commercially strong lane.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frames cyber conduct, state secrecy, and human rights in a commercially strong lane.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=No+Place+to+Hide+by+Glenn+Greenwald&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rule of Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6UsjcX-IUJ4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rule of Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rule of Law">The Rule of Law</a>
-        </h4>
-        <p class="fr-book-author">By Tom Bingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rule of Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6UsjcX-IUJ4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rule of Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rule of Law">The Rule of Law</a>
+</h4>
+<p class="fr-book-author">By Tom Bingham</p>
         
-        <p class="fr-book-desc">Explains the legal principles behind rights-based limits on state power and extradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the legal principles behind rights-based limits on state power and extradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BdPPngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BdPPngEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Supplies the cyber-offender context behind cross-border hacking prosecutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supplies the cyber-offender context behind cross-border hacking prosecutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snowden+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snowden Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Place+to+Hide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Place to Hide</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rule+of+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rule of Law</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snowden+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snowden Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=No+Place+to+Hide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">No Place to Hide</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rule+of+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rule of Law</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="{{ '/assets/images/marketplace-covers/62f2803d2cf6be9d80a3.jpg' | relative_url }}" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="{{ '/assets/images/marketplace-covers/62f2803d2cf6be9d80a3.jpg' | relative_url }}" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship"><img src="{{ '/assets/images/marketplace-covers/67ee874ffa3a18ac2478.jpg' | relative_url }}" alt="Listing image for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship"><img src="{{ '/assets/images/marketplace-covers/67ee874ffa3a18ac2478.jpg' | relative_url }}" alt="Listing image for FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">FBI Detroit Cyber Task Force Challenge coin-Cyber National Security-Free Ship</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin"><img src="{{ '/assets/images/marketplace-covers/4815c9398ffc5e395056.jpg' | relative_url }}" alt="Listing image for Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">Information Operations Center IOC CIA Cyber Security Spy vs Spy Challenge Coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE Hive Systems Defense solutions Cyber security maturity challenge coin"><img src="{{ '/assets/images/marketplace-covers/7c6f3f3928f5613ef061.jpg' | relative_url }}" alt="Listing image for RARE Hive Systems Defense solutions Cyber security maturity challenge coin" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">RARE Hive Systems Defense solutions Cyber security maturity challenge coin</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search <span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for RARE Hive Systems Defense solutions Cyber security maturity challenge coin"><img src="{{ '/assets/images/marketplace-covers/7c6f3f3928f5613ef061.jpg' | relative_url }}" alt="Listing image for RARE Hive Systems Defense solutions Cyber security maturity challenge coin" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">RARE Hive Systems Defense solutions Cyber security maturity challenge coin</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="human-rights-can-health-stop-a-cyber-extradition-ufo-hackers-such-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -743,7 +743,7 @@ McKinnon’s story therefore belongs within the history of UFO hackers, but its 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -763,7 +763,7 @@ McKinnon’s story therefore belongs within the history of UFO hackers, but its 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -795,7 +795,7 @@ McKinnon’s story therefore belongs within the history of UFO hackers, but its 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -847,7 +847,7 @@ McKinnon’s story therefore belongs within the history of UFO hackers, but its 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -892,7 +892,7 @@ McKinnon’s story therefore belongs within the history of UFO hackers, but its 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -933,226 +933,226 @@ McKinnon’s story therefore belongs within the history of UFO hackers, but its 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
    Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
+   Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Extradition  
-   Link: <a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: GOV.UK  
    Title: gary mckinnon extradition case home secretarys statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
+   Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: legislation.gov.uk  
    Title: Section 87  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2003/41/section/87" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/section/87</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2003/41/section/87" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/section/87</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2003/41/section/91" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/section/91</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2003/41/section/91" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/section/91</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: fra.europa.eu  
    Title: Fra EUEuropean Convention on Human Rights  
-   Link: <a href="https://fra.europa.eu/en/law-reference/european-convention-human-rights-article-3-0" target="_blank" rel="noopener noreferrer nofollow">https://fra.europa.eu/en/law-reference/european-convention-human-rights-article-3-0</a>  
+   Link:<a href="https://fra.europa.eu/en/law-reference/european-convention-human-rights-article" target="_blank" rel="noopener noreferrer nofollow">https://fra.europa.eu/en/law-reference/european-convention-human-rights-article</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: judiciary.uk  
-   Link: <a href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf</a>  
+   Link:<a href="https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2018/02/lauri-love-v-usa.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2003/41/section/83A" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/section/83A</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2003/41/section/83A" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/section/83A</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: judiciary.uk  
    Title: Courts and Tribunals Judiciary USA -v- Julian Assange judgment  
-   Link: <a href="https://www.judiciary.uk/wp-content/uploads/2022/07/USA-v-Assange-judgment101221.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2022/07/USA-v-Assange-judgment101221.pdf</a>  
+   Link:<a href="https://www.judiciary.uk/wp-content/uploads/2022/07/USA-v-Assange-judgment101221.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2022/07/USA-v-Assange-judgment101221.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: parliament.uk  
-   Link: <a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
+   Link:<a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: hansard.parliament.uk  
    Title: uk Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  
    Title: uk Extradition  
-   Link: <a href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition</a>  
+   Link:<a href="https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/lords/2012-10-16/debates/12101643000907/Extradition</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/53322/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/53322/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/53322/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/53322/html/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: publications.parliament.uk  
    Title: uk Home Affairs Committee  
-   Link: <a href="https://publications.parliament.uk/pa/cm200809/cmselect/cmhaff/1105/09111003.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200809/cmselect/cmhaff/1105/09111003.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm200809/cmselect/cmhaff/1105/09111003.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200809/cmselect/cmhaff/1105/09111003.htm</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-2.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-2.htm</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/126.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/126.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/126.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/126.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: publications.parliament.uk  
    Title: uk House of Lords  
-   Link: <a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hansard.parliament.uk  
-   Link: <a href="https://hansard.parliament.uk/commons/2021-01-21/debates/D907B179-BE6A-466E-B2AC-9B68D8808EE9/ExtraditionAct2003" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2021-01-21/debates/D907B179-BE6A-466E-B2AC-9B68D8808EE9/ExtraditionAct2003</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2021-01-21/debates/D907B179-BE6A-466E-B2AC-9B68D8808EE9/ExtraditionAct2003" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2021-01-21/debates/D907B179-BE6A-466E-B2AC-9B68D8808EE9/ExtraditionAct2003</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/jt201012/jtselect/jtrights/156/15605.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/jt201012/jtselect/jtrights/156/15605.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/jt201012/jtselect/jtrights/156/15605.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/jt201012/jtselect/jtrights/156/15605.htm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/52334/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/52334/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/52334/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/52334/html/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2003/41/notes/division/5/2/23" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/notes/division/5/2/23</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2003/41/notes/division/5/2/23" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/notes/division/5/2/23</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2003/41/notes/division/5/2/19" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/notes/division/5/2/19</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2003/41/notes/division/5/2/19" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/notes/division/5/2/19</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2003/41/section/83A/2012-05-01?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/section/83A/2012-05-01?view=plain</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2003/41/section/83A/2012-05-01?view=plain" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/section/83A/2012-05-01?view=plain</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/ukpga/2003/41/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/contents</a>  
+   Link:<a href="https://www.legislation.gov.uk/ukpga/2003/41/contents" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/ukpga/2003/41/contents</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: judiciary.uk  
    Title: Assange v USA Judgment  
-   Link: <a href="https://www.judiciary.uk/wp-content/uploads/2024/03/Assange-v-USA-Judgment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2024/03/Assange-v-USA-Judgment.pdf</a>  
+   Link:<a href="https://www.judiciary.uk/wp-content/uploads/2024/03/Assange-v-USA-Judgment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.judiciary.uk/wp-content/uploads/2024/03/Assange-v-USA-Judgment.pdf</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a750181ed915d3c7d529a80/written-reps-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a750181ed915d3c7d529a80/written-reps-17.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a750181ed915d3c7d529a80/written-reps-17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a750181ed915d3c7d529a80/written-reps-17.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: assets.publishing.service.gov.uk  
    Title: extradition act 2003  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7ad1fced915d71db8b2b3c/extradition-act-2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ad1fced915d71db8b2b3c/extradition-act-2003.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7ad1fced915d71db8b2b3c/extradition-act-2003.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7ad1fced915d71db8b2b3c/extradition-act-2003.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: GOV.UK  
    Title: extradition act 2003  
-   Link: <a href="https://www.gov.uk/government/publications/extradition-act-2003" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/extradition-act-2003</a>  
+   Link:<a href="https://www.gov.uk/government/publications/extradition-act-2003" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/extradition-act-2003</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/guidance/extradition-processes-and-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/extradition-processes-and-review</a>  
+   Link:<a href="https://www.gov.uk/guidance/extradition-processes-and-review" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/guidance/extradition-processes-and-review</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: homeofficemedia.blog.gov.uk  
    Title: blog.gov.uk FACTSHEE T: Extradition  
-   Link: <a href="https://homeofficemedia.blog.gov.uk/2022/01/28/factsheet-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://homeofficemedia.blog.gov.uk/2022/01/28/factsheet-extradition/</a>  
+   Link:<a href="https://homeofficemedia.blog.gov.uk/2022/01/28/factsheet-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://homeofficemedia.blog.gov.uk/2022/01/28/factsheet-extradition/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: mentalhealthlaw.co.uk  
    Title: R (McKinnon) v SSHA (2009) EWHC 2021 (Admin)  
-   Link: <a href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29</a>  
+   Link:<a href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2021_%28Admin%29</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Julian Assange  
-   Link: <a href="https://en.wikipedia.org/wiki/Julian_Assange" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Julian_Assange</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Julian_Assange" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Julian_Assange</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Extradition Act 2003  
-   Link: <a href="https://en.wikipedia.org/wiki/Extradition_Act_2003" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extradition_Act_2003</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Extradition_Act_2003" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Extradition_Act_2003</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: mentalhealthlaw.co.uk  
-   Link: <a href="https://www.mentalhealthlaw.co.uk/Article_3" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/Article_3</a>  
+   Link:<a href="https://www.mentalhealthlaw.co.uk/Article_3" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/Article_3</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: mentalhealthlaw.co.uk  
    Title: R (McKinnon) v SSHA (2009) EWHC 2449 (Admin)  
-   Link: <a href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2449_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2449_%28Admin%29</a>  
+   Link:<a href="https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2449_%28Admin%29" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/R_%28McKinnon%29_v_SSHA_%282009%29_EWHC_2449_%28Admin%29</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: mentalhealthlaw.co.uk  
    Title: Extradition Act 2003  
-   Link: <a href="https://www.mentalhealthlaw.co.uk/Extradition_Act_2003" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/Extradition_Act_2003</a>  
+   Link:<a href="https://www.mentalhealthlaw.co.uk/Extradition_Act_2003" target="_blank" rel="noopener noreferrer nofollow">https://www.mentalhealthlaw.co.uk/Extradition_Act_2003</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: film-authority.com  
-   Link: <a href="https://film-authority.com/2026/05/12/gary/" target="_blank" rel="noopener noreferrer nofollow">https://film-authority.com/2026/05/12/gary/</a>  
+   Link:<a href="https://film-authority.com/2026/05/12/gary/" target="_blank" rel="noopener noreferrer nofollow">https://film-authority.com/2026/05/12/gary/</a>  
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/327245314_Court_of_Appeal_High_Court_Extradition_forum_bar_and_concurrent_jurisdiction_Is_the_case_of_Love_a_precedent_for_trying_hackers_in_the_UK_Lauri_Love_v_1_The_Government_of_the_United_States_of_America_" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327245314_Court_of_Appeal_High_Court_Extradition_forum_bar_and_concurrent_jurisdiction_Is_the_case_of_Love_a_precedent_for_trying_hackers_in_the_UK_Lauri_Love_v_1_The_Government_of_the_United_States_of_America_</a>  
+   Link:<a href="https://www.researchgate.net/publication/327245314_Court_of_Appeal_High_Court_Extradition_forum_bar_and_concurrent_jurisdiction_Is_the_case_of_Love_a_precedent_for_trying_hackers_in_the_UK_Lauri_Love_v_1_The_Government_of_the_United_States_of_America_" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/327245314_Court_of_Appeal_High_Court_Extradition_forum_bar_and_concurrent_jurisdiction_Is_the_case_of_Love_a_precedent_for_trying_hackers_in_the_UK_Lauri_Love_v_1_The_Government_of_the_United_States_of_America_</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: tntmagazine.com  
-   Link: <a href="https://www.tntmagazine.com/archive/british-hacker-gary-mckinnons-extradition-to-us-blocked-by-theresa-may/" target="_blank" rel="noopener noreferrer nofollow">https://www.tntmagazine.com/archive/british-hacker-gary-mckinnons-extradition-to-us-blocked-by-theresa-may/</a>  
+   Link:<a href="https://www.tntmagazine.com/archive/british-hacker-gary-mckinnons-extradition-to-us-blocked-by-theresa-may/" target="_blank" rel="noopener noreferrer nofollow">https://www.tntmagazine.com/archive/british-hacker-gary-mckinnons-extradition-to-us-blocked-by-theresa-may/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: ks.echr.coe.int  
-   Link: <a href="https://ks.echr.coe.int/documents/d/echr-ks/guide_art_3_eng" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/guide_art_3_eng</a>  
+   Link:<a href="https://ks.echr.coe.int/documents/d/echr-ks/guide_art_3_eng" target="_blank" rel="noopener noreferrer nofollow">https://ks.echr.coe.int/documents/d/echr-ks/guide_art_3_eng</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: equalityhumanrights.com  
-   Link: <a href="https://www.equalityhumanrights.com/human-rights/human-rights-act/article-3-freedom-torture-and-inhuman-or-degrading-treatment" target="_blank" rel="noopener noreferrer nofollow">https://www.equalityhumanrights.com/human-rights/human-rights-act/article-3-freedom-torture-and-inhuman-or-degrading-treatment</a>  
+   Link:<a href="https://www.equalityhumanrights.com/human-rights/human-rights-act/article-3-freedom-torture-and-inhuman-or-degrading-treatment" target="_blank" rel="noopener noreferrer nofollow">https://www.equalityhumanrights.com/human-rights/human-rights-act/article-3-freedom-torture-and-inhuman-or-degrading-treatment</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: collinsdictionary.com  
-   Link: <a href="https://www.collinsdictionary.com/dictionary/english/gary" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/gary</a>  
+   Link:<a href="https://www.collinsdictionary.com/dictionary/english/gary" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/dictionary/english/gary</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights</a>  
+   Link:<a href="https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: crowdjustice.com  
-   Link: <a href="https://www.crowdjustice.com/case/assangeappeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.crowdjustice.com/case/assangeappeal/</a>  
+   Link:<a href="https://www.crowdjustice.com/case/assangeappeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.crowdjustice.com/case/assangeappeal/</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/skynews/videos/lauri-love-relieved-that-he-is-no-longer-facing-extradition/2095572573790662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/videos/lauri-love-relieved-that-he-is-no-longer-facing-extradition/2095572573790662/</a>  
+   Link:<a href="https://www.facebook.com/skynews/videos/lauri-love-relieved-that-he-is-no-longer-facing-extradition/2095572573790662/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/skynews/videos/lauri-love-relieved-that-he-is-no-longer-facing-extradition/2095572573790662/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: libertyhumanrights.org.uk  
-   Link: <a href="https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf</a>  
+   Link:<a href="https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: rgu-repository.worktribe.com  
-   Link: <a href="https://rgu-repository.worktribe.com/output/1694706/assange-mental-health-and-assurances-in-extradition" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/output/1694706/assange-mental-health-and-assurances-in-extradition</a>  
+   Link:<a href="https://rgu-repository.worktribe.com/output/1694706/assange-mental-health-and-assurances-in-extradition" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/output/1694706/assange-mental-health-and-assurances-in-extradition</a>  

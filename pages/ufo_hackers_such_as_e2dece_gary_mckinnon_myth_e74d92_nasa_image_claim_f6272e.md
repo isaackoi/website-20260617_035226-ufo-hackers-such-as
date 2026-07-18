@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_nasa_
 
 ## Introduction
 
-The most famous UFO-related claim in the Gary McKinnon case is also the weakest from an evidential standpoint. McKinnon has long maintained that, while browsing NASA systems in search of proof of extraterrestrial technology, he briefly viewed a remarkable image showing what he believed was a non-human spacecraft. Yet no copy of the image survives, [no screenshot]({{ 'no-screenshot/' | relative_url }}) was captured, no file name has been authenticated, and no independent witness has verified what he saw. As a result, the story occupies a peculiar place in UFO history: it is one of the most widely repeated claims associated with a hacker, but it rests entirely on personal testimony rather than preserved evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+The most famous UFO-related claim in the Gary McKinnon case is also the weakest from an evidential standpoint. McKinnon has long maintained that, while browsing NASA systems in search of proof of extraterrestrial technology, he briefly viewed a remarkable image showing what he believed was a non-human spacecraft. Yet no copy of the image survives, [no screenshot]({{ 'no-screenshot/' | relative_url }}) was captured, no file name has been authenticated, and no independent witness has verified what he saw. As a result, the story occupies a peculiar place in UFO history: it is one of the most widely repeated claims associated with a hacker, but it rests entirely on personal testimony rather than preserved evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_nasa_image_claim_f6272e-Illustration-1-dark.svg" | relative_url }}" alt="NASA Image illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_nasa_image_claim_f6272e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92_nasa_image_claim_f6272e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,17 +288,17 @@ For [believers]({{ 'believers/' | relative_url }}), the missing image is a tanta
 
 ## Did McKinnon Really See a NASA UFO Image?
 
-McKinnon's account has remained broadly consistent over the years. He said he gained access to NASA systems after becoming interested in allegations that space-agency photographs were routinely edited to remove evidence of unusual objects. According to his description, he eventually located a large, high-resolution image that appeared to show a cigar-shaped object suspended above the Earth's surface. He later characterised it as something that looked “not man-made”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+McKinnon's account has remained broadly consistent over the years. He said he gained access to NASA systems after becoming interested in allegations that space-agency photographs were routinely edited to remove evidence of unusual objects. According to his description, he eventually located a large, high-resolution image that appeared to show a cigar-shaped object suspended above the Earth's surface. He later characterised it as something that looked “not man-made”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
-The image was reportedly so large that, using the slow internet connections available to him at the time, it loaded gradually on screen. McKinnon said he was examining the picture while connected remotely to a NASA computer when the connection suddenly terminated before he could save the file. He has repeatedly stated that he failed to take a screenshot because he was focused on studying the image rather than preserving it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+The image was reportedly so large that, using the slow internet connections available to him at the time, it loaded gradually on screen. McKinnon said he was examining the picture while connected remotely to a NASA computer when the connection suddenly terminated before he could save the file. He has repeatedly stated that he failed to take a screenshot because he was focused on studying the image rather than preserving it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 That detail became crucial. Had he captured even a partial image, investigators and independent analysts could have examined it. Instead, the alleged spacecraft exists only in McKinnon's recollection.
 
 ### What McKinnon said he found at NASA
 
-Over time, McKinnon's description expanded beyond a single photograph. He claimed he encountered references to unusual spacecraft and other material that appeared inconsistent with publicly known aerospace programmes. He also spoke about finding evidence that convinced him a cover-up existed. However, among all of these claims, the NASA image became the most memorable because it was visual rather than documentary. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2We Live Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+Over time, McKinnon's description expanded beyond a single photograph. He claimed he encountered references to unusual spacecraft and other material that appeared inconsistent with publicly known aerospace programmes. He also spoke about finding evidence that convinced him a cover-up existed. However, among all of these claims, the NASA image became the most memorable because it was visual rather than documentary.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
-Importantly, McKinnon never produced a file, image hash, [metadata]({{ 'metadata/' | relative_url }}) record, download log, or authenticated NASA document proving the photograph existed. The image therefore remains an [anecdote]({{ 'anecdote/' | relative_url }}) rather than a recoverable piece of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+Importantly, McKinnon never produced a file, image hash, [metadata]({{ 'metadata/' | relative_url }}) record, download log, or authenticated NASA document proving the photograph existed. The image therefore remains an [anecdote]({{ 'anecdote/' | relative_url }}) rather than a recoverable piece of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WFd7XzTf6_k" title="David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer">David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WFd7XzTf6_k">Open on YouTube</a></p></div></div></div>
@@ -307,9 +307,9 @@ Importantly, McKinnon never produced a file, image hash, [metadata]({{ 'metadata
 
 The story gained influence for reasons that go beyond the image itself.
 
-First, McKinnon's hacking activity was real. Unlike many UFO stories that begin with anonymous witnesses or unverifiable insiders, the underlying intrusion into government systems was documented through criminal proceedings and public reporting. Because the hacking allegations were genuine, many people assumed the UFO discoveries must also have some factual foundation. That is not evidence that the image existed, but it helps explain why the claim attracted attention. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he...</span></span></span>
+First, McKinnon's hacking activity was real. Unlike many UFO stories that begin with anonymous witnesses or unverifiable insiders, the underlying intrusion into government systems was documented through criminal proceedings and public reporting. Because the hacking allegations were genuine, many people assumed the UFO discoveries must also have some factual foundation. That is not evidence that the image existed, but it helps explain why the claim attracted attention.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he...</span></span></span>
 
-Second, the image claim fit neatly into existing UFO narratives. By the early 2000s, allegations that NASA edited or concealed anomalous photographs were already widespread within UFO communities. McKinnon's story appeared to provide an insider confirmation of beliefs that many enthusiasts already held. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+Second, the image claim fit neatly into existing UFO narratives. By the early 2000s, allegations that NASA edited or concealed anomalous photographs were already widespread within UFO communities. McKinnon's story appeared to provide an insider confirmation of beliefs that many enthusiasts already held.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 Third, the claim benefited from its dramatic failure. The idea that the crucial image vanished moments before it could be saved creates a powerful narrative tension. Psychologically, stories involving lost evidence often become more memorable than ordinary discoveries because they leave a mystery unresolved. The absence of proof becomes part of the story itself.
 
@@ -346,7 +346,7 @@ The lack of a preserved image leaves room for multiple interpretations.
 
 One possibility is that McKinnon genuinely viewed an unusual image but misidentified its contents. Aerospace imagery often contains unfamiliar lighting effects, orbital hardware, calibration targets, [image artefacts]({{ 'image-artefacts/' | relative_url }}), or experimental vehicles that can appear strange when viewed without context.
 
-Another possibility is that he saw an authentic but mundane NASA image whose significance was amplified by expectation. McKinnon was actively searching for UFO evidence and has openly acknowledged that UFOs and suppressed technologies were the reason for his investigation. Expectations can influence how ambiguous visual information is interpreted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
+Another possibility is that he saw an authentic but mundane NASA image whose significance was amplified by expectation. McKinnon was actively searching for UFO evidence and has openly acknowledged that UFOs and suppressed technologies were the reason for his investigation. Expectations can influence how ambiguous visual information is interpreted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</span></span></span>
 
 A third possibility is that the image existed exactly as described but has never been independently recovered. This remains logically possible, but the absence of supporting documentation prevents the claim from moving beyond speculation.
 
@@ -369,201 +369,201 @@ The strongest forms would include:
 
 Absent such evidence, the claim remains an intriguing but unverified account.
 
-This distinction is important because the broader Gary McKinnon case contains both documented facts and unresolved UFO allegations. The hacking itself generated court records, indictments and official investigations. The famous NASA image did not. More than two decades later, the image remains the centrepiece of the UFO hacker myth precisely because it is impossible to inspect. The story survives, but the evidence does not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+This distinction is important because the broader Gary McKinnon case contains both documented facts and unresolved UFO allegations. The hacking itself generated court records, indictments and official investigations. The famous NASA image did not. More than two decades later, the image remains the centrepiece of the UFO hacker myth precisely because it is impossible to inspect. The story survives, but the evidence does not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Mc Kinnon Really See a NASA UFO Image?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Mc Kinnon Really See a NASA UFO Image?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Addresses the UFO side of the McKinnon legend.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses the UFO side of the McKinnon legend.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Captures the intrigue and investigation surrounding computer intrusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Captures the intrigue and investigation surrounding computer intrusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tfc0AQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=tfc0AQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Closest commercial match to the hacker-centered McKinnon story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closest commercial match to the hacker-centered McKinnon story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Discusses alleged hidden programs and documentary evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses alleged hidden programs and documentary evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Limited Edition Artemis II Lapel Pin Set — Numbered - only 500 Worldwide"><img src="{{ '/assets/images/marketplace-covers/8b7df419a1fb22836263.jpg' | relative_url }}" alt="Listing image for NASA Limited Edition Artemis II Lapel Pin Set — Numbered - only 500 Worldwide" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">NASA Limited Edition Artemis II Lapel Pin Set — Numbered - only 500 Worldwide</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nasa memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: nasa memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Limited Edition Artemis II Lapel Pin Set — Numbered - only 500 Worldwide"><img src="{{ '/assets/images/marketplace-covers/8b7df419a1fb22836263.jpg' | relative_url }}" alt="Listing image for NASA Limited Edition Artemis II Lapel Pin Set — Numbered - only 500 Worldwide" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">NASA Limited Edition Artemis II Lapel Pin Set — Numbered - only 500 Worldwide</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nasa memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: nasa memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE NASA 1st MAN ON THE MOON, JUL 20, 1969. KENNEDY SPACE CENTER FLORIDA, MA"><img src="{{ '/assets/images/marketplace-covers/b39eaa87122e69ba23a1.jpg' | relative_url }}" alt="Listing image for VINTAGE NASA 1st MAN ON THE MOON, JUL 20, 1969. KENNEDY SPACE CENTER FLORIDA, MA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">VINTAGE NASA 1st MAN ON THE MOON, JUL 20, 1969. KENNEDY SPACE CENTER FLORIDA, MA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nasa memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: nasa memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE NASA 1st MAN ON THE MOON, JUL 20, 1969. KENNEDY SPACE CENTER FLORIDA, MA"><img src="{{ '/assets/images/marketplace-covers/b39eaa87122e69ba23a1.jpg' | relative_url }}" alt="Listing image for VINTAGE NASA 1st MAN ON THE MOON, JUL 20, 1969. KENNEDY SPACE CENTER FLORIDA, MA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">VINTAGE NASA 1st MAN ON THE MOON, JUL 20, 1969. KENNEDY SPACE CENTER FLORIDA, MA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nasa memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: nasa memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nasa memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: nasa memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rare Original Vintage Nasa Space Crew Photographs Memorabilia"><img src="{{ '/assets/images/marketplace-covers/f42a8ac20bb1a8e39aad.jpg' | relative_url }}" alt="Listing image for Rare Original Vintage Nasa Space Crew Photographs Memorabilia" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Rare Original Vintage Nasa Space Crew Photographs Memorabilia</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nasa memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: nasa memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kennedy Space Center Crystal Glass Paperweight Souvenir Space Shuttle NASA"><img src="{{ '/assets/images/marketplace-covers/8e3cf6b34c741f139389.jpg' | relative_url }}" alt="Listing image for Kennedy Space Center Crystal Glass Paperweight Souvenir Space Shuttle NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Kennedy Space Center Crystal Glass Paperweight Souvenir Space Shuttle NASA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nasa memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: nasa memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kennedy Space Center Crystal Glass Paperweight Souvenir Space Shuttle NASA"><img src="{{ '/assets/images/marketplace-covers/8e3cf6b34c741f139389.jpg' | relative_url }}" alt="Listing image for Kennedy Space Center Crystal Glass Paperweight Souvenir Space Shuttle NASA" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Kennedy Space Center Crystal Glass Paperweight Souvenir Space Shuttle NASA</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for nasa memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: nasa memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=nasa+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa memorabilia" data-ebay-reference="nasa-image-did-mc-kinnon-really-see-a-nasa-ufo-image-ufo-hackers-such-nasa-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ This distinction is important because the broader Gary McKinnon case contains bo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ This distinction is important because the broader Gary McKinnon case contains bo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ This distinction is important because the broader Gary McKinnon case contains bo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ This distinction is important because the broader Gary McKinnon case contains bo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ This distinction is important because the broader Gary McKinnon case contains bo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,95 +769,95 @@ This distinction is important because the broader Gary McKinnon case contains bo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJun 21, 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in a world of trou...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorist or UFO Truth Seeker?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorist or UFO Truth Seeker?Apr 28, 2006 — U.S. authorities want to try a Briton who hacked into top military sites to see what he...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: spectrum.ieee.org  
    Title: the autistic hacker  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack. Convinced that the government was hiding a...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack. Convinced that the government was hiding a...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: militarys own u  
-   Link: <a href="https://www.wired.com/2008/07/militarys-own-u/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/militarys-own-u/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military UFOs: The Truth (Updated)Jul 8, 2008 — It&#x27;s official. What the conspiracy theorists have been saying for years is true: There ar...</p></details>
+   Link:<a href="https://www.wired.com/2008/07/militarys-own-u/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/militarys-own-u/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military UFOs: The Truth (Updated)Jul 8, 2008 — It&#x27;s official. What the conspiracy theorists have been saying for years is true: There ar...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: welivesecurity.com  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We Live SecurityGary McKinnon reveals detail on NASA data breach and &#x27;...Dec 8, 2015 — IT expert and so-called hacker Gary McKinnon has...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We Live SecurityGary McKinnon reveals detail on NASA data breach and &#x27;...Dec 8, 2015 — IT expert and so-called hacker Gary McKinnon has...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: korben.info  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://korben.info/gary-mckinnon-hacker-nasa-pentagone-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://korben.info/gary-mckinnon-hacker-nasa-pentagone-ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon - Le hacker qui a cherché les extraterrestres10 Jul 2025 — Gary McKinnon a vu une image d&#x27;ovni dans les serveurs de la NASA...</p></details>
+   Link:<a href="https://korben.info/gary-mckinnon-hacker-nasa-pentagone-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://korben.info/gary-mckinnon-hacker-nasa-pentagone-ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon - Le hacker qui a cherché les extraterrestres10 Jul 2025 — Gary McKinnon a vu une image d&#x27;ovni dans les serveurs de la NASA...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, UFO&#x27;s, and the Classified Space Program15 votes, 20 comments. Gary McKinnon was a conspiracy researcher who believed in UF...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, UFO&#x27;s, and the Classified Space Program15 votes, 20 comments. Gary McKinnon was a conspiracy researcher who believed in UF...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: podmust.com  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...Podcast episode from The Daily Conspiracy Podcast: Gary McKinnon: The Hacker Who Foun...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ri6bvo/the_man_that_hacked_nasa_and_found_ufos_interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ri6bvo/the_man_that_hacked_nasa_and_found_ufos_interview/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man That Hacked NASA and Found UFOs [Interview w214 votes, 76 comments. Gary McKinnon hacked into 97 U.S. military and government sit...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ri6bvo/the_man_that_hacked_nasa_and_found_ufos_interview/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ri6bvo/the_man_that_hacked_nasa_and_found_ufos_interview/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man That Hacked NASA and Found UFOs [Interview w214 votes, 76 comments. Gary McKinnon hacked into 97 U.S. military and government sit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW4iF9JCJod/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW4iF9JCJod/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🛸💻 A Scottish hacker breaks into NASA servers hunting...Gary McKinnon was looking for suppressed evidence of non-human contact when he a...</p></details>
+   Link:<a href="https://www.instagram.com/p/DW4iF9JCJod/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW4iF9JCJod/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>🛸💻 A Scottish hacker breaks into NASA servers hunting...Gary McKinnon was looking for suppressed evidence of non-human contact when he a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-lindberg-[interviews" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-lindberg-[interviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with UFO hacker Gary McKinnonGary McKinnon has been branded an evil hacker and could end up at Guantanamo Bay. Oliver Lindberg...</p></details>
+   Link:<a href="https://medium.com/the-lindberg-[interviews" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-lindberg-[interviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with UFO hacker Gary McKinnonGary McKinnon has been branded an evil hacker and could end up at Guantanamo Bay. Oliver Lindberg...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hr2bdp/the_ufo_described_by_gary_mckinnon_looks_exactly/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: spreaker.com  
    Title: gary mckinnon the hacker who found nasa s ufo non terrestrial officers 70473181  
-   Link: <a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: music.amazon.com  
    Title: lehto files investigating uaps gary mckinnon exposes nasa’s hidden ufo files  
-   Link: <a href="https://music.amazon.com/es-co/podcasts/27d886d5-2c6c-4617-8451-5c41b54ce230/episodes/81c3e694-b4f9-4b34-8bf0-74235b75bcf8/lehto-files---investigating-uaps-gary-mckinnon-exposes-nasa%E2%80%99s-hidden-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/27d886d5-2c6c-4617-8451-5c41b54ce230/episodes/81c3e694-b4f9-4b34-8bf0-74235b75bcf8/lehto-files---investigating-uaps-gary-mckinnon-exposes-nasa%E2%80%99s-hidden-ufo-files</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon Exposes NASA&#x27;s Hidden UFO FilesJun 30, 2024 — Dive into the fascinating story of Gary McKinnon, the man behind the &quot;biggest mili...</p></details>
+   Link:<a href="https://music.amazon.com/es-co/podcasts/27d886d5-2c6c-4617-8451-5c41b54ce230/episodes/81c3e694-b4f9-4b34-8bf0-74235b75bcf8/lehto-files---investigating-uaps-gary-mckinnon-exposes-nasa%E2%80%99s-hidden-ufo-files" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/27d886d5-2c6c-4617-8451-5c41b54ce230/episodes/81c3e694-b4f9-4b34-8bf0-74235b75bcf8/lehto-files---investigating-uaps-gary-mckinnon-exposes-nasa%E2%80%99s-hidden-ufo-files</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon Exposes NASA&#x27;s Hidden UFO FilesJun 30, 2024 — Dive into the fascinating story of Gary McKinnon, the man behind the &quot;biggest mili...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking NASA Secrets (Season 12, Episode 9) | HistoryComputer hacker, Gary McKinnon, claims to have uncovered undeniable proof of the Maj...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking NASA Secrets (Season 12, Episode 9) | HistoryComputer hacker, Gary McKinnon, claims to have uncovered undeniable proof of the Maj...</p></details>

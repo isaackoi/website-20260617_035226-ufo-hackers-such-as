@@ -274,11 +274,11 @@ image: /assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusi
 
 ## Introduction
 
-The Gary McKinnon case is often remembered because of its UFO-related [motive]({{ 'motive/' | relative_url }}), but one of its most durable cybersecurity [lessons]({{ 'lessons/' | relative_url }}) concerns evidence. When an attacker has already gained access to systems and administrative accounts, the most important question is often not how they entered but whether defenders can still see what happened. US prosecutors alleged that McKinnon accessed and damaged dozens of military and NASA systems between 2001 and 2002, creating a complex investigation that depended on reconstructing activity across many networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+The Gary McKinnon case is often remembered because of its UFO-related [motive]({{ 'motive/' | relative_url }}), but one of its most durable cybersecurity [lessons]({{ 'lessons/' | relative_url }}) concerns evidence. When an attacker has already gained access to systems and administrative accounts, the most important question is often not how they entered but whether defenders can still see what happened. US prosecutors alleged that McKinnon accessed and damaged dozens of military and NASA systems between 2001 and 2002, creating a complex investigation that depended on reconstructing activity across many networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-1-dark.svg" | relative_url }}" alt="Usable Logs illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For incident responders, logs are only valuable if they survive the incident itself. A compromised machine may no longer be a trustworthy source of evidence. The practical lesson is straightforward: organisations need logging systems that remain available, intact and searchable even after an attacker has touched servers, workstations or [privileged accounts]({{ 'admin-accounts/' | relative_url }}). Modern guidance from NIST and CISA repeatedly emphasises centralised collection, protection against tampering and sufficient detail for investigation. NIST Publications+2NIST Computer Security Resource Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nvlpubs.nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
+For incident responders, logs are only valuable if they survive the incident itself. A compromised machine may no longer be a trustworthy source of evidence. The practical lesson is straightforward: organisations need logging systems that remain available, intact and searchable even after an attacker has touched servers, workstations or [privileged accounts]({{ 'admin-accounts/' | relative_url }}). Modern guidance from NIST and CISA repeatedly emphasises centralised collection, protection against tampering and sufficient detail for investigation. NIST Publications+2NIST Computer Security Resource Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nvlpubs.nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
 
 ## Can Your Logs Survive the Intruder?
 
@@ -287,7 +287,7 @@ An intrusion creates immediate pressure on responders. Within minutes they may n
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
-* Which accounts were used? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isaca.org/resources/isaca-journal/issues/2023/volume-4/log-management-as-an-enabler-for-data-protection-and-automated-threat-detection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaca.org">[isaca.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaca.org</span><span class="citation-popover-title">log management as an enabler for data protection and automated threat detection</span><span class="citation-popover-snippet">Log Management as an Enabler for Data Protection and...Jul 5, 2023 — A proposed framework can be used to fast-track a log management pro...</span></span></span>
+* Which accounts were used?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.isaca.org/resources/isaca-journal/issues/2023/volume-4/log-management-as-an-enabler-for-data-protection-and-automated-threat-detection" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: isaca.org">[isaca.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">isaca.org</span><span class="citation-popover-title">log management as an enabler for data protection and automated threat detection</span><span class="citation-popover-snippet">Log Management as an Enabler for Data Protection and...Jul 5, 2023 — A proposed framework can be used to fast-track a log management pro...</span></span></span>
 * Which systems were accessed?
 * When did the activity begin?
 * What administrative actions were performed?
@@ -296,9 +296,9 @@ An intrusion creates immediate pressure on responders. Within minutes they may n
 
 </div>
 
-These questions cannot be answered reliably if the evidence has disappeared. Security logging is therefore not simply about recording events; it is about preserving a trustworthy record that remains available when systems are under attack. NIST's guidance on log management stresses that logs support security monitoring, forensic analysis and incident response across the enterprise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
+These questions cannot be answered reliably if the evidence has disappeared. Security logging is therefore not simply about recording events; it is about preserving a trustworthy record that remains available when systems are under attack. NIST's guidance on log management stresses that logs support security monitoring, forensic analysis and incident response across the enterprise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
 
-The McKinnon case illustrates why this matters. Investigators dealing with alleged access to numerous military and NASA systems had to understand activity across multiple environments rather than examining a single compromised computer. Large-scale incidents quickly become difficult to reconstruct if records are fragmented or lost. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+The McKinnon case illustrates why this matters. Investigators dealing with alleged access to numerous military and NASA systems had to understand activity across multiple environments rather than examining a single compromised computer. Large-scale incidents quickly become difficult to reconstruct if records are fragmented or lost.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -309,15 +309,15 @@ During an active intrusion, speed matters. A useful logging strategy prioritises
 
 ### Account and Privilege Activity
 
-Compromised credentials are often involved in major breaches. Logs should clearly show successful and failed logins, privilege escalation, account creation, password changes and administrative actions. Without these records, responders may know that a system was compromised without understanding how control was maintained. CISA specifically highlights user activity and administrator actions as high-value logging categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA+2CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Use Logging on Business SystemsLogging and monitoring empower your team to spot and respond to threats faster. Centralize your logs w...</span></span></span>
+Compromised credentials are often involved in major breaches. Logs should clearly show successful and failed logins, privilege escalation, account creation, password changes and administrative actions. Without these records, responders may know that a system was compromised without understanding how control was maintained. CISA specifically highlights user activity and administrator actions as high-value logging categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Use Logging on Business SystemsLogging and monitoring empower your team to spot and respond to threats faster. Centralize your logs w...</span></span></span>
 
 ### System Changes
 
-Attackers frequently modify systems after gaining access. They may install tools, alter configurations, disable security software or create persistence mechanisms. Detailed event records help responders determine whether suspicious changes occurred before, during or after a compromise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
+Attackers frequently modify systems after gaining access. They may install tools, alter configurations, disable security software or create persistence mechanisms. Detailed event records help responders determine whether suspicious changes occurred before, during or after a compromise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
 
 ### Movement Across the Environment
 
-A single compromised machine is often only the starting point. Centralised logs make it possible to connect events across endpoints, servers, network devices and cloud services. This broader view helps investigators identify whether an incident is isolated or part of a wider campaign. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://industrialcyber.co/cisa/transnational-cybersecurity-agencies-release-guide-on-event-logging-best-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: industrialcyber.co">[Industrial Cyber+2Huntress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">industrialcyber.co</span><span class="citation-popover-snippet">Industrial CyberTransnational cybersecurity agencies release guide on...Aug 26, 2024 — The document addresses that organizations impleme...</span></span></span>
+A single compromised machine is often only the starting point. Centralised logs make it possible to connect events across endpoints, servers, network devices and cloud services. This broader view helps investigators identify whether an incident is isolated or part of a wider campaign.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://industrialcyber.co/cisa/transnational-cybersecurity-agencies-release-guide-on-event-logging-best-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: industrialcyber.co">[industrialcyber.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">industrialcyber.co</span><span class="citation-popover-snippet">Industrial CyberTransnational cybersecurity agencies release guide on...Aug 26, 2024 — The document addresses that organizations impleme...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-2-dark.svg" | relative_url }}" alt="Usable Logs illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -325,11 +325,11 @@ A single compromised machine is often only the starting point. Centralised logs 
 
 The most common logging mistake is assuming that a machine can safely store evidence about its own compromise.
 
-If an attacker gains administrative control, local logs become vulnerable. Records may be deleted, altered, overwritten or disabled entirely. Even when an attacker makes no deliberate attempt to erase evidence, limited storage can cause older events to disappear before investigators arrive. NIST identifies protection and management of log data as a core requirement because security records themselves become targets during incidents. NIST Publications+2NIST Computer Security Resource Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nvlpubs.nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
+If an attacker gains administrative control, local logs become vulnerable. Records may be deleted, altered, overwritten or disabled entirely. Even when an attacker makes no deliberate attempt to erase evidence, limited storage can cause older events to disappear before investigators arrive. NIST identifies protection and management of log data as a core requirement because security records themselves become targets during incidents. NIST Publications+2NIST Computer Security Resource Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nvlpubs.nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
 
 There is also a trust problem. Once a system has been compromised, investigators must consider whether local evidence has been manipulated. A missing event may indicate either that the event never occurred or that someone removed the record. The uncertainty slows investigations and complicates recovery decisions.
 
-Modern attackers increasingly use legitimate administrative tools and built-in operating system functions rather than obviously malicious software. Guidance on event logging and threat detection notes that these "living off the land" techniques can evade simple detection approaches, making comprehensive and well-preserved logs even more important. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hipaajournal.com/guidance-best-practices-for-event-logging-threat-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hipaajournal.com">[The HIPAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hipaajournal.com</span><span class="citation-popover-title">guidance best practices for event logging threat detection</span><span class="citation-popover-snippet">The HIPAA JournalCISA &amp; Partners Issue Guidance &amp; Best Practices for Event...Aug 22, 2024 — The guidance can help network defenders defi...</span></span></span>
+Modern attackers increasingly use legitimate administrative tools and built-in operating system functions rather than obviously malicious software. Guidance on event logging and threat detection notes that these "living off the land" techniques can evade simple detection approaches, making comprehensive and well-preserved logs even more important.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hipaajournal.com/guidance-best-practices-for-event-logging-threat-detection/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hipaajournal.com">[The HIPAA Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hipaajournal.com</span><span class="citation-popover-title">guidance best practices for event logging threat detection</span><span class="citation-popover-snippet">The HIPAA JournalCISA &amp; Partners Issue Guidance &amp; Best Practices for Event...Aug 22, 2024 — The guidance can help network defenders defi...</span></span></span>
 
 ## How Central Retention and Tamper Protection Improve Response
 
@@ -340,9 +340,9 @@ The strongest defence against log loss is to move records away from the systems 
 
 ### Central Collection
 
-Centralised logging sends events from servers, endpoints, network devices and applications to a separate repository. If one machine is compromised, its records already exist elsewhere. CISA recommends centralising logs because it improves both detection and investigation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Use Logging on Business SystemsLogging and monitoring empower your team to spot and respond to threats faster. Centralize your logs w...</span></span></span>
+Centralised logging sends events from servers, endpoints, network devices and applications to a separate repository. If one machine is compromised, its records already exist elsewhere. CISA recommends centralising logs because it improves both detection and investigation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Use Logging on Business SystemsLogging and monitoring empower your team to spot and respond to threats faster. Centralize your logs w...</span></span></span>
 
-Central collection also allows correlation. A suspicious login on one machine can be linked to network activity, authentication events and administrative actions elsewhere. Patterns that appear harmless in isolation become visible when viewed together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://industrialcyber.co/cisa/transnational-cybersecurity-agencies-release-guide-on-event-logging-best-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: industrialcyber.co">[Industrial Cyber+2Huntress]</a><span class="citation-popover" role="note"><span class="citation-popover-source">industrialcyber.co</span><span class="citation-popover-snippet">Industrial CyberTransnational cybersecurity agencies release guide on...Aug 26, 2024 — The document addresses that organizations impleme...</span></span></span>
+Central collection also allows correlation. A suspicious login on one machine can be linked to network activity, authentication events and administrative actions elsewhere. Patterns that appear harmless in isolation become visible when viewed together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://industrialcyber.co/cisa/transnational-cybersecurity-agencies-release-guide-on-event-logging-best-practices/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: industrialcyber.co">[industrialcyber.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">industrialcyber.co</span><span class="citation-popover-snippet">Industrial CyberTransnational cybersecurity agencies release guide on...Aug 26, 2024 — The document addresses that organizations impleme...</span></span></span>
 
 ### Tamper Resistance
 
@@ -359,13 +359,13 @@ Good log management assumes attackers may try to remove evidence. Organisations 
 
 </div>
 
-The goal is not to make tampering impossible but to make it detectable and difficult. NIST guidance repeatedly stresses protecting log integrity and securing log information from unauthorised modification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications+2Obsidian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
+The goal is not to make tampering impossible but to make it detectable and difficult. NIST guidance repeatedly stresses protecting log integrity and securing log information from unauthorised modification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-3-dark.svg" | relative_url }}" alt="Usable Logs illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7_intrusion_logging_e2644a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Out-of-Band Storage
 
-Recent CISA incident-response guidance goes further by recommending aggregation of logs in a central, out-of-band location. The idea is simple: if attackers compromise production systems, defenders should still possess an independent source of evidence outside the affected environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-266a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">CISA Shares Lessons Learned from an Incident Response...Sep 23, 2025 — Prepare for incidents by implementing comprehensive and verbo...</span></span></span>
+Recent CISA incident-response guidance goes further by recommending aggregation of logs in a central, out-of-band location. The idea is simple: if attackers compromise production systems, defenders should still possess an independent source of evidence outside the affected environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-266a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">CISA Shares Lessons Learned from an Incident Response...Sep 23, 2025 — Prepare for incidents by implementing comprehensive and verbo...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/f2SonhJ3Iy8" title="The Breach Happened — But the Logs Are Silent #auditsecintel #aisecintel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=f2SonhJ3Iy8" target="_blank" rel="noopener noreferrer">The Breach Happened — But the Logs Are Silent #auditsecintel #aisecintel</a></p><p class="youtube-embed-meta">Channel: Dr. Deep Pandey</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=f2SonhJ3Iy8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=f2SonhJ3Iy8">Open on YouTube</a></p></div></div></div>
@@ -374,197 +374,197 @@ Recent CISA incident-response guidance goes further by recommending aggregation 
 
 The McKinnon case is frequently discussed in terms of passwords, access controls and vulnerable systems. An equally important lesson is that organisations must plan for the moment when prevention fails.
 
-Usable logs are not merely records of past events. They are a resilience mechanism. They allow responders to reconstruct actions, measure impact, identify affected systems and make informed decisions during a crisis. When logs remain centralised, protected and sufficiently detailed, defenders retain visibility even after an attacker has gained a foothold. When logs exist only on compromised machines, the investigation may begin with [missing evidence]({{ 'missing-evidence/' | relative_url }}) and unanswered questions. CISA+3NIST Publications+3NIST Computer Security Resource Center <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nvlpubs.nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
+Usable logs are not merely records of past events. They are a resilience mechanism. They allow responders to reconstruct actions, measure impact, identify affected systems and make informed decisions during a crisis. When logs remain centralised, protected and sufficiently detailed, defenders retain visibility even after an attacker has gained a foothold. When logs exist only on compromised machines, the investigation may begin with [missing evidence]({{ 'missing-evidence/' | relative_url }}) and unanswered questions. CISA+3NIST Publications+3NIST Computer Security Resource Center<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[nvlpubs.nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">It describes several controls related to log management.Read more...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can Your Logs Survive the Intruder?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can Your Logs Survive the Intruder?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Ross Anderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
+</h4>
+<p class="fr-book-author">By Ross Anderson</p>
         
-        <p class="fr-book-desc">Covers secure system design and auditability.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers secure system design and auditability.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
-        </h4>
-        <p class="fr-book-author">By Richard Bejtlich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
+</h4>
+<p class="fr-book-author">By Richard Bejtlich</p>
         
-        <p class="fr-book-desc">Directly relevant to logging, evidence, and incident response.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to logging, evidence, and incident response.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blue Team Handbook: Incident Response Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1f7doQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Blue Team Handbook: Incident Response Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Team Handbook: Incident Response Edition">Blue Team Handbook: Incident Response Edition</a>
-        </h4>
-        <p class="fr-book-author">By D. W. Murdoch, Don Murdoch Gse</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Blue Team Handbook: Incident Response Edition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1f7doQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Blue Team Handbook: Incident Response Edition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Team Handbook: Incident Response Edition">Blue Team Handbook: Incident Response Edition</a>
+</h4>
+<p class="fr-book-author">By D. W. Murdoch, Don Murdoch Gse</p>
         
-        <p class="fr-book-desc">Focused on investigation and response workflows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focused on investigation and response workflows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Blue+Team+Handbook%3A+Incident+Response+Edition+by+D.+W.+Murdoch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Shows the importance of evidence and tracking attacker activity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Shows the importance of evidence and tracking attacker activity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Blue+Team+%3A+Incident+Response+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blue Team : Incident Response Edition books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Blue+Team+%3A+Incident+Response+Edition+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Blue Team : Incident Response Edition books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="{{ '/assets/images/marketplace-covers/c3c283f64012fdbafecd.jpg' | relative_url }}" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/8WUAAeSwMFNpFyL3/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="usable-logs-can-your-logs-survive-the-intruder-ufo-hackers-such-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-your-logs-survive-the-intruder-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-your-logs-survive-the-intruder-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -580,7 +580,7 @@ Usable logs are not merely records of past events. They are a resilience mechani
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -600,7 +600,7 @@ Usable logs are not merely records of past events. They are a resilience mechani
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -632,7 +632,7 @@ Usable logs are not merely records of past events. They are a resilience mechani
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -684,7 +684,7 @@ Usable logs are not merely records of past events. They are a resilience mechani
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -729,7 +729,7 @@ Usable logs are not merely records of past events. They are a resilience mechani
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -770,183 +770,183 @@ Usable logs are not merely records of past events. They are a resilience mechani
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for [intrusions](&amp;#123;&amp;#123; &#x27;intrusions/&#x27; | relative_url &amp;#125;&amp;#125;) into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for [intrusions](&amp;#123;&amp;#123; &#x27;intrusions/&#x27; | relative_url &amp;#125;&amp;#125;) into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: nvlpubs.nist.gov  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It describes several controls related to log management.Read more...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-92.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It describes several controls related to log management.Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: csrc.nist.gov  
-   Link: <a href="https://csrc.nist.gov/pubs/sp/800/92/final" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/pubs/sp/800/92/final</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Computer Security Resource CenterSP 800-92, Guide to Computer Security Log Managementby K Kent · 2006 · Cited by 515 — This publicat...</p></details>
+   Link:<a href="https://csrc.nist.gov/pubs/sp/800/92/final" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/pubs/sp/800/92/final</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Computer Security Resource CenterSP 800-92, Guide to Computer Security Log Managementby K Kent · 2006 · Cited by 515 — This publicat...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Use Logging on Business SystemsLogging and monitoring empower your team to spot and respond to threats faster. Centralize your logs w...</p></details>
+   Link:<a href="https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/audiences/small-and-medium-businesses/secure-your-business/use-logging-on-business-systems</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Use Logging on Business SystemsLogging and monitoring empower your team to spot and respond to threats faster. Centralize your logs w...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cisa.gov  
    Title: It was developed by the Australian Signals Directorate.Read more  
-   Link: <a href="https://www.cisa.gov/resources-tools/resources/best-practices-event-logging-and-threat-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/best-practices-event-logging-and-threat-detection</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Event Logging and Threat DetectionAug 21, 2024 — This publication defines a baseline for event logging best practi...</p></details>
+   Link:<a href="https://www.cisa.gov/resources-tools/resources/best-practices-event-logging-and-threat-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/best-practices-event-logging-and-threat-detection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best Practices for Event Logging and Threat DetectionAug 21, 2024 — This publication defines a baseline for event logging best practi...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: huntress.com  
    Title: What Is Centralized Logging?  
-   Link: <a href="https://www.huntress.com/cybersecurity-101/topic/centralized-logging" target="_blank" rel="noopener noreferrer nofollow">https://www.huntress.com/cybersecurity-101/topic/centralized-logging</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits for Security TeamsOct 3, 2025 — Cybersecurity teams use centralized logging to: Respond faster: Detect and investigate threats a...</p></details>
+   Link:<a href="https://www.huntress.com/cybersecurity-101/topic/centralized-logging" target="_blank" rel="noopener noreferrer nofollow">https://www.huntress.com/cybersecurity-101/topic/centralized-logging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Benefits for Security TeamsOct 3, 2025 — Cybersecurity teams use centralized logging to: Respond faster: Detect and investigate threats a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: publish.obsidian.md  
    Title: NIST Special Publication 800-92  
-   Link: <a href="https://publish.obsidian.md/addielamarr/NIST%2BSpecial%2BPublication%2B800-92" target="_blank" rel="noopener noreferrer nofollow">https://publish.obsidian.md/addielamarr/NIST%2BSpecial%2BPublication%2B800-92</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Special Publication 800-92 - addielamarrApr 14, 2024 — Secure log information: Ensure that logs are protected against unauthorized access...</p></details>
+   Link:<a href="https://publish.obsidian.md/addielamarr/NIST%2BSpecial%2BPublication%2B800-92" target="_blank" rel="noopener noreferrer nofollow">https://publish.obsidian.md/addielamarr/NIST%2BSpecial%2BPublication%2B800-92</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Special Publication 800-92 - addielamarrApr 14, 2024 — Secure log information: Ensure that logs are protected against unauthorized access...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/resources-tools/services/logging-made-easy" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/services/logging-made-easy</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Logging Made EasyCISA&#x27;s Logging Made Easy (LME) is a centralized, no-cost log management and threat detection solution for small to mediu...</p></details>
+   Link:<a href="https://www.cisa.gov/resources-tools/services/logging-made-easy" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/services/logging-made-easy</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Logging Made EasyCISA&#x27;s Logging Made Easy (LME) is a centralized, no-cost log management and threat detection solution for small to mediu...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: csrc.nist.gov  
-   Link: <a href="https://csrc.nist.gov/pubs/sp/800/92/r1/ipd" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/pubs/sp/800/92/r1/ipd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Computer Security Resource CenterCybersecurity Log Management Planning Guideby K Scarfone · 2023 · Cited by 9 — This document define...</p></details>
+   Link:<a href="https://csrc.nist.gov/pubs/sp/800/92/r1/ipd" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/pubs/sp/800/92/r1/ipd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST Computer Security Resource CenterCybersecurity Log Management Planning Guideby K Scarfone · 2023 · Cited by 9 — This document define...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-266a" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-266a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA Shares Lessons Learned from an Incident Response...Sep 23, 2025 — Prepare for incidents by implementing comprehensive and verbo...</p></details>
+   Link:<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-266a" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-266a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CISA Shares Lessons Learned from an Incident Response...Sep 23, 2025 — Prepare for incidents by implementing comprehensive and verbo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IndictmentDefendant GARY MCKINNON was an unemployed computer system administrator... conduct, intentionally caused damage without author...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IndictmentDefendant GARY MCKINNON was an unemployed computer system administrator... conduct, intentionally caused damage without author...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: csrc.nist.gov  
    Title: log management  
-   Link: <a href="https://csrc.nist.gov/projects/log-management" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/projects/log-management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management | CSRCApr 28, 2021 — The main content of the new SP 800-92 Revision 1 is a playbook for cybersecurity log management planning...</p></details>
+   Link:<a href="https://csrc.nist.gov/projects/log-management" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.gov/projects/log-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management | CSRCApr 28, 2021 — The main content of the new SP 800-92 Revision 1 is a playbook for cybersecurity log management planning...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nvlpubs.nist.gov  
    Title: SP.800 92r1.ipd  
-   Link: <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-92r1.ipd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-92r1.ipd.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Log Management Planning GuideOct 11, 2023 — Note: The original NIST SP 800-92 [SP800-92] used the term “log archival” instead of “cold da...</p></details>
+   Link:<a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-92r1.ipd.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-92r1.ipd.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Log Management Planning GuideOct 11, 2023 — Note: The original NIST SP 800-92 [SP800-92] used the term “log archival” instead of “cold da...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: csrc.nist.rip  
    Title: SP800 92  
-   Link: <a href="https://csrc.nist.rip/publications/nistpubs/800-92/SP800-92.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.rip/publications/nistpubs/800-92/SP800-92.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SP 800-92, Guide to Computer Security Log ManagementSP 800-92, Guide to Computer Security Log Management (September 2006), is available a...</p></details>
+   Link:<a href="https://csrc.nist.rip/publications/nistpubs/800-92/SP800-92.pdf" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.rip/publications/nistpubs/800-92/SP800-92.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SP 800-92, Guide to Computer Security Log ManagementSP 800-92, Guide to Computer Security Log Management (September 2006), is available a...</p></details>
    Published: September 2006  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: csrc.nist.rip  
    Title: rip Log Management  
-   Link: <a href="https://csrc.nist.rip/Projects/log-management" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.rip/Projects/log-management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management - CSRCApr 28, 2021 — The revised SP 800-92 will focus on log management principles, processes, procedures, and planning for or...</p></details>
+   Link:<a href="https://csrc.nist.rip/Projects/log-management" target="_blank" rel="noopener noreferrer nofollow">https://csrc.nist.rip/Projects/log-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management - CSRCApr 28, 2021 — The revised SP 800-92 will focus on log management principles, processes, procedures, and planning for or...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: huntress.com  
    Title: log management  
-   Link: <a href="https://www.huntress.com/cybersecurity-101/topic/log-management" target="_blank" rel="noopener noreferrer nofollow">https://www.huntress.com/cybersecurity-101/topic/log-management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Log Management in Cybersecurity3 Oct 2025 — Log management is the centralized process of collecting, storing, processing, and rev...</p></details>
+   Link:<a href="https://www.huntress.com/cybersecurity-101/topic/log-management" target="_blank" rel="noopener noreferrer nofollow">https://www.huntress.com/cybersecurity-101/topic/log-management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Log Management in Cybersecurity3 Oct 2025 — Log management is the centralized process of collecting, storing, processing, and rev...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: industrialcyber.co  
-   Link: <a href="https://industrialcyber.co/cisa/transnational-cybersecurity-agencies-release-guide-on-event-logging-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://industrialcyber.co/cisa/transnational-cybersecurity-agencies-release-guide-on-event-logging-best-practices/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Industrial CyberTransnational cybersecurity agencies release guide on...Aug 26, 2024 — The document addresses that organizations impleme...</p></details>
+   Link:<a href="https://industrialcyber.co/cisa/transnational-cybersecurity-agencies-release-guide-on-event-logging-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://industrialcyber.co/cisa/transnational-cybersecurity-agencies-release-guide-on-event-logging-best-practices/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Industrial CyberTransnational cybersecurity agencies release guide on...Aug 26, 2024 — The document addresses that organizations impleme...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: hipaajournal.com  
    Title: guidance best practices for event logging threat detection  
-   Link: <a href="https://www.hipaajournal.com/guidance-best-practices-for-event-logging-threat-detection/" target="_blank" rel="noopener noreferrer nofollow">https://www.hipaajournal.com/guidance-best-practices-for-event-logging-threat-detection/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The HIPAA JournalCISA &amp; Partners Issue Guidance &amp; Best Practices for Event...Aug 22, 2024 — The guidance can help network defenders defi...</p></details>
+   Link:<a href="https://www.hipaajournal.com/guidance-best-practices-for-event-logging-threat-detection/" target="_blank" rel="noopener noreferrer nofollow">https://www.hipaajournal.com/guidance-best-practices-for-event-logging-threat-detection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The HIPAA JournalCISA &amp; Partners Issue Guidance &amp; Best Practices for Event...Aug 22, 2024 — The guidance can help network defenders defi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonIn November 2002, McKinnon was indicted by a federal grand jury in the Eastern District of Virginia. The indictment conta...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonIn November 2002, McKinnon was indicted by a federal grand jury in the Eastern District of Virginia. The indictment conta...</p></details>
    Published: November 2002  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: criminal.laws.com  
    Title: gary mckinnon  
-   Link: <a href="https://criminal.laws.com/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://criminal.laws.com/gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon - LAWS.com - Criminal22 Dec 2019 — He came to the attention of law enforcement authorities when he hacked into 97 computers betw...</p></details>
+   Link:<a href="https://criminal.laws.com/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://criminal.laws.com/gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon - LAWS.com - Criminal22 Dec 2019 — He came to the attention of law enforcement authorities when he hacked into 97 computers betw...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on Gary McKinnon case4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerne...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on Gary McKinnon case4 Nov 2010 — Mr McKinnon is accused by US authorities of the unauthorised access of 97 government computers concerne...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: guinnessworldrecords.de  
-   Link: <a href="https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Biggest military computer hackGary McKinnon, a 42-year old Englishman, is accused of hacking into 97 US military computers (53 US Army, 2...</p></details>
+   Link:<a href="https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack" target="_blank" rel="noopener noreferrer nofollow">https://guinnessworldrecords.de/world-records/90133-biggest-military-computer-hack</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biggest military computer hackGary McKinnon, a 42-year old Englishman, is accused of hacking into 97 US military computers (53 US Army, 2...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/nist-80092-log-management-guide-in-the-real-world/172260" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/nist-80092-log-management-guide-in-the-real-world/172260</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST 800-92 Log Management Guide in the Real World | PPTThe document outlines the NIST 800-92 Log Management Guide, focusing on effective...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/nist-80092-log-management-guide-in-the-real-world/172260" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/nist-80092-log-management-guide-in-the-real-world/172260</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIST 800-92 Log Management Guide in the Real World | PPTThe document outlines the NIST 800-92 Log Management Guide, focusing on effective...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: over 3000 downloads and countingcisas logging made easy lme is a no cost logging  
-   Link: <a href="https://www.facebook.com/CISA/videos/over-3000-downloads-and-countingcisas-logging-made-easy-lme-is-a-no-cost-logging/1206529520981869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CISA/videos/over-3000-downloads-and-countingcisas-logging-made-easy-lme-is-a-no-cost-logging/1206529520981869/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OVER 3,000 DOWNLOADS AND COUNTING! CISA&#x27;s Logging...CISA&#x27;s Logging Made Easy (LME) is a no-cost logging solution that helps smaller orga...</p></details>
+   Link:<a href="https://www.facebook.com/CISA/videos/over-3000-downloads-and-countingcisas-logging-made-easy-lme-is-a-no-cost-logging/1206529520981869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CISA/videos/over-3000-downloads-and-countingcisas-logging-made-easy-lme-is-a-no-cost-logging/1206529520981869/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OVER 3,000 DOWNLOADS AND COUNTING! CISA&#x27;s Logging...CISA&#x27;s Logging Made Easy (LME) is a no-cost logging solution that helps smaller orga...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: aha.org  
-   Link: <a href="https://www.aha.org/news/headline/2024-09-06-cisa-releases-guidance-best-practices-event-logging-and-cyberthreat-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.aha.org/news/headline/2024-09-06-cisa-releases-guidance-best-practices-event-logging-and-cyberthreat-detection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Hospital AssociationCISA releases guidance on best practices for event logging...Sep 6, 2024 — This document provides guidance...</p></details>
+   Link:<a href="https://www.aha.org/news/headline/2024-09-06-cisa-releases-guidance-best-practices-event-logging-and-cyberthreat-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.aha.org/news/headline/2024-09-06-cisa-releases-guidance-best-practices-event-logging-and-cyberthreat-detection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Hospital AssociationCISA releases guidance on best practices for event logging...Sep 6, 2024 — This document provides guidance...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/329973435_NIST_Special_Publication_800-92_Guide_to_Computer_Security_Log_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329973435_NIST_Special_Publication_800-92_Guide_to_Computer_Security_Log_Management</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) NIST Special Publication 800-92, Guide to Computer...Dec 28, 2018 — NIST Special Publication 800-92, Guide to Computer Security Lo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/329973435_NIST_Special_Publication_800-92_Guide_to_Computer_Security_Log_Management" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329973435_NIST_Special_Publication_800-92_Guide_to_Computer_Security_Log_Management</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) NIST Special Publication 800-92, Guide to Computer...Dec 28, 2018 — NIST Special Publication 800-92, Guide to Computer Security Lo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: isaca.org  
    Title: log management as an enabler for data protection and automated threat detection  
-   Link: <a href="https://www.isaca.org/resources/isaca-journal/issues/2023/volume-4/log-management-as-an-enabler-for-data-protection-and-automated-threat-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.isaca.org/resources/isaca-journal/issues/2023/volume-4/log-management-as-an-enabler-for-data-protection-and-automated-threat-detection</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Log Management as an Enabler for Data Protection and...Jul 5, 2023 — A proposed framework can be used to fast-track a log management pro...</p></details>
+   Link:<a href="https://www.isaca.org/resources/isaca-journal/issues/2023/volume-4/log-management-as-an-enabler-for-data-protection-and-automated-threat-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.isaca.org/resources/isaca-journal/issues/2023/volume-4/log-management-as-an-enabler-for-data-protection-and-automated-threat-detection</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Log Management as an Enabler for Data Protection and...Jul 5, 2023 — A proposed framework can be used to fast-track a log management pro...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=AZFV6ZOLg7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AZFV6ZOLg7s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA&#x27;s Logging Made Easy (LME)CISA&#x27;s Logging Made Easy (LME) is a no-cost, centralized log management and threat detection solution desig...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=AZFV6ZOLg7s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AZFV6ZOLg7s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CISA&#x27;s Logging Made Easy (LME)CISA&#x27;s Logging Made Easy (LME) is a no-cost, centralized log management and threat detection solution desig...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. GovernmentGary McKinnon faced 60 years behind bars for the greatest U.S. military hack of all time. Go to my...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. GovernmentGary McKinnon faced 60 years behind bars for the greatest U.S. military hack of all time. Go to my...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: nextgov.com  
    Title: cisa tells agencies what prioritize meet cybersecurity log mandate  
-   Link: <a href="https://www.nextgov.com/cybersecurity/2023/02/cisa-tells-agencies-what-prioritize-meet-cybersecurity-log-mandate/383333/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/cybersecurity/2023/02/cisa-tells-agencies-what-prioritize-meet-cybersecurity-log-mandate/383333/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CISA Tells Agencies What to Prioritize to Meet...Feb 27, 2023 — The guidance document also explains how CISA and the FBI will work with...</p></details>
+   Link:<a href="https://www.nextgov.com/cybersecurity/2023/02/cisa-tells-agencies-what-prioritize-meet-cybersecurity-log-mandate/383333/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/cybersecurity/2023/02/cisa-tells-agencies-what-prioritize-meet-cybersecurity-log-mandate/383333/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CISA Tells Agencies What to Prioritize to Meet...Feb 27, 2023 — The guidance document also explains how CISA and the FBI will work with...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: itnews.com.au  
    Title: profile gary mckinnon mastermind behind us military hack 82789  
-   Link: <a href="https://www.itnews.com.au/feature/profile-gary-mckinnon-mastermind-behind-us-military-hack-82789" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/feature/profile-gary-mckinnon-mastermind-behind-us-military-hack-82789</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Profile: Gary McKinnon mastermind behind US military hack4 Jun 2007 — Gary McKinnon is accused of illegally accessing 98 computers, vario...</p></details>
+   Link:<a href="https://www.itnews.com.au/feature/profile-gary-mckinnon-mastermind-behind-us-military-hack-82789" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/feature/profile-gary-mckinnon-mastermind-behind-us-military-hack-82789</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Profile: Gary McKinnon mastermind behind US military hack4 Jun 2007 — Gary McKinnon is accused of illegally accessing 98 computers, vario...</p></details>

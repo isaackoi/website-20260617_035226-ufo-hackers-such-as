@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-uap-reviews/
 description: Focused pages that expand on UAP Reviews.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_uap_reviews_vs_claim_ab09ad
 parent_title: UAP Reviews
@@ -16,7 +16,7 @@ parent_permalink: /uap-reviews/
 
 # Explore Topics in UAP Reviews
 
-The following pages expand on the main **[UAP Reviews]({{ '/uap-reviews/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[UAP Reviews]({{ '/uap-reviews/' | relative_url }})** page and cover its key branches in.
 
 - [Balloon Cases]({{ '/balloon-cases/' | relative_url }})
 - [Unresolved Cases]({{ '/unresolved-cases/' | relative_url }})

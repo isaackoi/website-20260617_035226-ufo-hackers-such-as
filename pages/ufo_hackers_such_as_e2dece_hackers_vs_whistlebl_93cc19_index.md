@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-hackers-vs/
 description: Focused pages that expand on Whistleblowers.
-date: '2026-06-16'
+date: '2026'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_hackers_vs_whistlebl_93cc19
 parent_title: Whistleblowers
@@ -16,7 +16,7 @@ parent_permalink: /whistleblowers/
 
 # Explore Topics in Whistleblowers
 
-The following pages expand on the main **[Whistleblowers]({{ '/whistleblowers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Whistleblowers]({{ '/whistleblowers/' | relative_url }})** page and cover its key branches in.
 
 - [Legal Risk]({{ '/legal-risk/' | relative_url }})
 - [Insider Test]({{ '/insider-test/' | relative_url }})

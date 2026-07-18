@@ -445,17 +445,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c-overvi
 
 ## Introduction
 
-Gary McKinnon was not tried in Britain because, once his extradition to the United States had been blocked, UK prosecutors concluded that a domestic case would be practically weak and unlikely to produce a conviction matching the seriousness of the US allegations. The key point is often missed in [retellings]({{ 'retellings/' | relative_url }}) of the “UFO hacker” story: the absence of a UK trial was not a finding that McKinnon had done nothing wrong, nor did it validate his claims about UFO material. It was a prosecutorial decision about evidence, witnesses, forum and realistic prospects of conviction. In October 2012, Home Secretary Theresa May withdrew the extradition order on [human-rights]({{ 'human-rights/' | relative_url }}) grounds, saying the decision whether to prosecute in the UK would fall to the Director of Public Prosecutions. Two months later, the CPS and police decided there should be no further criminal action in Britain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">It will now be for the director of public prosecutions to decide whether ...Read more</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOctober 16, 2012 — 16 Oct 2012 — I have therefore withdrawn the extradition ord...</span></span></span>
+Gary McKinnon was not tried in Britain because, once his extradition to the United States had been blocked, UK prosecutors concluded that a domestic case would be practically weak and unlikely to produce a conviction matching the seriousness of the US allegations. The key point is often missed in [retellings]({{ 'retellings/' | relative_url }}) of the “UFO hacker” story: the absence of a UK trial was not a finding that McKinnon had done nothing wrong, nor did it validate his claims about UFO material. It was a prosecutorial decision about evidence, witnesses, forum and realistic prospects of conviction. In October 2012, Home Secretary Theresa May withdrew the extradition order on [human-rights]({{ 'human-rights/' | relative_url }}) grounds, saying the decision whether to prosecute in the UK would fall to the Director of Public Prosecutions. Two months later, the CPS and police decided there should be no further criminal action in Britain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">It will now be for the director of public prosecutions to decide whether ...Read more</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOctober 16, 2012 — 16 Oct 2012 — I have therefore withdrawn the extradition ord...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c-overview.webp" | relative_url }}" alt="Overview image for No UK Trial" loading="eager" decoding="sync" fetchpriority="high">
 ## The CPS decision
 
-The British decision followed a very specific sequence. For years, the official position had been that McKinnon should face proceedings in the United States because the alleged targets, damage, sensitive information and principal witnesses were American. In 2012 that route closed when Theresa May concluded that extradition would create such a high risk of suicide that it would be incompatible with McKinnon’s human rights. Her statement did not clear him; it simply stopped surrender to the US and passed the charging question back to the UK prosecution authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">It will now be for the director of public prosecutions to decide whether ...Read more</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOctober 16, 2012 — 16 Oct 2012 — I have therefore withdrawn the extradition ord...</span></span></span>
+The British decision followed a very specific sequence. For years, the official position had been that McKinnon should face proceedings in the United States because the alleged targets, damage, sensitive information and principal witnesses were American. In 2012 that route closed when Theresa May concluded that extradition would create such a high risk of suicide that it would be incompatible with McKinnon’s human rights. Her statement did not clear him; it simply stopped surrender to the US and passed the charging question back to the UK prosecution authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">It will now be for the director of public prosecutions to decide whether ...Read more</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statementOctober 16, 2012 — 16 Oct 2012 — I have therefore withdrawn the extradition ord...</span></span></span>
 
-The CPS then had to apply the ordinary prosecution test. Under the Code for Crown Prosecutors, a case should proceed only if prosecutors are satisfied there is enough admissible, credible and reliable evidence to provide a “realistic prospect of conviction”; if that evidential stage is not met, the case must not proceed, however serious or sensitive the allegation may be. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">code crown prosecutors</span><span class="citation-popover-snippet">4.6 Prosecutors must be satisfied that there is sufficient evidence to provide a realistic prospect of conviction against...Read more...</span></span></span>
+The CPS then had to apply the ordinary prosecution test. Under the Code for Crown Prosecutors, a case should proceed only if prosecutors are satisfied there is enough admissible, credible and reliable evidence to provide a “realistic prospect of conviction”; if that evidential stage is not met, the case must not proceed, however serious or sensitive the allegation may be.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">code crown prosecutors</span><span class="citation-popover-snippet">4.6 Prosecutors must be satisfied that there is sufficient evidence to provide a realistic prospect of conviction against...Read more...</span></span></span>
 
-That is the practical frame for the December 2012 outcome. Reports of the CPS-police decision state that a joint panel advised against a new criminal investigation and that the advice was accepted. Contemporary accounts attributed the decision to the poor prospects of securing a conviction in Britain, especially one that reflected the full extent of the alleged criminality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian+2The Times]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
+That is the practical frame for the December 2012 outcome. Reports of the CPS-police decision state that a joint panel advised against a new criminal investigation and that the advice was accepted. Contemporary accounts attributed the decision to the poor prospects of securing a conviction in Britain, especially one that reflected the full extent of the alleged criminality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[theguardian.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c-Illustration-1-dark.svg" | relative_url }}" alt="No UK Trial illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -463,7 +463,7 @@ That is the practical frame for the December 2012 outcome. Reports of the CPS-po
 
 At first glance, a UK prosecution could seem obvious. McKinnon was British, acted from Britain, and had publicly admitted unauthorised access to US systems in [interviews]({{ 'interviews/' | relative_url }}). But a criminal trial would have required more than a general admission or a public narrative. Prosecutors would have had to prove specific charges, link evidence to legally defined offences, present admissible technical material, and show the scale and consequences of the conduct beyond reasonable doubt.
 
-The forum problem had already been identified in earlier litigation. In a 2009 parliamentary account of the High Court’s reasoning, Lord Justice Stanley Burnton was quoted as saying that although McKinnon’s conduct took place in the UK, it was directed at US computers; the information was US information; its confidentiality and sensitivity were American; any damage was inflicted in the US; and the witnesses able to address that damage were in America. That passage goes to the heart of why a UK trial was hard to build after extradition failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">Hansard Gary Mc Kinnon (Extradition</span></span></span>
+The forum problem had already been identified in earlier litigation. In a 2009 parliamentary account of the High Court’s reasoning, Lord Justice Stanley Burnton was quoted as saying that although McKinnon’s conduct took place in the UK, it was directed at US computers; the information was US information; its confidentiality and sensitivity were American; any damage was inflicted in the US; and the witnesses able to address that damage were in America. That passage goes to the heart of why a UK trial was hard to build after extradition failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">Hansard Gary Mc Kinnon (Extradition</span></span></span>
 
 The practical barriers included:
 
@@ -477,7 +477,7 @@ The practical barriers included:
 
 </div>
 
-This is why the CPS decision should be read as a forum-and-evidence judgement, not as a moral verdict on hacking, UFO belief, or US cyber-security. The CPS was not asking whether the story was famous, embarrassing or politically charged. It was asking whether a prosecution in England and Wales was realistically winnable on the evidence available for that court. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">code crown prosecutors</span><span class="citation-popover-snippet">4.6 Prosecutors must be satisfied that there is sufficient evidence to provide a realistic prospect of conviction against...Read more...</span></span></span>
+This is why the CPS decision should be read as a forum-and-evidence judgement, not as a moral verdict on hacking, UFO belief, or US cyber-security. The CPS was not asking whether the story was famous, embarrassing or politically charged. It was asking whether a prosecution in England and Wales was realistically winnable on the evidence available for that court.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">code crown prosecutors</span><span class="citation-popover-snippet">4.6 Prosecutors must be satisfied that there is sufficient evidence to provide a realistic prospect of conviction against...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c-Illustration-3-dark.svg" | relative_url }}" alt="No UK Trial illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_no_uk_prosecution_ff725c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -486,9 +486,9 @@ This is why the CPS decision should be read as a forum-and-evidence judgement, n
 
 ## Evidence and witness barriers
 
-The US [indictment]({{ 'indictment/' | relative_url }}) alleged a large intrusion campaign against military and NASA systems, including unauthorised access and damage to computers. Those allegations were rooted in American systems, American victims and American investigative material. That mattered because a British court would not simply accept the headline claim that McKinnon had carried out the “biggest military computer hack of all time”; it would need witnesses and documents capable of proving the relevant elements of the offences charged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
+The US [indictment]({{ 'indictment/' | relative_url }}) alleged a large intrusion campaign against military and NASA systems, including unauthorised access and damage to computers. Those allegations were rooted in American systems, American victims and American investigative material. That mattered because a British court would not simply accept the headline claim that McKinnon had carried out the “biggest military computer hack of all time”; it would need witnesses and documents capable of proving the relevant elements of the offences charged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">gary mckinnon no uk charges</span><span class="citation-popover-snippet">The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</span></span></span>
 
-In cybercrime, “damage” is often not self-explanatory to a jury. Someone has to explain what systems were affected, what access was obtained, what files or services were disrupted, what remediation cost, and why the conduct mattered. In McKinnon’s case, much of that explanation would have depended on US defence and space-agency witnesses. Earlier court reasoning treated that as one reason the United States was the natural forum: the targeted computers, the sensitive information and the claimed consequences were all on the US side of the Atlantic. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">Hansard Gary Mc Kinnon (Extradition</span></span></span>
+In cybercrime, “damage” is often not self-explanatory to a jury. Someone has to explain what systems were affected, what access was obtained, what files or services were disrupted, what remediation cost, and why the conduct mattered. In McKinnon’s case, much of that explanation would have depended on US defence and space-agency witnesses. Earlier court reasoning treated that as one reason the United States was the natural forum: the targeted computers, the sensitive information and the claimed consequences were all on the US side of the Atlantic.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hansard.parliament.uk">[Hansard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hansard.parliament.uk</span><span class="citation-popover-title">Hansard Gary Mc Kinnon (Extradition</span><span class="citation-popover-snippet">Hansard Gary Mc Kinnon (Extradition</span></span></span>
 
 There was also a difference between proving “he accessed something without permission” and proving a case that captured the full alleged seriousness. McKinnon’s public UFO-related [motive]({{ 'motive/' | relative_url }}) may have made him culturally famous, but motive alone would not establish the scale of criminal damage or the reliability of every allegation. A British prosecution that could only prove a reduced version of the case might have been unattractive if the evidential burden, witness burden and likelihood of acquittal remained high.
 
@@ -501,7 +501,7 @@ There was also a difference between proving “he accessed something without per
 
 The most important correction is that “not prosecuted in Britain” does not mean “found innocent”. A charging decision is not a trial verdict. It does not test all evidence before a jury, and it does not declare that the alleged conduct did not happen. It means prosecutors decided the case should not go forward under the legal tests they had to apply.
 
-The CPS’s own framework makes that distinction clear. The evidential stage asks whether there is a realistic prospect of conviction on the available, admissible and reliable evidence. A case that fails that test must not proceed, even if the allegation is serious. That is different from saying a suspect has been vindicated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">code crown prosecutors</span><span class="citation-popover-snippet">4.6 Prosecutors must be satisfied that there is sufficient evidence to provide a realistic prospect of conviction against...Read more...</span></span></span>
+The CPS’s own framework makes that distinction clear. The evidential stage asks whether there is a realistic prospect of conviction on the available, admissible and reliable evidence. A case that fails that test must not proceed, even if the allegation is serious. That is different from saying a suspect has been vindicated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[Crown Prosecution Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-title">code crown prosecutors</span><span class="citation-popover-snippet">4.6 Prosecutors must be satisfied that there is sufficient evidence to provide a realistic prospect of conviction against...Read more...</span></span></span>
 
 In McKinnon’s case, the distinction is especially important because three separate ideas are often blurred together:
 
@@ -529,194 +529,194 @@ Yet the CPS decision also shows the limit of a simple “try him here” slogan.
 Britain did not prosecute Gary McKinnon because the UK case, after extradition was blocked, was judged too fragile: the alleged targets and harm were in the United States, key witnesses and evidence were American, and prosecutors were not confident that a British trial would produce a conviction reflecting the alleged seriousness of the conduct. That was a pragmatic legal decision, not a declaration that McKinnon’s hacking was harmless, and not confirmation of his UFO claims.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Mc Kinnon Was Not Tried in Britain. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Mc Kinnon Was Not Tried in Britain. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Matches the Disclosure Project’s claims about hidden propulsion and energy systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Matches the Disclosure Project’s claims about hidden propulsion and energy systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacker Crackdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t-fnQwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacker Crackdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacker Crackdown">The Hacker Crackdown</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Sterling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacker Crackdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t-fnQwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacker Crackdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacker Crackdown">The Hacker Crackdown</a>
+</h4>
+<p class="fr-book-author">By Bruce Sterling</p>
         
-        <p class="fr-book-desc">Provides historical context on hacking, computer intrusion cases and the culture surrounding high-profile cyber investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on hacking, computer intrusion cases and the culture surrounding high-profile cyber investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Disclosure+by+Steven+M.+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Disclosure+by+Steven+M.+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Disclosure">Disclosure</a>
-        </h4>
-        <p class="fr-book-author">By Steven M. Greer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Disclosure+by+Steven+M.+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Disclosure+by+Steven+M.+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Disclosure">Disclosure</a>
+</h4>
+<p class="fr-book-author">By Steven M. Greer</p>
         
-        <p class="fr-book-desc">It is the core book associated with the Disclosure Project’s witness-testimony and hidden-technology claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Disclosure+by+Steven+M.+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">It is the core book associated with the Disclosure Project’s witness-testimony and hidden-technology claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Disclosure+by+Steven+M.+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hacker+Crackdown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hacker Crackdown</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hacker+Crackdown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hacker Crackdown</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="{{ '/assets/images/marketplace-covers/216b2eed26a670e03454.jpg' | relative_url }}" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="{{ '/assets/images/marketplace-covers/8d8f70a5f650b93fd8cc.jpg' | relative_url }}" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="{{ '/assets/images/marketplace-covers/1650548ae4afb533ff2b.jpg' | relative_url }}" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="{{ '/assets/images/marketplace-covers/e6fb60a19fc69c23254a.jpg' | relative_url }}" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television+-book+-books+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television -book -books -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="no-uk-trial-why-mc-kinnon-was-not-tried-in-britain-ufo-hackers-such-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -732,7 +732,7 @@ Britain did not prosecute Gary McKinnon because the UK case, after extradition w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -752,7 +752,7 @@ Britain did not prosecute Gary McKinnon because the UK case, after extradition w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -784,7 +784,7 @@ Britain did not prosecute Gary McKinnon because the UK case, after extradition w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -836,7 +836,7 @@ Britain did not prosecute Gary McKinnon because the UK case, after extradition w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -881,7 +881,7 @@ Britain did not prosecute Gary McKinnon because the UK case, after extradition w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -922,138 +922,138 @@ Britain did not prosecute Gary McKinnon because the UK case, after extradition w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-[mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-[mckinnon-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statementOctober 16, 2012 — 16 Oct 2012 — I have therefore withdrawn the extradition ord...</p></details>
+   Link:<a href="https://www.gov.uk/government/speeches/gary-[mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-[mckinnon-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statementOctober 16, 2012 — 16 Oct 2012 — I have therefore withdrawn the extradition ord...</p></details>
    Published: October 16, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — July 2008 - House of Lords dismisses Mr McKinnon&#x27;s appeal, ending a series of proceedings under the Extradition Act...</p></details>
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 Nov 2010 — July 2008 - House of Lords dismisses Mr McKinnon&#x27;s appeal, ending a series of proceedings under the Extradition Act...</p></details>
    Published: July 2008  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cps.gov.uk  
    Title: code crown prosecutors  
-   Link: <a href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/publication/code-crown-prosecutors</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>4.6 Prosecutors must be satisfied that there is sufficient evidence to provide a realistic prospect of conviction against...Read more...</p></details>
+   Link:<a href="https://www.cps.gov.uk/publication/code-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/publication/code-crown-prosecutors</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4.6 Prosecutors must be satisfied that there is sufficient evidence to provide a realistic prospect of conviction against...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cps.gov.uk  
-   Link: <a href="https://www.cps.gov.uk/principles-we-follow" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/principles-we-follow</a>  
+   Link:<a href="https://www.cps.gov.uk/principles-we-follow" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/principles-we-follow</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
    Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/54838/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/54838/html/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/54838/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/54838/html/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-2.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-2.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-2.htm</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/writtenevidence/8245/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/8245/default/</a>  
+   Link:<a href="https://committees.parliament.uk/writtenevidence/8245/default/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/8245/default/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: college.police.uk  
-   Link: <a href="https://www.college.police.uk/print/pdf/node/2596" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/print/pdf/node/2596</a>  
+   Link:<a href="https://www.college.police.uk/print/pdf/node/2596" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/print/pdf/node/2596</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: assets.publishing.service.gov.uk  
    Title: public views 3  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7af96ae5274a319e77c120/public-views-3.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: thetimes.com  
    Title: hacker gary mckinnon faces no uk criminal action gjnw293j207  
-   Link: <a href="https://www.thetimes.com/world/us-world/article/hacker-gary-mckinnon-faces-no-uk-criminal-action-gjnw293j207" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/us-world/article/hacker-gary-mckinnon-faces-no-uk-criminal-action-gjnw293j207</a>  
+   Link:<a href="https://www.thetimes.com/world/us-world/article/hacker-gary-mckinnon-faces-no-uk-criminal-action-gjnw293j207" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/us-world/article/hacker-gary-mckinnon-faces-no-uk-criminal-action-gjnw293j207</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thetimes.com  
    Title: hacker gary mckinnon faces no uk criminal action gjnw293j207  
-   Link: <a href="https://www.thetimes.com/world/us-world/article/hacker-gary-mckinnon-faces-no-uk-criminal-action-gjnw293j207?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/us-world/article/hacker-gary-mckinnon-faces-no-uk-criminal-action-gjnw293j207?eafs_enabled=false</a>  
+   Link:<a href="https://www.thetimes.com/world/us-world/article/hacker-gary-mckinnon-faces-no-uk-criminal-action-gjnw293j207?eafs_enabled=false" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.com/world/us-world/article/hacker-gary-mckinnon-faces-no-uk-criminal-action-gjnw293j207?eafs_enabled=false</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: legalservicesboard.org.uk  
    Title: The Code  
-   Link: <a href="https://legalservicesboard.org.uk/what_we_do/regulation/pdf/annex13_code_for_crown_prosecutors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legalservicesboard.org.uk/what_we_do/regulation/pdf/annex13_code_for_crown_prosecutors.pdf</a>  
+   Link:<a href="https://legalservicesboard.org.uk/what_we_do/regulation/pdf/annex13_code_for_crown_prosecutors.pdf" target="_blank" rel="noopener noreferrer nofollow">https://legalservicesboard.org.uk/what_we_do/regulation/pdf/annex13_code_for_crown_prosecutors.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: gary mckinnon theresa may claims  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: hacker gary mckinnon supreme court extradition  
-   Link: <a href="https://www.theguardian.com/world/2009/oct/09/hacker-gary-mckinnon-supreme-court-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/oct/09/hacker-gary-mckinnon-supreme-court-extradition</a>  
+   Link:<a href="https://www.theguardian.com/world/2009/oct/09/hacker-gary-mckinnon-supreme-court-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/oct/09/hacker-gary-mckinnon-supreme-court-extradition</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: olliers.com  
    Title: Code for Crown Prosecutors  
-   Link: <a href="https://www.olliers.com/news/code-for-crown-prosecutors-the-full-code-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.olliers.com/news/code-for-crown-prosecutors-the-full-code-test/</a>  
+   Link:<a href="https://www.olliers.com/news/code-for-crown-prosecutors-the-full-code-test/" target="_blank" rel="noopener noreferrer nofollow">https://www.olliers.com/news/code-for-crown-prosecutors-the-full-code-test/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: newstatesman.com  
    Title: gary mckinnon  
-   Link: <a href="https://www.newstatesman.com/politics/2012/10/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.newstatesman.com/politics/2012/10/gary-mckinnon</a>  
+   Link:<a href="https://www.newstatesman.com/politics/2012/10/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.newstatesman.com/politics/2012/10/gary-mckinnon</a>  
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: lexisnexis.com  
-   Link: <a href="https://www.lexisnexis.com/en-gb/legal/glossary/code-for-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow">https://www.lexisnexis.com/en-gb/legal/glossary/code-for-crown-prosecutors</a>  
+   Link:<a href="https://www.lexisnexis.com/en-gb/legal/glossary/code-for-crown-prosecutors" target="_blank" rel="noopener noreferrer nofollow">https://www.lexisnexis.com/en-gb/legal/glossary/code-for-crown-prosecutors</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/50953384_Hackers_beware_The_cautionary_story_of_Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/50953384_Hackers_beware_The_cautionary_story_of_Gary_McKinnon</a>  
+   Link:<a href="https://www.researchgate.net/publication/50953384_Hackers_beware_The_cautionary_story_of_Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/50953384_Hackers_beware_The_cautionary_story_of_Gary_McKinnon</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/72391270/Hackers_beware_the_cautionary_story_of_Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/72391270/Hackers_beware_the_cautionary_story_of_Gary_McKinnon</a>  
+   Link:<a href="https://www.academia.edu/72391270/Hackers_beware_the_cautionary_story_of_Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/72391270/Hackers_beware_the_cautionary_story_of_Gary_McKinnon</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: libertyhumanrights.org.uk  
-   Link: <a href="https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf</a>  
+   Link:<a href="https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.libertyhumanrights.org.uk/wp-content/uploads/2020/04/Libertys-submission-to-the-JCHR-extradition-inquiry-Jan-2011.pdf</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: jade.io  
-   Link: <a href="https://jade.io/summary/mnc/2008/UKHL/59" target="_blank" rel="noopener noreferrer nofollow">https://jade.io/summary/mnc/2008/UKHL/59</a>  
+   Link:<a href="https://jade.io/summary/mnc/2008/UKHL/59" target="_blank" rel="noopener noreferrer nofollow">https://jade.io/summary/mnc/2008/UKHL/59</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: iowastatedaily.com  
-   Link: <a href="https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/" target="_blank" rel="noopener noreferrer nofollow">https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/</a>  
+   Link:<a href="https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/" target="_blank" rel="noopener noreferrer nofollow">https://iowastatedaily.com/127886/news-world/prosecutors-mckinnon-to-face-no-uk-charges-over-u-s-hacking/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: skybrary.aero  
-   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/4776.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/4776.pdf</a>  
+   Link:<a href="https://skybrary.aero/sites/default/files/bookshelf/4776.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/4776.pdf</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: emmlegal.com  
-   Link: <a href="https://www.emmlegal.com/publications/decision-prosecute-discretion-prosecute-code-crown-prosecutors/" target="_blank" rel="noopener noreferrer nofollow">https://www.emmlegal.com/publications/decision-prosecute-discretion-prosecute-code-crown-prosecutors/</a>  
+   Link:<a href="https://www.emmlegal.com/publications/decision-prosecute-discretion-prosecute-code-crown-prosecutors/" target="_blank" rel="noopener noreferrer nofollow">https://www.emmlegal.com/publications/decision-prosecute-discretion-prosecute-code-crown-prosecutors/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: niacro.co.uk  
-   Link: <a href="https://www.niacro.co.uk/sites/default/files/publications/The%20Decision%20to%20Prosecute-CPS-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.niacro.co.uk/sites/default/files/publications/The%20Decision%20to%20Prosecute-CPS-2010.pdf</a>  
+   Link:<a href="https://www.niacro.co.uk/sites/default/files/publications/The%20Decision%20to%20Prosecute-CPS-2010.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.niacro.co.uk/sites/default/files/publications/The%20Decision%20to%20Prosecute-CPS-2010.pdf</a>  

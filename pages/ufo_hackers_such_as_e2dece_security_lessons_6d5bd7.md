@@ -447,7 +447,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7-overvie
 
 ## Introduction
 
-The McKinnon case is still useful for cybersecurity teams because it shows how damaging an intrusion can become when basic controls are missing: weak or blank passwords, poorly governed remote access, limited monitoring, and exposed legacy systems. Gary McKinnon’s stated [motive]({{ 'motive/' | relative_url }}) was a search for UFO-related material, but the operational lesson is more ordinary and more durable. US prosecutors alleged that, between 2001 and 2002, he accessed and damaged dozens of US military and NASA computers; UK court records later described the use of remote-administration software and concealment tools after access had been gained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+The McKinnon case is still useful for cybersecurity teams because it shows how damaging an intrusion can become when basic controls are missing: weak or blank passwords, poorly governed remote access, limited monitoring, and exposed legacy systems. Gary McKinnon’s stated [motive]({{ 'motive/' | relative_url }}) was a search for UFO-related material, but the operational lesson is more ordinary and more durable. US prosecutors alleged that, between 2001 and 2002, he accessed and damaged dozens of US military and NASA computers; UK court records later described the use of remote-administration software and concealment tools after access had been gained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7-overview.webp" | relative_url }}" alt="Overview image for Lessons" loading="eager" decoding="sync" fetchpriority="high">
@@ -455,11 +455,11 @@ For security teams, the case is not mainly a story about unusual hacking skill. 
 
 ## Why the McKinnon case remains a security lesson
 
-McKinnon became famous because of the UFO motive he described in [interviews]({{ 'interviews/' | relative_url }}), but the cybersecurity value of the case lies in the gap between the sensitivity of the target environment and the apparent simplicity of some of the access paths. The US Department of Justice said the affected systems included computers belonging to the Army, Navy, Air Force, Department of Defense and NASA, as well as private businesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+McKinnon became famous because of the UFO motive he described in [interviews]({{ 'interviews/' | relative_url }}), but the cybersecurity value of the case lies in the gap between the sensitivity of the target environment and the apparent simplicity of some of the access paths. The US Department of Justice said the affected systems included computers belonging to the Army, Navy, Air Force, Department of Defense and NASA, as well as private businesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
 That matters because high-value environments are often assumed to be protected by high-end technology. The McKinnon case shows why that assumption is unsafe. A sensitive system can still be exposed by ordinary administrative mistakes: default credentials, poorly segmented networks, remote tools left reachable, and logs that are either not watched or not protected well enough.
 
-The case also illustrates a common cultural failure. Organisations may treat weak password hygiene or forgotten machines as housekeeping issues, while attackers treat them as entry points. McKinnon’s own public accounts and later commentary repeatedly point to weak or blank administrator passwords as part of the access story; even where such accounts are retrospective and partly self-reported, they align with a broader lesson now formalised in modern guidance: default passwords and weak administrative credentials are not minor defects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: schneier.com">[Schneier on Security+2Tarr Daniel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">schneier.com</span><span class="citation-popover-title">on Security Gary Mc Kinnon</span><span class="citation-popover-snippet">Schneier on SecurityGary McKinnonAugust 4, 2008 — 4 Aug 2008 — The interview I saw with McKinnon implied that he just hit systems with th...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span>
+The case also illustrates a common cultural failure. Organisations may treat weak password hygiene or forgotten machines as housekeeping issues, while attackers treat them as entry points. McKinnon’s own public accounts and later commentary repeatedly point to weak or blank administrator passwords as part of the access story; even where such accounts are retrospective and partly self-reported, they align with a broader lesson now formalised in modern guidance: default passwords and weak administrative credentials are not minor defects.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: schneier.com">[schneier.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">schneier.com</span><span class="citation-popover-title">on Security Gary Mc Kinnon</span><span class="citation-popover-snippet">Schneier on SecurityGary McKinnonAugust 4, 2008 — 4 Aug 2008 — The interview I saw with McKinnon implied that he just hit systems with th...</span><span class="citation-popover-meta">Published: August 4, 2008</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZbSmTETcPUw" title="‎The Hacker who broke into the Pentagon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZbSmTETcPUw" target="_blank" rel="noopener noreferrer">‎The Hacker who broke into the Pentagon</a></p><p class="youtube-embed-meta">Channel: Error Was Made</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZbSmTETcPUw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZbSmTETcPUw">Open on YouTube</a></p></div></div></div>
@@ -468,9 +468,9 @@ The case also illustrates a common cultural failure. Organisations may treat wea
 
 The clearest security lesson is that passwords are infrastructure. If administrator passwords are blank, shared, default, predictable or reused across large deployments, a single mistake can become a fleet-wide exposure.
 
-One account attributed to McKinnon describes a network image being deployed with a blank administrator password, leaving thousands of machines with the same weakness. That specific claim is difficult to independently verify from public technical evidence, but it is a credible example of the class of failure the case is remembered for: copying an insecure configuration at scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarrdaniel.com">[Tarr Daniel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarrdaniel.com</span><span class="citation-popover-title">Tarr Daniel UFO</span><span class="citation-popover-snippet">Tarr DanielUFO - Ufology - The Gary McKinnon CaseOn this particular network the image had been made with a blank administrator password...</span></span></span>
+One account attributed to McKinnon describes a network image being deployed with a blank administrator password, leaving thousands of machines with the same weakness. That specific claim is difficult to independently verify from public technical evidence, but it is a credible example of the class of failure the case is remembered for: copying an insecure configuration at scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarrdaniel.com">[Tarr Daniel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarrdaniel.com</span><span class="citation-popover-title">Tarr Daniel UFO</span><span class="citation-popover-snippet">Tarr DanielUFO - Ufology - The Gary McKinnon CaseOn this particular network the image had been made with a blank administrator password...</span></span></span>
 
-Modern guidance has moved in the same direction. CISA’s secure-by-design guidance explicitly tells technology manufacturers to eliminate default passwords, because default credentials continue to be implicated in attacks. NCSC password guidance similarly frames password policy as a system-owner responsibility, not just a user-behaviour problem. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Open source on cisa.gov.</span></span></span>
+Modern guidance has moved in the same direction. CISA’s secure-by-design guidance explicitly tells technology manufacturers to eliminate default passwords, because default credentials continue to be implicated in attacks. NCSC password guidance similarly frames password policy as a system-owner responsibility, not just a user-behaviour problem.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Open source on cisa.gov.</span></span></span>
 
 For implementation, the McKinnon lesson is not simply “make passwords stronger”. It is more precise:
 
@@ -485,9 +485,9 @@ This is where the case remains current. The technology has changed since 2001, b
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7-Illustration-1-dark.svg" | relative_url }}" alt="Lessons illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Access control: remote administration needs ownership
 
-[UK Law]({{ 'uk-law/' | relative_url }}) Lords’ records described McKinnon as installing “Remotely Anywhere”, remote-access and administrative software that allegedly allowed access and alteration of data while masquerading as a Windows operating system process. That detail is one of the most important technical lessons in the case: remote administration tools are dual-use. They are legitimate when authorised, inventoried and monitored; they are dangerous when unmanaged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</span></span></span>
+[UK Law]({{ 'uk-law/' | relative_url }}) Lords’ records described McKinnon as installing “Remotely Anywhere”, remote-access and administrative software that allegedly allowed access and alteration of data while masquerading as a Windows operating system process. That detail is one of the most important technical lessons in the case: remote administration tools are dual-use. They are legitimate when authorised, inventoried and monitored; they are dangerous when unmanaged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</span></span></span>
 
-This is not an outdated concern. CISA’s guide to securing remote access software treats remote administration and remote monitoring tools as a specific risk area because they can provide broad access into an organisation. CISA has also warned about malicious use of remote monitoring and management tools, including the need to audit which tools are present and authorised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/sites/default/files/2023-06/Guide%20to%20Securing%20Remote%20Access%20Software_clean%20Final_508c.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-title">Guide to Securing Remote Access Software clean Final 508c</span><span class="citation-popover-snippet">Guide to Securing Remote Access Software clean Final 508c</span></span></span>
+This is not an outdated concern. CISA’s guide to securing remote access software treats remote administration and remote monitoring tools as a specific risk area because they can provide broad access into an organisation. CISA has also warned about malicious use of remote monitoring and management tools, including the need to audit which tools are present and authorised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cisa.gov/sites/default/files/2023-06/Guide%20to%20Securing%20Remote%20Access%20Software_clean%20Final_508c.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[CISA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-title">Guide to Securing Remote Access Software clean Final 508c</span><span class="citation-popover-snippet">Guide to Securing Remote Access Software clean Final 508c</span></span></span>
 
 The practical lesson is that security teams should govern remote access as a privileged service, not as a convenience feature. That means knowing which tools are installed, who can use them, what they can reach, and how their sessions are recorded.
 
@@ -496,7 +496,7 @@ A good control set would include:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* an approved list of remote-access tools; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[cisa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* an approved list of remote-access tools;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cisa.gov">[cisa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cisa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 * alerts for newly installed or unauthorised remote-control software;
 * multi-factor authentication for remote administration;
 * network segmentation so one compromised workstation cannot become a bridge into sensitive systems;
@@ -514,9 +514,9 @@ The McKinnon case is a useful warning because the alleged post-access behaviour 
 
 Another lesson from the case is that organisations need monitoring that can answer practical questions quickly: Which account was used? Which systems were touched? What software was installed? What files were changed? Did the intruder move laterally? Which logs can still be trusted?
 
-The DOJ alleged that McKinnon accessed and damaged many systems over roughly a year, while court and media accounts described disruption, copied credentials and deleted or altered material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span> The exact disputed details of loss and damage belong to the legal history, but the operational point is simpler: long-running intrusion claims expose the weakness of reactive security. Finding out after the fact is much worse than spotting abnormal access early.
+The DOJ alleged that McKinnon accessed and damaged many systems over roughly a year, while court and media accounts described disruption, copied credentials and deleted or altered material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span> The exact disputed details of loss and damage belong to the legal history, but the operational point is simpler: long-running intrusion claims expose the weakness of reactive security. Finding out after the fact is much worse than spotting abnormal access early.
 
-NCSC guidance says logging and monitoring help identify patterns of activity and indicators of compromise, and that logs help establish the source and extent of compromise during incidents. Its “10 Steps” logging guidance adds several practical requirements that map directly onto the McKinnon lessons: logs should be available for analysis, retained long enough, centralised where useful, checked to ensure they are still being captured, and protected from tampering. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">logging and protective monitoring</span><span class="citation-popover-snippet">logging and protective monitoring</span></span></span>
+NCSC guidance says logging and monitoring help identify patterns of activity and indicators of compromise, and that logs help establish the source and extent of compromise during incidents. Its “10 Steps” logging guidance adds several practical requirements that map directly onto the McKinnon lessons: logs should be available for analysis, retained long enough, centralised where useful, checked to ensure they are still being captured, and protected from tampering.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[National Cyber Security Centre]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">logging and protective monitoring</span><span class="citation-popover-snippet">logging and protective monitoring</span></span></span>
 
 That last point is especially important. If an intruder can alter local logs, uninstall monitoring agents or blend remote software into normal administration, the organisation loses its [timeline]({{ 'timeline/' | relative_url }}). The response team then has to rebuild events from fragments rather than act from reliable evidence.
 
@@ -543,7 +543,7 @@ The case belongs to the early-2000s internet, but that does not make it obsolete
 
 [Legacy risk]({{ 'legacy-risk/' | relative_url }}) is not only about age. It is about systems that no longer fit the organisation’s current security model. A machine may be hard to patch because it supports a specialist application. A remote tool may be kept because a vendor needs support access. A shared administrator account may survive because no one wants to break an old process. Each exception may appear reasonable in isolation; together they create the kind of environment in which basic intrusion techniques work.
 
-NCSC New Zealand’s critical controls summary describes asset lifecycle management as a way to keep an environment accurate and up to date, including monitoring when systems become legacy: unsupported by a vendor or no longer maintained by the organisation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.govt.nz/protect-your-organisation/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.govt.nz">[NCSC NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.govt.nz</span><span class="citation-popover-title">NCSC NZCritical Controls</span><span class="citation-popover-snippet">NCSC NZCritical Controls</span></span></span> That framing is useful for the McKinnon case because it turns “old machines” into a management problem with owners, dates and decisions.
+NCSC New Zealand’s critical controls summary describes asset lifecycle management as a way to keep an environment accurate and up to date, including monitoring when systems become legacy: unsupported by a vendor or no longer maintained by the organisation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncsc.govt.nz/protect-your-organisation/summary/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.govt.nz">[NCSC NZ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.govt.nz</span><span class="citation-popover-title">NCSC NZCritical Controls</span><span class="citation-popover-snippet">NCSC NZCritical Controls</span></span></span> That framing is useful for the McKinnon case because it turns “old machines” into a management problem with owners, dates and decisions.
 
 For security teams, the implementation lesson is to maintain a living inventory that records:
 
@@ -566,14 +566,14 @@ Where a legacy system cannot be retired quickly, compensating controls matter. T
 
 ## The deeper lesson: basic controls must be treated as mission-critical
 
-The McKinnon case is sometimes remembered through the more colourful UFO narrative, but its cybersecurity lesson is deliberately unglamorous. A motivated outsider did not need to defeat a perfect security architecture; the public record describes alleged access across sensitive systems, use of remote administration software, and disruption serious enough to trigger a major criminal and extradition case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
+The McKinnon case is sometimes remembered through the more colourful UFO narrative, but its cybersecurity lesson is deliberately unglamorous. A motivated outsider did not need to defeat a perfect security architecture; the public record describes alleged access across sensitive systems, use of remote administration software, and disruption serious enough to trigger a major criminal and extradition case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</span></span></span>
 
 That is why the case still works as a training example. It connects security basics to real consequences. [Weak passwords]({{ 'weak-passwords/' | relative_url }}) are not merely audit findings. Poorly governed remote access is not merely untidy asset management. Missing logs are not merely an inconvenience for compliance. Legacy systems are not merely technical debt. In the wrong combination, they become an intrusion path.
 
 The strongest practical takeaway is to treat the following as one decision cluster, not separate projects:
 
-* identity and privileged access management; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/identity-and-access-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-* secure configuration of deployed systems; * remote-access governance; <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</span></span></span> * centralised logging and monitoring; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[ncsc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">logging and protective monitoring</span><span class="citation-popover-snippet">logging and protective monitoring</span></span></span>
+* identity and privileged access management;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/identity-and-access-management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+* secure configuration of deployed systems; * remote-access governance;<span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[publications.parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</span></span></span> * centralised logging and monitoring;<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncsc.gov.uk">[ncsc.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncsc.gov.uk</span><span class="citation-popover-title">logging and protective monitoring</span><span class="citation-popover-snippet">logging and protective monitoring</span></span></span>
 * incident response playbooks;
 * legacy-system ownership and retirement planning.
 
@@ -583,194 +583,194 @@ Handled separately, each can be postponed. Handled together, they form the basic
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7-Illustration-3-dark.svg" | relative_url }}" alt="Lessons illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_security_lessons_6d5bd7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Security Teams Can Learn From Mc Kinnon. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Security Teams Can Learn From Mc Kinnon. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
-        </h4>
-        <p class="fr-book-author">By Ross Anderson</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Security Engineering on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wW8LEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Security Engineering" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Security Engineering">Security Engineering</a>
+</h4>
+<p class="fr-book-author">By Ross Anderson</p>
         
-        <p class="fr-book-desc">Covers system ownership, legacy infrastructure risk, access control and organisational security failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers system ownership, legacy infrastructure risk, access control and organisational security failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Security+Engineering+by+Ross+Anderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9VDSAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity">Cybersecurity</a>
-        </h4>
-        <p class="fr-book-author">By Peter W. Singer, Allan Friedman</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybersecurity on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9VDSAQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybersecurity" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybersecurity">Cybersecurity</a>
+</h4>
+<p class="fr-book-author">By Peter W. Singer, Allan Friedman</p>
         
-        <p class="fr-book-desc">Explains practical cyber risks, governance failures and attack pathways.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains practical cyber risks, governance failures and attack pathways.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybersecurity+by+Peter+W.+Singer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacker Crackdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t-fnQwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacker Crackdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacker Crackdown">The Hacker Crackdown</a>
-        </h4>
-        <p class="fr-book-author">By Bruce Sterling</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hacker Crackdown on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=t-fnQwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hacker Crackdown" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hacker Crackdown">The Hacker Crackdown</a>
+</h4>
+<p class="fr-book-author">By Bruce Sterling</p>
         
-        <p class="fr-book-desc">Provides historical context on hacking, computer intrusion cases and the culture surrounding high-profile cyber investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides historical context on hacking, computer intrusion cases and the culture surrounding high-profile cyber investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hacker+Crackdown+by+Bruce+Sterling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Security+Engineering&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Security Engineering</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cybersecurity&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - Virginia Lottery Cyber Security Gommonwalth #1"><img src="https://i.ebayimg.com/images/g/oPwAAeSwMCVpWYoz/s-l225.jpg" alt="Listing image for CHALLENGE COIN - Virginia Lottery Cyber Security Gommonwalth #1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - Virginia Lottery Cyber Security Gommonwalth #1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac"><img src="{{ '/assets/images/marketplace-covers/cdbe73a199cf9b4b48c0.jpg' | relative_url }}" alt="Listing image for UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Pin Gerry Anderson TV Series Alien Craft Spaceship Enamel Lapel Tie Tac</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch"><img src="https://i.ebayimg.com/images/g/gPsAAeSwUvhqDMSW/s-l225.jpg" alt="Listing image for AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">AFLCMC Cyber Security SAP Special Access Program Green Door Challenge Coin Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - Commonwealth of Virginia Lottery Cyber Security #2"><img src="https://i.ebayimg.com/images/g/KjQAAeSw7oBpWYoT/s-l225.jpg" alt="Listing image for CHALLENGE COIN - Commonwealth of Virginia Lottery Cyber Security #2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - Commonwealth of Virginia Lottery Cyber Security #2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="lessons-what-security-teams-can-learn-from-mc-kinnon-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CHALLENGE COIN - Virginia Lottery Cyber Security Gommonwalth #2"><img src="https://i.ebayimg.com/images/g/qGAAAeSwPoVpWYoY/s-l225.jpg" alt="Listing image for CHALLENGE COIN - Virginia Lottery Cyber Security Gommonwalth #2" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">CHALLENGE COIN - Virginia Lottery Cyber Security Gommonwalth #2</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cyber security challenge coin">Search<span data-ebay-domain-label>eBay.co.uk</span>: cyber security challenge coin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cyber+security+challenge+coin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cyber security challenge coin" data-ebay-reference="what-security-teams-can-learn-from-mckinnon-cyber-security-challenge-coin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -786,7 +786,7 @@ Handled separately, each can be postponed. Handled together, they form the basic
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -806,7 +806,7 @@ Handled separately, each can be postponed. Handled together, they form the basic
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -838,7 +838,7 @@ Handled separately, each can be postponed. Handled together, they form the basic
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -890,7 +890,7 @@ Handled separately, each can be postponed. Handled together, they form the basic
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -935,7 +935,7 @@ Handled separately, each can be postponed. Handled together, they form the basic
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -976,234 +976,234 @@ Handled separately, each can be postponed. Handled together, they form the basic
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...One count charges McKinnon with accessing and damaging witho...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — Having gained access to those accounts he installed u...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: schneier.com  
    Title: on Security Gary Mc Kinnon  
-   Link: <a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Schneier on SecurityGary McKinnonAugust 4, 2008 — 4 Aug 2008 — The interview I saw with McKinnon implied that he just hit systems with th...</p></details>
+   Link:<a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Schneier on SecurityGary McKinnonAugust 4, 2008 — 4 Aug 2008 — The interview I saw with McKinnon implied that he just hit systems with th...</p></details>
    Published: August 4, 2008  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf</a>  
+   Link:<a href="https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/sites/default/files/2023-10/SecureByDesign_1025_508c.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cisa.gov  
    Title: Guide to Securing Remote Access Software clean Final 508c  
-   Link: <a href="https://www.cisa.gov/sites/default/files/2023-06/Guide%20to%20Securing%20Remote%20Access%20Software_clean%20Final_508c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/sites/default/files/2023-06/Guide%20to%20Securing%20Remote%20Access%20Software_clean%20Final_508c.pdf</a>  
+   Link:<a href="https://www.cisa.gov/sites/default/files/2023-06/Guide%20to%20Securing%20Remote%20Access%20Software_clean%20Final_508c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/sites/default/files/2023-06/Guide%20to%20Securing%20Remote%20Access%20Software_clean%20Final_508c.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a</a>  
+   Link:<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-025a</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ncsc.govt.nz  
    Title: NCSC NZCritical Controls  
-   Link: <a href="https://www.ncsc.govt.nz/protect-your-organisation/summary/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.govt.nz/protect-your-organisation/summary/</a>  
+   Link:<a href="https://www.ncsc.govt.nz/protect-your-organisation/summary/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.govt.nz/protect-your-organisation/summary/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_[indictment" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_[indictment</a>  
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_[indictment" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_[indictment</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/opa/page/file/1318666/dl?inline=" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/opa/page/file/1318666/dl?inline=</a>  
+   Link:<a href="https://www.justice.gov/opa/page/file/1318666/dl?inline=" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/opa/page/file/1318666/dl?inline=</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: justice.gov  
    Title: elec sur manual  
-   Link: <a href="https://www.justice.gov/sites/default/files/criminal/legacy/2014/10/29/elec-sur-manual.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/sites/default/files/criminal/legacy/2014/10/29/elec-sur-manual.pdf</a>  
+   Link:<a href="https://www.justice.gov/sites/default/files/criminal/legacy/2014/10/29/elec-sur-manual.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/sites/default/files/criminal/legacy/2014/10/29/elec-sur-manual.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: justice.gov  
    Title: 02.14.23. Protests Supreme Court Residences Part 1  
-   Link: <a href="https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf</a>  
+   Link:<a href="https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld201011/ldhansrd/lhan130.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201011/ldhansrd/lhan130.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld201011/ldhansrd/lhan130.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201011/ldhansrd/lhan130.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld201011/ldhansrd/text/110323-0001.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201011/ldhansrd/text/110323-0001.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld201011/ldhansrd/text/110323-0001.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201011/ldhansrd/text/110323-0001.htm</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201011/cmhansrd/chan42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201011/cmhansrd/chan42.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm201011/cmhansrd/chan42.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201011/cmhansrd/chan42.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201011/cmhansrd/chan36.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201011/cmhansrd/chan36.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm201011/cmhansrd/chan36.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201011/cmhansrd/chan36.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm200809/cmhansrd/chan106.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200809/cmhansrd/chan106.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm200809/cmhansrd/chan106.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200809/cmhansrd/chan106.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm200910/cmhansrd/chan17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200910/cmhansrd/chan17.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm200910/cmhansrd/chan17.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm200910/cmhansrd/chan17.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld201213/ldhansrd/lhan21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201213/ldhansrd/lhan21.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld201213/ldhansrd/lhan21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201213/ldhansrd/lhan21.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: publications.parliament.uk  
    Title: uk PARLIAMENTAR Y DEBATES  
-   Link: <a href="https://publications.parliament.uk/pa/cm201011/cmhansrd/chan187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201011/cmhansrd/chan187.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm201011/cmhansrd/chan187.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201011/cmhansrd/chan187.pdf</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/ld199697/ldhansrd/pdvn/lds06/text/61010-0015.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld199697/ldhansrd/pdvn/lds06/text/61010-0015.htm</a>  
+   Link:<a href="https://publications.parliament.uk/pa/ld199697/ldhansrd/pdvn/lds06/text/61010-0015.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld199697/ldhansrd/pdvn/lds06/text/61010-0015.htm</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: cisa.gov  
    Title: principles approaches for security by design default 508c  
-   Link: <a href="https://www.cisa.gov/sites/default/files/2023-06/principles_approaches_for_security-by-design-default_508c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/sites/default/files/2023-06/principles_approaches_for_security-by-design-default_508c.pdf</a>  
+   Link:<a href="https://www.cisa.gov/sites/default/files/2023-06/principles_approaches_for_security-by-design-default_508c.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/sites/default/files/2023-06/principles_approaches_for_security-by-design-default_508c.pdf</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/resources-tools/resources/secure-demand-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/secure-demand-guide</a>  
+   Link:<a href="https://www.cisa.gov/resources-tools/resources/secure-demand-guide" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/secure-demand-guide</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a</a>  
+   Link:<a href="https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-326a</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: cisa.gov  
    Title: best practices event logging and threat detection  
-   Link: <a href="https://www.cisa.gov/resources-tools/resources/best-practices-event-logging-and-threat-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/best-practices-event-logging-and-threat-detection</a>  
+   Link:<a href="https://www.cisa.gov/resources-tools/resources/best-practices-event-logging-and-threat-detection" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/best-practices-event-logging-and-threat-detection</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cisa.gov  
    Title: guide securing remote access software  
-   Link: <a href="https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software</a>  
+   Link:<a href="https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/resources/guide-securing-remote-access-software</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: cisa.gov  
-   Link: <a href="https://www.cisa.gov/resources-tools/services/logging-made-easy" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/services/logging-made-easy</a>  
+   Link:<a href="https://www.cisa.gov/resources-tools/services/logging-made-easy" target="_blank" rel="noopener noreferrer nofollow">https://www.cisa.gov/resources-tools/services/logging-made-easy</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ncsc.nl  
-   Link: <a href="https://www.ncsc.nl/en/producten-en-diensten/security-advisories" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.nl/en/producten-en-diensten/security-advisories</a>  
+   Link:<a href="https://www.ncsc.nl/en/producten-en-diensten/security-advisories" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.nl/en/producten-en-diensten/security-advisories</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: media.defense.gov  
    Title: JOINT GUIDE SECURE BY DEMAND PRIORITY CONSIDERATIONS OT OWNERS OPERATORS  
-   Link: <a href="https://media.defense.gov/2025/Jan/13/2003626906/-1/-1/0/JOINT-GUIDE-SECURE-BY-DEMAND-PRIORITY-CONSIDERATIONS-OT-OWNERS-OPERATORS.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/Jan/13/2003626906/-1/-1/0/JOINT-GUIDE-SECURE-BY-DEMAND-PRIORITY-CONSIDERATIONS-OT-OWNERS-OPERATORS.PDF</a>  
+   Link:<a href="https://media.defense.gov/2025/Jan/13/2003626906/-1/-1/0/JOINT-GUIDE-SECURE-BY-DEMAND-PRIORITY-CONSIDERATIONS-OT-OWNERS-OPERATORS.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2025/Jan/13/2003626906/-1/-1/0/JOINT-GUIDE-SECURE-BY-DEMAND-PRIORITY-CONSIDERATIONS-OT-OWNERS-OPERATORS.PDF</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: time.com  
    Title: hack attack 2  
-   Link: <a href="https://time.com/archive/6943962/hack-attack-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943962/hack-attack-2/</a>  
+   Link:<a href="https://time.com/archive/6943962/hack-attack-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943962/hack-attack-2/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: tarrdaniel.com  
    Title: Tarr Daniel UFO  
-   Link: <a href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tarr DanielUFO - Ufology - The Gary McKinnon CaseOn this particular network the image had been made with a blank administrator password...</p></details>
+   Link:<a href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Tarr DanielUFO - Ufology - The Gary McKinnon CaseOn this particular network the image had been made with a blank administrator password...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ncsc.gov.uk  
-   Link: <a href="https://www.ncsc.gov.uk/collection/passwords" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/passwords</a>  
+   Link:<a href="https://www.ncsc.gov.uk/collection/passwords" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/passwords</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ncsc.gov.uk  
    Title: logging and protective monitoring  
-   Link: <a href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring</a>  
+   Link:<a href="https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/device-security-guidance/managing-deployed-devices/logging-and-protective-monitoring</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: ncsc.gov.uk  
    Title: logging and monitoring  
-   Link: <a href="https://www.ncsc.gov.uk/collection/10-steps/logging-and-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/10-steps/logging-and-monitoring</a>  
+   Link:<a href="https://www.ncsc.gov.uk/collection/10-steps/logging-and-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/10-steps/logging-and-monitoring</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ncsc.gov.uk  
    Title: updating your approach  
-   Link: <a href="https://www.ncsc.gov.uk/collection/passwords/updating-your-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/passwords/updating-your-approach</a>  
+   Link:<a href="https://www.ncsc.gov.uk/collection/passwords/updating-your-approach" target="_blank" rel="noopener noreferrer nofollow">https://www.ncsc.gov.uk/collection/passwords/updating-your-approach</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: security-guidance.service.justice.gov.uk  
    Title: justice.gov.uk Passwords  
-   Link: <a href="https://security-guidance.service.justice.gov.uk/passwords/" target="_blank" rel="noopener noreferrer nofollow">https://security-guidance.service.justice.gov.uk/passwords/</a>  
+   Link:<a href="https://security-guidance.service.justice.gov.uk/passwords/" target="_blank" rel="noopener noreferrer nofollow">https://security-guidance.service.justice.gov.uk/passwords/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: cyber.gov.au  
-   Link: <a href="https://www.cyber.gov.au/sites/default/files/2024-08/best-practices-for-event-logging-and-threat-detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cyber.gov.au/sites/default/files/2024-08/best-practices-for-event-logging-and-threat-detection.pdf</a>  
+   Link:<a href="https://www.cyber.gov.au/sites/default/files/2024-08/best-practices-for-event-logging-and-threat-detection.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cyber.gov.au/sites/default/files/2024-08/best-practices-for-event-logging-and-threat-detection.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: cs.cornell.edu  
-   Link: <a href="https://www.cs.cornell.edu/~shmat/courses/cs5438/passwords.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.cornell.edu/~shmat/courses/cs5438/passwords.pdf</a>  
+   Link:<a href="https://www.cs.cornell.edu/~shmat/courses/cs5438/passwords.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cs.cornell.edu/~shmat/courses/cs5438/passwords.pdf</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: assets.publishing.service.gov.uk  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a806bb9e5274a2e87db9b6a/Password_guidance_-_simplifying_your_approach.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a806bb9e5274a2e87db9b6a/Password_guidance_-_simplifying_your_approach.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a806bb9e5274a2e87db9b6a/Password_guidance_-_simplifying_your_approach.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a806bb9e5274a2e87db9b6a/Password_guidance_-_simplifying_your_approach.pdf</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: npsa.gov.uk  
    Title: cyber security risks users  
-   Link: <a href="https://www.npsa.gov.uk/cyber-security-risks-users" target="_blank" rel="noopener noreferrer nofollow">https://www.npsa.gov.uk/cyber-security-risks-users</a>  
+   Link:<a href="https://www.npsa.gov.uk/cyber-security-risks-users" target="_blank" rel="noopener noreferrer nofollow">https://www.npsa.gov.uk/cyber-security-risks-users</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: youtube.com  
    Title: The Biggest Computer Hacks in History  
-   Link: <a href="http://www.youtube.com/watch?v=yY3Hq-qiQdA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yY3Hq-qiQdA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Gary McKinnon&quot; cybersecurity hacking documentary Gary Mckinnon: The Hacker Who Found UFOs Thinker...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=yY3Hq-qiQdA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yY3Hq-qiQdA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Gary McKinnon&quot; cybersecurity hacking documentary Gary Mckinnon: The Hacker Who Found UFOs Thinker...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nist.gov  
-   Link: <a href="https://www.nist.gov/identity-and-access-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/identity-and-access-management</a>  
+   Link:<a href="https://www.nist.gov/identity-and-access-management" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/identity-and-access-management</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: enzoic.com  
-   Link: <a href="https://www.enzoic.com/blog/nist-password-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.enzoic.com/blog/nist-password-requirements/</a>  
+   Link:<a href="https://www.enzoic.com/blog/nist-password-requirements/" target="_blank" rel="noopener noreferrer nofollow">https://www.enzoic.com/blog/nist-password-requirements/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2002/11/brit-accused-of-hacking-pentagon" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/brit-accused-of-hacking-pentagon</a>  
+   Link:<a href="https://www.wired.com/2002/11/brit-accused-of-hacking-pentagon" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/brit-accused-of-hacking-pentagon</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: infini-tech.co.uk  
-   Link: <a href="https://infini-tech.co.uk/resources/password-security-guide" target="_blank" rel="noopener noreferrer nofollow">https://infini-tech.co.uk/resources/password-security-guide</a>  
+   Link:<a href="https://infini-tech.co.uk/resources/password-security-guide" target="_blank" rel="noopener noreferrer nofollow">https://infini-tech.co.uk/resources/password-security-guide</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/cisa-fbi-updates-product-security-bad-practices-7r8ae" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/cisa-fbi-updates-product-security-bad-practices-7r8ae</a>  
+   Link:<a href="https://www.linkedin.com/pulse/cisa-fbi-updates-product-security-bad-practices-7r8ae" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/cisa-fbi-updates-product-security-bad-practices-7r8ae</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: secportal.io  
-   Link: <a href="https://secportal.io/frameworks/cisa-secure-by-design" target="_blank" rel="noopener noreferrer nofollow">https://secportal.io/frameworks/cisa-secure-by-design</a>  
+   Link:<a href="https://secportal.io/frameworks/cisa-secure-by-design" target="_blank" rel="noopener noreferrer nofollow">https://secportal.io/frameworks/cisa-secure-by-design</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  

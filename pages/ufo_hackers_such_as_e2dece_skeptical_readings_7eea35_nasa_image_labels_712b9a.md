@@ -280,19 +280,19 @@ image: /assets/images/ufo_hackers_such_as_e2dece_skeptical_readings_7eea35_nasa_
 
 ## Introduction
 
-One of the most discussed parts of Gary McKinnon's UFO story is not the alleged object itself but the labels attached to NASA image files. McKinnon has repeatedly said that he found image folders containing versions described as “filtered and unfiltered” or “processed and unprocessed”, and that one image appeared to show a cigar-shaped craft. Because the underlying files were never preserved or released, sceptical analysis focuses on what those labels could realistically have meant inside a NASA imaging environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+One of the most discussed parts of Gary McKinnon's UFO story is not the alleged object itself but the labels attached to NASA image files. McKinnon has repeatedly said that he found image folders containing versions described as “filtered and unfiltered” or “processed and unprocessed”, and that one image appeared to show a cigar-shaped craft. Because the underlying files were never preserved or released, sceptical analysis focuses on what those labels could realistically have meant inside a NASA imaging environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_skeptical_readings_7eea35_nasa_image_labels_712b9a-Illustration-1-dark.svg" | relative_url }}" alt="Image labels illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_skeptical_readings_7eea35_nasa_image_labels_712b9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_skeptical_readings_7eea35_nasa_image_labels_712b9a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key point is simple: in scientific and aerospace imaging, terms such as “raw”, “processed”, “filtered”, “unprocessed”, and similar labels are common parts of routine image workflows. On their own, they do not imply that an object was removed from a photograph, nor do they demonstrate a UFO cover-up. Without the [original files]({{ 'original-file/' | relative_url }}), [metadata]({{ 'metadata/' | relative_url }}), software environment and surrounding documentation, the labels are open to multiple interpretations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/multimedia/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceRaw Images FAQImaging scientists on NASA missions have access to original, uncompressed, science-quality images as soon as th...</span></span></span>
+The key point is simple: in scientific and aerospace imaging, terms such as “raw”, “processed”, “filtered”, “unprocessed”, and similar labels are common parts of routine image workflows. On their own, they do not imply that an object was removed from a photograph, nor do they demonstrate a UFO cover-up. Without the [original files]({{ 'original-file/' | relative_url }}), [metadata]({{ 'metadata/' | relative_url }}), software environment and surrounding documentation, the labels are open to multiple interpretations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/multimedia/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceRaw Images FAQImaging scientists on NASA missions have access to original, uncompressed, science-quality images as soon as th...</span></span></span>
 
 ## When NASA labels look more alien than they are
 
-McKinnon's account has often been summarised as a discovery of NASA images in which UFOs were supposedly edited out. The evidential problem is that the public has never seen the files he described. What survives are recollections of folder names and image categories. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+McKinnon's account has often been summarised as a discovery of NASA images in which UFOs were supposedly edited out. The evidential problem is that the public has never seen the files he described. What survives are recollections of folder names and image categories.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 
-That distinction matters because image-processing [terminology]({{ 'terminology/' | relative_url }}) can sound far more dramatic than it is. NASA missions routinely work with multiple versions of the same image. Engineers, scientists and public-affairs teams may handle raw sensor data, calibrated images, noise-reduced versions, colour composites, contrast-enhanced copies and publication-ready products. Different labels can simply indicate different stages in that workflow. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
+That distinction matters because image-processing [terminology]({{ 'terminology/' | relative_url }}) can sound far more dramatic than it is. NASA missions routinely work with multiple versions of the same image. Engineers, scientists and public-affairs teams may handle raw sensor data, calibrated images, noise-reduced versions, colour composites, contrast-enhanced copies and publication-ready products. Different labels can simply indicate different stages in that workflow.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
 
-A folder labelled “processed” does not automatically mean that content has been removed. More commonly, it indicates that data have been corrected, calibrated, colour-balanced, compressed or otherwise prepared for analysis or presentation. Likewise, “unprocessed” often refers to data closer to the original sensor output. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://solarsystem.nasa.gov/raw-images/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solarsystem.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solarsystem.nasa.gov</span><span class="citation-popover-title">Science Raw images faq</span><span class="citation-popover-snippet">NASA ScienceRaw images faq - Solar System Exploration - NASAJun 22, 2022 — Processing images – that is, using software to enhance details...</span></span></span>
+A folder labelled “processed” does not automatically mean that content has been removed. More commonly, it indicates that data have been corrected, calibrated, colour-balanced, compressed or otherwise prepared for analysis or presentation. Likewise, “unprocessed” often refers to data closer to the original sensor output.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://solarsystem.nasa.gov/raw-images/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solarsystem.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solarsystem.nasa.gov</span><span class="citation-popover-title">Science Raw images faq</span><span class="citation-popover-snippet">NASA ScienceRaw images faq - Solar System Exploration - NASAJun 22, 2022 — Processing images – that is, using software to enhance details...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b5afwWUYWVQ" title="Gary McKinnon Case (Interview from 2009)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer">Gary McKinnon Case (Interview from 2009)</a></p><p class="youtube-embed-meta">Channel: Bill Buchanan OBE &middot; Views: 15.3K &middot; Uploaded: February 2017 &middot; Length: 1 minute 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b5afwWUYWVQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b5afwWUYWVQ">Open on YouTube</a></p></div></div></div>
@@ -301,7 +301,7 @@ A folder labelled “processed” does not automatically mean that content has b
 
 The strongest sceptical response to McKinnon's description is that the terminology itself is ordinary.
 
-NASA's own public [explanations]({{ 'explanations/' | relative_url }}) of image handling describe distinctions between raw and processed imagery, noting that processing may involve enhancing details, adjusting contrast, applying calibrations or converting instrument data into forms useful for scientific work. Raw images may also lack context, validation and calibration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://solarsystem.nasa.gov/raw-images/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solarsystem.nasa.gov">[NASA Science+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solarsystem.nasa.gov</span><span class="citation-popover-title">Science Raw images faq</span><span class="citation-popover-snippet">NASA ScienceRaw images faq - Solar System Exploration - NASAJun 22, 2022 — Processing images – that is, using software to enhance details...</span></span></span>
+NASA's own public [explanations]({{ 'explanations/' | relative_url }}) of image handling describe distinctions between raw and processed imagery, noting that processing may involve enhancing details, adjusting contrast, applying calibrations or converting instrument data into forms useful for scientific work. Raw images may also lack context, validation and calibration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://solarsystem.nasa.gov/raw-images/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: solarsystem.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">solarsystem.nasa.gov</span><span class="citation-popover-title">Science Raw images faq</span><span class="citation-popover-snippet">NASA ScienceRaw images faq - Solar System Exploration - NASAJun 22, 2022 — Processing images – that is, using software to enhance details...</span></span></span>
 
 Within such environments, “filtered” can refer to several routine operations:
 
@@ -313,11 +313,11 @@ Within such environments, “filtered” can refer to several routine operations
 * Removal of cosmic-ray strikes or imaging defects.
 * Selection of particular wavelength bands.
 * Compression and optimisation for storage or distribution.
-* Application of analytical filters used in scientific image processing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
+* Application of analytical filters used in scientific image processing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
 
 </div>
 
-Importantly, none of these uses requires the presence of a UFO. Scientific imaging systems often generate multiple versions of a file automatically, producing side-by-side datasets that may be labelled according to processing state. NASA's published descriptions of image pipelines and data levels show that maintaining different stages of image processing is standard practice. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
+Importantly, none of these uses requires the presence of a UFO. Scientific imaging systems often generate multiple versions of a file automatically, producing side-by-side datasets that may be labelled according to processing state. NASA's published descriptions of image pipelines and data levels show that maintaining different stages of image processing is standard practice.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
 
 This does not prove that McKinnon misread the labels. It simply means that the labels themselves cannot carry the weight of the extraordinary conclusion sometimes attached to them.
 
@@ -344,7 +344,7 @@ An image file sitting inside a directory tells investigators very little on its 
 
 Without that information, even genuine differences between two versions of an image can be misleading.
 
-NASA's publicly documented imaging systems routinely move data through multiple processing levels before they become scientifically useful or publicly distributed. A feature that appears in one stage but not another may reflect calibration, noise removal or artefact correction rather than deliberate concealment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
+NASA's publicly documented imaging systems routinely move data through multiple processing levels before they become scientifically useful or publicly distributed. A feature that appears in one stage but not another may reflect calibration, noise removal or artefact correction rather than deliberate concealment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
 
 This is one reason why image specialists tend to focus less on dramatic folder names and more on provenance. The context surrounding an image usually carries more evidential value than the image label itself.
 
@@ -358,18 +358,18 @@ A typical evaluation proceeds through several questions:
 
 1. **Is the label independently verified?**
 
-In this case, no publicly available file system, screenshot or forensic copy has confirmed the exact naming convention beyond McKinnon's account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+In this case, no publicly available file system, screenshot or forensic copy has confirmed the exact naming convention beyond McKinnon's account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 2. **Does the terminology have ordinary technical uses?**
 
-Yes. NASA and other scientific organisations routinely distinguish between raw, processed, calibrated and filtered imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/multimedia/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceRaw Images FAQImaging scientists on NASA missions have access to original, uncompressed, science-quality images as soon as th...</span></span></span>
+Yes. NASA and other scientific organisations routinely distinguish between raw, processed, calibrated and filtered imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/multimedia/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceRaw Images FAQImaging scientists on NASA missions have access to original, uncompressed, science-quality images as soon as th...</span></span></span>
 3. **Can the underlying files be examined?**
 
-No. The alleged images were never released for independent analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+No. The alleged images were never released for independent analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 4. **Are there alternative explanations requiring fewer assumptions?**
 
-Yes. Standard image-processing workflows account for the labels without requiring a UFO-removal programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata+2NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
+Yes. Standard image-processing workflows account for the labels without requiring a UFO-removal programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</span></span></span>
 
-From a sceptical perspective, the decisive issue is not whether NASA uses processed and unprocessed imagery—it unquestionably does. The issue is whether the specific image McKinnon described can be examined and shown to contain something extraordinary. Since the image has never been produced, the labels remain suggestive but unverified evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+From a sceptical perspective, the decisive issue is not whether NASA uses processed and unprocessed imagery—it unquestionably does. The issue is whether the specific image McKinnon described can be examined and shown to contain something extraordinary. Since the image has never been produced, the labels remain suggestive but unverified evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -378,202 +378,202 @@ From a sceptical perspective, the decisive issue is not whether NASA uses proces
 
 The image-label aspect of McKinnon's story illustrates a broader problem in UFO controversies: technical language can appear revelatory when detached from its operational setting.
 
-“Filtered”, “unfiltered”, “processed” and “unprocessed” sound significant because they imply that different versions of the same image existed. Yet in aerospace imaging, multiple versions are expected. NASA's public documentation shows that raw and processed image products are a normal part of mission operations, data archiving and scientific analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/multimedia/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science+2NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceRaw Images FAQImaging scientists on NASA missions have access to original, uncompressed, science-quality images as soon as th...</span></span></span>
+“Filtered”, “unfiltered”, “processed” and “unprocessed” sound significant because they imply that different versions of the same image existed. Yet in aerospace imaging, multiple versions are expected. NASA's public documentation shows that raw and processed image products are a normal part of mission operations, data archiving and scientific analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/solar-system/multimedia/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceRaw Images FAQImaging scientists on NASA missions have access to original, uncompressed, science-quality images as soon as th...</span></span></span>
 
-As a result, the labels themselves neither prove nor disprove McKinnon's wider UFO claims. Their evidential value is limited by the absence of the original files. For sceptics, that absence is the central fact: a potentially dramatic interpretation rests on terminology that can be explained by routine image-processing practices, while the underlying image remains unavailable for independent scrutiny. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2cybereason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
+As a result, the labels themselves neither prove nor disprove McKinnon's wider UFO claims. Their evidential value is limited by the absence of the original files. For sceptics, that absence is the central fact: a potentially dramatic interpretation rests on terminology that can be explained by routine image-processing practices, while the underlying image remains unavailable for independent scrutiny.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_skeptical_readings_7eea35_nasa_image_labels_712b9a-Illustration-3-dark.svg" | relative_url }}" alt="Image labels illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_skeptical_readings_7eea35_nasa_image_labels_712b9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_skeptical_readings_7eea35_nasa_image_labels_712b9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When NASA labels look more alien than they are. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When NASA labels look more alien than they are. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides broader UFO context for NASA-image discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides broader UFO context for NASA-image discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
-        <p class="fr-book-desc">Encourages evidence-based assessment of extraordinary image claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9fFydHfB_AoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan, Ann Druyan</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 43 Google Books ratings</p>
+<p class="fr-book-desc">Encourages evidence-based assessment of extraordinary image claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
-        </h4>
-        <p class="fr-book-author">By Edward R. Tufte</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
+</h4>
+<p class="fr-book-author">By Edward R. Tufte</p>
         
-        <p class="fr-book-desc">Supports careful reading of processed visual information.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Supports careful reading of processed visual information.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
-        </h4>
-        <p class="fr-book-author">By Philip C. Plait</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Astronomy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nHNAEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Astronomy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Astronomy">Bad Astronomy</a>
+</h4>
+<p class="fr-book-author">By Philip C. Plait</p>
         
-        <p class="fr-book-desc">Examines misinterpretations of astronomical and space-related imagery.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines misinterpretations of astronomical and space-related imagery.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Astronomy+by+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="{{ '/assets/images/marketplace-covers/fecc3801368785b177c2.jpg' | relative_url }}" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="{{ '/assets/images/marketplace-covers/fecc3801368785b177c2.jpg' | relative_url }}" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/2b28e3027c0e7d54243f.jpg' | relative_url }}" alt="Listing image for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/2b28e3027c0e7d54243f.jpg' | relative_url }}" alt="Listing image for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge"><img src="{{ '/assets/images/marketplace-covers/8167604e2c7a6946709d.jpg' | relative_url }}" alt="Listing image for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge"><img src="{{ '/assets/images/marketplace-covers/8167604e2c7a6946709d.jpg' | relative_url }}" alt="Listing image for NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Iron On Patch Embroidered Astronaut Fancy Dress T Shirt Black Sew On Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,"><img src="{{ '/assets/images/marketplace-covers/dbbe9c6146b8bc47c0eb.jpg' | relative_url }}" alt="Listing image for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,"><img src="{{ '/assets/images/marketplace-covers/dbbe9c6146b8bc47c0eb.jpg' | relative_url }}" alt="Listing image for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="image-labels-when-nasa-labels-look-more-alien-than-they-are-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -589,7 +589,7 @@ As a result, the labels themselves neither prove nor disprove McKinnon's wider U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -609,7 +609,7 @@ As a result, the labels themselves neither prove nor disprove McKinnon's wider U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -641,7 +641,7 @@ As a result, the labels themselves neither prove nor disprove McKinnon's wider U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -693,7 +693,7 @@ As a result, the labels themselves neither prove nor disprove McKinnon's wider U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -738,7 +738,7 @@ As a result, the labels themselves neither prove nor disprove McKinnon's wider U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -779,150 +779,150 @@ As a result, the labels themselves neither prove nor disprove McKinnon's wider U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — &#x27;UFO Hacker&#x27; Tells What He Found. The search for proof of the existence of UFOs landed...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cybereason.com  
    Title: Malicious Life Podcast: The U.S  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonAlien or government-made, this had to be a UFO. As the high-resolution image slowly downloaded to his computer, though...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonAlien or government-made, this had to be a UFO. As the high-resolution image slowly downloaded to his computer, though...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/solar-system/multimedia/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/multimedia/raw-images-faq/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceRaw Images FAQImaging scientists on NASA missions have access to original, uncompressed, science-quality images as soon as th...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/multimedia/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/multimedia/raw-images-faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceRaw Images FAQImaging scientists on NASA missions have access to original, uncompressed, science-quality images as soon as th...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: earthdata.nasa.gov  
-   Link: <a href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</p></details>
+   Link:<a href="https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/data-processing-levels</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At higher levels, the data are converted into more useful parameters and formats. Standard Data...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: solarsystem.nasa.gov  
    Title: Science Raw images faq  
-   Link: <a href="https://solarsystem.nasa.gov/raw-images/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow">https://solarsystem.nasa.gov/raw-images/raw-images-faq/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceRaw images faq - Solar System Exploration - NASAJun 22, 2022 — Processing images – that is, using software to enhance details...</p></details>
+   Link:<a href="https://solarsystem.nasa.gov/raw-images/raw-images-faq/" target="_blank" rel="noopener noreferrer nofollow">https://solarsystem.nasa.gov/raw-images/raw-images-faq/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceRaw images faq - Solar System Exploration - NASAJun 22, 2022 — Processing images – that is, using software to enhance details...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: what are raw images  
-   Link: <a href="https://science.nasa.gov/solar-system/multimedia/what-are-raw-images/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/multimedia/what-are-raw-images/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceWhat Are Raw ImagesNov 5, 2024 — Raw images are photos from space missions that NASA provides online for easy public access i...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/multimedia/what-are-raw-images/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/multimedia/what-are-raw-images/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceWhat Are Raw ImagesNov 5, 2024 — Raw images are photos from space missions that NASA provides online for easy public access i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: earthdata.nasa.gov  
    Title: radiation scientific imagery  
-   Link: <a href="https://www.earthdata.nasa.gov/data/instruments/czcs/classic-scenes/radiation-scientific-imagery" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/data/instruments/czcs/classic-scenes/radiation-scientific-imagery</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>processed data and images that are meaningful and accurate.... Before there has been any data processing, the data is termed raw data.Re...</p></details>
+   Link:<a href="https://www.earthdata.nasa.gov/data/instruments/czcs/classic-scenes/radiation-scientific-imagery" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/data/instruments/czcs/classic-scenes/radiation-scientific-imagery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>processed data and images that are meaningful and accurate.... Before there has been any data processing, the data is termed raw data.Re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: solarsystem.nasa.gov  
    Title: Science What Are Raw Images?  
-   Link: <a href="https://solarsystem.nasa.gov/raw-images/what-are-raw-images/" target="_blank" rel="noopener noreferrer nofollow">https://solarsystem.nasa.gov/raw-images/what-are-raw-images/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solar System Exploration - NASA23 Jun 2022 — Raw images are photos from space missions that NASA provides online for easy public access i...</p></details>
+   Link:<a href="https://solarsystem.nasa.gov/raw-images/what-are-raw-images/" target="_blank" rel="noopener noreferrer nofollow">https://solarsystem.nasa.gov/raw-images/what-are-raw-images/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solar System Exploration - NASA23 Jun 2022 — Raw images are photos from space missions that NASA provides online for easy public access i...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
    Title: where to find mission raw images  
-   Link: <a href="https://science.nasa.gov/solar-system/moon/where-to-find-mission-raw-images/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/moon/where-to-find-mission-raw-images/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceWhere to Find Mission Raw Images18 Jan 2018 — Several solar system exploration missions routinely publish raw, unprocessed im...</p></details>
+   Link:<a href="https://science.nasa.gov/solar-system/moon/where-to-find-mission-raw-images/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/moon/where-to-find-mission-raw-images/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceWhere to Find Mission Raw Images18 Jan 2018 — Several solar system exploration missions routinely publish raw, unprocessed im...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: science.nasa.gov  
    Title: psyche multimedia raw images  
-   Link: <a href="https://science.nasa.gov/mission/psyche/psyche-multimedia-raw-images/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/psyche/psyche-multimedia-raw-images/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Raw Images3 Jun 2025 — What Are Raw Images? Raw images are photos from space missions that NASA provides online for easy public access in...</p></details>
+   Link:<a href="https://science.nasa.gov/mission/psyche/psyche-multimedia-raw-images/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/psyche/psyche-multimedia-raw-images/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Raw Images3 Jun 2025 — What Are Raw Images? Raw images are photos from space missions that NASA provides online for easy public access in...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: how are webbs full color images made  
-   Link: <a href="https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Webb&#x27;s Full-Color Images Made?Sep 3, 2025 — Webb&#x27;s detectors are so sensitive that they can capture more light than our eyes or scree...</p></details>
+   Link:<a href="https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/mission/webb/science-overview/science-explainers/how-are-webbs-full-color-images-made/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Are Webb&#x27;s Full-Color Images Made?Sep 3, 2025 — Webb&#x27;s detectors are so sensitive that they can capture more light than our eyes or scree...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nasa.gov  
    Title: NAS A Images  
-   Link: <a href="https://www.nasa.gov/images/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/images/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Images - NASA3 Feb 2026 — Flickr Commons has more than 3,000 photos from NASA&#x27;s history. All photographs on the NASAcommons Flickr a...</p></details>
+   Link:<a href="https://www.nasa.gov/images/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/images/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Images - NASA3 Feb 2026 — Flickr Commons has more than 3,000 photos from NASA&#x27;s history. All photographs on the NASAcommons Flickr a...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?28 Apr 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find out whether aliens and UFOs exist. D...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: missionjuno.swri.edu  
-   Link: <a href="https://www.missionjuno.swri.edu/junocam/processing/" target="_blank" rel="noopener noreferrer nofollow">https://www.missionjuno.swri.edu/junocam/processing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is where we post raw images from JunoCam. We invite you to download them, do your own image processing, and we encourage you to uplo...</p></details>
+   Link:<a href="https://www.missionjuno.swri.edu/junocam/processing/" target="_blank" rel="noopener noreferrer nofollow">https://www.missionjuno.swri.edu/junocam/processing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is where we post raw images from JunoCam. We invite you to download them, do your own image processing, and we encourage you to uplo...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tarrdaniel.com  
-   Link: <a href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - The Gary McKinnon CaseHe said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s Build...</p></details>
+   Link:<a href="https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tarrdaniel.com/documents/Ufology/gary_mckinnon_case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO - Ufology - The Gary McKinnon CaseHe said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s Build...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...Gary McKinnon caught NASA editing UAP out of their images two decades ago. They...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...Gary McKinnon caught NASA editing UAP out of their images two decades ago. They...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spectrum.ieee.org  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack. Convinced that the gover...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerIn fact, McKinnon claimed that UFOs were the reason for his hack. Convinced that the gover...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-lindberg-[interviews" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-lindberg-[interviews</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with UFO hacker Gary McKinnonGary McKinnon has been branded an evil hacker and could end up at Guantanamo Bay. Oliver Lindberg...</p></details>
+   Link:<a href="https://medium.com/the-lindberg-[interviews" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-lindberg-[interviews</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interview with UFO hacker Gary McKinnonGary McKinnon has been branded an evil hacker and could end up at Guantanamo Bay. Oliver Lindberg...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/648677616005071/posts/2073741880165297/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/648677616005071/posts/2073741880165297/</a>  
+   Link:<a href="https://www.facebook.com/groups/648677616005071/posts/2073741880165297/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/648677616005071/posts/2073741880165297/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe claimed to find high-resolution images of unidentified flying objects, files listing “non-terr...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WFd7XzTf6_k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe claimed to find high-resolution images of unidentified flying objects, files listing “non-terr...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: instagram.com  
    Title: Gary Mc Kinnon, a British hacker, accessed multiple U.S  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, a Scottish hacker, gained unauthorised access to dozens of U.S. military and NASA systems between February 2001 and March...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon, a Scottish hacker, gained unauthorised access to dozens of U.S. military and NASA systems between February 2001 and March...</p></details>
    Published: February 2001  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: socialecologies.wordpress.com  
    Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
-   Link: <a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — McKinnon&#x27;s testimony across interviews remains consistent in describing how he n...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — McKinnon&#x27;s testimony across interviews remains consistent in describing how he n...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hi, i&#x27;m Gary Mckinnon. I was in the news for a decade after...I was arrested in March 2002 for &#x27;hacking&#x27; into various.gov/.mil networks...</p></details>
    Published: March 2002  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: welivesecurity.com  
    Title: gary mckinnon reveals detail on nasa data breach and extraterrestrial life  
-   Link: <a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO does not mean aliens, extra-terrestrials, whatever you wish to...Read more...</p></details>
+   Link:<a href="https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/" target="_blank" rel="noopener noreferrer nofollow">https://www.welivesecurity.com/2015/12/08/gary-mckinnon-reveals-detail-on-nasa-data-breach-and-extraterrestrial-life/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO does not mean aliens, extra-terrestrials, whatever you wish to...Read more...</p></details>

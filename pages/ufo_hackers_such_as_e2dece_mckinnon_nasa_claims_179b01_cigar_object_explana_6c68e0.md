@@ -280,7 +280,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_cig
 
 ## Introduction
 
-The most memorable element of Gary McKinnon’s NASA story is not the alleged spreadsheets or references to “non-terrestrial officers”. It is his claim that, during a brief remote session, he saw a high-resolution image showing a silvery, cigar-shaped object with unusual spherical features attached to it. According to McKinnon, the image appeared to come from a NASA system storing large satellite photographs, and he viewed it only briefly before his connection was terminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+The most memorable element of Gary McKinnon’s NASA story is not the alleged spreadsheets or references to “non-terrestrial officers”. It is his claim that, during a brief remote session, he saw a high-resolution image showing a silvery, cigar-shaped object with unusual spherical features attached to it. According to McKinnon, the image appeared to come from a NASA system storing large satellite photographs, and he viewed it only briefly before his connection was terminated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_cigar_object_explana_6c68e0-Illustration-1-dark.svg" | relative_url }}" alt="Cigar Object illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_cigar_object_explana_6c68e0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_cigar_object_explana_6c68e0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -288,14 +288,14 @@ The image has never been publicly produced, independently verified, or subjected
 
 ## Was The Cigar-Shaped Object Really A UFO?
 
-McKinnon’s description has remained remarkably consistent over the years. He said he briefly viewed a “silvery, cigar-shaped object” with “geodesic spheres” on either side. He reported no visible seams, rivets, or obvious structural details and said the image appeared to have been taken by a satellite looking down at the object. Crucially, he also stated that there was no reference point indicating scale. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+McKinnon’s description has remained remarkably consistent over the years. He said he briefly viewed a “silvery, cigar-shaped object” with “geodesic spheres” on either side. He reported no visible seams, rivets, or obvious structural details and said the image appeared to have been taken by a satellite looking down at the object. Crucially, he also stated that there was no reference point indicating scale.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
 Those details make the account memorable, but they also create analytical problems. Without knowing the object's size, altitude, orientation, date, location, sensor type, or imaging conditions, investigators cannot determine whether it represented:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* A large object in orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/ufodaily/posts/1513256550301567/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Leaked footage of non-terrestrial officers and space vesselsMcKinnon hacked into Johnson&#x27;s systems and said he found a high definition pi...</span></span></span>
+* A large object in orbit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/ufodaily/posts/1513256550301567/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Leaked footage of non-terrestrial officers and space vesselsMcKinnon hacked into Johnson&#x27;s systems and said he found a high definition pi...</span></span></span>
 * A smaller object much closer to the camera.
 * A spacecraft, satellite, or piece of hardware.
 * An imaging artefact.
@@ -309,7 +309,7 @@ The description is therefore evidence of what McKinnon believed he saw, not evid
 
 One reason the story persists is that the description sounds more specific than many UFO reports. The combination of a cigar-like shape and attached spherical structures creates a visual image that readers can easily imagine.
 
-However, the description comes from a very unusual viewing situation. McKinnon said he was using a slow 56K dial-up connection and had reduced the remote display to 4-bit colour and low resolution in order to make the image viewable over the network. He was not examining an [original file]({{ 'original-file/' | relative_url }}) locally. Instead, he was watching a compressed remote desktop representation of a large image loading across a slow connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+However, the description comes from a very unusual viewing situation. McKinnon said he was using a slow 56K dial-up connection and had reduced the remote display to 4-bit colour and low resolution in order to make the image viewable over the network. He was not examining an [original file]({{ 'original-file/' | relative_url }}) locally. Instead, he was watching a compressed remote desktop representation of a large image loading across a slow connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
 That distinction matters because remote-viewing software can introduce:
 
@@ -346,9 +346,9 @@ Imagine three different scenarios:
 
 All three could potentially appear as a smooth, elongated metallic object if viewed without context.
 
-Professional image analysts routinely rely on surrounding terrain, shadows, known structures, orbital data, sensor [metadata]({{ 'metadata/' | relative_url }}), and image geometry to determine what an object actually is. None of that information is available in McKinnon’s account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+Professional image analysts routinely rely on surrounding terrain, shadows, known structures, orbital data, sensor [metadata]({{ 'metadata/' | relative_url }}), and image geometry to determine what an object actually is. None of that information is available in McKinnon’s account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
-Even the object's location remains uncertain. In some later [retellings]({{ 'retellings/' | relative_url }}) the object is described as being above Earth, while McKinnon's original account focused mainly on the appearance of the image rather than providing a precise location. Because the original image is unavailable, those details cannot be independently checked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+Even the object's location remains uncertain. In some later [retellings]({{ 'retellings/' | relative_url }}) the object is described as being above Earth, while McKinnon's original account focused mainly on the appearance of the image rather than providing a precise location. Because the original image is unavailable, those details cannot be independently checked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_cigar_object_explana_6c68e0-Illustration-2-dark.svg" | relative_url }}" alt="Cigar Object illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_cigar_object_explana_6c68e0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_mckinnon_nasa_claims_179b01_cigar_object_explana_6c68e0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -366,7 +366,7 @@ Without scale or context, a satellite bus, upper-stage component, or other orbit
 
 McKinnon specifically claimed he encountered processed and unprocessed imagery. Large technical images often undergo calibration, enhancement, contrast correction, and compression. During transmission or rendering, artefacts can create misleading shapes and boundaries.
 
-Because he viewed the image remotely under poor bandwidth conditions, artefacts cannot be excluded as a contributing factor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+Because he viewed the image remotely under poor bandwidth conditions, artefacts cannot be excluded as a contributing factor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -377,7 +377,7 @@ A particularly important possibility is incomplete rendering.
 
 When a very large image loads gradually, only portions may be visible at a given moment. Missing sections can alter perceived geometry. Rounded features, gaps, or partially loaded regions may create the impression of attached spheres or unusual structures that disappear once the image fully loads.
 
-McKinnon never obtained the complete file, meaning this possibility cannot be tested. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+McKinnon never obtained the complete file, meaning this possibility cannot be tested.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
 ### Misidentified Aerospace Equipment
 
@@ -405,7 +405,7 @@ Investigators would ideally need:
 
 </div>
 
-None of these elements are publicly available. McKinnon stated that he did not successfully download the image before his connection was terminated. As a result, the claim rests entirely on memory rather than on evidence that others can inspect. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+None of these elements are publicly available. McKinnon stated that he did not successfully download the image before his connection was terminated. As a result, the claim rests entirely on memory rather than on evidence that others can inspect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
@@ -414,199 +414,199 @@ None of these elements are publicly available. McKinnon stated that he did not s
 
 The cigar-shaped object occupies an unusual position in UFO history. It is more specific than a typical [anecdote]({{ 'anecdote/' | relative_url }}) because it includes a distinct visual description and a claimed NASA source. Yet it is less useful as evidence than many photographic cases because the image itself is unavailable.
 
-For supporters of McKinnon, the object appears consistent with the possibility that he encountered something extraordinary hidden within NASA systems. For sceptics, the lack of a file, screenshot, metadata, or independent [corroboration]({{ 'corroboration/' | relative_url }}) means that conventional explanations remain at least as plausible as an exotic one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+For supporters of McKinnon, the object appears consistent with the possibility that he encountered something extraordinary hidden within NASA systems. For sceptics, the lack of a file, screenshot, metadata, or independent [corroboration]({{ 'corroboration/' | relative_url }}) means that conventional explanations remain at least as plausible as an exotic one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
-The result is a claim that is difficult either to confirm or to completely dismiss. What survives is not a verified photograph of an unknown craft, but a recollection of a brief viewing experience whose most important details can no longer be examined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
+The result is a claim that is difficult either to confirm or to completely dismiss. What survives is not a verified photograph of an unknown craft, but a recollection of a brief viewing experience whose most important details can no longer be examined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was The Cigar Shaped Object Really A UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was The Cigar Shaped Object Really A UFO?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By J. Allen Hynek</p>
         
-        <p class="fr-book-desc">Discusses classification and interpretation of unusual sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses classification and interpretation of unusual sightings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly relevant to UFO evidence debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to UFO evidence debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mx_AjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin David Mitnick, William L Simon</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=mx_AjwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin David Mitnick, William L Simon</p>
         
-        <p class="fr-book-desc">Provides the hacking context behind the claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides the hacking context behind the claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+David+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Ideal framework for evaluating an unverified UFO image claim.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Ideal framework for evaluating an unverified UFO image claim.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/2b28e3027c0e7d54243f.jpg' | relative_url }}" alt="Listing image for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch"><img src="{{ '/assets/images/marketplace-covers/2b28e3027c0e7d54243f.jpg' | relative_url }}" alt="Listing image for NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA USA Name Letters Logo Patch Embroidered Patch Iron On/Sew On Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="{{ '/assets/images/marketplace-covers/fecc3801368785b177c2.jpg' | relative_url }}" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans"><img src="{{ '/assets/images/marketplace-covers/fecc3801368785b177c2.jpg' | relative_url }}" alt="Listing image for Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">Nasa USA Science Cool Trendy Universe Embroidered Iron sew on Patch badge Jeans</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes"><img src="{{ '/assets/images/marketplace-covers/048b93cb4acc79ed26eb.jpg' | relative_url }}" alt="Listing image for NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes"><img src="{{ '/assets/images/marketplace-covers/048b93cb4acc79ed26eb.jpg' | relative_url }}" alt="Listing image for NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Logo Embroidered Patch Iron/Sew On Patch For Clothes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,"><img src="{{ '/assets/images/marketplace-covers/dbbe9c6146b8bc47c0eb.jpg' | relative_url }}" alt="Listing image for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets," loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,"><img src="{{ '/assets/images/marketplace-covers/dbbe9c6146b8bc47c0eb.jpg' | relative_url }}" alt="Listing image for NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets," loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">NASA Embroidered Patch – Space Logo Badge – Sew On / Iron On Patch for Jackets,</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for NASA embroidered patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: NASA embroidered patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=NASA+embroidered+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="NASA embroidered patch" data-ebay-reference="cigar-object-was-the-cigar-shaped-object-really-a-ufo-ufo-hackers-such-nasa-embroidered-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -622,7 +622,7 @@ The result is a claim that is difficult either to confirm or to completely dismi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -642,7 +642,7 @@ The result is a claim that is difficult either to confirm or to completely dismi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -674,7 +674,7 @@ The result is a claim that is difficult either to confirm or to completely dismi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -726,7 +726,7 @@ The result is a claim that is difficult either to confirm or to completely dismi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -771,7 +771,7 @@ The result is a claim that is difficult either to confirm or to completely dismi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -812,69 +812,69 @@ The result is a claim that is difficult either to confirm or to completely dismi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun,2006 — It was a silvery, cigar-shaped object with geodesic spheres on either side. There were...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: a history of near earth object research sp 4235  
-   Link: <a href="https://www.nasa.gov/wp-content/uploads/2025/07/a-history-of-near-earth-object-research-sp-4235.pdf?emrc=9e734b" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/07/a-history-of-near-earth-object-research-sp-4235.pdf?emrc=9e734b</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Near-Earth Objects Research1982, scientists at NASA Johnson Space Center had identified a meteorite found in Antarctica as...</p></details>
+   Link:<a href="https://www.nasa.gov/wp-content/uploads/2025/07/a-history-of-near-earth-object-research-sp-4235.pdf?emrc=9e734b" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/wp-content/uploads/2025/07/a-history-of-near-earth-object-research-sp-4235.pdf?emrc=9e734b</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The History of Near-Earth Objects Research1982, scientists at NASA Johnson Space Center had identified a meteorite found in Antarctica as...</p></details>
 
 ### Additional References
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OriginsExplained/videos/david-grusch-nasa-hacker-gary-mckinnon-the-alien-cover-up-is-real/1000575392635681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsExplained/videos/david-grusch-nasa-hacker-gary-mckinnon-the-alien-cover-up-is-real/1000575392635681/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe told wired in two thousand and six, he saw a picture of a silvery cigar-shaped object with geo...</p></details>
+   Link:<a href="https://www.facebook.com/OriginsExplained/videos/david-grusch-nasa-hacker-gary-mckinnon-the-alien-cover-up-is-real/1000575392635681/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OriginsExplained/videos/david-grusch-nasa-hacker-gary-mckinnon-the-alien-cover-up-is-real/1000575392635681/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch &amp; NASA Hacker Gary McKinnonHe told wired in two thousand and six, he saw a picture of a silvery cigar-shaped object with geo...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ufodaily/posts/1513256550301567/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufodaily/posts/1513256550301567/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked footage of non-terrestrial officers and space vesselsMcKinnon hacked into Johnson&#x27;s systems and said he found a high definition pi...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ufodaily/posts/1513256550301567/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufodaily/posts/1513256550301567/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leaked footage of non-terrestrial officers and space vesselsMcKinnon hacked into Johnson&#x27;s systems and said he found a high definition pi...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: uapmurders.com  
-   Link: <a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Murdering UAP ExpertsGary McKinnon | Murdering UAP ExpertsMcKinnon claimed he viewed an unprocessed satellite image showing &quot;a silvery, c...</p></details>
+   Link:<a href="https://uapmurders.com/uaps/Details/Gary_McKinnon/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/uaps/Details/Gary_McKinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Murdering UAP ExpertsGary McKinnon | Murdering UAP ExpertsMcKinnon claimed he viewed an unprocessed satellite image showing &quot;a silvery, c...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ClintonDesveaux/status/2028242533684215873" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ClintonDesveaux/status/2028242533684215873</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This looks funHalfway across the world in the UK, a lone IT guy named Gary McKinnon hacked into the same NASA facility and saw an image o...</p></details>
+   Link:<a href="https://x.com/ClintonDesveaux/status/2028242533684215873" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ClintonDesveaux/status/2028242533684215873</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This looks funHalfway across the world in the UK, a lone IT guy named Gary McKinnon hacked into the same NASA facility and saw an image o...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/gary-mckinnon-said-he-didnt-break-into-nasa-for-money-or-espionage-he-was-search/1552576496873772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/gary-mckinnon-said-he-didnt-break-into-nasa-for-money-or-espionage-he-was-search/1552576496873772/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon said he didn&#x27;t break into NASA...According to McKinnon, one image briefly showed a cigar-shaped object above Earth before...</p></details>
+   Link:<a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/gary-mckinnon-said-he-didnt-break-into-nasa-for-money-or-espionage-he-was-search/1552576496873772/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/gary-mckinnon-said-he-didnt-break-into-nasa-for-money-or-espionage-he-was-search/1552576496873772/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon said he didn&#x27;t break into NASA...According to McKinnon, one image briefly showed a cigar-shaped object above Earth before...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Document RepositoryThe United States Department Of Defense And The...13 Nov 2024 — McKinnon claims an image held at the Johnson Sp...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Document RepositoryThe United States Department Of Defense And The...13 Nov 2024 — McKinnon claims an image held at the Johnson Sp...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pod.wave.co  
    Title: 600 compilation mars mysteries and secret missions e1b9e417  
-   Link: <a href="https://pod.wave.co/podcast/the-why-files-operation-podcast/600-compilation-mars-mysteries-and-secret-missions-e1b9e417" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/the-why-files-operation-podcast/600-compilation-mars-mysteries-and-secret-missions-e1b9e417</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wave.co600: COMPILATION: Mars Mysteries and Secret Missions27 Jun 2025 — After Gary found the cigar shaped UFO on the NASA computer and g...</p></details>
+   Link:<a href="https://pod.wave.co/podcast/the-why-files-operation-podcast/600-compilation-mars-mysteries-and-secret-missions-e1b9e417" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/the-why-files-operation-podcast/600-compilation-mars-mysteries-and-secret-missions-e1b9e417</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wave.co600: COMPILATION: Mars Mysteries and Secret Missions27 Jun 2025 — After Gary found the cigar shaped UFO on the NASA computer and g...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cybernews.com  
-   Link: <a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hacker who breached NASA to prove that UFOs exist31 Oct,2023 — It was a silvery, cigar-shaped object with geodesic spheres o...</p></details>
+   Link:<a href="https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/tech/hacker-who-breached-nasa-trying-prove-ufo-existence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hacker who breached NASA to prove that UFOs exist31 Oct,2023 — It was a silvery, cigar-shaped object with geodesic spheres o...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...It was a silvery, cigar-shaped object with geodesic spheres on either side...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...It was a silvery, cigar-shaped object with geodesic spheres on either side...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: socialecologies.wordpress.com  
    Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
-   Link: <a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”03 Dec,2025 — Gary McKinnon: The UFO Image in Nasa Building &quot;8&quot; - A Chronosphere Case Study i...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”03 Dec,2025 — Gary McKinnon: The UFO Image in Nasa Building &quot;8&quot; - A Chronosphere Case Study i...</p></details>

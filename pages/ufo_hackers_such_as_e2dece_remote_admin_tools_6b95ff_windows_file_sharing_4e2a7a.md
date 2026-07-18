@@ -277,15 +277,15 @@ image: /assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windo
 
 ## Introduction
 
-In the era of the Gary McKinnon case, one of the most important but often overlooked security weaknesses was the exposure of Windows file-sharing services directly to the internet. Many Windows NT and Windows 2000 systems were designed around the assumption that they would operate inside trusted corporate or government networks. When those same services became reachable from outside, [weak passwords]({{ 'weak-passwords/' | relative_url }}), misconfigurations and poor network segmentation could turn ordinary administrative features into entry points for unauthorised users. This was not a uniquely McKinnon-related problem; it was a widespread characteristic of early-2000s Windows networking that affected businesses, universities and government agencies alike. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vidstromlabs.com">[vidstromlabs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vidstromlabs.com</span><span class="citation-popover-title">I&#x27;ll explain what this port is for.Read more</span><span class="citation-popover-snippet">The use of TCP ports 139 and 445 in Windows15 May 2019 — Microsoft introduced TCP port 445 with Windows 2000, and it&#x27;s still in use in Wi...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+In the era of the Gary McKinnon case, one of the most important but often overlooked security weaknesses was the exposure of Windows file-sharing services directly to the internet. Many Windows NT and Windows 2000 systems were designed around the assumption that they would operate inside trusted corporate or government networks. When those same services became reachable from outside, [weak passwords]({{ 'weak-passwords/' | relative_url }}), misconfigurations and poor network segmentation could turn ordinary administrative features into entry points for unauthorised users. This was not a uniquely McKinnon-related problem; it was a widespread characteristic of early-2000s Windows networking that affected businesses, universities and government agencies alike.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vidstromlabs.com">[vidstromlabs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vidstromlabs.com</span><span class="citation-popover-title">I&#x27;ll explain what this port is for.Read more</span><span class="citation-popover-snippet">The use of TCP ports 139 and 445 in Windows15 May 2019 — Microsoft introduced TCP port 445 with Windows 2000, and it&#x27;s still in use in Wi...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-1-dark.svg" | relative_url }}" alt="File Sharing illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Windows Sharing Was So Exposed
 
-Windows networking relied heavily on the Server Message Block (SMB) protocol, which allowed administrators and authorised users to share files, printers and other resources across a network. In Windows NT environments, SMB commonly operated through NetBIOS services on TCP port 139. With Windows 2000, Microsoft introduced direct SMB over TCP using port 445, simplifying administration and making networked resources easier to reach. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vidstromlabs.com">[vidstromlabs.com+2Petri IT Knowledgebase]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vidstromlabs.com</span><span class="citation-popover-title">I&#x27;ll explain what this port is for.Read more</span><span class="citation-popover-snippet">The use of TCP ports 139 and 445 in Windows15 May 2019 — Microsoft introduced TCP port 445 with Windows 2000, and it&#x27;s still in use in Wi...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+Windows networking relied heavily on the Server Message Block (SMB) protocol, which allowed administrators and authorised users to share files, printers and other resources across a network. In Windows NT environments, SMB commonly operated through NetBIOS services on TCP port 139. With Windows 2000, Microsoft introduced direct SMB over TCP using port 445, simplifying administration and making networked resources easier to reach.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vidstromlabs.com">[vidstromlabs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vidstromlabs.com</span><span class="citation-popover-title">I&#x27;ll explain what this port is for.Read more</span><span class="citation-popover-snippet">The use of TCP ports 139 and 445 in Windows15 May 2019 — Microsoft introduced TCP port 445 with Windows 2000, and it&#x27;s still in use in Wi...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
-Within an internal network, this design was highly practical. Administrators could remotely manage systems, browse shared folders, copy files, distribute software and perform maintenance without travelling to each machine. Shared drives became a normal part of organisational computing. The same infrastructure also supported domain logins and other essential Windows network functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.manageengine.com/products/active-directory-audit/kb/smb-file-share.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manageengine.com">[ManageEngine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manageengine.com</span><span class="citation-popover-snippet">Older environments may use TCP port 139, which routes SMB traffic over NetBIOS. Port 139 is a legacy...Read more...</span></span></span>
+Within an internal network, this design was highly practical. Administrators could remotely manage systems, browse shared folders, copy files, distribute software and perform maintenance without travelling to each machine. Shared drives became a normal part of organisational computing. The same infrastructure also supported domain logins and other essential Windows network functions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.manageengine.com/products/active-directory-audit/kb/smb-file-share.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: manageengine.com">[ManageEngine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">manageengine.com</span><span class="citation-popover-snippet">Older environments may use TCP port 139, which routes SMB traffic over NetBIOS. Port 139 is a legacy...Read more...</span></span></span>
 
 The problem arose when organisations treated these internal services as though they were still operating in a trusted environment after connecting their networks to the wider internet.
 
@@ -294,9 +294,9 @@ The problem arose when organisations treated these internal services as though t
 
 ## How Windows Networking Supported Administration
 
-Early Windows networks were built around convenience and interoperability. Administrators frequently enabled file and printer sharing across entire departments or sites. Hidden administrative shares, such as drive-letter shares intended for system management, allowed privileged users to access machines remotely without requiring additional software. Combined with Windows authentication mechanisms, this created a powerful remote-administration platform. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folsec.com/en/blog/what-are-smb-ports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folsec.com">[folsec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folsec.com</span><span class="citation-popover-snippet">file sharing, Windows networking, and enterprise systems...</span></span></span>
+Early Windows networks were built around convenience and interoperability. Administrators frequently enabled file and printer sharing across entire departments or sites. Hidden administrative shares, such as drive-letter shares intended for system management, allowed privileged users to access machines remotely without requiring additional software. Combined with Windows authentication mechanisms, this created a powerful remote-administration platform.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folsec.com/en/blog/what-are-smb-ports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folsec.com">[folsec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folsec.com</span><span class="citation-popover-snippet">file sharing, Windows networking, and enterprise systems...</span></span></span>
 
-In practice, many organisations depended on these capabilities. A network administrator could connect to a remote server, review logs, copy configuration files or install updates through the same file-sharing infrastructure used for ordinary business operations. The distinction between file sharing and system administration was often blurred because SMB provided both. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folsec.com/en/blog/what-are-smb-ports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folsec.com">[folsec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folsec.com</span><span class="citation-popover-snippet">file sharing, Windows networking, and enterprise systems...</span></span></span>
+In practice, many organisations depended on these capabilities. A network administrator could connect to a remote server, review logs, copy configuration files or install updates through the same file-sharing infrastructure used for ordinary business operations. The distinction between file sharing and system administration was often blurred because SMB provided both.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folsec.com/en/blog/what-are-smb-ports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folsec.com">[folsec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folsec.com</span><span class="citation-popover-snippet">file sharing, Windows networking, and enterprise systems...</span></span></span>
 
 This administrative model made sense when most traffic remained inside a controlled corporate or government network. It became far riskier when those same ports were accessible from anywhere on the internet.
 
@@ -304,18 +304,18 @@ This administrative model made sense when most traffic remained inside a control
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-2-dark.svg" | relative_url }}" alt="File Sharing illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Went Wrong When Internal Services Faced the Internet
 
-The critical mistake was not the existence of file sharing itself but exposing it beyond trusted boundaries. Ports 139 and 445 became visible targets because they advertised Windows networking services to anyone who could reach them. Attackers no longer needed physical access or insider status to interact with systems that had been designed for internal administration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://netwrix.com/en/resources/blog/smb-port/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netwrix.com">[netwrix.com+2vidstromlabs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netwrix.com</span><span class="citation-popover-title">smb port</span><span class="citation-popover-snippet">What are SMB Ports, Port 139 &amp; Port 445?27 Sept 2024 — SMB requires either port 139 or port 445 to be an open port. Port 139. Originally...</span></span></span>
+The critical mistake was not the existence of file sharing itself but exposing it beyond trusted boundaries. Ports 139 and 445 became visible targets because they advertised Windows networking services to anyone who could reach them. Attackers no longer needed physical access or insider status to interact with systems that had been designed for internal administration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://netwrix.com/en/resources/blog/smb-port/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netwrix.com">[netwrix.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netwrix.com</span><span class="citation-popover-title">smb port</span><span class="citation-popover-snippet">What are SMB Ports, Port 139 &amp; Port 445?27 Sept 2024 — SMB requires either port 139 or port 445 to be an open port. Port 139. Originally...</span></span></span>
 
-In many environments, authentication practices were also weaker than modern standards. Blank administrator passwords, predictable passwords and excessive privileges were not uncommon. Once a user obtained valid credentials—or found a system configured with inadequate authentication—the file-sharing infrastructure could provide extensive access to files and administrative functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">Future Intelligence Gary Mc Kinnon was unlucky</span><span class="citation-popover-snippet">He&#x27;s not even a very good hacker18 Oct 2012 — How he would search for blank passwords and then once inside the US computers, install a re...</span></span></span>
+In many environments, authentication practices were also weaker than modern standards. Blank administrator passwords, predictable passwords and excessive privileges were not uncommon. Once a user obtained valid credentials—or found a system configured with inadequate authentication—the file-sharing infrastructure could provide extensive access to files and administrative functions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: futureintelligence.co.uk">[Future Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">futureintelligence.co.uk</span><span class="citation-popover-title">Future Intelligence Gary Mc Kinnon was unlucky</span><span class="citation-popover-snippet">He&#x27;s not even a very good hacker18 Oct 2012 — How he would search for blank passwords and then once inside the US computers, install a re...</span></span></span>
 
-Security researchers and later security guidance repeatedly highlighted the dangers of exposing SMB services externally. Modern recommendations generally assume that SMB should remain restricted to internal networks because the protocol was designed primarily for trusted environments, not direct internet exposure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://securityscorecard.com/blog/navigating-the-risks-of-tcp-445-strategies-for-secure-network-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: securityscorecard.com">[SecurityScorecard+2folsec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">securityscorecard.com</span><span class="citation-popover-title">Security Scorecard What Is Port 445 (SMB)?</span><span class="citation-popover-snippet">Strategies for Secure Network...7 Nov 2024 — Port 445 enables SMB traffic but is a prime target for ransomware and wormable exploits. Le...</span></span></span>
+Security researchers and later security guidance repeatedly highlighted the dangers of exposing SMB services externally. Modern recommendations generally assume that SMB should remain restricted to internal networks because the protocol was designed primarily for trusted environments, not direct internet exposure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://securityscorecard.com/blog/navigating-the-risks-of-tcp-445-strategies-for-secure-network-communication/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: securityscorecard.com">[securityscorecard.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">securityscorecard.com</span><span class="citation-popover-title">Security Scorecard What Is Port 445 (SMB)?</span><span class="citation-popover-snippet">Strategies for Secure Network...7 Nov 2024 — Port 445 enables SMB traffic but is a prime target for ransomware and wormable exploits. Le...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
 
 ### A Different Threat Landscape
 
-It is important to remember how different the internet looked at the time. Many organisations were still adapting to permanent internet connectivity. Firewalls, network segmentation and exposure management were less mature than they would become later. Windows 2000 itself appeared during a period when remotely reachable services increasingly became targets for internet-based attacks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Windows_2000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Windows 2000</span><span class="citation-popover-snippet">Windows 2000</span></span></span>
+It is important to remember how different the internet looked at the time. Many organisations were still adapting to permanent internet connectivity. Firewalls, network segmentation and exposure management were less mature than they would become later. Windows 2000 itself appeared during a period when remotely reachable services increasingly became targets for internet-based attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Windows_2000" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Windows 2000</span><span class="citation-popover-snippet">Windows 2000</span></span></span>
 
 As a result, systems that administrators viewed as ordinary network resources could become discoverable to outsiders. A service intended to simplify internal management could unintentionally become a publicly reachable doorway.
 
@@ -323,9 +323,9 @@ As a result, systems that administrators viewed as ordinary network resources co
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-3-dark.svg" | relative_url }}" alt="File Sharing illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_windows_file_sharing_4e2a7a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Convenience Created a Wider Attack Surface
 
-The same features that made Windows networking efficient also expanded the number of ways a system could be reached. Administrators wanted remote access because it reduced operational costs and simplified support. Users wanted shared drives because they improved collaboration. Network engineers wanted interoperability between systems. Each convenience added another component that required secure configuration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://folsec.com/en/blog/what-are-smb-ports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folsec.com">[folsec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folsec.com</span><span class="citation-popover-snippet">file sharing, Windows networking, and enterprise systems...</span></span></span>
+The same features that made Windows networking efficient also expanded the number of ways a system could be reached. Administrators wanted remote access because it reduced operational costs and simplified support. Users wanted shared drives because they improved collaboration. Network engineers wanted interoperability between systems. Each convenience added another component that required secure configuration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://folsec.com/en/blog/what-are-smb-ports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folsec.com">[folsec.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folsec.com</span><span class="citation-popover-snippet">file sharing, Windows networking, and enterprise systems...</span></span></span>
 
-When security controls lagged behind connectivity, exposure multiplied. Open SMB services could reveal information about systems, permit authentication attempts and provide access to shared resources. Even if a particular machine was not fully compromised, exposing file-sharing infrastructure increased the opportunities available to an attacker. This broader [attack surface]({{ 'attack-surface/' | relative_url }}) became one of the defining characteristics of Windows network security discussions during the period. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nflo.tech/knowledge-base/smb-protocol-vulnerabilities-attacks-security-threats-and-security-methods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nflo.tech">[nFlo+2SecurityScorecard]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nflo.tech</span><span class="citation-popover-snippet">SMB protocol: vulnerabilities, attacks and how to secure it - nFloSeptember 5, 2023 — 5 Sept 2023 — Historic NetBIOS ports (137-139)...</span><span class="citation-popover-meta">Published: September 5, 2023</span></span></span>
+When security controls lagged behind connectivity, exposure multiplied. Open SMB services could reveal information about systems, permit authentication attempts and provide access to shared resources. Even if a particular machine was not fully compromised, exposing file-sharing infrastructure increased the opportunities available to an attacker. This broader [attack surface]({{ 'attack-surface/' | relative_url }}) became one of the defining characteristics of Windows network security discussions during the period.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nflo.tech/knowledge-base/smb-protocol-vulnerabilities-attacks-security-threats-and-security-methods/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nflo.tech">[nflo.tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nflo.tech</span><span class="citation-popover-snippet">SMB protocol: vulnerabilities, attacks and how to secure it - nFloSeptember 5, 2023 — 5 Sept 2023 — Historic NetBIOS ports (137-139)...</span><span class="citation-popover-meta">Published: September 5, 2023</span></span></span>
 
 The lesson was not that file sharing was inherently unsafe. Rather, technologies designed for trusted internal administration were often deployed in environments where that trust no longer existed.
 
@@ -334,199 +334,199 @@ The lesson was not that file sharing was inherently unsafe. Rather, technologies
 
 ## Connection to the McKinnon Era
 
-The Gary McKinnon case is frequently remembered through its UFO-related claims and allegations involving NASA and military systems. Yet from a technical perspective, it also reflected broader weaknesses common in early-2000s Windows environments. Prosecutors alleged that McKinnon exploited poorly protected systems, obtained administrative access and installed remote-management software for continued access. Contemporary reporting and court documents repeatedly emphasised weak passwords and administrative exposure rather than exotic intrusion techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
+The Gary McKinnon case is frequently remembered through its UFO-related claims and allegations involving NASA and military systems. Yet from a technical perspective, it also reflected broader weaknesses common in early-2000s Windows environments. Prosecutors alleged that McKinnon exploited poorly protected systems, obtained administrative access and installed remote-management software for continued access. Contemporary reporting and court documents repeatedly emphasised weak passwords and administrative exposure rather than exotic intrusion techniques.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
 
-Windows file sharing exposed to the internet formed part of that wider environment. Organisations relied on powerful network-management features that worked well inside trusted networks but became risky when reachable from outside. The historical significance of the period lies not only in individual hacking cases but in how ordinary administrative infrastructure, combined with weak security practices, created opportunities that would be far harder to find in modern, better-segmented networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vidstromlabs.com">[vidstromlabs.com+2danielmiessler.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vidstromlabs.com</span><span class="citation-popover-title">I&#x27;ll explain what this port is for.Read more</span><span class="citation-popover-snippet">The use of TCP ports 139 and 445 in Windows15 May 2019 — Microsoft introduced TCP port 445 with Windows 2000, and it&#x27;s still in use in Wi...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
+Windows file sharing exposed to the internet formed part of that wider environment. Organisations relied on powerful network-management features that worked well inside trusted networks but became risky when reachable from outside. The historical significance of the period lies not only in individual hacking cases but in how ordinary administrative infrastructure, combined with weak security practices, created opportunities that would be far harder to find in modern, better-segmented networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vidstromlabs.com">[vidstromlabs.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vidstromlabs.com</span><span class="citation-popover-title">I&#x27;ll explain what this port is for.Read more</span><span class="citation-popover-snippet">The use of TCP ports 139 and 445 in Windows15 May 2019 — Microsoft introduced TCP port 445 with Windows 2000, and it&#x27;s still in use in Wi...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Windows Sharing Was So Exposed. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Windows Sharing Was So Exposed. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hacking+Exposed+by+Stuart+McClure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hacking Exposed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uIc4GTjzdqgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hacking Exposed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hacking+Exposed+by+Stuart+McClure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hacking Exposed">Hacking Exposed</a>
-        </h4>
-        <p class="fr-book-author">By Stuart McClure, Joel Scambray et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hacking+Exposed+by+Stuart+McClure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hacking Exposed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=uIc4GTjzdqgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hacking Exposed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hacking+Exposed+by+Stuart+McClure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hacking Exposed">Hacking Exposed</a>
+</h4>
+<p class="fr-book-author">By Stuart McClure, Joel Scambray et al.</p>
         
-        <p class="fr-book-desc">Covers Windows networking and exposed services.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hacking+Exposed+by+Stuart+McClure&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers Windows networking and exposed services.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hacking+Exposed+by+Stuart+McClure&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Windows+Internals+by+Pavel+Yosifovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Windows Internals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y83LDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Windows Internals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Windows+Internals+by+Pavel+Yosifovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Windows Internals">Windows Internals</a>
-        </h4>
-        <p class="fr-book-author">By Pavel Yosifovich, Mark E. Russinovich et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Windows+Internals+by+Pavel+Yosifovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Windows Internals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y83LDgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Windows Internals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Windows+Internals+by+Pavel+Yosifovich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Windows Internals">Windows Internals</a>
+</h4>
+<p class="fr-book-author">By Pavel Yosifovich, Mark E. Russinovich et al.</p>
         
-        <p class="fr-book-desc">Explains underlying Windows networking behavior.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Windows+Internals+by+Pavel+Yosifovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains underlying Windows networking behavior.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Windows+Internals+by+Pavel+Yosifovich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
-        </h4>
-        <p class="fr-book-author">By Richard Bejtlich</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practice of Network Security Monitoring on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QdLclhJhQecC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Practice of Network Security Monitoring" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practice of Network Security Monitoring">The Practice of Network Security Monitoring</a>
+</h4>
+<p class="fr-book-author">By Richard Bejtlich</p>
         
-        <p class="fr-book-desc">Addresses monitoring network exposure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses monitoring network exposure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring+by+Richard+Bejtlich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Demonstrates exploitation of weak network controls.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates exploitation of weak network controls.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hacking+Exposed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hacking Exposed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Windows+Internals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Windows Internals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hacking+Exposed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hacking Exposed</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Windows+Internals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Windows Internals</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practice+of+Network+Security+Monitoring&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practice of Network Security Monitoring</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/969b2fe86c86a33a042a.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="file-sharing-why-windows-sharing-was-so-exposed-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -542,7 +542,7 @@ Windows file sharing exposed to the internet formed part of that wider environme
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -562,7 +562,7 @@ Windows file sharing exposed to the internet formed part of that wider environme
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -594,7 +594,7 @@ Windows file sharing exposed to the internet formed part of that wider environme
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -646,7 +646,7 @@ Windows file sharing exposed to the internet formed part of that wider environme
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -691,7 +691,7 @@ Windows file sharing exposed to the internet formed part of that wider environme
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -732,149 +732,149 @@ Windows file sharing exposed to the internet formed part of that wider environme
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vidstromlabs.com  
    Title: I'll explain what this port is for.Read more  
-   Link: <a href="https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/" target="_blank" rel="noopener noreferrer nofollow">https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The use of TCP ports 139 and 445 in Windows15 May 2019 — Microsoft introduced TCP port 445 with Windows 2000, and it&#x27;s still in use in Wi...</p></details>
+   Link:<a href="https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/" target="_blank" rel="noopener noreferrer nofollow">https://vidstromlabs.com/blog/the-use-of-tcp-ports-139-and-445-in-windows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The use of TCP ports 139 and 445 in Windows15 May 2019 — Microsoft introduced TCP port 445 with Windows 2000, and it&#x27;s still in use in Wi...</p></details>
    Published: May 2019  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: petri.com  
    Title: smb port 445 139 138 137  
-   Link: <a href="https://petri.com/smb-port-445-139-138-137/" target="_blank" rel="noopener noreferrer nofollow">https://petri.com/smb-port-445-139-138-137/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Petri IT KnowledgebaseWindows File Sharing with SMB: Port 445, 139, 138, and 13720 Feb 2023 — SMB originally depended on NetBIOS over TCP...</p></details>
+   Link:<a href="https://petri.com/smb-port-445-139-138-137/" target="_blank" rel="noopener noreferrer nofollow">https://petri.com/smb-port-445-139-138-137/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Petri IT KnowledgebaseWindows File Sharing with SMB: Port 445, 139, 138, and 13720 Feb 2023 — SMB originally depended on NetBIOS over TCP...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: manageengine.com  
-   Link: <a href="https://www.manageengine.com/products/active-directory-audit/kb/smb-file-share.html" target="_blank" rel="noopener noreferrer nofollow">https://www.manageengine.com/products/active-directory-audit/kb/smb-file-share.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Older environments may use TCP port 139, which routes SMB traffic over NetBIOS. Port 139 is a legacy...Read more...</p></details>
+   Link:<a href="https://www.manageengine.com/products/active-directory-audit/kb/smb-file-share.html" target="_blank" rel="noopener noreferrer nofollow">https://www.manageengine.com/products/active-directory-audit/kb/smb-file-share.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Older environments may use TCP port 139, which routes SMB traffic over NetBIOS. Port 139 is a legacy...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: folsec.com  
-   Link: <a href="https://folsec.com/en/blog/what-are-smb-ports" target="_blank" rel="noopener noreferrer nofollow">https://folsec.com/en/blog/what-are-smb-ports</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>file sharing, Windows networking, and enterprise systems...</p></details>
+   Link:<a href="https://folsec.com/en/blog/what-are-smb-ports" target="_blank" rel="noopener noreferrer nofollow">https://folsec.com/en/blog/what-are-smb-ports</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>file sharing, Windows networking, and enterprise systems...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: netwrix.com  
    Title: smb port  
-   Link: <a href="https://netwrix.com/en/resources/blog/smb-port/" target="_blank" rel="noopener noreferrer nofollow">https://netwrix.com/en/resources/blog/smb-port/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What are SMB Ports, Port 139 &amp; Port 445?27 Sept 2024 — SMB requires either port 139 or port 445 to be an open port. Port 139. Originally...</p></details>
+   Link:<a href="https://netwrix.com/en/resources/blog/smb-port/" target="_blank" rel="noopener noreferrer nofollow">https://netwrix.com/en/resources/blog/smb-port/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What are SMB Ports, Port 139 &amp; Port 445?27 Sept 2024 — SMB requires either port 139 or port 445 to be an open port. Port 139. Originally...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: danielmiessler.com  
-   Link: <a href="https://danielmiessler.com/blog/windowsfilesharing" target="_blank" rel="noopener noreferrer nofollow">https://danielmiessler.com/blog/windowsfilesharing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Windows File Sharing: Facing the Mystery29 Jun 2005 — Due to the consolidation of many of the NetBIOS functions into a single port (445)...</p></details>
+   Link:<a href="https://danielmiessler.com/blog/windowsfilesharing" target="_blank" rel="noopener noreferrer nofollow">https://danielmiessler.com/blog/windowsfilesharing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Windows File Sharing: Facing the Mystery29 Jun 2005 — Due to the consolidation of many of the NetBIOS functions into a single port (445)...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeLondon, England Hacker Indicted Under Computer Fraud...Gary McKinnon, of London, England, was indicted in Alexandri...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: securityscorecard.com  
    Title: Security Scorecard What Is Port 445 (SMB)?  
-   Link: <a href="https://securityscorecard.com/blog/navigating-the-risks-of-tcp-445-strategies-for-secure-network-communication/" target="_blank" rel="noopener noreferrer nofollow">https://securityscorecard.com/blog/navigating-the-risks-of-tcp-445-strategies-for-secure-network-communication/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Secure Network...7 Nov 2024 — Port 445 enables SMB traffic but is a prime target for ransomware and wormable exploits. Le...</p></details>
+   Link:<a href="https://securityscorecard.com/blog/navigating-the-risks-of-tcp-445-strategies-for-secure-network-communication/" target="_blank" rel="noopener noreferrer nofollow">https://securityscorecard.com/blog/navigating-the-risks-of-tcp-445-strategies-for-secure-network-communication/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strategies for Secure Network...7 Nov 2024 — Port 445 enables SMB traffic but is a prime target for ransomware and wormable exploits. Le...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Windows 2000  
-   Link: <a href="https://en.wikipedia.org/wiki/Windows_2000" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Windows_2000</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Windows_2000" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Windows_2000</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nflo.tech  
-   Link: <a href="https://nflo.tech/knowledge-base/smb-protocol-vulnerabilities-attacks-security-threats-and-security-methods/" target="_blank" rel="noopener noreferrer nofollow">https://nflo.tech/knowledge-base/smb-protocol-vulnerabilities-attacks-security-threats-and-security-methods/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SMB protocol: vulnerabilities, attacks and how to secure it - nFloSeptember 5, 2023 — 5 Sept 2023 — Historic NetBIOS ports (137-139)...</p></details>
+   Link:<a href="https://nflo.tech/knowledge-base/smb-protocol-vulnerabilities-attacks-security-threats-and-security-methods/" target="_blank" rel="noopener noreferrer nofollow">https://nflo.tech/knowledge-base/smb-protocol-vulnerabilities-attacks-security-threats-and-security-methods/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SMB protocol: vulnerabilities, attacks and how to secure it - nFloSeptember 5, 2023 — 5 Sept 2023 — Historic NetBIOS ports (137-139)...</p></details>
    Published: September 5, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: justice.gov  
    Title: Department of Justice [Indictment](&#123;&#123; 'indictment/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</p></details>
    Published: January 24, 2012  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: wired.com  
    Title: dot mil hackers download mistake  
-   Link: <a href="https://www.wired.com/2002/11/dot-mil-hackers-download-mistake/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/dot-mil-hackers-download-mistake/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dot-Mil Hacker&#x27;s Download Mistake15 Nov 2002 — Gary McKinnon, the Briton indicted this week for hacking into scores of U.S. military comp...</p></details>
+   Link:<a href="https://www.wired.com/2002/11/dot-mil-hackers-download-mistake/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/dot-mil-hackers-download-mistake/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dot-Mil Hacker&#x27;s Download Mistake15 Nov 2002 — Gary McKinnon, the Briton indicted this week for hacking into scores of U.S. military comp...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: time.com  
    Title: hack attack 2  
-   Link: <a href="https://time.com/archive/6943962/hack-attack-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943962/hack-attack-2/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hack Attack30 Jul 2008 — The July 30 decision by Britain&#x27;s Court of Appeal to allow the extradition of alleged cyber-hacker Gary McKinnon...</p></details>
+   Link:<a href="https://time.com/archive/6943962/hack-attack-2/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/archive/6943962/hack-attack-2/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hack Attack30 Jul 2008 — The July 30 decision by Britain&#x27;s Court of Appeal to allow the extradition of alleged cyber-hacker Gary McKinnon...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: futureintelligence.co.uk  
    Title: Future Intelligence Gary Mc Kinnon was unlucky  
-   Link: <a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — How he would search for blank passwords and then once inside the US computers, install a re...</p></details>
+   Link:<a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — How he would search for blank passwords and then once inside the US computers, install a re...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: verylazytech.com  
-   Link: <a href="https://www.verylazytech.com/network-pentesting/smb-port-139-445" target="_blank" rel="noopener noreferrer nofollow">https://www.verylazytech.com/network-pentesting/smb-port-139-445</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SMB - Port 139 44515 Apr 2025 — Port 139 enables SMB, an essential protocol that underpins shared access to files, printers, and even ser...</p></details>
+   Link:<a href="https://www.verylazytech.com/network-pentesting/smb-port" target="_blank" rel="noopener noreferrer nofollow">https://www.verylazytech.com/network-pentesting/smb-port</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SMB - Port 139 44515 Apr 2025 — Port 139 enables SMB, an essential protocol that underpins shared access to files, printers, and even ser...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: linuxsecurity.com  
-   Link: <a href="https://linuxsecurity.com/news/hackscracks/dot-mil-hackers-download-mistake" target="_blank" rel="noopener noreferrer nofollow">https://linuxsecurity.com/news/hackscracks/dot-mil-hackers-download-mistake</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Indicted For Hacking U.S. Military SystemsIn a dramatic case, Gary McKinnon faced charges for breaching defense systems, wi...</p></details>
+   Link:<a href="https://linuxsecurity.com/news/hackscracks/dot-mil-hackers-download-mistake" target="_blank" rel="noopener noreferrer nofollow">https://linuxsecurity.com/news/hackscracks/dot-mil-hackers-download-mistake</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Indicted For Hacking U.S. Military SystemsIn a dramatic case, Gary McKinnon faced charges for breaching defense systems, wi...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and US Army networks t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. GovernmentGary McKinnon faced 60 years behind bars for the greatest U.S. military hack of all time. Go to my...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Hacked the U.S. GovernmentGary McKinnon faced 60 years behind bars for the greatest U.S. military hack of all time. Go to my...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: edureka.co  
    Title: what port does netbios use and why is it critical for security  
-   Link: <a href="https://www.edureka.co/community/295650/what-port-does-netbios-use-and-why-is-it-critical-for-security" target="_blank" rel="noopener noreferrer nofollow">https://www.edureka.co/community/295650/what-port-does-netbios-use-and-why-is-it-critical-for-security</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Dec 2024 — Which specific ports (e.g., 137, 138, and 139) are used by NetBIOS, and why is understanding and securing these ports essen...</p></details>
+   Link:<a href="https://www.edureka.co/community/295650/what-port-does-netbios-use-and-why-is-it-critical-for-security" target="_blank" rel="noopener noreferrer nofollow">https://www.edureka.co/community/295650/what-port-does-netbios-use-and-why-is-it-critical-for-security</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 Dec 2024 — Which specific ports (e.g., 137, 138, and 139) are used by NetBIOS, and why is understanding and securing these ports essen...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: varonis.com  
-   Link: <a href="https://www.varonis.com/blog/smb-port" target="_blank" rel="noopener noreferrer nofollow">https://www.varonis.com/blog/smb-port</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What is an SMB Port + Ports 445 and 139 ExplainedPort 445: Later versions of SMB (after Windows 2000) began to use port 445 on top of a T...</p></details>
+   Link:<a href="https://www.varonis.com/blog/smb-port" target="_blank" rel="noopener noreferrer nofollow">https://www.varonis.com/blog/smb-port</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is an SMB Port + Ports 445 and 139 ExplainedPort 445: Later versions of SMB (after Windows 2000) began to use port 445 on top of a T...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/port-numbers-139-445-adimnakachi-chuks-nwokeforo-y4hie" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/port-numbers-139-445-adimnakachi-chuks-nwokeforo-y4hie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ay a significant role in the Server Message...Read more...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/port-numbers-139-445-adimnakachi-chuks-nwokeforo-y4hie" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/port-numbers-139-445-adimnakachi-chuks-nwokeforo-y4hie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ay a significant role in the Server Message...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: isc.sans.edu  
-   Link: <a href="https://isc.sans.edu/data/port/445" target="_blank" rel="noopener noreferrer nofollow">https://isc.sans.edu/data/port/445</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SANS Internet Storm CenterPort 445 (tcp/udp) Attack Activity - SANS Internet Storm...In this paper we will look at what this port is use...</p></details>
+   Link:<a href="https://isc.sans.edu/data/port/445" target="_blank" rel="noopener noreferrer nofollow">https://isc.sans.edu/data/port/445</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SANS Internet Storm CenterPort 445 (tcp/udp) Attack Activity - SANS Internet Storm...In this paper we will look at what this port is use...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dev74.com  
-   Link: <a href="https://www.dev74.com/en/blog-news/smb-2025-known-vulnerabilities-evolution-mitigation" target="_blank" rel="noopener noreferrer nofollow">https://www.dev74.com/en/blog-news/smb-2025-known-vulnerabilities-evolution-mitigation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SMB in 2025: Known Vulnerabilities, Evolution, and Mitigation...30 May 2025 — Port 139 (TCP) was historically used for older SMB dialect...</p></details>
+   Link:<a href="https://www.dev74.com/en/blog-news/smb-2025-known-vulnerabilities-evolution-mitigation" target="_blank" rel="noopener noreferrer nofollow">https://www.dev74.com/en/blog-news/smb-2025-known-vulnerabilities-evolution-mitigation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SMB in 2025: Known Vulnerabilities, Evolution, and Mitigation...30 May 2025 — Port 139 (TCP) was historically used for older SMB dialect...</p></details>
    Published: May 2025  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: upguard.com  
    Title: What is an SMB Port?  
-   Link: <a href="https://www.upguard.com/blog/smb-port" target="_blank" rel="noopener noreferrer nofollow">https://www.upguard.com/blog/smb-port</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Detailed Description of Ports 445 +...6 Jul 2025 — Port 445 is used by newer versions of SMB (after Windows 2000) on top of a TCP stac...</p></details>
+   Link:<a href="https://www.upguard.com/blog/smb-port" target="_blank" rel="noopener noreferrer nofollow">https://www.upguard.com/blog/smb-port</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Detailed Description of Ports 445 +...6 Jul 2025 — Port 445 is used by newer versions of SMB (after Windows 2000) on top of a TCP stac...</p></details>

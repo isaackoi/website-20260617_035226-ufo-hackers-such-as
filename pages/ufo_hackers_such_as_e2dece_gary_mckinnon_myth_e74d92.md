@@ -447,25 +447,25 @@ image: /assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-overv
 
 ## Introduction
 
-Gary McKinnon became the defining “UFO hacker” because two very different stories collided in one case. The documented story is that a British systems administrator using the handle “Solo” gained unauthorised access to US military and NASA computers in 2001 and 2002, leading to serious US computer-crime allegations. The disputed story is McKinnon’s claim that he was looking for hidden evidence of UFOs, anti-gravity technology and secret space activity — and that he briefly saw material suggesting it existed. The case matters because the hacking allegations are supported by indictments and court records, while the UFO claims remain unverified personal testimony rather than authenticated evidence. That split is the reason McKinnon sits at the centre of the modern “UFO hacker” myth. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+Gary McKinnon became the defining “UFO hacker” because two very different stories collided in one case. The documented story is that a British systems administrator using the handle “Solo” gained unauthorised access to US military and NASA computers in 2001 and 2002, leading to serious US computer-crime allegations. The disputed story is McKinnon’s claim that he was looking for hidden evidence of UFOs, anti-gravity technology and secret space activity — and that he briefly saw material suggesting it existed. The case matters because the hacking allegations are supported by indictments and court records, while the UFO claims remain unverified personal testimony rather than authenticated evidence. That split is the reason McKinnon sits at the centre of the modern “UFO hacker” myth.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-overview.webp" | relative_url }}" alt="Overview image for Mc Kinnon" loading="eager" decoding="sync" fetchpriority="high">
 ## Who Gary McKinnon Was
 
-McKinnon was not a spy in the cinematic sense, nor was he a teenager stumbling into a prank. He was a Scottish-born systems administrator living in London, unemployed at the time of the [intrusions]({{ 'intrusions/' | relative_url }}), with enough technical knowledge to find and enter poorly secured systems. The House of Lords later described him as a British citizen and unemployed computer systems administrator accused of gaining unauthorised access to US government computers from his home computer in London. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</span></span></span>
+McKinnon was not a spy in the cinematic sense, nor was he a teenager stumbling into a prank. He was a Scottish-born systems administrator living in London, unemployed at the time of the [intrusions]({{ 'intrusions/' | relative_url }}), with enough technical knowledge to find and enter poorly secured systems. The House of Lords later described him as a British citizen and unemployed computer systems administrator accused of gaining unauthorised access to US government computers from his home computer in London.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</span></span></span>
 
-His online name, “Solo”, became part of the mythology because it fitted the image of a lone obsessive entering powerful institutions from an ordinary domestic setting. IEEE Spectrum’s later profile describes him as a systems administrator who spent his days absorbed in UFOs and was traced to a London flat after failing to cover his tracks effectively. That detail is important: the case became famous not because it showed elite tradecraft, but because it suggested that ordinary weaknesses in important systems could be exploited by a persistent outsider with a strong belief. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-title">Spectrum Gary Mc Kinnon: The Autistic Hacker</span><span class="citation-popover-snippet">IEEE SpectrumGary McKinnon: The Autistic Hacker - IEEE Spectrum...</span></span></span>
+His online name, “Solo”, became part of the mythology because it fitted the image of a lone obsessive entering powerful institutions from an ordinary domestic setting. IEEE Spectrum’s later profile describes him as a systems administrator who spent his days absorbed in UFOs and was traced to a London flat after failing to cover his tracks effectively. That detail is important: the case became famous not because it showed elite tradecraft, but because it suggested that ordinary weaknesses in important systems could be exploited by a persistent outsider with a strong belief.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spectrum.ieee.org">[IEEE Spectrum]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spectrum.ieee.org</span><span class="citation-popover-title">Spectrum Gary Mc Kinnon: The Autistic Hacker</span><span class="citation-popover-snippet">IEEE SpectrumGary McKinnon: The Autistic Hacker - IEEE Spectrum...</span></span></span>
 
-McKinnon’s own explanation was ideological rather than financial. In his Wired interview, he said hacking was “a means to an end” and linked his search to beliefs about suppressed anti-gravity, UFO-related technologies and “free energy”. The point was not merely that he believed in UFOs; it was that he believed secret state archives might contain proof that could be found by directly entering government networks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
+McKinnon’s own explanation was ideological rather than financial. In his Wired interview, he said hacking was “a means to an end” and linked his search to beliefs about suppressed anti-gravity, UFO-related technologies and “free energy”. The point was not merely that he believed in UFOs; it was that he believed secret state archives might contain proof that could be found by directly entering government networks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
 
 ## What He Admitted, What He Denied
 
-The strongest evidence in the McKinnon case concerns unauthorised access, not UFO discovery. The US Department of Justice announced in November 2002 that McKinnon had been indicted on seven counts of computer fraud and related activity, each carrying a maximum sentence of ten years and a $250,000 fine. According to the [indictment]({{ 'indictment/' | relative_url }}) summary, he accessed and damaged 92 computers belonging to the US Army, Navy, Air Force, Department of Defense and NASA, plus six computers belonging to private businesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The strongest evidence in the McKinnon case concerns unauthorised access, not UFO discovery. The US Department of Justice announced in November 2002 that McKinnon had been indicted on seven counts of computer fraud and related activity, each carrying a maximum sentence of ten years and a $250,000 fine. According to the [indictment]({{ 'indictment/' | relative_url }}) summary, he accessed and damaged 92 computers belonging to the US Army, Navy, Air Force, Department of Defense and NASA, plus six computers belonging to private businesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-US prosecutors alleged more than simple curiosity. The Department of Justice said McKinnon scanned large numbers of military computers, obtained administrative privileges, installed remote-administration tools, copied password files, deleted user accounts and critical system files, and caused a Washington DC-area network to shut down, with estimated losses of about $900,000. That official account framed the case as a national-security intrusion, not as harmless browsing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+US prosecutors alleged more than simple curiosity. The Department of Justice said McKinnon scanned large numbers of military computers, obtained administrative privileges, installed remote-administration tools, copied password files, deleted user accounts and critical system files, and caused a Washington DC-area network to shut down, with estimated losses of about $900,000. That official account framed the case as a national-security intrusion, not as harmless browsing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
-Court records sharpened the picture. The House of Lords judgment said the alleged access covered 97 computers: 53 Army computers, 26 Navy computers, 16 NASA computers, one Department of Defense computer and one Air Force computer. It also described the alleged deletion of critical operating-system files and user accounts, including disruption to the US Army’s [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network and the Naval Weapons Station Earle network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</span></span></span>
+Court records sharpened the picture. The House of Lords judgment said the alleged access covered 97 computers: 53 Army computers, 26 Navy computers, 16 NASA computers, one Department of Defense computer and one Air Force computer. It also described the alleged deletion of critical operating-system files and user accounts, including disruption to the US Army’s [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network and the Naval Weapons Station Earle network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</span></span></span>
 
 McKinnon’s defence in public discussion was narrower than the myth sometimes suggests. He admitted unauthorised access in broad terms, but denied the most damaging interpretation of his conduct. In the UFO-hacker story, he appears as a seeker of hidden truth; in the prosecution story, he appears as someone who entered sensitive systems and caused costly disruption. Both strands shaped his public image, but they do not carry the same evidential weight.
 
@@ -473,11 +473,11 @@ McKinnon’s defence in public discussion was narrower than the myth sometimes s
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-1-dark.svg" | relative_url }}" alt="Mc Kinnon illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The UFO Claims That Made the Case Endure
 
-The case would probably be remembered mostly by cyber-law specialists if not for McKinnon’s claims about what he saw. In his 2006 Wired interview, he said he had followed a claim about a NASA photographic operation at Johnson Space Center’s Building 8, where UFOs were allegedly removed from high-resolution satellite imagery. He claimed he accessed files labelled as filtered and unfiltered or processed and unprocessed, and briefly viewed a large image showing a silvery, cigar-shaped object with geodesic spheres on either side before being disconnected. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
+The case would probably be remembered mostly by cyber-law specialists if not for McKinnon’s claims about what he saw. In his 2006 Wired interview, he said he had followed a claim about a NASA photographic operation at Johnson Space Center’s Building 8, where UFOs were allegedly removed from high-resolution satellite imagery. He claimed he accessed files labelled as filtered and unfiltered or processed and unprocessed, and briefly viewed a large image showing a silvery, cigar-shaped object with geodesic spheres on either side before being disconnected.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
 
 That image claim is the emotional centre of the myth. It has the ingredients that make a story survive: a forbidden archive, a glimpse of something extraordinary, a technical interruption at the crucial moment, and no saved copy. But that same structure is also why it cannot be treated as proof. McKinnon did not produce the image, a verifiable file path, a preserved screenshot, an independent witness, or a chain of custody that would allow the public to authenticate what he says he saw.
 
-The other famous claim is the spreadsheet title “Non-Terrestrial Officers”. McKinnon told Wired that the spreadsheet contained names and ranks of US Air Force personnel and information about ship-to-ship transfers. Yet he also acknowledged that the material could have been a game or hypothetical scenario, saying it was hard to know for certain. That caveat is often lost when the phrase circulates online. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
+The other famous claim is the spreadsheet title “Non-Terrestrial Officers”. McKinnon told Wired that the spreadsheet contained names and ranks of US Air Force personnel and information about ship-to-ship transfers. Yet he also acknowledged that the material could have been a game or hypothetical scenario, saying it was hard to know for certain. That caveat is often lost when the phrase circulates online.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
 
 The phrase “non-terrestrial” is powerful because it sounds like a bureaucratic label for off-world personnel. Without the original spreadsheet, however, it is impossible to know whether it meant extraterrestrial, space-related, simulated, administrative, naval, aerospace, or something else entirely. The enduring myth depends on the most dramatic interpretation; the evidence supports only the more limited claim that McKinnon says he saw such a title.
 
@@ -486,19 +486,19 @@ The phrase “non-terrestrial” is powerful because it sounds like a bureaucrat
 
 ## Why the “UFO Hacker” Myth Was So Persuasive
 
-McKinnon’s story endured because it joined three anxieties that were already strong in the early 2000s: fear of weak government cyber-security, suspicion of military secrecy, and fascination with hidden UFO evidence. The timing mattered. His intrusions occurred around the period immediately before and after the 11 September 2001 attacks, when US national-security sensitivity was extremely high. Wired noted that the alleged activity landed at a particularly bad moment for exposing US security failings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
+McKinnon’s story endured because it joined three anxieties that were already strong in the early 2000s: fear of weak government cyber-security, suspicion of military secrecy, and fascination with hidden UFO evidence. The timing mattered. His intrusions occurred around the period immediately before and after the 11 September 2001 attacks, when US national-security sensitivity was extremely high. Wired noted that the alleged activity landed at a particularly bad moment for exposing US security failings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
 
 The case also inverted the usual hacker narrative. McKinnon did not present himself as a profit-seeker, vandal or geopolitical actor. He presented himself as someone pursuing information he believed belonged to humanity. That made him sympathetic to some UFO believers and civil-liberties [campaigners]({{ 'campaigners/' | relative_url }}), even while US authorities treated the intrusions as serious crimes.
 
 The myth survived because it is not built on one claim alone. It combines:
 
-* **A real intrusion case:** US prosecutors and UK courts recorded extensive allegations of unauthorised access to defence and NASA systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+* **A real intrusion case:** US prosecutors and UK courts recorded extensive allegations of unauthorised access to defence and NASA systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* **A compelling motive story:** McKinnon repeatedly said he was searching for UFO, anti-gravity and free-energy evidence, not money. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
-* **A missing-proof problem:** the most sensational claims depend on material that was not preserved or independently authenticated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
-* **A human-rights battle:** the later extradition fight turned him from an accused hacker into a cause célèbre in the UK. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statement - GOV.UK</span></span></span>
+* **A compelling motive story:** McKinnon repeatedly said he was searching for UFO, anti-gravity and free-energy evidence, not money.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
+* **A missing-proof problem:** the most sensational claims depend on material that was not preserved or independently authenticated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">UFO Hacker&#x27; Tells What He Found &#124; WIRED</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found &#124; WIRED...</span></span></span>
+* **A human-rights battle:** the later extradition fight turned him from an accused hacker into a cause célèbre in the UK.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statement - GOV.UK</span></span></span>
 
 </div>
 
@@ -508,11 +508,11 @@ That mixture allowed different audiences to remember different versions of the s
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-2-dark.svg" | relative_url }}" alt="Mc Kinnon illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Extradition Battle Changed the Story
 
-The legal battle became almost as famous as the hacking itself. The US requested McKinnon’s extradition, and UK proceedings stretched for years. In 2008, the House of Lords dismissed an appeal focused partly on whether US plea-bargaining pressure amounted to an abuse of process in extradition proceedings. The judgment described the central issue as whether a threat connected with repatriation after conviction could require the extradition proceedings to be stayed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</span></span></span>
+The legal battle became almost as famous as the hacking itself. The US requested McKinnon’s extradition, and UK proceedings stretched for years. In 2008, the House of Lords dismissed an appeal focused partly on whether US plea-bargaining pressure amounted to an abuse of process in extradition proceedings. The judgment described the central issue as whether a threat connected with repatriation after conviction could require the extradition proceedings to be stayed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</span></span></span>
 
-The plea-bargaining issue mattered because it fed the public perception that McKinnon faced an extreme imbalance of power. Court records show that proposed plea arrangements included warnings that any sentencing estimate was a prediction rather than a promise, while later affidavits addressed whether US prosecutors would oppose a prisoner-transfer application if he were convicted. This was technical legal material, but in public debate it reinforced the sense that the stakes were frighteningly uncertain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</span></span></span>
+The plea-bargaining issue mattered because it fed the public perception that McKinnon faced an extreme imbalance of power. Court records show that proposed plea arrangements included warnings that any sentencing estimate was a prediction rather than a promise, while later affidavits addressed whether US prosecutors would oppose a prisoner-transfer application if he were convicted. This was technical legal material, but in public debate it reinforced the sense that the stakes were frighteningly uncertain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">UK Parliament House of Lords</span><span class="citation-popover-snippet">UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</span></span></span>
 
-The turning point came on 16 October 2012, when Home Secretary Theresa May withdrew the extradition order. Her statement said the remaining issue was whether extradition would breach McKinnon’s human rights. She said he had Asperger’s syndrome and depressive illness, and concluded that extradition would create such a high risk of suicide that it would be incompatible with his human rights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statement - GOV.UK</span></span></span>
+The turning point came on 16 October 2012, when Home Secretary Theresa May withdrew the extradition order. Her statement said the remaining issue was whether extradition would breach McKinnon’s human rights. She said he had Asperger’s syndrome and depressive illness, and concluded that extradition would create such a high risk of suicide that it would be incompatible with his human rights.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gov.uk">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gov.uk</span><span class="citation-popover-title">Gary Mc Kinnon extradition case: Home Secretary&#x27;s statement</span><span class="citation-popover-snippet">Gary McKinnon extradition case: Home Secretary&#x27;s statement - GOV.UK</span></span></span>
 
 That decision did not validate the UFO claims. It did something different: it transformed the public memory of the case. The McKinnon story became less about whether he had found secret UFO evidence and more about whether a vulnerable British defendant should be sent to the US for trial after a long-running, politically charged extradition dispute.
 
@@ -521,9 +521,9 @@ That decision did not validate the UFO claims. It did something different: it tr
 
 ## Why He Was Not Tried in the UK
 
-After the extradition order was withdrawn, the remaining question was whether McKinnon would face proceedings in Britain. In December 2012, police and the Crown Prosecution Service decided that no further legal action would be taken. The Guardian reported that a joint police-CPS panel advised against a new UK investigation, with the chances of conviction described as poor. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span></span></span>
+After the extradition order was withdrawn, the remaining question was whether McKinnon would face proceedings in Britain. In December 2012, police and the Crown Prosecution Service decided that no further legal action would be taken. The Guardian reported that a joint police-CPS panel advised against a new UK investigation, with the chances of conviction described as poor.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span></span></span>
 
-That outcome can be misunderstood. It was not a public finding that McKinnon had discovered UFO evidence, nor was it a full public vindication of his conduct. It reflected practical and legal difficulties in bringing a UK prosecution many years after the alleged conduct, especially when the authorities continued to regard the US as the appropriate place for trial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span></span></span>
+That outcome can be misunderstood. It was not a public finding that McKinnon had discovered UFO evidence, nor was it a full public vindication of his conduct. It reflected practical and legal difficulties in bringing a UK prosecution many years after the alleged conduct, especially when the authorities continued to regard the US as the appropriate place for trial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span><span class="citation-popover-snippet">The Guardian Gary Mc Kinnon will face no charges in UK &#124; Gary Mc Kinnon &#124; The Guardian</span></span></span>
 
 The absence of a trial left the case in a strange state. The US allegations remained serious and well documented, but they were never tested before a jury. McKinnon’s UFO claims remained culturally famous, but they were never substantiated by released files. The result was perfect fuel for myth: enough official record to prove that something major happened, but not enough public evidence to resolve the extraordinary claim at the centre of the legend.
 
@@ -532,7 +532,7 @@ The absence of a trial left the case in a strange state. The US allegations rema
 
 ## What the Case Does and Does Not Prove
 
-The McKinnon case proves that sensitive US government and NASA-linked systems were alleged to have been accessed by an outsider in a major early-2000s intrusion case. It also proves that McKinnon publicly framed his motive around UFOs, anti-gravity and suppressed technology. Those are solid historical facts, supported by official statements, court records and contemporary [interviews]({{ 'interviews/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
+The McKinnon case proves that sensitive US government and NASA-linked systems were alleged to have been accessed by an outsider in a major early-2000s intrusion case. It also proves that McKinnon publicly framed his motive around UFOs, anti-gravity and suppressed technology. Those are solid historical facts, supported by official statements, court records and contemporary [interviews]({{ 'interviews/' | relative_url }}).<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice</span><span class="citation-popover-snippet">London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</span><span class="citation-popover-meta">Published: November 12, 2002</span></span></span>
 
 It does not prove that NASA or the US military possessed extraterrestrial craft, secret non-human officers, or hidden free-energy technology. The public evidence for those claims is McKinnon’s own account. His account may be sincere, but sincerity is not authentication. A credible assessment has to separate the documented intrusion from the unverified interpretation of what he says he saw.
 
@@ -542,194 +542,194 @@ That distinction is the key to understanding why Gary McKinnon became the archet
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-3-dark.svg" | relative_url }}" alt="Mc Kinnon illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_gary_mckinnon_myth_e74d92-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Gary Mc Kinnon Became the UFO Hacker. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Gary Mc Kinnon Became the UFO Hacker. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores the intersection of UFO beliefs, technology communities and claims of hidden knowledge that motivate figures like UFO hackers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=DarkMarket+by+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open DarkMarket on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iGlBZi7wfNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for DarkMarket" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=DarkMarket+by+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="DarkMarket">DarkMarket</a>
-        </h4>
-        <p class="fr-book-author">By Misha Glenny</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=DarkMarket+by+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open DarkMarket on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iGlBZi7wfNYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for DarkMarket" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=DarkMarket+by+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="DarkMarket">DarkMarket</a>
+</h4>
+<p class="fr-book-author">By Misha Glenny</p>
         
-        <p class="fr-book-desc">Explores transnational cybercrime, investigation, jurisdiction and enforcement issues closely related to debates raised by the McKinnon c...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=DarkMarket+by+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores transnational cybercrime, investigation, jurisdiction and enforcement issues closely related to debates raised by the McKinnon c...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=DarkMarket+by+Misha+Glenny&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rule of Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6UsjcX-IUJ4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rule of Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rule of Law">The Rule of Law</a>
-        </h4>
-        <p class="fr-book-author">By Tom Bingham</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rule of Law on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6UsjcX-IUJ4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Rule of Law" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rule of Law">The Rule of Law</a>
+</h4>
+<p class="fr-book-author">By Tom Bingham</p>
         
-        <p class="fr-book-desc">Provides context on courts, prosecution, and legal standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context on courts, prosecution, and legal standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rule+of+Law+by+Tom+Bingham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybercrime+by+David+Wall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybercrime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SiG-zE6yteMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybercrime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cybercrime+by+David+Wall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybercrime">Cybercrime</a>
-        </h4>
-        <p class="fr-book-author">By David Wall</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cybercrime+by+David+Wall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cybercrime on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SiG-zE6yteMC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Cybercrime" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cybercrime+by+David+Wall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cybercrime">Cybercrime</a>
+</h4>
+<p class="fr-book-author">By David Wall</p>
         
-        <p class="fr-book-desc">Provides accessible context on hacking, cybercrime and the legal challenges of cross-border digital offences.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cybercrime+by+David+Wall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible context on hacking, cybercrime and the legal challenges of cross-border digital offences.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cybercrime+by+David+Wall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=DarkMarket&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">DarkMarket</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rule+of+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rule of Law</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=DarkMarket&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">DarkMarket</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rule+of+Law&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rule of Law</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo"><img src="{{ '/assets/images/marketplace-covers/5393c4d87c985792ef01.jpg' | relative_url }}" alt="Listing image for UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Interceptor + Alien Craft Metal &amp; Enamel Lapel Tie Tac Pin Badge Logo</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins"><img src="{{ '/assets/images/marketplace-covers/6f5246f94ab78de4926e.jpg' | relative_url }}" alt="Listing image for UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UNA UFO OLD RARE Football Badge Badge Badge Odznaka Pins</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Flying Saucer Pewter Pin Badge"><img src="{{ '/assets/images/marketplace-covers/aae94224fcb0f8bb2dec.jpg' | relative_url }}" alt="Listing image for UFO Flying Saucer Pewter Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Flying Saucer Pewter Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back"><img src="{{ '/assets/images/marketplace-covers/388b6b35343af265e1f9.jpg' | relative_url }}" alt="Listing image for Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">Small UFO Flying Saucer Metal &amp; Enamel Pin Badge with Secure Locking Back</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO collectible pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO collectible pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+collectible+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO collectible pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="mc-kinnon-why-gary-mc-kinnon-became-the-ufo-hacker-ufo-hackers-such-ufo-collectible-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -745,7 +745,7 @@ That distinction is the key to understanding why Gary McKinnon became the archet
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -765,7 +765,7 @@ That distinction is the key to understanding why Gary McKinnon became the archet
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -797,7 +797,7 @@ That distinction is the key to understanding why Gary McKinnon became the archet
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -849,7 +849,7 @@ That distinction is the key to understanding why Gary McKinnon became the archet
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -894,7 +894,7 @@ That distinction is the key to understanding why Gary McKinnon became the archet
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -935,210 +935,210 @@ That distinction is the key to understanding why Gary McKinnon became the archet
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>London, England Hacker Indicted Under Computer Fraud and Abuse Act For Accessing Military Computers (November 12, 2002)...</p></details>
    Published: November 12, 2002  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: 'UFO Hacker' Tells What He Found | WIRED  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found | WIRED...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found | WIRED...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: publications.parliament.uk  
    Title: UK Parliament House of Lords  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentHouse of Lords - Mckinnon V Government of The United States of America and Another...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: spectrum.ieee.org  
    Title: Spectrum Gary Mc Kinnon: The Autistic Hacker  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic Hacker - IEEE Spectrum...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic Hacker - IEEE Spectrum...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Gary Mc Kinnon extradition case: Home Secretary's statement  
-   Link: <a href="https://www.gov.uk/government/speeches/gary-[mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-[mckinnon-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement - GOV.UK...</p></details>
+   Link:<a href="https://www.gov.uk/government/speeches/gary-[mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-[mckinnon-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement - GOV.UK...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: publications.parliament.uk  
-   Link: <a href="https://publications.parliament.uk/pa/cm201213/cmhansrd/chan46.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmhansrd/chan46.pdf</a>  
+   Link:<a href="https://publications.parliament.uk/pa/cm201213/cmhansrd/chan46.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/cm201213/cmhansrd/chan46.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: parliament.uk  
-   Link: <a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
+   Link:<a href="https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.parliament.uk/business/news/news-by-year/2012/october/statement-on-gary-mckinnon/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: committees.parliament.uk  
-   Link: <a href="https://committees.parliament.uk/committee/83/home-affairs-committee/news/179615/chair-writes-to-home-secretary-regarding-gary-mckinnon-and-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/committee/83/home-affairs-committee/news/179615/chair-writes-to-home-secretary-regarding-gary-mckinnon-and-extradition/</a>  
+   Link:<a href="https://committees.parliament.uk/committee/83/home-affairs-committee/news/179615/chair-writes-to-home-secretary-regarding-gary-mckinnon-and-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/committee/83/home-affairs-committee/news/179615/chair-writes-to-home-secretary-regarding-gary-mckinnon-and-extradition/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: hansard.parliament.uk  
    Title: uk Extradition  
-   Link: <a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2012-10-16/debates/12101642000005/Extradition</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: hansard.parliament.uk  
    Title: uk Gary Mc Kinnon (Extradition)  
-   Link: <a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
+   Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: justice.gov  
    Title: 02.14.23. Protests Supreme Court Residences Part 1  
-   Link: <a href="https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf</a>  
+   Link:<a href="https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/d9/2023-02/02.14.23.%20--%20Protests%20Supreme%20Court%20Residences%20--%20Part%201.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: GOV.UK  
    Title: theresa may statement on gary mckinnon extradition  
-   Link: <a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
+   Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: GOV.UK  
    Title: latest on gary mckinnon case  
-   Link: <a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
+   Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wired.com  
    Title: WIRE D  
-   Link: <a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
+   Link:<a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wired.com  
    Title: mckinnon extradition win  
-   Link: <a href="https://www.wired.com/2012/10/mckinnon-extradition-win/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/10/mckinnon-extradition-win/</a>  
+   Link:<a href="https://www.wired.com/2012/10/mckinnon-extradition-win/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/10/mckinnon-extradition-win/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: media.defense.gov  
    Title: Mc Kinnon comphacker  
-   Link: <a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
+   Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-[uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-[uk-charges</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-[uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-[uk-charges</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: gary mckinnon not extradited may  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-not-extradited-may</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
+   Link:<a href="https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/video/2012/oct/16/gary-mckinnon-extradition-theresa-may-video</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
    Title: gary mckinnon theresa may claims  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/19/gary-mckinnon-theresa-may-claims</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theguardian.com  
    Title: gary mckinnon feels set free  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/17/gary-mckinnon-feels-set-free</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
    Title: british hacker gary mckinnon  
-   Link: <a href="https://www.theguardian.com/technology/2009/jan/23/british-hacker-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2009/jan/23/british-hacker-gary-mckinnon</a>  
+   Link:<a href="https://www.theguardian.com/technology/2009/jan/23/british-hacker-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2009/jan/23/british-hacker-gary-mckinnon</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
+   Link:<a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: gary mckinnon theresa may human rights  
-   Link: <a href="https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights</a>  
+   Link:<a href="https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2012/oct/16/gary-mckinnon-theresa-may-human-rights</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
+   Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: theguardian.com  
    Title: gary mckinnon extradition statement commons  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-extradition-statement-commons" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-extradition-statement-commons</a>  
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-extradition-statement-commons" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-extradition-statement-commons</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: theguardian.com  
    Title: gary mckinnon  
-   Link: <a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
+   Link:<a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: theguardian.com  
    Title: film scottish hacker gary mckinnon fight against us extradition  
-   Link: <a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
+   Link:<a href="https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/nov/29/film-scottish-hacker-gary-mckinnon-fight-against-us-extradition</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/wired" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/wired</a>  
+   Link:<a href="https://www.youtube.com/wired" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/wired</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: merriam-webster.com  
-   Link: <a href="https://www.merriam-webster.com/dictionary/wired" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/wired</a>  
+   Link:<a href="https://www.merriam-webster.com/dictionary/wired" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/wired</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: markfoster.net  
    Title: gary mckinnon  
-   Link: <a href="https://www.markfoster.net/struc/gary_mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/struc/gary_mckinnon.pdf</a>  
+   Link:<a href="https://www.markfoster.net/struc/gary_mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.markfoster.net/struc/gary_mckinnon.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/wired" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/wired</a>  
+   Link:<a href="https://www.dictionary.com/browse/wired" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/wired</a>  
 
 ### Additional References
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/brit-hacker-to-face-us-justice/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-to-face-us-justice/</a>  
+   Link:<a href="https://www.cbsnews.com/news/brit-hacker-to-face-us-justice/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-to-face-us-justice/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/worldnews/comments/wtabz/computer_hacker_gary_mckinnon_has_no_choice_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/wtabz/computer_hacker_gary_mckinnon_has_no_choice_but/</a>  
+   Link:<a href="https://www.reddit.com/r/worldnews/comments/wtabz/computer_hacker_gary_mckinnon_has_no_choice_but/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/worldnews/comments/wtabz/computer_hacker_gary_mckinnon_has_no_choice_but/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/718680711/Cyber-Criminals-of-all-time" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/718680711/Cyber-Criminals-of-all-time</a>  
+   Link:<a href="https://www.scribd.com/document/718680711/Cyber-Criminals-of-all-time" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/718680711/Cyber-Criminals-of-all-time</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
+   Link:<a href="https://www.instagram.com/reel/DTveyiaANbn/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTveyiaANbn/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: podmust.com  
-   Link: <a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
+   Link:<a href="https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy" target="_blank" rel="noopener noreferrer nofollow">https://podmust.com/ep/?epis=R2FyeSBNY0tpbm5vbjogVGhlIEhhY2tlciBXaG8gRm91bmQgTkFTQSdzIFVGTyAmIE5vbi1UZXJyZXN0cmlhbCBPZmZpY2Vycw%3D%3D&amp;podcast=the-daily-conspiracy</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/787012611/The-Tale-of-Gary-McKinnon-The-UFO-hacker" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/787012611/The-Tale-of-Gary-McKinnon-The-UFO-hacker</a>  
+   Link:<a href="https://www.scribd.com/document/787012611/The-Tale-of-Gary-McKinnon-The-UFO-hacker" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/787012611/The-Tale-of-Gary-McKinnon-The-UFO-hacker</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: vps.net  
-   Link: <a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
+   Link:<a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript</a>  
+   Link:<a href="https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/83849328/Project-Camelot-Gary-McKinnon-Transcript</a>  

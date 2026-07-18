@@ -274,17 +274,17 @@ image: /assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_netw
 
 ## Introduction
 
-In the US case against Gary McKinnon, one of the most serious allegations was not that he searched for UFO-related material, but that he damaged Army computer systems. Prosecutors claimed that his actions led to the deletion of critical files and user accounts, causing a major outage on a US Army network serving the [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington. The alleged disruption became a central element of the American cybercrime case because it transformed the matter from unauthorised access into a claim of operational damage to government systems. According to US authorities, the outage affected more than 2,000 computers and significantly disrupted military administrative functions. McKinnon disputed aspects of the government's portrayal and maintained that he had not intended to cause damage. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
+In the US case against Gary McKinnon, one of the most serious allegations was not that he searched for UFO-related material, but that he damaged Army computer systems. Prosecutors claimed that his actions led to the deletion of critical files and user accounts, causing a major outage on a US Army network serving the [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington. The alleged disruption became a central element of the American cybercrime case because it transformed the matter from unauthorised access into a claim of operational damage to government systems. According to US authorities, the outage affected more than 2,000 computers and significantly disrupted military administrative functions. McKinnon disputed aspects of the government's portrayal and maintained that he had not intended to cause damage.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-1-dark.svg" | relative_url }}" alt="Army Outage illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## The Military District of Washington Network
 
-The network at the centre of the allegation was the US Army's Military District of Washington (MDW), an organisation responsible for supporting military operations and ceremonial functions in the Washington, DC area. Court summaries of the US allegations stated that McKinnon accessed Army computers located in Virginia and Washington that controlled or supported the MDW network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
+The network at the centre of the allegation was the US Army's Military District of Washington (MDW), an organisation responsible for supporting military operations and ceremonial functions in the Washington, DC area. Court summaries of the US allegations stated that McKinnon accessed Army computers located in Virginia and Washington that controlled or supported the MDW network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
 
-The significance of the network was not merely its size. Prosecutors argued that the affected systems were connected to governmental and defence functions, making any interruption more serious than a routine corporate IT failure. In the extradition proceedings, the House of Lords summarised the US case by stating that deleted operating-system files on nine computers allegedly resulted in the shutdown of the entire MDW network, which comprised more than 2,000 computers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
+The significance of the network was not merely its size. Prosecutors argued that the affected systems were connected to governmental and defence functions, making any interruption more serious than a routine corporate IT failure. In the extradition proceedings, the House of Lords summarised the US case by stating that deleted operating-system files on nine computers allegedly resulted in the shutdown of the entire MDW network, which comprised more than 2,000 computers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
 
-American officials repeatedly highlighted this alleged outage when explaining why they viewed the case as one of the most damaging military hacking incidents they had encountered. The Department of Justice described the Washington-area network failure as causing a complete loss of Internet and email services for thousands of users. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
+American officials repeatedly highlighted this alleged outage when explaining why they viewed the case as one of the most damaging military hacking incidents they had encountered. The Department of Justice described the Washington-area network failure as causing a complete loss of Internet and email services for thousands of users.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -301,14 +301,14 @@ According to the [indictment]({{ 'indictment/' | relative_url }}) and later cour
 * Obtained administrative privileges on Army systems.
 * Installed remote-access software and other tools.
 * Copied password and account files.
-* Deleted user accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinsentmasons.com">[pinsentmasons.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinsentmasons.com</span><span class="citation-popover-title">alleged uk hacker will fight extradition to us</span><span class="citation-popover-snippet">14 Nov 2002 — McKinnon is alleged to have installed a remote administration deleted a number of user accounts and deleted critical system...</span></span></span>
-* Deleted critical operating-system files. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2Pinsent Masons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
+* Deleted user accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pinsentmasons.com">[pinsentmasons.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pinsentmasons.com</span><span class="citation-popover-title">alleged uk hacker will fight extradition to us</span><span class="citation-popover-snippet">14 Nov 2002 — McKinnon is alleged to have installed a remote administration deleted a number of user accounts and deleted critical system...</span></span></span>
+* Deleted critical operating-system files.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
 
 </div>
 
-The account-deletion allegations were substantial in their own right. During extradition proceedings and related reporting, prosecutors alleged that more than 2,400 user accounts on an Army network-management computer were deleted, causing systems to reboot and become unusable. Other contemporary reports referred to roughly 1,300 deleted user accounts on a Fort Myer Army computer, reflecting different descriptions of damage appearing in various stages of the case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament+2The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
+The account-deletion allegations were substantial in their own right. During extradition proceedings and related reporting, prosecutors alleged that more than 2,400 user accounts on an Army network-management computer were deleted, causing systems to reboot and become unusable. Other contemporary reports referred to roughly 1,300 deleted user accounts on a Fort Myer Army computer, reflecting different descriptions of damage appearing in various stages of the case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
 
-The more consequential allegation involved operating-system files. Prosecutors argued that the deletion of those files impaired the computers' ability to function and directly triggered the wider network outage. The House of Lords judgment, summarising the American allegations rather than making an independent finding of fact, stated that the deleted files shut down the entire MDW network for twenty-four hours. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
+The more consequential allegation involved operating-system files. Prosecutors argued that the deletion of those files impaired the computers' ability to function and directly triggered the wider network outage. The House of Lords judgment, summarising the American allegations rather than making an independent finding of fact, stated that the deleted files shut down the entire MDW network for twenty-four hours.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-2-dark.svg" | relative_url }}" alt="Army Outage illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -316,11 +316,11 @@ The more consequential allegation involved operating-system files. Prosecutors a
 
 Different official and journalistic accounts described the disruption in slightly different ways, but they consistently portrayed it as a major operational failure.
 
-The Department of Justice's 2002 announcement stated that a Washington-area military network lost Internet and email access for approximately 2,000 users and remained affected for three days. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
+The Department of Justice's 2002 announcement stated that a Washington-area military network lost Internet and email access for approximately 2,000 users and remained affected for three days.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
 
-Later legal summaries focused on a somewhat narrower claim: that the MDW network of more than 2,000 computers was shut down for twenty-four hours following deletion of critical files. Reuters, the House of Lords judgment, and several contemporaneous court reports repeated the twenty-four-hour figure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament+2Reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
+Later legal summaries focused on a somewhat narrower claim: that the MDW network of more than 2,000 computers was shut down for twenty-four hours following deletion of critical files. Reuters, the House of Lords judgment, and several contemporaneous court reports repeated the twenty-four-hour figure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
 
-This distinction is important. Some accounts referred to a twenty-four-hour shutdown of the network itself, while others referred to several days of lost email and Internet service. The broader legal point remained the same: prosecutors alleged that the damage extended beyond a single machine and affected a large military network used by thousands of people. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
+This distinction is important. Some accounts referred to a twenty-four-hour shutdown of the network itself, while others referred to several days of lost email and Internet service. The broader legal point remained the same: prosecutors alleged that the damage extended beyond a single machine and affected a large military network used by thousands of people.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
@@ -329,11 +329,11 @@ This distinction is important. Some accounts referred to a twenty-four-hour shut
 
 The scale of the alleged disruption helped explain why US authorities pursued extradition so aggressively.
 
-Under the Computer Fraud and Abuse Act, prosecutors did not need to show that classified UFO files had been obtained. Instead, they sought to demonstrate unauthorised access combined with measurable damage and financial loss. The claimed shutdown of a network serving more than 2,000 computers provided a concrete example of operational harm that could be presented to a court. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — Defendant GARY MCKINNON was an unemployed computer system administrator living in Londo...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
+Under the Computer Fraud and Abuse Act, prosecutors did not need to show that classified UFO files had been obtained. Instead, they sought to demonstrate unauthorised access combined with measurable damage and financial loss. The claimed shutdown of a network serving more than 2,000 computers provided a concrete example of operational harm that could be presented to a court.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice Indictment</span><span class="citation-popover-snippet">Department of JusticeIndictmentJanuary 24, 2012 — Defendant GARY MCKINNON was an unemployed computer system administrator living in Londo...</span><span class="citation-popover-meta">Published: January 24, 2012</span></span></span>
 
-The alleged outage also supported government estimates of repair and recovery costs. Different official statements cited damages exceeding $700,000 or approximately $900,000 across the affected military, NASA and related systems. Investigators argued that extensive remediation work was required after files, accounts and system components had been altered or deleted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
+The alleged outage also supported government estimates of repair and recovery costs. Different official statements cited damages exceeding $700,000 or approximately $900,000 across the affected military, NASA and related systems. Investigators argued that extensive remediation work was required after files, accounts and system components had been altered or deleted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-snippet">area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</span></span></span>
 
-For prosecutors, the Army outage was therefore more than a technical incident. It was evidence that the [intrusions]({{ 'intrusions/' | relative_url }}) had allegedly impaired the availability and integrity of government systems, a core element of the criminal case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
+For prosecutors, the Army outage was therefore more than a technical incident. It was evidence that the [intrusions]({{ 'intrusions/' | relative_url }}) had allegedly impaired the availability and integrity of government systems, a core element of the criminal case.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-3-dark.svg" | relative_url }}" alt="Army Outage illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_us_indictments_e4248b_army_network_outage_147107-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -341,203 +341,203 @@ For prosecutors, the Army outage was therefore more than a technical incident. I
 
 Although the Army-network allegations became one of the most cited aspects of the case, they were also among the most contested.
 
-McKinnon publicly acknowledged gaining unauthorised access to US military and NASA systems, but he challenged claims that he intentionally caused large-scale damage. Throughout the extradition battle, he argued that his purpose was to search for information related to UFOs and advanced technology rather than to sabotage military networks. Journalistic accounts of the case repeatedly noted his denial that he deliberately caused the outages described by prosecutors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Gary Mc Kinnon timeline: events leading up to extradition</span><span class="citation-popover-snippet">The GuardianGary McKinnon timeline: events leading up to extradition...October 16, 2012 — 16 Oct 2012 — US prosecutors also allege he de...</span><span class="citation-popover-meta">Published: October 16, 2012</span></span></span>
+McKinnon publicly acknowledged gaining unauthorised access to US military and NASA systems, but he challenged claims that he intentionally caused large-scale damage. Throughout the extradition battle, he argued that his purpose was to search for information related to UFOs and advanced technology rather than to sabotage military networks. Journalistic accounts of the case repeatedly noted his denial that he deliberately caused the outages described by prosecutors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian Gary Mc Kinnon timeline: events leading up to extradition</span><span class="citation-popover-snippet">The GuardianGary McKinnon timeline: events leading up to extradition...October 16, 2012 — 16 Oct 2012 — US prosecutors also allege he de...</span><span class="citation-popover-meta">Published: October 16, 2012</span></span></span>
 
-Because the extradition proceedings never resulted in a US criminal trial, the government's allegations about the MDW outage were never tested before an American jury. The public record therefore contains detailed prosecutorial claims and legal summaries of those claims, but no trial verdict resolving the dispute. What remains undisputed is that the alleged Army network shutdown became one of the central examples used by US authorities to portray the seriousness of the McKinnon intrusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
+Because the extradition proceedings never resulted in a US criminal trial, the government's allegations about the MDW outage were never tested before an American jury. The public record therefore contains detailed prosecutorial claims and legal summaries of those claims, but no trial verdict resolving the dispute. What remains undisputed is that the alleged Army network shutdown became one of the central examples used by US authorities to portray the seriousness of the McKinnon intrusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FIlHu3YUBN4" title="Gary McKinnon | UK Computer Hacker Who Was Accused Of The Biggest US Military Hack Of All Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FIlHu3YUBN4" target="_blank" rel="noopener noreferrer">Gary McKinnon | UK Computer Hacker Who Was Accused Of The Biggest US Military Hack Of All Time</a></p><p class="youtube-embed-meta">Channel: Street Crime UK &middot; Views: 3.3K &middot; Uploaded: August 2021 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FIlHu3YUBN4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FIlHu3YUBN4">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Prosecutors Described the Army Damage. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Prosecutors Described the Army Damage. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
+</h4>
+<p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
         
-        <p class="fr-book-desc">Directly relates to alleged disruption of military networks and operational impact.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relates to alleged disruption of military networks and operational impact.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
-        </h4>
-        <p class="fr-book-author">By Andy Greenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sandworm on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ujxrDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Sandworm" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sandworm">Sandworm</a>
+</h4>
+<p class="fr-book-author">By Andy Greenberg</p>
         
-        <p class="fr-book-desc">Illustrates how cyber incidents can create large-scale disruption.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how cyber incidents can create large-scale disruption.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sandworm+by+Andy+Greenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
-        </h4>
-        <p class="fr-book-author">By Nicole Perlroth</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open This Is How They Tell Me the World Ends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=GfhaEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for This Is How They Tell Me the World Ends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="This Is How They Tell Me the World Ends">This Is How They Tell Me the World Ends</a>
+</h4>
+<p class="fr-book-author">By Nicole Perlroth</p>
         
-        <p class="fr-book-desc">Explains the consequences of vulnerabilities and attacks on government systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the consequences of vulnerabilities and attacks on government systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends+by+Nicole+Perlroth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Cliff Stoll</p>
-        <p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
-        <p class="fr-book-desc">Demonstrates how investigators pursue unauthorised access to sensitive systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=9B1RfCAar2cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Cliff Stoll</p>
+<p class="fr-book-popularity">Rating: 4.5/5 from 8 Google Books ratings</p>
+<p class="fr-book-desc">Demonstrates how investigators pursue unauthorised access to sensitive systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Cliff+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Sandworm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sandworm</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=This+Is+How+They+Tell+Me+the+World+Ends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Hacker Code Funny Gift Tee T Shirt G2854"><img src="{{ '/assets/images/marketplace-covers/f2587a0f5912ffd9677f.jpg' | relative_url }}" alt="Listing image for Cybersecurity Hacker Code Funny Gift Tee T Shirt G2854" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Hacker Code Funny Gift Tee T Shirt G2854</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Hacker Code Funny Gift Tee T Shirt G2854"><img src="{{ '/assets/images/marketplace-covers/f2587a0f5912ffd9677f.jpg' | relative_url }}" alt="Listing image for Cybersecurity Hacker Code Funny Gift Tee T Shirt G2854" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Hacker Code Funny Gift Tee T Shirt G2854</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Meme T-shirt Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fa6da9da9bdef9a53eeb.jpg' | relative_url }}" alt="Listing image for Cybersecurity Meme T-shirt Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Meme T-shirt Framed A Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Meme T-shirt Framed A Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/fa6da9da9bdef9a53eeb.jpg' | relative_url }}" alt="Listing image for Cybersecurity Meme T-shirt Framed A Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Meme T-shirt Framed A Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Hacker Code T Shirt Music Funny Movie Cool Meme Gift Top Tee 2303"><img src="{{ '/assets/images/marketplace-covers/096ffb3e2cd125f07dbd.jpg' | relative_url }}" alt="Listing image for Cybersecurity Hacker Code T Shirt Music Funny Movie Cool Meme Gift Top Tee 2303" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Hacker Code T Shirt Music Funny Movie Cool Meme Gift Top Tee 2303</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cybersecurity Hacker Code T Shirt Music Funny Movie Cool Meme Gift Top Tee 2303"><img src="{{ '/assets/images/marketplace-covers/096ffb3e2cd125f07dbd.jpg' | relative_url }}" alt="Listing image for Cybersecurity Hacker Code T Shirt Music Funny Movie Cool Meme Gift Top Tee 2303" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Cybersecurity Hacker Code T Shirt Music Funny Movie Cool Meme Gift Top Tee 2303</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALLSAFE CYBERSECURITY T-SHIRT - fsociety Hacker TV Evil E Corp Mr. Robot T Shirt"><img src="{{ '/assets/images/marketplace-covers/8eceb287c2e75463541e.jpg' | relative_url }}" alt="Listing image for ALLSAFE CYBERSECURITY T-SHIRT - fsociety Hacker TV Evil E Corp Mr. Robot T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALLSAFE CYBERSECURITY T-SHIRT - fsociety Hacker TV Evil E Corp Mr. Robot T Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALLSAFE CYBERSECURITY T-SHIRT - fsociety Hacker TV Evil E Corp Mr. Robot T Shirt"><img src="{{ '/assets/images/marketplace-covers/8eceb287c2e75463541e.jpg' | relative_url }}" alt="Listing image for ALLSAFE CYBERSECURITY T-SHIRT - fsociety Hacker TV Evil E Corp Mr. Robot T Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALLSAFE CYBERSECURITY T-SHIRT - fsociety Hacker TV Evil E Corp Mr. Robot T Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cybersecurity t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: cybersecurity t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cybersecurity+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cybersecurity t shirt" data-ebay-reference="army-outage-how-prosecutors-described-the-army-damage-ufo-hackers-such-cybersecurity-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -553,7 +553,7 @@ Because the extradition proceedings never resulted in a US criminal trial, the g
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -573,7 +573,7 @@ Because the extradition proceedings never resulted in a US criminal trial, the g
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -605,7 +605,7 @@ Because the extradition proceedings never resulted in a US criminal trial, the g
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -657,7 +657,7 @@ Because the extradition proceedings never resulted in a US criminal trial, the g
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -702,7 +702,7 @@ Because the extradition proceedings never resulted in a US criminal trial, the g
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -743,140 +743,140 @@ Because the extradition proceedings never resulted in a US criminal trial, the g
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>area to shutdown, resulting in the total loss of Internet access and e-mail service to...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentMckinnon V Government of The United States of America...30 Jul 2008 — The 97 computers the appellant accessed were: 53 army...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reuters.com  
    Title: british nasa hacker to face us trial idUSL0623036  
-   Link: <a href="https://www.reuters.com/article/technology/british-nasa-hacker-to-face-us-trial-idUSL0623036/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/technology/british-nasa-hacker-to-face-us-trial-idUSL0623036/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>British NASA hacker to face U.S. trial30 Jul 2008 — McKinnon is accused of causing the entire U.S. Army&#x27;s Military District of Washington...</p></details>
+   Link:<a href="https://www.reuters.com/article/technology/british-nasa-hacker-to-face-us-trial-idUSL0623036/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/article/technology/british-nasa-hacker-to-face-us-trial-idUSL0623036/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>British NASA hacker to face U.S. trial30 Jul 2008 — McKinnon is accused of causing the entire U.S. Army&#x27;s Military District of Washington...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: justice.gov  
    Title: Department of Justice Indictment  
-   Link: <a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — Defendant GARY MCKINNON was an unemployed computer system administrator living in Londo...</p></details>
+   Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — Defendant GARY MCKINNON was an unemployed computer system administrator living in Londo...</p></details>
    Published: January 24, 2012  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: pinsentmasons.com  
    Title: alleged uk hacker will fight extradition to us  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2002 — McKinnon is alleged to have installed a remote administration deleted a number of user accounts and deleted critical system...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/alleged-uk-hacker-will-fight-extradition-to-us</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>14 Nov 2002 — McKinnon is alleged to have installed a remote administration deleted a number of user accounts and deleted critical system...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2005/jun/08/usa.uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2005/jun/08/usa.uk</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;Military computer hacker&#x27; faces extradition to US8 Jun 2005 — Gary McKinnon, 39, faces extradition to the US deleting around...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2005/jun/08/usa.uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2005/jun/08/usa.uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Guardian&#x27;Military computer hacker&#x27; faces extradition to US8 Jun 2005 — Gary McKinnon, 39, faces extradition to the US deleting around...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pinsentmasons.com  
    Title: pentagon hacker mckinnon fights extradition  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pentagon hacker&#x27; McKinnon fights extradition28 Jul 2005 — Mark Summers, representing the US government, said McKinnon mounted an attack...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-fights-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Pentagon hacker&#x27; McKinnon fights extradition28 Jul 2005 — Mark Summers, representing the US government, said McKinnon mounted an attack...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Guardian Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;): events leading up to extradition  
-   Link: <a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon timeline: events leading up to extradition...October 16, 2012 — 16 Oct 2012 — US prosecutors also allege he de...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon timeline: events leading up to extradition...October 16, 2012 — 16 Oct 2012 — US prosecutors also allege he de...</p></details>
    Published: October 16, 2012  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: pinsentmasons.com  
    Title: british man faces extradition for us hacking trial  
-   Link: <a href="https://www.pinsentmasons.com/out-law/news/british-man-faces-extradition-for-us-hacking-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/british-man-faces-extradition-for-us-hacking-trial</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>31 May 2005 — Arrested in November 2002 by officers from the National Hi-Tech Crime Unit, Gary McKinnon, 39, of north London faces extrad...</p></details>
+   Link:<a href="https://www.pinsentmasons.com/out-law/news/british-man-faces-extradition-for-us-hacking-trial" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/british-man-faces-extradition-for-us-hacking-trial</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>31 May 2005 — Arrested in November 2002 by officers from the National Hi-Tech Crime Unit, Gary McKinnon, 39, of north London faces extrad...</p></details>
    Published: May 2005  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | Hacking27 Jul 2005 — Mr McKinnon, 39, faces extradition to the US over claims he accessed dozens...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | Hacking27 Jul 2005 — Mr McKinnon, 39, faces extradition to the US over claims he accessed dozens...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=FIlHu3YUBN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FIlHu3YUBN4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | UK Computer Hacker Who Was Accused...Gary McKinnon is a Scottish systems administrator and hacker who was accused of per...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=FIlHu3YUBN4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=FIlHu3YUBN4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon | UK Computer Hacker Who Was Accused...Gary McKinnon is a Scottish systems administrator and hacker who was accused of per...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: telegraph.co.uk  
-   Link: <a href="https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: timeline of the computer hacker&#x27;s caseUS prosecutors also allege he deleted files which shut down the US Army&#x27;s military d...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: timeline of the computer hacker&#x27;s caseUS prosecutors also allege he deleted files which shut down the US Army&#x27;s military d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cybereason.com  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonHe stole around 950 passwords, trashed around 1,300 user accounts. He deleted files at...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Malicious Life Podcast: The U.S. vs. Gary McKinnonHe stole around 950 passwords, trashed around 1,300 user accounts. He deleted files at...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: infosecurity-magazine.com  
-   Link: <a href="https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-denied-appeal-route-to/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-denied-appeal-route-to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>11 Oct 2009 — The 43-year-old McKinnon is alleged to have gained unauthorised access to the Pentagon&#x27;s military networks in a bid to disc...</p></details>
+   Link:<a href="https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-denied-appeal-route-to/" target="_blank" rel="noopener noreferrer nofollow">https://www.infosecurity-magazine.com/news/ufo-hacker-gary-mckinnon-denied-appeal-route-to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Oct 2009 — The 43-year-old McKinnon is alleged to have gained unauthorised access to the Pentagon&#x27;s military networks in a bid to disc...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: redhotcyber.com  
    Title: famous hackers the story of gary mckinnon  
-   Link: <a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.1 Jul 2025 — He is accused of causing more than $700,000 in damage ($5,000 per machine) and de...</p></details>
+   Link:<a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.1 Jul 2025 — He is accused of causing more than $700,000 in damage ($5,000 per machine) and de...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: vlex.co.uk  
    Title: mckinnon v united states 793612009  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon is British and lives in London. Between February 2001 and March 2002 he gained unauthorise...</p></details>
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon is British and lives in London. Between February 2001 and March 2002 he gained unauthorise...</p></details>
    Published: February 2001  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: vlex.co.uk  
    Title: mckinnon v usa 818719549  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-usa-818719549" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-usa-818719549</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of America30 Jul 2008 — The 97 computers the appellant accessed were: 53 army computers, including computers bas...</p></details>
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-usa-818719549" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-usa-818719549</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of America30 Jul 2008 — The 97 computers the appellant accessed were: 53 army computers, including computers bas...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: spectrum.ieee.org  
    Title: the autistic hacker  
-   Link: <a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerHe is charged with causing over US $700 000 in damages ($5000 per machine) and deleting at...</p></details>
+   Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IEEE SpectrumGary McKinnon: The Autistic HackerHe is charged with causing over US $700 000 in damages ($5000 per machine) and deleting at...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: UK Hacker extradition to US blocked  
-   Link: <a href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y5jtyps4oaY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Y5jtyps4oaY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y5jtyps4oaY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon Case (Interview from 2009)...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: The Man Who Hacked the U.S. Government  
-   Link: <a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK hacker to learn extradition fate...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ND0zQX1rGdg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK hacker to learn extradition fate...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
    Title: UK hacker to learn extradition fate  
-   Link: <a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LEvGU1b4ysw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Hacker extradition to US blocked...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LEvGU1b4ysw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Hacker extradition to US blocked...</p></details>

@@ -278,7 +278,7 @@ image: /assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port
 
 ## Introduction
 
-Within the broader Gary McKinnon case, the most consequential allegation was not that he viewed military computers while searching for UFO-related material. It was that prosecutors said he accessed a specific machine at Naval Weapons Station Earle in New Jersey: the Port Services computer. According to the US [indictment]({{ 'indictment/' | relative_url }}), this was the primary system used to monitor the status of naval vessels using the Earle pier complex. That detail transformed the case from a story about unauthorised access into a question about operational risk. If the government's description of the system was accurate, the machine sat close to the flow of information needed to track ships, their readiness and their logistical requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+Within the broader Gary McKinnon case, the most consequential allegation was not that he viewed military computers while searching for UFO-related material. It was that prosecutors said he accessed a specific machine at Naval Weapons Station Earle in New Jersey: the Port Services computer. According to the US [indictment]({{ 'indictment/' | relative_url }}), this was the primary system used to monitor the status of naval vessels using the Earle pier complex. That detail transformed the case from a story about unauthorised access into a question about operational risk. If the government's description of the system was accurate, the machine sat close to the flow of information needed to track ships, their readiness and their logistical requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-1-dark.svg" | relative_url }}" alt="Port Services illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -291,11 +291,11 @@ The importance of the Port Services computer therefore rests less on what McKinn
 
 ### What the Port Services computer was said to track
 
-The Department of Justice described the Port Services computer in unusually specific terms. Prosecutors alleged that it was the primary computer used for monitoring the identity, location, physical condition, staffing, battle readiness and resupply status of Navy ships in and around the Earle pier complex. They further alleged that McKinnon installed remote-access software on that machine and later used it as a route back into the wider network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+The Department of Justice described the Port Services computer in unusually specific terms. Prosecutors alleged that it was the primary computer used for monitoring the identity, location, physical condition, staffing, battle readiness and resupply status of Navy ships in and around the Earle pier complex. They further alleged that McKinnon installed remote-access software on that machine and later used it as a route back into the wider network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
-That description matters because it suggests a system linked to operational awareness rather than a routine office workstation. Earle's waterfront facilities support the loading and movement of ammunition and supplies for naval vessels, and its Port Services function exists to coordinate services for visiting and home-ported ships. In such an environment, accurate status information helps personnel know which vessels are present, what support they require and how prepared they are for upcoming missions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/military/facility/earle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[Global Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-snippet">Global SecurityNaval Weapons Station Earle7 May 2011 — The Port Services Division, located on the Pier Complex, provides a full range of...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
+That description matters because it suggests a system linked to operational awareness rather than a routine office workstation. Earle's waterfront facilities support the loading and movement of ammunition and supplies for naval vessels, and its Port Services function exists to coordinate services for visiting and home-ported ships. In such an environment, accurate status information helps personnel know which vessels are present, what support they require and how prepared they are for upcoming missions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.globalsecurity.org/military/facility/earle.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globalsecurity.org">[Global Security]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globalsecurity.org</span><span class="citation-popover-snippet">Global SecurityNaval Weapons Station Earle7 May 2011 — The Port Services Division, located on the Pier Complex, provides a full range of...</span><span class="citation-popover-meta">Published: May 2011</span></span></span>
 
-[Public records]({{ 'public-records/' | relative_url }}) do not provide a technical diagram of the Port Services computer or reveal exactly how data moved through the system. However, the government's own description portrays it as a central operational node rather than an isolated terminal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+[Public records]({{ 'public-records/' | relative_url }}) do not provide a technical diagram of the Port Services computer or reveal exactly how data moved through the system. However, the government's own description portrays it as a central operational node rather than an isolated terminal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -310,11 +310,11 @@ From a risk perspective, several categories of information mentioned in the indi
 * **Battle-readiness information** could reveal operational availability.
 * **Staffing information** might provide clues about deployment or maintenance status.
 * **Resupply records** could expose logistical priorities and operational tempo.
-* **Condition reports** could indicate whether vessels were preparing for deployment, undergoing maintenance or awaiting support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+* **Condition reports** could indicate whether vessels were preparing for deployment, undergoing maintenance or awaiting support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
 The issue was therefore not merely confidentiality. Systems that combine operational and logistical information often become important because they help decision-makers coordinate activity across a facility. If access to such a system were lost, altered or rendered unreliable, the consequences could extend beyond the workstation itself.
 
-This helps explain why prosecutors repeatedly highlighted the Port Services computer in public statements and court filings. The allegation was tied to a machine associated with monitoring fleet support operations, not simply a random computer on a military network. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+This helps explain why prosecutors repeatedly highlighted the Port Services computer in public statements and court filings. The allegation was tied to a machine associated with monitoring fleet support operations, not simply a random computer on a military network.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-2-dark.svg" | relative_url }}" alt="Port Services illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -322,7 +322,7 @@ This helps explain why prosecutors repeatedly highlighted the Port Services comp
 
 One common misunderstanding is that the Earle allegations concerned only the viewing or copying of information. The government's case placed equal emphasis on disruption.
 
-According to the indictment, prosecutors alleged that McKinnon installed [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}), a commercially available remote-administration tool, on the Port Services computer and other networked machines. They further alleged that he later obtained hundreds of passwords and returned to the network using those credentials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+According to the indictment, prosecutors alleged that McKinnon installed [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}), a commercially available remote-administration tool, on the Port Services computer and other networked machines. They further alleged that he later obtained hundreds of passwords and returned to the network using those credentials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
 The risk created by that scenario was twofold:
 
@@ -334,7 +334,7 @@ The risk created by that scenario was twofold:
 
 </div>
 
-The latter became particularly important because prosecutors alleged that files required to start certain computers were deleted and that intrusion logs were removed. Their argument was that the network's operational usefulness was impaired, not merely that information had been viewed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+The latter became particularly important because prosecutors alleged that files required to start certain computers were deleted and that intrusion logs were removed. Their argument was that the network's operational usefulness was impaired, not merely that information had been viewed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
 For a facility whose purpose includes supporting fleet logistics and ammunition operations, disruption of monitoring systems can be as concerning as unauthorised disclosure. Personnel may be forced to verify information manually, reconstruct records or limit network usage while systems are restored.
 
@@ -343,192 +343,192 @@ For a facility whose purpose includes supporting fleet logistics and ammunition 
 
 ## What the public record can and cannot prove
 
-The public record establishes several points with reasonable confidence. Prosecutors explicitly identified the Port Services computer as the key entry point in the Earle allegations. They described it as a ship-monitoring system and claimed that remote-access software was installed on it. Later court and media summaries continued to reference the system as one used to track ship location and readiness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+The public record establishes several points with reasonable confidence. Prosecutors explicitly identified the Port Services computer as the key entry point in the Earle allegations. They described it as a ship-monitoring system and claimed that remote-access software was installed on it. Later court and media summaries continued to reference the system as one used to track ship location and readiness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
 What the public record does **not** establish is equally important.
 
-There is no publicly available technical documentation showing the exact architecture of the Port Services system. Open sources do not reveal whether the machine held all of the information directly, acted as an interface to other databases, or merely displayed data collected elsewhere. Likewise, public records do not provide detailed evidence showing exactly what information McKinnon viewed while connected to the system. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+There is no publicly available technical documentation showing the exact architecture of the Port Services system. Open sources do not reveal whether the machine held all of the information directly, acted as an interface to other databases, or merely displayed data collected elsewhere. Likewise, public records do not provide detailed evidence showing exactly what information McKinnon viewed while connected to the system.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
-The record also cannot independently verify every operational consequence claimed by prosecutors. Much of the detailed description comes from indictment allegations and government statements rather than publicly released forensic reports. Those allegations formed the basis of the extradition case, but they should still be distinguished from independently published technical evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+The record also cannot independently verify every operational consequence claimed by prosecutors. Much of the detailed description comes from indictment allegations and government statements rather than publicly released forensic reports. Those allegations formed the basis of the extradition case, but they should still be distinguished from independently published technical evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
-For that reason, the strongest conclusion is narrower than some popular [retellings]({{ 'retellings/' | relative_url }}). The significance of the Port Services computer is not that it proves McKinnon discovered hidden UFO information, nor that it definitively proves catastrophic military damage. Its importance lies in the fact that prosecutors identified a specific ship-monitoring workstation at a major naval logistics facility and argued that unauthorised access to that system created operational and security risks well beyond an ordinary military login. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
+For that reason, the strongest conclusion is narrower than some popular [retellings]({{ 'retellings/' | relative_url }}). The significance of the Port Services computer is not that it proves McKinnon discovered hidden UFO information, nor that it definitively proves catastrophic military damage. Its importance lies in the fact that prosecutors identified a specific ship-monitoring workstation at a major naval logistics facility and argued that unauthorised access to that system created operational and security risks well beyond an ordinary military login.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</span><span class="citation-popover-meta">Published: April 7, 2001</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-3-dark.svg" | relative_url }}" alt="Port Services illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_earle_network_claim_77c973_port_services_ship_s_bf7f98-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why one Earle computer mattered so much. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why one Earle computer mattered so much. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
+</h4>
+<p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
         
-        <p class="fr-book-desc">Directly relevant to military logistics and operational systems.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to military logistics and operational systems.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q1AJCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
-        </h4>
-        <p class="fr-book-author">By Fred Kaplan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q1AJCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
+</h4>
+<p class="fr-book-author">By Fred Kaplan</p>
         
-        <p class="fr-book-desc">Explains why military network access can have strategic significance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why military network access can have strategic significance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Countdown to Zero Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1l2YAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Countdown to Zero Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
-        </h4>
-        <p class="fr-book-author">By Kim Zetter</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Countdown to Zero Day on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1l2YAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Countdown to Zero Day" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Countdown to Zero Day">Countdown to Zero Day</a>
+</h4>
+<p class="fr-book-author">By Kim Zetter</p>
         
-        <p class="fr-book-desc">Shows how technical intrusions can affect real-world operations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how technical intrusions can affect real-world operations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Countdown+to+Zero+Day+by+Kim+Zetter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Provides a hacker&#x27;s-eye view of network access.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a hacker&#x27;s-eye view of network access.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Territory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Territory</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Countdown to Zero Day</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Cyber+War&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Cyber War</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Territory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Territory</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Countdown+to+Zero+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Countdown to Zero Day</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker"><img src="{{ '/assets/images/marketplace-covers/de94c9b99ed106d31b52.jpg' | relative_url }}" alt="Listing image for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker"><img src="{{ '/assets/images/marketplace-covers/de94c9b99ed106d31b52.jpg' | relative_url }}" alt="Listing image for Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Computers PC Ladies T-Shirt Funny Hobby Statement Programming Internet Hacker</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/7a9de0d9df84ca3f2ab2.jpg' | relative_url }}" alt="Listing image for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER"><img src="{{ '/assets/images/marketplace-covers/7a9de0d9df84ca3f2ab2.jpg' | relative_url }}" alt="Listing image for HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T-SHIRT COOL COMPUTER PROGRAMMER IT NERD GEEK CODE CODING GAMER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/66a55d4346317fac1d45.jpg' | relative_url }}" alt="Listing image for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE"><img src="{{ '/assets/images/marketplace-covers/66a55d4346317fac1d45.jpg' | relative_url }}" alt="Listing image for HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">HACKER MENS T SHIRT TEE PC GAMER GAMING COMPUTER PROGRAMMER GIFT CODING CODE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for computer hacker t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: computer hacker t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=computer+hacker+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="computer hacker t shirt" data-ebay-reference="port-services-why-one-earle-computer-mattered-so-much-ufo-hackers-such-computer-hacker-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ For that reason, the strongest conclusion is narrower than some popular [retelli
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ For that reason, the strongest conclusion is narrower than some popular [retelli
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ For that reason, the strongest conclusion is narrower than some popular [retelli
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ For that reason, the strongest conclusion is narrower than some popular [retelli
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ For that reason, the strongest conclusion is narrower than some popular [retelli
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,93 +734,93 @@ For that reason, the strongest conclusion is narrower than some popular [retelli
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the Port Services comp...</p></details>
    Published: April 7, 2001  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cnrma.cnic.navy.mil  
-   Link: <a href="https://cnrma.cnic.navy.mil/Installations/NWS-Earle/" target="_blank" rel="noopener noreferrer nofollow">https://cnrma.cnic.navy.mil/Installations/NWS-Earle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station EarleWelcome to Naval Weapons Station Earle. This desirable area serves as an &#x27;escape&#x27; for people living or working in Ne...</p></details>
+   Link:<a href="https://cnrma.cnic.navy.mil/Installations/NWS-Earle/" target="_blank" rel="noopener noreferrer nofollow">https://cnrma.cnic.navy.mil/Installations/NWS-Earle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station EarleWelcome to Naval Weapons Station Earle. This desirable area serves as an &#x27;escape&#x27; for people living or working in Ne...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: globalsecurity.org  
-   Link: <a href="https://www.globalsecurity.org/military/facility/earle.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/facility/earle.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Global SecurityNaval Weapons Station Earle7 May 2011 — The Port Services Division, located on the Pier Complex, provides a full range of...</p></details>
+   Link:<a href="https://www.globalsecurity.org/military/facility/earle.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.globalsecurity.org/military/facility/earle.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Global SecurityNaval Weapons Station Earle7 May 2011 — The Port Services Division, located on the Pier Complex, provides a full range of...</p></details>
    Published: May 2011  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: installations.militaryonesource.mil  
-   Link: <a href="https://installations.militaryonesource.mil/in-depth-overview/naval-weapons-station-earle" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/naval-weapons-station-earle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station Earle | Base Overview &amp; InfoFind key information &amp; resources for Naval Weapons Station Earle in New Jersey including cont...</p></details>
+   Link:<a href="https://installations.militaryonesource.mil/in-depth-overview/naval-weapons-station-earle" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/in-depth-overview/naval-weapons-station-earle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station Earle | Base Overview &amp; InfoFind key information &amp; resources for Naval Weapons Station Earle in New Jersey including cont...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Naval Weapons Station Earle  
-   Link: <a href="https://en.wikipedia.org/wiki/Naval_Weapons_Station_Earle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naval_Weapons_Station_Earle</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Weapons Station EarleThe station&#x27;s pier complex is one of the longest &quot;finger piers&quot; in the world. A two-mile (3 km) trestle con...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Naval_Weapons_Station_Earle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Naval_Weapons_Station_Earle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Weapons Station EarleThe station&#x27;s pier complex is one of the longest &quot;finger piers&quot; in the world. A two-mile (3 km) trestle con...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
+   Link:<a href="https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/hacking/comments/1etqs6b/how_gary_mckinnon_did_what_he_did/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dvidshub.net  
-   Link: <a href="https://www.dvidshub.net/unit/NWSEPAO" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/NWSEPAO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Weapons Station Earle Public Affairs OfficeLEONARDO, New Jersey: PCU New Jersey (SSN 796) pulls into Naval Weapons Station Earle Pi...</p></details>
+   Link:<a href="https://www.dvidshub.net/unit/NWSEPAO" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/unit/NWSEPAO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Weapons Station Earle Public Affairs OfficeLEONARDO, New Jersey: PCU New Jersey (SSN 796) pulls into Naval Weapons Station Earle Pi...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/abandonedrails/posts/9964380193595406/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/abandonedrails/posts/9964380193595406/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is the battleship USS Wisconsin (BB-64) loading ammunition at Pier 4 East of the Leonardo...</p></details>
+   Link:<a href="https://www.facebook.com/groups/abandonedrails/posts/9964380193595406/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/abandonedrails/posts/9964380193595406/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is the battleship USS Wisconsin (BB-64) loading ammunition at Pier 4 East of the Leonardo...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cashmandredging.com  
-   Link: <a href="https://www.cashmandredging.com/projects/naval-station-earle-weapons-facility-dredging-colts-neck-nj/" target="_blank" rel="noopener noreferrer nofollow">https://www.cashmandredging.com/projects/naval-station-earle-weapons-facility-dredging-colts-neck-nj/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A two-mile (3 km) trestle connects to three-finger piers. One mile from the...Read more...</p></details>
+   Link:<a href="https://www.cashmandredging.com/projects/naval-station-earle-weapons-facility-dredging-colts-neck-nj/" target="_blank" rel="noopener noreferrer nofollow">https://www.cashmandredging.com/projects/naval-station-earle-weapons-facility-dredging-colts-neck-nj/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A two-mile (3 km) trestle connects to three-finger piers. One mile from the...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: futureintelligence.co.uk  
    Title: Future Intelligence Gary Mc Kinnon was unlucky  
-   Link: <a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — McKinnon was unlucky enough to be searching for secret UFO files while he was being watched...</p></details>
+   Link:<a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — McKinnon was unlucky enough to be searching for secret UFO files while he was being watched...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: redhotcyber.com  
    Title: famous hackers the story of gary mckinnon  
-   Link: <a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.1 Jul 2025 — Gary McKinnon, single-handedly scanned thousands of US government machines and di...</p></details>
+   Link:<a href="https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.redhotcyber.com/en/post/famous-hackers-the-story-of-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Hackers: The Story of Gary McKinnon.1 Jul 2025 — Gary McKinnon, single-handedly scanned thousands of US government machines and di...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cbsnews.com  
    Title: brit hacker loses us extradition appeal  
-   Link: <a href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brit Hacker Loses U.S. Extradition Appeal30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 comput...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brit Hacker Loses U.S. Extradition Appeal30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 comput...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cybereason.com  
    Title: Malicious Life Podcast: The U.S  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and U.S. Army networks to find evidence of UFO coverup...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA and U.S. Army networks to find evidence of UFO coverup...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: afahc.ro  
    Title: Case Study #6  
-   Link: <a href="https://www.afahc.ro/ro/erasmus/DDHE/Courses/Information%20Warfare/case_study_6__the_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.afahc.ro/ro/erasmus/DDHE/Courses/Information%20Warfare/case_study_6__the_mckinnon_case.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The McKinnon CaseIn March of 2002, Gary McKinnon was arrested in his home in North London. He was arrested and charged with having used c...</p></details>
+   Link:<a href="https://www.afahc.ro/ro/erasmus/DDHE/Courses/Information%20Warfare/case_study_6__the_mckinnon_case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.afahc.ro/ro/erasmus/DDHE/Courses/Information%20Warfare/case_study_6__the_mckinnon_case.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The McKinnon CaseIn March of 2002, Gary McKinnon was arrested in his home in North London. He was arrested and charged with having used c...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: monmouthtimeline.org  
-   Link: <a href="https://monmouthtimeline.org/[timeline" target="_blank" rel="noopener noreferrer nofollow">https://monmouthtimeline.org/[timeline</a>  
+   Link:<a href="https://monmouthtimeline.org/[timeline" target="_blank" rel="noopener noreferrer nofollow">https://monmouthtimeline.org/[timeline</a>  

@@ -280,15 +280,15 @@ image: /assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_sola
 
 ## Introduction
 
-The link between Gary McKinnon’s hacking claims and the alleged [secret space fleet]({{ 'space-fleet/' | relative_url }}) known as “Solar Warden” did not come from a document McKinnon published or from a programme name he said he found. Instead, the connection emerged gradually as later writers and UFO researchers tried to interpret one of the most ambiguous parts of his story: an alleged spreadsheet titled “Non-Terrestrial Officers” that reportedly contained personnel information and references to ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }}). Over time, that fragment was folded into a broader narrative about a hidden military presence in space, eventually becoming one of the most frequently cited pieces of supposed evidence for Solar Warden. The important historical point is that the Solar Warden story largely developed after McKinnon’s original account rather than being directly documented within it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+The link between Gary McKinnon’s hacking claims and the alleged [secret space fleet]({{ 'space-fleet/' | relative_url }}) known as “Solar Warden” did not come from a document McKinnon published or from a programme name he said he found. Instead, the connection emerged gradually as later writers and UFO researchers tried to interpret one of the most ambiguous parts of his story: an alleged spreadsheet titled “Non-Terrestrial Officers” that reportedly contained personnel information and references to ship-to-[ship transfers]({{ 'ship-transfers/' | relative_url }}). Over time, that fragment was folded into a broader narrative about a hidden military presence in space, eventually becoming one of the most frequently cited pieces of supposed evidence for Solar Warden. The important historical point is that the Solar Warden story largely developed after McKinnon’s original account rather than being directly documented within it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_solar_warden_connect_9cd24d-Illustration-1-dark.svg" | relative_url }}" alt="Solar Warden illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_solar_warden_connect_9cd24d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_solar_warden_connect_9cd24d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## McKinnon's Original Account
 
-When McKinnon described what he claimed to have seen on US military and NASA-related systems, he focused on two unusual discoveries. One was an image he believed showed an unidentified craft. The other was an Excel spreadsheet headed “Non-Terrestrial Officers”, which he said listed names, ranks and information relating to [transfers]({{ 'transfers/' | relative_url }}) between ships. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+When McKinnon described what he claimed to have seen on US military and NASA-related systems, he focused on two unusual discoveries. One was an image he believed showed an unidentified craft. The other was an Excel spreadsheet headed “Non-Terrestrial Officers”, which he said listed names, ranks and information relating to [transfers]({{ 'transfers/' | relative_url }}) between ships.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
-A key detail often overlooked in later [retellings]({{ 'retellings/' | relative_url }}) is that McKinnon did not present a complete interpretation of the spreadsheet. In his 2006 interview with *Wired*, he acknowledged uncertainty about what he had found. When asked whether the material could have been part of a military simulation or hypothetical scenario, he did not rule that out. He stated that it was difficult to know for certain. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+A key detail often overlooked in later [retellings]({{ 'retellings/' | relative_url }}) is that McKinnon did not present a complete interpretation of the spreadsheet. In his 2006 interview with *Wired*, he acknowledged uncertainty about what he had found. When asked whether the material could have been part of a military simulation or hypothetical scenario, he did not rule that out. He stated that it was difficult to know for certain.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
 The surviving public record therefore contains three elements:
 
@@ -301,16 +301,16 @@ The surviving public record therefore contains three elements:
 
 </div>
 
-What it does not contain is a reference to a programme called Solar Warden. No publicly available interview from the period of the hacking allegations shows McKinnon claiming that he discovered a project by that name. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+What it does not contain is a reference to a programme called Solar Warden. No publicly available interview from the period of the hacking allegations shows McKinnon claiming that he discovered a project by that name.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
 
 ## How Solar Warden Entered the Story
 
-The Solar Warden connection arose because McKinnon’s spreadsheet description appeared to suggest organisation and logistics rather than a single UFO incident. For researchers already interested in alleged secret space programmes, terms such as “Non-Terrestrial Officers” and “ship-to-ship transfers” seemed compatible with the idea of an off-world military structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+The Solar Warden connection arose because McKinnon’s spreadsheet description appeared to suggest organisation and logistics rather than a single UFO incident. For researchers already interested in alleged secret space programmes, terms such as “Non-Terrestrial Officers” and “ship-to-ship transfers” seemed compatible with the idea of an off-world military structure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
-At roughly the same time, Solar Warden was gaining visibility within a separate stream of UFO and conspiracy literature. The term was used by authors, lecturers and online commentators as the name of a supposed classified space fleet operated by elements of the US military. The programme's alleged existence was supported primarily through whistle-blower accounts, anonymous testimony and secondary reporting rather than official documentation. As that narrative expanded, McKinnon's spreadsheet claim became a convenient piece of supporting lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apeirron.com/node/breakaway-civilization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apeirron.com">[Apeirron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apeirron.com</span><span class="citation-popover-title">The Breakaway Civilization</span><span class="citation-popover-snippet">The Breakaway Civilization - ApeirronApril 23, 2026 — 1 day ago — The phrase &quot;Solar Warden&quot; — which McKinnon did not coin but whi...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
+At roughly the same time, Solar Warden was gaining visibility within a separate stream of UFO and conspiracy literature. The term was used by authors, lecturers and online commentators as the name of a supposed classified space fleet operated by elements of the US military. The programme's alleged existence was supported primarily through whistle-blower accounts, anonymous testimony and secondary reporting rather than official documentation. As that narrative expanded, McKinnon's spreadsheet claim became a convenient piece of supporting lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apeirron.com/node/breakaway-civilization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apeirron.com">[Apeirron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apeirron.com</span><span class="citation-popover-title">The Breakaway Civilization</span><span class="citation-popover-snippet">The Breakaway Civilization - ApeirronApril 23, 2026 — 1 day ago — The phrase &quot;Solar Warden&quot; — which McKinnon did not coin but whi...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
 
 The mechanism was simple:
 
@@ -326,232 +326,232 @@ The mechanism was simple:
 
 </div>
 
-By the 2010s, many retellings no longer presented the link as an inference. Instead, they described McKinnon as having uncovered evidence of Solar Warden itself, even though the original accounts did not establish that connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://music.amazon.com/es-co/podcasts/9230638a-ebed-4306-beda-8579dc535e8c/episodes/c9a3d6eb-be62-4b47-924c-6918e08b026a/thrilling-threads---conspiracy-theories-strange-phenomena-unsolved-mysteries-etc-he-hacked-nasa-he-found-non-terrestrial-officers-solar-warden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.amazon.com">[Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.amazon.com</span><span class="citation-popover-title">Music He Hacked NASA</span><span class="citation-popover-snippet">He Found Non-Terrestrial Officers. (Solar...&quot;Non-Terrestrial Officers&quot;: The excel spreadsheet McKinnon found listing officers who do not...</span></span></span>
+By the 2010s, many retellings no longer presented the link as an inference. Instead, they described McKinnon as having uncovered evidence of Solar Warden itself, even though the original accounts did not establish that connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://music.amazon.com/es-co/podcasts/9230638a-ebed-4306-beda-8579dc535e8c/episodes/c9a3d6eb-be62-4b47-924c-6918e08b026a/thrilling-threads---conspiracy-theories-strange-phenomena-unsolved-mysteries-etc-he-hacked-nasa-he-found-non-terrestrial-officers-solar-warden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.amazon.com">[Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.amazon.com</span><span class="citation-popover-title">Music He Hacked NASA</span><span class="citation-popover-snippet">He Found Non-Terrestrial Officers. (Solar...&quot;Non-Terrestrial Officers&quot;: The excel spreadsheet McKinnon found listing officers who do not...</span></span></span>
 
 ### The Role of UFO Media and Retellings
 
 The connection strengthened through repeated citation rather than new evidence.
 
-A common pattern was that one article would summarise McKinnon’s “Non-Terrestrial Officers” claim, then cite earlier Solar Warden material as context. Later writers would encounter both stories together and assume they were part of the same evidentiary chain. After enough repetitions, the distinction between “McKinnon found a spreadsheet” and “McKinnon found Solar Warden” became blurred. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apeirron.com/node/breakaway-civilization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apeirron.com">[Apeirron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apeirron.com</span><span class="citation-popover-title">The Breakaway Civilization</span><span class="citation-popover-snippet">The Breakaway Civilization - ApeirronApril 23, 2026 — 1 day ago — The phrase &quot;Solar Warden&quot; — which McKinnon did not coin but whi...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
+A common pattern was that one article would summarise McKinnon’s “Non-Terrestrial Officers” claim, then cite earlier Solar Warden material as context. Later writers would encounter both stories together and assume they were part of the same evidentiary chain. After enough repetitions, the distinction between “McKinnon found a spreadsheet” and “McKinnon found Solar Warden” became blurred.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.apeirron.com/node/breakaway-civilization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apeirron.com">[Apeirron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apeirron.com</span><span class="citation-popover-title">The Breakaway Civilization</span><span class="citation-popover-snippet">The Breakaway Civilization - ApeirronApril 23, 2026 — 1 day ago — The phrase &quot;Solar Warden&quot; — which McKinnon did not coin but whi...</span><span class="citation-popover-meta">Published: April 23, 2026</span></span></span>
 
-This process is visible in many online discussions, podcasts and conspiracy-oriented summaries where Solar Warden is presented as the explanation for McKinnon’s observations rather than as a separate hypothesis attached afterwards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Gary Mc Kinnon, UFO&#x27;s, and the Classified Space Program</span><span class="citation-popover-snippet">Solar Warden.&quot; I understand this sounds crazy, and being skeptical... non-terrestrial officers&quot; sounds, to me, like something he made...</span></span></span>
+This process is visible in many online discussions, podcasts and conspiracy-oriented summaries where Solar Warden is presented as the explanation for McKinnon’s observations rather than as a separate hypothesis attached afterwards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Gary Mc Kinnon, UFO&#x27;s, and the Classified Space Program</span><span class="citation-popover-snippet">Solar Warden.&quot; I understand this sounds crazy, and being skeptical... non-terrestrial officers&quot; sounds, to me, like something he made...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WFd7XzTf6_k" title="David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer">David Grusch &amp; NASA Hacker Gary McKinnon: The Alien Cover-Up Is Real</a></p><p class="youtube-embed-meta">Channel: Origins Explained &middot; Views: 30.6K &middot; Uploaded: July 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WFd7XzTf6_k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WFd7XzTf6_k">Open on YouTube</a></p></div></div></div>
 
 ## Evidence Versus Later Retellings
 
-The strongest evidence available is still McKinnon’s own description of what he claimed to have seen. That evidence is limited because the alleged spreadsheet has never been independently verified, authenticated or released publicly. No known document links the spreadsheet directly to Solar Warden. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+The strongest evidence available is still McKinnon’s own description of what he claimed to have seen. That evidence is limited because the alleged spreadsheet has never been independently verified, authenticated or released publicly. No known document links the spreadsheet directly to Solar Warden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
 By contrast, the claim that McKinnon uncovered Solar Warden usually depends on a chain of assumptions:
 
 * “Non-Terrestrial Officers” referred to personnel operating in space.
 * The ships mentioned were spacecraft rather than conventional vessels or administrative entries.
-* Those personnel belonged to a secret programme. * That programme was Solar Warden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podme.com/no/episode/10963050/?page=6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podme.com">[podme.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podme.com</span><span class="citation-popover-snippet">The Man That Hacked NASA and Found UFOs Interview w/ Gary...Gary McKinnon hacked into 97 U.S. military and... Solar Warden Myth 2...&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; Each step moves beyond the information contained in McKinnon’s original account. None of those links has been demonstrated through released records. [WIRED <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+* Those personnel belonged to a secret programme. * That programme was Solar Warden.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podme.com/no/episode/10963050/?page=6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podme.com">[podme.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podme.com</span><span class="citation-popover-snippet">The Man That Hacked NASA and Found UFOs Interview w/ Gary...Gary McKinnon hacked into 97 U.S. military and... Solar Warden Myth 2...&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; Each step moves beyond the information contained in McKinnon’s original account. None of those links has been demonstrated through released records. [WIRED<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
-An additional complication is that McKinnon has, in later discussions, been cited as distancing himself from claims that he directly discovered Solar Warden. Discussions among researchers and commentators frequently note that the name was attached to his story by others rather than originating from his own evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why I believe theres some truth to McKinnons claim of...Gary McKinnon&#x27;s connection to Solar Warden. Information on the 20 and...</span></span></span>
+An additional complication is that McKinnon has, in later discussions, been cited as distancing himself from claims that he directly discovered Solar Warden. Discussions among researchers and commentators frequently note that the name was attached to his story by others rather than originating from his own evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why I believe theres some truth to McKinnons claim of...Gary McKinnon&#x27;s connection to Solar Warden. Information on the 20 and...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_solar_warden_connect_9cd24d-Illustration-3-dark.svg" | relative_url }}" alt="Solar Warden illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_solar_warden_connect_9cd24d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca_solar_warden_connect_9cd24d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Link Persisted
 
-The association endured because McKinnon’s account supplied something that Solar Warden narratives lacked: a real-world incident involving an actual hacker, a genuine criminal investigation and alleged access to government systems. Meanwhile, Solar Warden provided a ready-made explanation for the mysterious spreadsheet he described. Together they formed a mutually reinforcing story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find o...</span></span></span>
+The association endured because McKinnon’s account supplied something that Solar Warden narratives lacked: a real-world incident involving an actual hacker, a genuine criminal investigation and alleged access to government systems. Meanwhile, Solar Warden provided a ready-made explanation for the mysterious spreadsheet he described. Together they formed a mutually reinforcing story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">terrorist or ufo truth seeker</span><span class="citation-popover-snippet">Terrorist or UFO Truth Seeker?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find o...</span></span></span>
 
-From a historical perspective, the significance of the connection lies less in what it proves than in how modern UFO narratives develop. A brief, unverified reference to “Non-Terrestrial Officers” became linked to an existing secret-space-programme mythology through interpretation, repetition and narrative amplification. The result was a widely repeated claim that McKinnon had uncovered evidence of Solar Warden, even though the public record shows only that later storytellers connected the two. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Apeirron]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
+From a historical perspective, the significance of the connection lies less in what it proves than in how modern UFO narratives develop. A brief, unverified reference to “Non-Terrestrial Officers” became linked to an existing secret-space-programme mythology through interpretation, repetition and narrative amplification. The result was a widely repeated claim that McKinnon had uncovered evidence of Solar Warden, even though the public record shows only that later storytellers connected the two.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">ufo hacker tells what he found</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sfRcl5rmydI" title="America&#x27;s Secret Space Program and the Alien Connection: Solar Warden" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sfRcl5rmydI" target="_blank" rel="noopener noreferrer">America&#x27;s Secret Space Program and the Alien Connection: Solar Warden</a></p><p class="youtube-embed-meta">Channel: The Why Files</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sfRcl5rmydI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sfRcl5rmydI">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Solar Warden Grow From One Spreadsheet Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Solar Warden Grow From One Spreadsheet Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YX8ZEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Closely aligned with secret-program and disclosure discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Closely aligned with secret-program and disclosure discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides evidence-focused context for extraordinary claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides evidence-focused context for extraordinary claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
-        </h4>
-        <p class="fr-book-author">By Richard Dolan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs and the National Security State on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Zgw35KTLOVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFOs and the National Security State" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs and the National Security State">UFOs and the National Security State</a>
+</h4>
+<p class="fr-book-author">By Richard Dolan</p>
         
-        <p class="fr-book-desc">Examines links between UFO stories and national-security narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines links between UFO stories and national-security narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State+by+Richard+Dolan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Passport to Magonia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Explores how UFO narratives evolve and spread.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how UFO narratives evolve and spread.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+and+the+National+Security+State&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs and the National Security State</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets"><img src="{{ '/assets/images/marketplace-covers/9a2c855fabc61089c3ce.jpg' | relative_url }}" alt="Listing image for 2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets"><img src="{{ '/assets/images/marketplace-covers/9a2c855fabc61089c3ce.jpg' | relative_url }}" alt="Listing image for 2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2 vintage 1980&#x27;s Kennedy Space Centre Souvenir Pens In Original Packets</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch"><img src="{{ '/assets/images/marketplace-covers/a65b4b9e163913dc94e0.jpg' | relative_url }}" alt="Listing image for limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch"><img src="{{ '/assets/images/marketplace-covers/a65b4b9e163913dc94e0.jpg' | relative_url }}" alt="Listing image for limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">limited edition Buzz Aldrin 25th Anniversary Apollo 11 moon landing wristwatch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed"><img src="{{ '/assets/images/marketplace-covers/1472c54d35a01062948a.jpg' | relative_url }}" alt="Listing image for 2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed"><img src="{{ '/assets/images/marketplace-covers/1472c54d35a01062948a.jpg' | relative_url }}" alt="Listing image for 2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">2001: A Space Odyssey Movie Poster Signed Printed Autograph A3 Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator space ship - Trimaxion 80&#x27;s film memorabilia scifi prop"><img src="{{ '/assets/images/marketplace-covers/087a405ba8c0646f088d.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator space ship - Trimaxion 80&#x27;s film memorabilia scifi prop" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator space ship - Trimaxion 80&#x27;s film memorabilia scifi prop</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Flight of the Navigator space ship - Trimaxion 80&#x27;s film memorabilia scifi prop"><img src="{{ '/assets/images/marketplace-covers/087a405ba8c0646f088d.jpg' | relative_url }}" alt="Listing image for Flight of the Navigator space ship - Trimaxion 80&#x27;s film memorabilia scifi prop" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Flight of the Navigator space ship - Trimaxion 80&#x27;s film memorabilia scifi prop</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: space memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space memorabilia" data-ebay-reference="solar-warden-did-solar-warden-grow-from-one-spreadsheet-claim-ufo-hackers-such-space-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -567,7 +567,7 @@ From a historical perspective, the significance of the connection lies less in w
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -587,7 +587,7 @@ From a historical perspective, the significance of the connection lies less in w
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -619,7 +619,7 @@ From a historical perspective, the significance of the connection lies less in w
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -671,7 +671,7 @@ From a historical perspective, the significance of the connection lies less in w
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -716,7 +716,7 @@ From a historical perspective, the significance of the connection lies less in w
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -757,121 +757,121 @@ From a historical perspective, the significance of the connection lies less in w
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: ufo hacker tells what he found  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He Found21 Jun 2006 — I also got access to Excel spreadsheets. One was titled &quot;Non-Terrestrial Officers.&quot; It...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: wired.com  
    Title: terrorist or ufo truth seeker  
-   Link: <a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorist or UFO Truth Seeker?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find o...</p></details>
+   Link:<a href="https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/04/terrorist-or-ufo-truth-seeker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Terrorist or UFO Truth Seeker?Apr 28, 2006 — But Briton Gary McKinnon says he is just an ordinary computer nerd who wanted to find o...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: apeirron.com  
    Title: The Breakaway Civilization  
-   Link: <a href="https://www.apeirron.com/node/breakaway-civilization" target="_blank" rel="noopener noreferrer nofollow">https://www.apeirron.com/node/breakaway-civilization</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Breakaway Civilization - ApeirronApril 23, 2026 — 1 day ago — The phrase &quot;Solar Warden&quot; — which McKinnon did not coin but whi...</p></details>
+   Link:<a href="https://www.apeirron.com/node/breakaway-civilization" target="_blank" rel="noopener noreferrer nofollow">https://www.apeirron.com/node/breakaway-civilization</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Breakaway Civilization - ApeirronApril 23, 2026 — 1 day ago — The phrase &quot;Solar Warden&quot; — which McKinnon did not coin but whi...</p></details>
    Published: April 23, 2026  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: music.amazon.com  
    Title: Music He Hacked NASA  
-   Link: <a href="https://music.amazon.com/es-co/podcasts/9230638a-ebed-4306-beda-8579dc535e8c/episodes/c9a3d6eb-be62-4b47-924c-6918e08b026a/thrilling-threads---conspiracy-theories-strange-phenomena-unsolved-mysteries-etc-he-hacked-nasa-he-found-non-terrestrial-officers-solar-warden" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/9230638a-ebed-4306-beda-8579dc535e8c/episodes/c9a3d6eb-be62-4b47-924c-6918e08b026a/thrilling-threads---conspiracy-theories-strange-phenomena-unsolved-mysteries-etc-he-hacked-nasa-he-found-non-terrestrial-officers-solar-warden</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>He Found Non-Terrestrial Officers. (Solar...&quot;Non-Terrestrial Officers&quot;: The excel spreadsheet McKinnon found listing officers who do not...</p></details>
+   Link:<a href="https://music.amazon.com/es-co/podcasts/9230638a-ebed-4306-beda-8579dc535e8c/episodes/c9a3d6eb-be62-4b47-924c-6918e08b026a/thrilling-threads---conspiracy-theories-strange-phenomena-unsolved-mysteries-etc-he-hacked-nasa-he-found-non-terrestrial-officers-solar-warden" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/9230638a-ebed-4306-beda-8579dc535e8c/episodes/c9a3d6eb-be62-4b47-924c-6918e08b026a/thrilling-threads---conspiracy-theories-strange-phenomena-unsolved-mysteries-etc-he-hacked-nasa-he-found-non-terrestrial-officers-solar-warden</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He Found Non-Terrestrial Officers. (Solar...&quot;Non-Terrestrial Officers&quot;: The excel spreadsheet McKinnon found listing officers who do not...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;), UFO's, and the Classified Space Program  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden.&quot; I understand this sounds crazy, and being skeptical... non-terrestrial officers&quot; sounds, to me, like something he made...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden.&quot; I understand this sounds crazy, and being skeptical... non-terrestrial officers&quot; sounds, to me, like something he made...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why I believe theres some truth to McKinnons claim of...Gary McKinnon&#x27;s connection to Solar Warden. Information on the 20 and...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why I believe theres some truth to McKinnons claim of...Gary McKinnon&#x27;s connection to Solar Warden. Information on the 20 and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: wired.com  
    Title: WIRE D  
-   Link: <a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest in Technology, Science, Culture and...We bring you the future as it happens. From the latest in science and technolog...</p></details>
+   Link:<a href="https://www.wired.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Latest in Technology, Science, Culture and...We bring you the future as it happens. From the latest in science and technolog...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: The Bear  
-   Link: <a href="https://www.reddit.com/r/TheBear/comments/1t4msd8/the_bear_gary_discussion_thread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheBear/comments/1t4msd8/the_bear_gary_discussion_thread/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Discussion Thread: r/TheBearTitled “Gary,” the episode is a flashback following Richie (Ebon Moss-Bachrach) and Mikey (Jon Bernthal...</p></details>
+   Link:<a href="https://www.reddit.com/r/TheBear/comments/1t4msd8/the_bear_gary_discussion_thread/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/TheBear/comments/1t4msd8/the_bear_gary_discussion_thread/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Discussion Thread: r/TheBearTitled “Gary,” the episode is a flashback following Richie (Ebon Moss-Bachrach) and Mikey (Jon Bernthal...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Mckinnon talks about finding the &quot;Non-terrestrial...McKinnon tells what he found and discusses the motivation behind his online adv...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16uujkn/gary_mckinnon_talks_about_finding_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary Mckinnon talks about finding the &quot;Non-terrestrial...McKinnon tells what he found and discusses the motivation behind his online adv...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: film-authority.com  
-   Link: <a href="https://film-authority.com/2026/05/12/gary/" target="_blank" rel="noopener noreferrer nofollow">https://film-authority.com/2026/05/12/gary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2026 — Gary is set in Gary, Indiana and provides some context by depicting Ritchie (Ebon Moss-Bachrach) and Mickey (Jon Bernthal)...</p></details>
+   Link:<a href="https://film-authority.com/2026/05/12/gary/" target="_blank" rel="noopener noreferrer nofollow">https://film-authority.com/2026/05/12/gary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 12, 2026 — Gary is set in Gary, Indiana and provides some context by depicting Ritchie (Ebon Moss-Bachrach) and Mickey (Jon Bernthal)...</p></details>
    Published: May 12, 2026  
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dictionary.com  
-   Link: <a href="https://www.dictionary.com/browse/gary" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/gary</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GARY Definition &amp; Meaninga port in NW Indiana, on Lake Michigan. a male given name: from an Old English word meaning “spear bearer.” Powe...</p></details>
+   Link:<a href="https://www.dictionary.com/browse/gary" target="_blank" rel="noopener noreferrer nofollow">https://www.dictionary.com/browse/gary</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GARY Definition &amp; Meaninga port in NW Indiana, on Lake Michigan. a male given name: from an Old English word meaning “spear bearer.” Powe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/Openmindsforum/posts/8107800215998911/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Openmindsforum/posts/8107800215998911/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Minds Forum&#x27;s origin of Solar WardenWhen Gary McKinnon hacked into U.S. Space Command computers several years ago and learned of the...</p></details>
+   Link:<a href="https://www.facebook.com/groups/Openmindsforum/posts/8107800215998911/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Openmindsforum/posts/8107800215998911/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Minds Forum&#x27;s origin of Solar WardenWhen Gary McKinnon hacked into U.S. Space Command computers several years ago and learned of the...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: podme.com  
-   Link: <a href="https://podme.com/no/episode/10963050/?page=6" target="_blank" rel="noopener noreferrer nofollow">https://podme.com/no/episode/10963050/?page=6</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man That Hacked NASA and Found UFOs [Interview w/ Gary...Gary McKinnon hacked into 97 U.S. military and... Solar Warden Myth 2...</p></details>
+   Link:<a href="https://podme.com/no/episode/10963050/?page=6" target="_blank" rel="noopener noreferrer nofollow">https://podme.com/no/episode/10963050/?page=6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man That Hacked NASA and Found UFOs [Interview w/ Gary...Gary McKinnon hacked into 97 U.S. military and... Solar Warden Myth 2...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: malicious.life  
-   Link: <a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
+   Link:<a href="https://malicious.life/episode/us_vs_gary_mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://malicious.life/episode/us_vs_gary_mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The US vs. Gary McKinnonGary McKinnon, a British hacker with Asperger&#x27;s, broke into NASA &amp; US Army networks - to find evidence of UFO cov...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/FlatEarthGlobeDiscussion/posts/2505468386561711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/FlatEarthGlobeDiscussion/posts/2505468386561711/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is something i find amazing. All you flerfs talk about...GARY MCKINNON AND Richard Dolan! Gary was the alleged &quot;Hacker&quot; the U.S. go...</p></details>
+   Link:<a href="https://www.facebook.com/groups/FlatEarthGlobeDiscussion/posts/2505468386561711/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/FlatEarthGlobeDiscussion/posts/2505468386561711/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is something i find amazing. All you flerfs talk about...GARY MCKINNON AND Richard Dolan! Gary was the alleged &quot;Hacker&quot; the U.S. go...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: disneyplus.com  
-   Link: <a href="https://www.disneyplus.com/en-gb/browse/entity-a28327ab-0812-4da4-ad69-63844e206092" target="_blank" rel="noopener noreferrer nofollow">https://www.disneyplus.com/en-gb/browse/entity-a28327ab-0812-4da4-ad69-63844e206092</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch GaryRichard “Richie” Jerimovich (Ebon Moss-Bachrach) and Michael “Mikey” Berzatto (Jon Bernthal) go a on a work trip to Gary, India...</p></details>
+   Link:<a href="https://www.disneyplus.com/en-gb/browse/entity-a28327ab-0812-4da4-ad69-63844e206092" target="_blank" rel="noopener noreferrer nofollow">https://www.disneyplus.com/en-gb/browse/entity-a28327ab-0812-4da4-ad69-63844e206092</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch GaryRichard “Richie” Jerimovich (Ebon Moss-Bachrach) and Michael “Mikey” Berzatto (Jon Bernthal) go a on a work trip to Gary, India...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: spreaker.com  
    Title: gary mckinnon the hacker who found nasa s ufo non terrestrial officers 70473181  
-   Link: <a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/gary-mckinnon-the-hacker-who-found-nasa-s-ufo-non-terrestrial-officers--70473181</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The Hacker Who Found NASA&#x27;s UFO &amp;...5 Mar 2026 — This episode is a casual, banter-filled deep dive into Gary McKinnon&#x27;s N...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=y6Is7809XFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y6Is7809XFU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;PERFECTLY SMOOTH SHELL OF A CRAFT.&quot; GARY...GARY McKINNON&#x27;S FIRST INTERVIEW IN YEARS. UK citizen Gary McKinnon is the most famous UFO &quot;h...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=y6Is7809XFU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y6Is7809XFU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;PERFECTLY SMOOTH SHELL OF A CRAFT.&quot; GARY...GARY McKINNON&#x27;S FIRST INTERVIEW IN YEARS. UK citizen Gary McKinnon is the most famous UFO &quot;h...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sfRcl5rmydI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sfRcl5rmydI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Secret Space Program and the Alien ConnectionAmerica&#x27;s Secret Space Program and the Alien Connection Gary McKinnon was obsessed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sfRcl5rmydI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sfRcl5rmydI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America&#x27;s Secret Space Program and the Alien ConnectionAmerica&#x27;s Secret Space Program and the Alien Connection Gary McKinnon was obsessed...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9...Computer hacker, Gary McKinnon, claims to have uncovered undeniable proof o...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=20rWFDfh68Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9...Computer hacker, Gary McKinnon, claims to have uncovered undeniable proof o...</p></details>

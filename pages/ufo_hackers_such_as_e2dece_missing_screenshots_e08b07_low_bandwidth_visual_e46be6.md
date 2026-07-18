@@ -280,19 +280,19 @@ image: /assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_
 
 ## Introduction
 
-One of the most important questions in the Gary McKinnon UFO story is not whether he was sincere, but whether the conditions under which he viewed the alleged image were reliable enough for confident interpretation. McKinnon repeatedly described seeing the picture through a very slow dial-up connection while controlling a remote computer configured for extremely low colour depth and reduced screen resolution. According to his own account, the image appeared only briefly before the session was interrupted. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+One of the most important questions in the Gary McKinnon UFO story is not whether he was sincere, but whether the conditions under which he viewed the alleged image were reliable enough for confident interpretation. McKinnon repeatedly described seeing the picture through a very slow dial-up connection while controlling a remote computer configured for extremely low colour depth and reduced screen resolution. According to his own account, the image appeared only briefly before the session was interrupted.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-1-dark.svg" | relative_url }}" alt="Visual misreads illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That matters because visual perception is highly dependent on image quality. When a picture is viewed through a low-bandwidth remote session, details can be lost, colours simplified, edges distorted and context omitted. In a case where [no screenshot]({{ 'no-screenshot/' | relative_url }}) or [original file]({{ 'original-file/' | relative_url }}) survives, the possibility of an honest visual misread becomes one of the central alternative explanations that investigators must consider. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit+2hackstory.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
+That matters because visual perception is highly dependent on image quality. When a picture is viewed through a low-bandwidth remote session, details can be lost, colours simplified, edges distorted and context omitted. In a case where [no screenshot]({{ 'no-screenshot/' | relative_url }}) or [original file]({{ 'original-file/' | relative_url }}) survives, the possibility of an honest visual misread becomes one of the central alternative explanations that investigators must consider.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
 
 ## How Low-Resolution Remote Viewing Changes Images
 
-McKinnon stated that he was using a 56K dial-up connection and adjusted the remote display to 4-bit colour and low resolution in order to make the image load. He described seeing a silvery, cigar-shaped object with spherical structures attached to it before the connection ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
+McKinnon stated that he was using a 56K dial-up connection and adjusted the remote display to 4-bit colour and low resolution in order to make the image load. He described seeing a silvery, cigar-shaped object with spherical structures attached to it before the connection ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
 
-From a technical perspective, 4-bit colour is extremely limited. Instead of displaying millions of colours, the image is reduced to a tiny palette. Fine gradients disappear, shadows merge together and subtle visual cues that help identify objects can be lost. A metallic structure, cloud formation, satellite component or compression artefact may look quite different when rendered with such restrictions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
+From a technical perspective, 4-bit colour is extremely limited. Instead of displaying millions of colours, the image is reduced to a tiny palette. Fine gradients disappear, shadows merge together and subtle visual cues that help identify objects can be lost. A metallic structure, cloud formation, satellite component or compression artefact may look quite different when rendered with such restrictions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
 
-Remote desktop systems also routinely compress visual information to reduce bandwidth usage. Modern research on remote-desktop protocols notes that image compression inevitably trades fidelity for speed and can introduce visible artefacts, especially when bandwidth is constrained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/378217671_Optimization_of_Internet_of_Things_Remote_Desktop_Protocol_for_Low-Bandwidth_Environments_Using_Convolutional_Neural_Networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Remote desktop tools...Read more...</span></span></span>
+Remote desktop systems also routinely compress visual information to reduce bandwidth usage. Modern research on remote-desktop protocols notes that image compression inevitably trades fidelity for speed and can introduce visible artefacts, especially when bandwidth is constrained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/378217671_Optimization_of_Internet_of_Things_Remote_Desktop_Protocol_for_Low-Bandwidth_Environments_Using_Convolutional_Neural_Networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Remote desktop tools...Read more...</span></span></span>
 
 The consequence is not necessarily that the image was ordinary. Rather, it means that the visual appearance reported by the observer may not perfectly match the original file being displayed on the remote machine.
 
@@ -302,7 +302,7 @@ Human perception tends to complete incomplete information. When an image is blur
 
 In everyday life this is harmless. In a UFO context it becomes more significant because observers are often trying to determine whether an object appears artificial, natural or unknown. A silhouette that looks clearly structured at first glance may acquire a different interpretation once viewed at full resolution, with complete colour information and surrounding context.
 
-This is especially relevant to McKinnon's description because he reported seeing the object without knowing its scale, exact location, accompanying [metadata]({{ 'metadata/' | relative_url }}) or the complete image sequence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
+This is especially relevant to McKinnon's description because he reported seeing the object without knowing its scale, exact location, accompanying [metadata]({{ 'metadata/' | relative_url }}) or the complete image sequence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ttdlCa5ZCI" title="The Lone Hacker That Found NASA’s Secret Space Fleet [Gary McKinnon Interview]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer">The Lone Hacker That Found NASA’s Secret Space Fleet [Gary McKinnon Interview]</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 651.4K &middot; Uploaded: March 2026 &middot; Length: 2 hours 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ttdlCa5ZCI">Open on YouTube</a></p></div></div></div>
@@ -311,7 +311,7 @@ This is especially relevant to McKinnon's description because he reported seeing
 
 Low-bandwidth viewing introduces another problem beyond colour reduction: incomplete rendering.
 
-Remote-display systems commonly transmit images progressively. Portions of a screen may appear before the entire frame arrives. Compression systems can also prioritise broad shapes before fine details. Research into remote visual streaming exists precisely because maintaining image quality over limited bandwidth is difficult. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/378217671_Optimization_of_Internet_of_Things_Remote_Desktop_Protocol_for_Low-Bandwidth_Environments_Using_Convolutional_Neural_Networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Remote desktop tools...Read more...</span></span></span>
+Remote-display systems commonly transmit images progressively. Portions of a screen may appear before the entire frame arrives. Compression systems can also prioritise broad shapes before fine details. Research into remote visual streaming exists precisely because maintaining image quality over limited bandwidth is difficult.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.researchgate.net/publication/378217671_Optimization_of_Internet_of_Things_Remote_Desktop_Protocol_for_Low-Bandwidth_Environments_Using_Convolutional_Neural_Networks" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">Remote desktop tools...Read more...</span></span></span>
 
 In practical terms, an observer may see:
 
@@ -325,7 +325,7 @@ In practical terms, an observer may see:
 
 </div>
 
-McKinnon's own account describes a very slow download followed by disconnection before he could properly preserve what he was seeing. That sequence leaves open the possibility that he viewed only part of the available visual information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
+McKinnon's own account describes a very slow download followed by disconnection before he could properly preserve what he was seeing. That sequence leaves open the possibility that he viewed only part of the available visual information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-2-dark.svg" | relative_url }}" alt="Visual misreads illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -335,7 +335,7 @@ Investigators generally place greater confidence in observations that can be rev
 
 A fleeting remote-desktop view offers none of those advantages. Once the connection ends, the observer must rely on memory. Memory can preserve the overall impression of a scene while losing important details that later prove crucial for interpretation.
 
-That does not imply fabrication. It simply means that certainty becomes difficult to justify when the observation occurred under conditions known to reduce visual fidelity and when no independent copy of the image survives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+That does not imply fabrication. It simply means that certainty becomes difficult to justify when the observation occurred under conditions known to reduce visual fidelity and when no independent copy of the image survives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-3-dark.svg" | relative_url }}" alt="Visual misreads illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_missing_screenshots_e08b07_low_bandwidth_visual_e46be6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -358,7 +358,7 @@ If the file still existed, analysts could compare:
 
 Such comparisons are standard ways of determining whether an unusual appearance survives closer scrutiny or dissolves once more information becomes available.
 
-In McKinnon's case, those checks cannot be performed because the image itself is unavailable. The only surviving evidence is a description of what appeared on a low-resolution remote screen during a slow connection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED+2Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+In McKinnon's case, those checks cannot be performed because the image itself is unavailable. The only surviving evidence is a description of what appeared on a low-resolution remote screen during a slow connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[wired.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
@@ -367,203 +367,203 @@ In McKinnon's case, those checks cannot be performed because the image itself is
 
 A cautious assessment is that it could have.
 
-McKinnon's account contains two facts that point in opposite directions. On one hand, he consistently maintained that he saw something unusual and described specific visual features. On the other hand, he also described viewing conditions that were unusually poor for reliable image interpretation: a 56K connection, reduced resolution, 4-bit colour and an interrupted remote session. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
+McKinnon's account contains two facts that point in opposite directions. On one hand, he consistently maintained that he saw something unusual and described specific visual features. On the other hand, he also described viewing conditions that were unusually poor for reliable image interpretation: a 56K connection, reduced resolution, 4-bit colour and an interrupted remote session.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</span></span></span>
 
-Because the original file was never preserved, it is impossible to determine whether the object truly looked as extraordinary as remembered, whether it would have appeared less remarkable at full quality, or whether additional context would have changed the interpretation entirely. The technical limitations of the viewing session therefore remain one of the strongest reasons for caution when evaluating the visual claim itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
+Because the original file was never preserved, it is impossible to determine whether the object truly looked as extraordinary as remembered, whether it would have appeared less remarkable at full quality, or whether additional context would have changed the interpretation entirely. The technical limitations of the viewing session therefore remain one of the strongest reasons for caution when evaluating the visual claim itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</span><span class="citation-popover-meta">Published: June 21, 2006</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/20rWFDfh68Y" title="Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer">Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.6M &middot; Uploaded: September 2018 &middot; Length: 4 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=20rWFDfh68Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=20rWFDfh68Y">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could the Screen View Have Misled Him?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could the Screen View Have Misled Him?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
+</h4>
+<p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Explains how perception can be unreliable under limited conditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how perception can be unreliable under limited conditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
-        </h4>
-        <p class="fr-book-author">By Michael Shermer</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Believing Brain on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=a1ueBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Believing Brain" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
+</h4>
+<p class="fr-book-author">By Michael Shermer</p>
         
-        <p class="fr-book-desc">Addresses interpretation of ambiguous observations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses interpretation of ambiguous observations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides examples of how sightings are evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides examples of how sightings are evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-haunted World">The Demon-haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Relevant to assessing uncertain visual evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to assessing uncertain visual evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Believing+Brain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Believing Brain</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space"><img src="{{ '/assets/images/marketplace-covers/e2aa433968de90bd2055.jpg' | relative_url }}" alt="Listing image for I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">I Want to Believe Vintage UFO Print, Photographic Alien Wall Art Decor, Space</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/3a6f7ab8ea3027df881c.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED CANVAS WALL ART PICTURE PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER"><img src="{{ '/assets/images/marketplace-covers/cbefff6b5079c6d1efc0.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -FRAMED WALL ART PAPER PRINT POSTER</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT"><img src="{{ '/assets/images/marketplace-covers/6a3dff6f0e589396d132.jpg' | relative_url }}" alt="Listing image for UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">UFO ABDUCTION OVER THE OCEAN -DEEP FRAMED CANVAS WALL ART PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+wall+art+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo wall art -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="visual-misreads-could-the-screen-view-have-misled-him-ufo-hackers-such-ufo-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -579,7 +579,7 @@ Because the original file was never preserved, it is impossible to determine whe
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -599,7 +599,7 @@ Because the original file was never preserved, it is impossible to determine whe
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -631,7 +631,7 @@ Because the original file was never preserved, it is impossible to determine whe
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -683,7 +683,7 @@ Because the original file was never preserved, it is impossible to determine whe
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -728,7 +728,7 @@ Because the original file was never preserved, it is impossible to determine whe
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -769,106 +769,106 @@ Because the original file was never preserved, it is impossible to determine whe
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</p></details>
+   Link:<a href="https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2006/06/ufo-hacker-tells-what-he-found/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WIRED&#x27;UFO Hacker&#x27; Tells What He FoundJune 21, 2006 — 21 Jun 2006 — The search for proof of the existence of UFOs landed Gary McKinnon in...</p></details>
    Published: June 21, 2006  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/sxt4ho/ama_with_gary_mckinnon_this_thursday_7pm_gmt/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AMA with Gary McKinnon this Thursday @ 7pm GMT: r/UFOsBecause I was using a Java application, I could only get a screenshot of the...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hackstory.net  
    Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
-   Link: <a href="https://hackstory.net/Gary_McKinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://hackstory.net/Gary_McKinnon.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2011 — Because I was using a Java application, I could only get a screenshot of the picture -- it did not go into my temporary int...</p></details>
+   Link:<a href="https://hackstory.net/Gary_McKinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://hackstory.net/Gary_McKinnon.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2011 — Because I was using a Java application, I could only get a screenshot of the picture -- it did not go into my temporary int...</p></details>
    Published: May 2011  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/378217671_Optimization_of_Internet_of_Things_Remote_Desktop_Protocol_for_Low-Bandwidth_Environments_Using_Convolutional_Neural_Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378217671_Optimization_of_Internet_of_Things_Remote_Desktop_Protocol_for_Low-Bandwidth_Environments_Using_Convolutional_Neural_Networks</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote desktop tools...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/378217671_Optimization_of_Internet_of_Things_Remote_Desktop_Protocol_for_Low-Bandwidth_Environments_Using_Convolutional_Neural_Networks" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/378217671_Optimization_of_Internet_of_Things_Remote_Desktop_Protocol_for_Low-Bandwidth_Environments_Using_Convolutional_Neural_Networks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote desktop tools...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ffmpeg/comments/10pmekb/remote_desktops_encoding_is_blurred_when_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ffmpeg/comments/10pmekb/remote_desktops_encoding_is_blurred_when_when/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the fps is not big enough? Or the parameters I set are wrong.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/ffmpeg/comments/10pmekb/remote_desktops_encoding_is_blurred_when_when/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ffmpeg/comments/10pmekb/remote_desktops_encoding_is_blurred_when_when/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the fps is not big enough? Or the parameters I set are wrong.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: windows server 2019 rdsh pink screen artefacts  
-   Link: <a href="https://www.reddit.com/r/WindowsServer/comments/tk0i6i/windows_server_2019_rdsh_pink_screen_artefacts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WindowsServer/comments/tk0i6i/windows_server_2019_rdsh_pink_screen_artefacts/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>When i set this to low, medium or high. Problems seems not to happen when...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/WindowsServer/comments/tk0i6i/windows_server_2019_rdsh_pink_screen_artefacts/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/WindowsServer/comments/tk0i6i/windows_server_2019_rdsh_pink_screen_artefacts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When i set this to low, medium or high. Problems seems not to happen when...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: vps.net  
-   Link: <a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Hacks: Gary McKinnon – BlogGary McKinnon must have been convinced of the possibility of extraterrestrial visitors when he hacked...</p></details>
+   Link:<a href="https://www.vps.net/blog/historic-hacks-gary-mckinnon/" target="_blank" rel="noopener noreferrer nofollow">https://www.vps.net/blog/historic-hacks-gary-mckinnon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historic Hacks: Gary McKinnon – BlogGary McKinnon must have been convinced of the possibility of extraterrestrial visitors when he hacked...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/gary-mac-kinnonthe-whistle-blower-didier-hanson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/gary-mac-kinnonthe-whistle-blower-didier-hanson</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GARY MAC KINNON.THE WHISTLE BLOWER..Because I was using a Java application, I could only get a screenshot of the picture — it did not go...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/gary-mac-kinnonthe-whistle-blower-didier-hanson" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/gary-mac-kinnonthe-whistle-blower-didier-hanson</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GARY MAC KINNON.THE WHISTLE BLOWER..Because I was using a Java application, I could only get a screenshot of the picture — it did not go...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: techcommunity.microsoft.com  
    Title: remote desktop connection window displays flashing colours and [artifacts](&#123;&#123; 'artifacts/' | relative_url &#125;&#125;)  
-   Link: <a href="https://techcommunity.microsoft.com/discussions/windows11/remote-desktop-connection-window-displays-flashing-colours-and-artifacts/4291002" target="_blank" rel="noopener noreferrer nofollow">https://techcommunity.microsoft.com/discussions/windows11/remote-desktop-connection-window-displays-flashing-colours-and-artifacts/4291002</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Desktop Connection window displays flashing...10 Nov 2024 — Change Display Settings: Try adjusting the Remote Desktop settings to use a...</p></details>
+   Link:<a href="https://techcommunity.microsoft.com/discussions/windows11/remote-desktop-connection-window-displays-flashing-colours-and-artifacts/4291002" target="_blank" rel="noopener noreferrer nofollow">https://techcommunity.microsoft.com/discussions/windows11/remote-desktop-connection-window-displays-flashing-colours-and-artifacts/4291002</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Desktop Connection window displays flashing...10 Nov 2024 — Change Display Settings: Try adjusting the Remote Desktop settings to use a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: Gary Mc Kinnon was not a trained spy or intelligence operative  
-   Link: <a href="https://www.facebook.com/61585381075847/posts/gary-mckinnon-was-not-a-trained-spy-or-intelligence-operative-he-was-a-civilian-/122110786047179369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61585381075847/posts/gary-mckinnon-was-not-a-trained-spy-or-intelligence-operative-he-was-a-civilian-/122110786047179369/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Because I was using a Java application, I could only get a screenshot of the picture -- it did not go into my temporary internet files. A...</p></details>
+   Link:<a href="https://www.facebook.com/61585381075847/posts/gary-mckinnon-was-not-a-trained-spy-or-intelligence-operative-he-was-a-civilian-/122110786047179369/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61585381075847/posts/gary-mckinnon-was-not-a-trained-spy-or-intelligence-operative-he-was-a-civilian-/122110786047179369/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Because I was using a Java application, I could only get a screenshot of the picture -- it did not go into my temporary internet files. A...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: superuser.com  
    Title: I've got the colour depth set at 32 bits and can  
-   Link: <a href="https://superuser.com/questions/208379/32-bit-colour-in-rdp-still-has-colour-banding" target="_blank" rel="noopener noreferrer nofollow">https://superuser.com/questions/208379/32-bit-colour-in-rdp-still-has-colour-banding</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Super User32 bit colour in RDP still has colour banding8 Nov 2010 — I&#x27;m using RDP to Remote Desktop from a Windows 7 machine to another W...</p></details>
+   Link:<a href="https://superuser.com/questions/208379/32-bit-colour-in-rdp-still-has-colour-banding" target="_blank" rel="noopener noreferrer nofollow">https://superuser.com/questions/208379/32-bit-colour-in-rdp-still-has-colour-banding</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Super User32 bit colour in RDP still has colour banding8 Nov 2010 — I&#x27;m using RDP to Remote Desktop from a Windows 7 machine to another W...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: smxi.com  
    Title: Strange Visual Artefacts in Remote Desktop?  
-   Link: <a href="https://smxi.com/2025/07/04/strange-visual-artefacts-in-remote-desktop-heres-what-fixed-it-for-us/" target="_blank" rel="noopener noreferrer nofollow">https://smxi.com/2025/07/04/strange-visual-artefacts-in-remote-desktop-heres-what-fixed-it-for-us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What...4 Jul 2025 — Another option you could try is disabling persistent bitmap caching in your Remote Desktop settings. This sto...</p></details>
+   Link:<a href="https://smxi.com/2025/07/04/strange-visual-artefacts-in-remote-desktop-heres-what-fixed-it-for-us/" target="_blank" rel="noopener noreferrer nofollow">https://smxi.com/2025/07/04/strange-visual-artefacts-in-remote-desktop-heres-what-fixed-it-for-us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s What...4 Jul 2025 — Another option you could try is disabling persistent bitmap caching in your Remote Desktop settings. This sto...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: tapatalk.com  
    Title: UF O Hacker uncovers UFO evidence  
-   Link: <a href="https://www.tapatalk.com/groups/lightforliveslfl/ufo-hacker-uncovers-ufo-evidence-t12553.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tapatalk.com/groups/lightforliveslfl/ufo-hacker-uncovers-ufo-evidence-t12553.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hacker uncovers UFO evidence - Light For LivesBecause I was using a Java application, I could only get a screenshot of the picture...</p></details>
+   Link:<a href="https://www.tapatalk.com/groups/lightforliveslfl/ufo-hacker-uncovers-ufo-evidence-t12553.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tapatalk.com/groups/lightforliveslfl/ufo-hacker-uncovers-ufo-evidence-t12553.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hacker uncovers UFO evidence - Light For LivesBecause I was using a Java application, I could only get a screenshot of the picture...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW4iF9JCJod/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW4iF9JCJod/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tograph that changes everything.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DW4iF9JCJod/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW4iF9JCJod/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tograph that changes everything.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: medium.com  
    Title: At my crowning moment  
-   Link: <a href="https://medium.com/%40kathrynlunte/the-biggest-military-computer-hack-of-all-time-68792b92095" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kathrynlunte/the-biggest-military-computer-hack-of-all-time-68792b92095</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Military Computer Hack of All Time | by Kathryn LunteBecause I was using a Java application, I could only get a screenshot of...</p></details>
+   Link:<a href="https://medium.com/%40kathrynlunte/the-biggest-military-computer-hack-of-all-time-68792b92095" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kathrynlunte/the-biggest-military-computer-hack-of-all-time-68792b92095</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Biggest Military Computer Hack of All Time | by Kathryn LunteBecause I was using a Java application, I could only get a screenshot of...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: The Lone Hacker That Found NASA's [Secret Space Fleet](&#123;&#123; 'space-fleet/' | relative_url &#125;&#125;) [Gary Mc Kinnon Interview]  
-   Link: <a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>

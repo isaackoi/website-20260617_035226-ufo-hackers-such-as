@@ -278,11 +278,11 @@ image: /assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle
 
 ## Introduction
 
-Among the many allegations made against Gary McKinnon, the claims involving Naval Weapons Station Earle in New Jersey became especially significant because they transformed the case from one about unauthorised browsing into one involving military systems, password files and operational disruption. Prosecutors alleged that McKinnon obtained and copied large numbers of encrypted passwords from servers at the base, installed remote-access software, and interfered with systems connected to a key US Navy logistics installation. Those allegations helped explain why American authorities treated the matter as a serious national-security case rather than merely a search for UFO-related information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</span></span></span>
+Among the many allegations made against Gary McKinnon, the claims involving Naval Weapons Station Earle in New Jersey became especially significant because they transformed the case from one about unauthorised browsing into one involving military systems, password files and operational disruption. Prosecutors alleged that McKinnon obtained and copied large numbers of encrypted passwords from servers at the base, installed remote-access software, and interfered with systems connected to a key US Navy logistics installation. Those allegations helped explain why American authorities treated the matter as a serious national-security case rather than merely a search for UFO-related information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-1-dark.svg" | relative_url }}" alt="Earle Allegation illustration 1" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Naval Weapons Station Earle was not just another military computer network. The installation was responsible for handling and supplying munitions and other material for the Atlantic Fleet, giving the alleged [intrusions]({{ 'intrusions/' | relative_url }}) a strategic setting that prosecutors repeatedly emphasised. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
+Naval Weapons Station Earle was not just another military computer network. The installation was responsible for handling and supplying munitions and other material for the Atlantic Fleet, giving the alleged [intrusions]({{ 'intrusions/' | relative_url }}) a strategic setting that prosecutors repeatedly emphasised.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LEvGU1b4ysw" title="UK hacker to learn extradition fate" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer">UK hacker to learn extradition fate</a></p><p class="youtube-embed-meta">Channel: Al Jazeera English &middot; Views: 20.8K &middot; Uploaded: October 2012 &middot; Length: 2 minutes 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LEvGU1b4ysw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LEvGU1b4ysw">Open on YouTube</a></p></div></div></div>
@@ -291,236 +291,236 @@ Naval Weapons Station Earle was not just another military computer network. The 
 
 ### What prosecutors alleged at Earle
 
-The most frequently cited Earle-related allegation concerned password files. Court summaries used during the extradition proceedings stated that McKinnon copied operating-system files containing account names and encrypted passwords from numerous military systems, including approximately 950 passwords taken from server computers at Naval Weapons Station Earle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
+The most frequently cited Earle-related allegation concerned password files. Court summaries used during the extradition proceedings stated that McKinnon copied operating-system files containing account names and encrypted passwords from numerous military systems, including approximately 950 passwords taken from server computers at Naval Weapons Station Earle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
 
-The allegation was important for two reasons. First, prosecutors argued that copying password databases created opportunities for wider access beyond the initially compromised machines. Second, it suggested a deliberate effort to gather credentials that could be reused elsewhere on military networks. In the broader McKinnon case, password-file collection was repeatedly presented as a stepping stone that enabled movement between systems rather than simple viewing of information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
+The allegation was important for two reasons. First, prosecutors argued that copying password databases created opportunities for wider access beyond the initially compromised machines. Second, it suggested a deliberate effort to gather credentials that could be reused elsewhere on military networks. In the broader McKinnon case, password-file collection was repeatedly presented as a stepping stone that enabled movement between systems rather than simple viewing of information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
 
-Public reporting at the time echoed the same figure, with US officials alleging that roughly 950 passwords were obtained from the [Earle network]({{ 'earle-network/' | relative_url }}). The number became one of the most quoted facts associated with the case because it offered a concrete measure of what prosecutors claimed had been taken. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kuna.net.kw/ArticleDetails.aspx?id=1297990&amp;language=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuna.net.kw">[Kuna+2Mail &amp; Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuna.net.kw</span><span class="citation-popover-title">Kuna KUNA: U.S</span><span class="citation-popover-snippet">cracks case of British hacker - General12 Nov 2002 — in New Jersey, McKinnon is accused of hacking into a network of 300 computers at the...</span></span></span>
+Public reporting at the time echoed the same figure, with US officials alleging that roughly 950 passwords were obtained from the [Earle network]({{ 'earle-network/' | relative_url }}). The number became one of the most quoted facts associated with the case because it offered a concrete measure of what prosecutors claimed had been taken.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.kuna.net.kw/ArticleDetails.aspx?id=1297990&amp;language=en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kuna.net.kw">[kuna.net.kw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kuna.net.kw</span><span class="citation-popover-title">Kuna KUNA: U.S</span><span class="citation-popover-snippet">cracks case of British hacker - General12 Nov 2002 — in New Jersey, McKinnon is accused of hacking into a network of 300 computers at the...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ND0zQX1rGdg" title="The Man Who Hacked the U.S. Government" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer">The Man Who Hacked the U.S. Government</a></p><p class="youtube-embed-meta">Channel: Newsthink &middot; Views: 816.8K &middot; Uploaded: March 2024 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ND0zQX1rGdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ND0zQX1rGdg">Open on YouTube</a></p></div></div></div>
 
 ### Why remote access mattered between June 18 and 21
 
-The Earle allegations sat within the larger accusation that McKinnon used remote-administration tools after obtaining privileged access. According to court materials and prosecution summaries, he admitted installing the commercial remote-control package [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}) on compromised systems, including the Earle network. Prosecutors argued that such software allowed repeated access without needing to physically revisit the original point of compromise. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
+The Earle allegations sat within the larger accusation that McKinnon used remote-administration tools after obtaining privileged access. According to court materials and prosecution summaries, he admitted installing the commercial remote-control package [RemotelyAnywhere]({{ 'remotelyanywhere/' | relative_url }}) on compromised systems, including the Earle network. Prosecutors argued that such software allowed repeated access without needing to physically revisit the original point of compromise.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
 
-In practical terms, the alleged password harvesting and the alleged installation of remote-administration software reinforced one another. Password files could provide additional credentials, while remote-access software could preserve ongoing control over a machine. That combination is why the Earle allegations became a particularly clear example of early-2000s network intrusion techniques: weak security, credential collection and persistent remote access working together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
+In practical terms, the alleged password harvesting and the alleged installation of remote-administration software reinforced one another. Password files could provide additional credentials, while remote-access software could preserve ongoing control over a machine. That combination is why the Earle allegations became a particularly clear example of early-2000s network intrusion techniques: weak security, credential collection and persistent remote access working together.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
 
-The June 18–21 period referenced in charging material was significant because prosecutors presented it as a window during which remote access to Earle systems was allegedly maintained and exploited. The emphasis was not simply on a single login but on continued administrative-level access and the ability to interact with military network resources over time. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">Mc Kinnon comphacker</span><span class="citation-popover-snippet">Department of WarU.S. Department of Justice United States Attorney Eastern...November 13, 2002 — 12 Nov 2002 — One count charges McKinno...</span><span class="citation-popover-meta">Published: November 13, 2002</span></span></span>
+The June 18–21 period referenced in charging material was significant because prosecutors presented it as a window during which remote access to Earle systems was allegedly maintained and exploited. The emphasis was not simply on a single login but on continued administrative-level access and the ability to interact with military network resources over time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">Mc Kinnon comphacker</span><span class="citation-popover-snippet">Department of WarU.S. Department of Justice United States Attorney Eastern...November 13, 2002 — 12 Nov 2002 — One count charges McKinno...</span><span class="citation-popover-meta">Published: November 13, 2002</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-2-dark.svg" | relative_url }}" alt="Earle Allegation illustration 2" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Earle Became a Stronger Example Than Curiosity Browsing
 
-One reason Earle stood out was the nature of the installation itself. The base supported ammunition handling and logistics for naval operations, making it easier for prosecutors to argue that the affected systems had national-defence importance. Court summaries specifically described computers associated with monitoring the identity, location, staffing levels, physical condition and battle readiness of Navy vessels. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
+One reason Earle stood out was the nature of the installation itself. The base supported ammunition handling and logistics for naval operations, making it easier for prosecutors to argue that the affected systems had national-defence importance. Court summaries specifically described computers associated with monitoring the identity, location, staffing levels, physical condition and battle readiness of Navy vessels.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
 
-Prosecutors also alleged that logs and critical files were deleted from Earle computers. According to the US case, those actions rendered a network of more than 300 computers inoperable and left systems vulnerable to additional intrusions. The allegations became even more politically sensitive because authorities said the disruption occurred during the period immediately following the 11 September 2001 attacks. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex+2UK Parliament]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
+Prosecutors also alleged that logs and critical files were deleted from Earle computers. According to the US case, those actions rendered a network of more than 300 computers inoperable and left systems vulnerable to additional intrusions. The allegations became even more politically sensitive because authorities said the disruption occurred during the period immediately following the 11 September 2001 attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vlex.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
 
-McKinnon disputed aspects of the damage allegations and publicly portrayed himself as someone searching for evidence of UFOs and advanced technology rather than attempting to harm military operations. However, the Earle allegations gave prosecutors a specific incident involving passwords, military systems and claimed operational consequences. That made the case harder to frame as simple curiosity-driven exploration. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
+McKinnon disputed aspects of the damage allegations and publicly portrayed himself as someone searching for evidence of UFOs and advanced technology rather than attempting to harm military operations. However, the Earle allegations gave prosecutors a specific incident involving passwords, military systems and claimed operational consequences. That made the case harder to frame as simple curiosity-driven exploration.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Gary Mc Kinnon</span><span class="citation-popover-snippet">Gary Mc Kinnon</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OImdnvQx7sQ" title="Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer">Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN</a></p><p class="youtube-embed-meta">Channel: NordVPN &middot; Views: 28.6K &middot; Uploaded: May 2023 &middot; Length: 2 minutes 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OImdnvQx7sQ">Open on YouTube</a></p></div></div></div>
 
 ## How One Site Illustrated the Wider Security Problem
 
-The Earle episode became a symbol of a broader weakness that existed across many government networks at the time. The allegations suggested that an outsider operating from the United Kingdom could locate exposed systems, obtain administrative access, copy password databases and install legitimate remote-management software without immediate detection. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
+The Earle episode became a symbol of a broader weakness that existed across many government networks at the time. The allegations suggested that an outsider operating from the United Kingdom could locate exposed systems, obtain administrative access, copy password databases and install legitimate remote-management software without immediate detection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vlex.co.uk">[vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vlex.co.uk</span><span class="citation-popover-snippet">McKinnon v United States of AmericaThis included the Army&#x27;s Military District of Washington network and the Naval Weapons Station Ear...</span></span></span>
 
-For supporters of McKinnon, the episode demonstrated poor security practices within military networks. For US prosecutors, it demonstrated why those same weaknesses created serious risks. The claim that approximately 950 passwords were copied from servers at a major naval installation gave the argument a concrete focus. Rather than an abstract discussion of cybersecurity failures, the Earle allegation offered a specific example in which credential theft and remote administration allegedly intersected with military infrastructure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[UK Parliament+2Kuna]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
+For supporters of McKinnon, the episode demonstrated poor security practices within military networks. For US prosecutors, it demonstrated why those same weaknesses created serious risks. The claim that approximately 950 passwords were copied from servers at a major naval installation gave the argument a concrete focus. Rather than an abstract discussion of cybersecurity failures, the Earle allegation offered a specific example in which credential theft and remote administration allegedly intersected with military infrastructure.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.parliament.uk">[parliament.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.parliament.uk</span><span class="citation-popover-title">mckinn 1</span><span class="citation-popover-snippet">950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</span></span></span>
 
-Within the history of the McKinnon case, that is why Naval Weapons Station Earle remains one of the most cited incidents. The allegation combined all the elements that concerned investigators: remote access, password harvesting, military networks and claimed operational consequences. It became one of the clearest examples used by US authorities to justify treating the UFO-hacker case as a national-security matter rather than a story of unauthorised curiosity alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[Department of Justice+2vLex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</span></span></span>
+Within the history of the McKinnon case, that is why Naval Weapons Station Earle remains one of the most cited incidents. The allegation combined all the elements that concerned investigators: remote access, password harvesting, military networks and claimed operational consequences. It became one of the clearest examples used by US authorities to justify treating the UFO-hacker case as a national-security matter rather than a story of unauthorised curiosity alone.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: justice.gov">[justice.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">justice.gov</span><span class="citation-popover-title">Department of Justice British National Charged with Hacking Into N.J</span><span class="citation-popover-snippet">seven-count Virginia Indictment charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</span></span></span>
 
 
 <img src="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-3-dark.svg" | relative_url }}" alt="Earle Allegation illustration 3" data-theme-src-dark="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/ufo_hackers_such_as_e2dece_remote_admin_tools_6b95ff_earle_password_alleg_1e0b93-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Naval Password Claim That Changed the Case. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Naval Password Claim That Changed the Case. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vZoQQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
-        </h4>
-        <p class="fr-book-author">By Clifford Stoll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cuckoo&#x27;s Egg on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vZoQQAAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cuckoo&#x27;s Egg" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cuckoo&#x27;s Egg">The Cuckoo&#x27;s Egg</a>
+</h4>
+<p class="fr-book-author">By Clifford Stoll</p>
         
-        <p class="fr-book-desc">Parallels investigations into military-related intrusions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Parallels investigations into military-related intrusions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg+by+Clifford+Stoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
-        </h4>
-        <p class="fr-book-author">By Kevin Mitnick</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost in the Wires on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=XFxdywAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Ghost in the Wires" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost in the Wires">Ghost in the Wires</a>
+</h4>
+<p class="fr-book-author">By Kevin Mitnick</p>
         
-        <p class="fr-book-desc">Explains unauthorized access and escalation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains unauthorized access and escalation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+in+the+Wires+by+Kevin+Mitnick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q1AJCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
-        </h4>
-        <p class="fr-book-author">By Fred Kaplan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark Territory on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=q1AJCgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Dark Territory" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark Territory">Dark Territory</a>
+</h4>
+<p class="fr-book-author">By Fred Kaplan</p>
         
-        <p class="fr-book-desc">Provides national-security context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides national-security context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Dark+Territory+by+Fred+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
-        </h4>
-        <p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Cyber War on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wfEdlwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Cyber War" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cyber War">Cyber War</a>
+</h4>
+<p class="fr-book-author">By Richard A. Clarke, Robert Knake</p>
         
-        <p class="fr-book-desc">Discusses military network vulnerabilities.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses military network vulnerabilities.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Cyber+War+by+Richard+A.+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Territory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Territory</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cuckoo%27s+Egg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cuckoo&#x27;s Egg</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+in+the+Wires&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost in the Wires</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+Territory&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark Territory</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge"><img src="{{ '/assets/images/marketplace-covers/3897388654aeea069f2f.jpg' | relative_url }}" alt="Listing image for The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">The truth is out there Aliens UFO Horror Scary Movies Enamel Metal Pin badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge"><img src="{{ '/assets/images/marketplace-covers/543d1581f512f7d95d12.jpg' | relative_url }}" alt="Listing image for Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Alien Cat Enamel Pin Badge - &quot;Get Me-Owt Of Here&quot; UFO Space Theme Pin Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New"><img src="{{ '/assets/images/marketplace-covers/32f4b74de02c9f446b8c.jpg' | relative_url }}" alt="Listing image for UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">UFO Shado Metal &amp; Enamel Pin Badge Brooch Alien Defence Organisation New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New"><img src="{{ '/assets/images/marketplace-covers/d284d227eac3cfe1f63d.jpg' | relative_url }}" alt="Listing image for Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">Space UFO Black White Minimalist Metal Enamel Pin Badge Collectable | Brand New</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO enamel pin">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO enamel pin</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+enamel+pin+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO enamel pin -book -books -series -television -gerry -anderson -band -concert -tour" data-ebay-reference="earle-allegation-the-naval-password-claim-that-changed-the-case-ufo-hackers-such-ufo-enamel-pin" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,116 +726,116 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
-   Link: <a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+   Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
    Title: mckinn 1  
-   Link: <a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</p></details>
+   Link:<a href="https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld200708/ldjudgmt/jd080730/mckinn-1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>950 passwords from server computers at Naval Weapons Station Earle); and six files from NASA computers. 15. The appellant&#x27;s conduct was...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cnrma.cnic.navy.mil  
-   Link: <a href="https://cnrma.cnic.navy.mil/Installations/NWS-Earle/" target="_blank" rel="noopener noreferrer nofollow">https://cnrma.cnic.navy.mil/Installations/NWS-Earle/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Weapons Station EarleWelcome to Naval Weapons Station Earle. This desirable area serves as an &#x27;escape&#x27; for people living or working...</p></details>
+   Link:<a href="https://cnrma.cnic.navy.mil/Installations/NWS-Earle/" target="_blank" rel="noopener noreferrer nofollow">https://cnrma.cnic.navy.mil/Installations/NWS-Earle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Weapons Station EarleWelcome to Naval Weapons Station Earle. This desirable area serves as an &#x27;escape&#x27; for people living or working...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) comphacker  
-   Link: <a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...November 13, 2002 — 12 Nov 2002 — One count charges McKinno...</p></details>
+   Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...November 13, 2002 — 12 Nov 2002 — One count charges McKinno...</p></details>
    Published: November 13, 2002  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
-   Link: <a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vlex.co.uk  
-   Link: <a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaThis included the Army&#x27;s [Military District](&amp;#123;&amp;#123; &#x27;army-outage-c4f924/&#x27; | relative_url &amp;#125;&amp;#125;) of Washington network and the Naval Weapons Station Ear...</p></details>
+   Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaThis included the Army&#x27;s [Military District](&amp;#123;&amp;#123; &#x27;army-outage-c4f924/&#x27; | relative_url &amp;#125;&amp;#125;) of Washington network and the Naval Weapons Station Ear...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kuna.net.kw  
    Title: Kuna KUNA: U.S  
-   Link: <a href="https://www.kuna.net.kw/ArticleDetails.aspx?id=1297990&amp;language=en" target="_blank" rel="noopener noreferrer nofollow">https://www.kuna.net.kw/ArticleDetails.aspx?id=1297990&amp;language=en</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>cracks case of British hacker - General12 Nov 2002 — in New Jersey, McKinnon is accused of hacking into a network of 300 computers at the...</p></details>
+   Link:<a href="https://www.kuna.net.kw/ArticleDetails.aspx?id=1297990&amp;language=en" target="_blank" rel="noopener noreferrer nofollow">https://www.kuna.net.kw/ArticleDetails.aspx?id=1297990&amp;language=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>cracks case of British hacker - General12 Nov 2002 — in New Jersey, McKinnon is accused of hacking into a network of 300 computers at the...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: mg.co.za  
    Title: 2008 07 30 uk computer hacker loses appeal over us extradition  
-   Link: <a href="https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mail &amp; GuardianUK computer hacker loses appeal over US extradition30 Jul 2008 — The US authorities allege he stole 950 passwords and dele...</p></details>
+   Link:<a href="https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://mg.co.za/news/south-africa/2008-07-30-uk-computer-hacker-loses-appeal-over-us-extradition/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mail &amp; GuardianUK computer hacker loses appeal over US extradition30 Jul 2008 — The US authorities allege he stole 950 passwords and dele...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.techtarget.com  
-   Link: <a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>re GARY MCKINNON23 Sept 2001 — 12 computers were compromised at Weapons Station Earle sometime before July. 2001. It appears that the Rem...</p></details>
+   Link:<a href="https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.techtarget.com/rms/computerweekly/DowntimePDF/pdf/mckinnon.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>re GARY MCKINNON23 Sept 2001 — 12 computers were compromised at Weapons Station Earle sometime before July. 2001. It appears that the Rem...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: installations.militaryonesource.mil  
-   Link: <a href="https://installations.militaryonesource.mil/military-installation/naval-weapons-station-earle/base-essentials/check-in-procedures" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/military-installation/naval-weapons-station-earle/base-essentials/check-in-procedures</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station Earle | Check-in ProceduresFind Naval Weapons Station Earle-specific information &amp; procedures for checking- in. Reach out...</p></details>
+   Link:<a href="https://installations.militaryonesource.mil/military-installation/naval-weapons-station-earle/base-essentials/check-in-procedures" target="_blank" rel="noopener noreferrer nofollow">https://installations.militaryonesource.mil/military-installation/naval-weapons-station-earle/base-essentials/check-in-procedures</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Weapons Station Earle | Check-in ProceduresFind Naval Weapons Station Earle-specific information &amp; procedures for checking- in. Reach out...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sundaytimes.lk  
-   Link: <a href="https://www.sundaytimes.lk/101017/Education/ed01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/101017/Education/ed01.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Superhacker&#x27; faces extraditionHe was accused of hacking into a network of 300 computers at the Earle Naval Weapons Station in Colts Neck...</p></details>
+   Link:<a href="https://www.sundaytimes.lk/101017/Education/ed01.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sundaytimes.lk/101017/Education/ed01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Superhacker&#x27; faces extraditionHe was accused of hacking into a network of 300 computers at the Earle Naval Weapons Station in Colts Neck...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: standard.co.uk  
-   Link: <a href="https://www.standard.co.uk/hp/front/british-ufo-fan-in-biggest-us-military-hack-of-all-time-faces-60-years-in-jail-after-losing-extradition-fight-6892900.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/british-ufo-fan-in-biggest-us-military-hack-of-all-time-faces-60-years-in-jail-after-losing-extradition-fight-6892900.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American authorities claim he stole 950 passwords and deleted files at Earle naval weapons station in New Jersey.Read more...</p></details>
+   Link:<a href="https://www.standard.co.uk/hp/front/british-ufo-fan-in-biggest-us-military-hack-of-all-time-faces-60-years-in-jail-after-losing-extradition-fight-6892900.html" target="_blank" rel="noopener noreferrer nofollow">https://www.standard.co.uk/hp/front/british-ufo-fan-in-biggest-us-military-hack-of-all-time-faces-60-years-in-jail-after-losing-extradition-fight-6892900.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American authorities claim he stole 950 passwords and deleted files at Earle naval weapons station in New Jersey.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: telegraph.co.uk  
    Title: mputer hacker Gary Mc Kinnon loses US extradition battle in House of Lords  
-   Link: <a href="https://www.telegraph.co.uk/news/uknews/2473691/Computer-hacker-Gary-McKinnon-loses-US-extradition-battle-in-House-of-Lords.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/uknews/2473691/Computer-hacker-Gary-McKinnon-loses-US-extradition-battle-in-House-of-Lords.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>950 passwords and wiped important files at Earle naval weapons station in New Jersey, which operates the Atlantic fleet. As well as 26 US...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/news/uknews/2473691/Computer-hacker-Gary-McKinnon-loses-US-extradition-battle-in-House-of-Lords.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/uknews/2473691/Computer-hacker-Gary-McKinnon-loses-US-extradition-battle-in-House-of-Lords.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>950 passwords and wiped important files at Earle naval weapons station in New Jersey, which operates the Atlantic fleet. As well as 26 US...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: navymwrearle.com  
-   Link: <a href="https://www.navymwrearle.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.navymwrearle.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MWR EarleNavy Fleet and Family Readiness (FFR) provides services that enhance the quality of life at home and work. FFR is a catalyst for...</p></details>
+   Link:<a href="https://www.navymwrearle.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.navymwrearle.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MWR EarleNavy Fleet and Family Readiness (FFR) provides services that enhance the quality of life at home and work. FFR is a catalyst for...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cbsnews.com  
    Title: brit hacker loses us extradition appeal  
-   Link: <a href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brit Hacker Loses U.S. Extradition Appeal30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 comput...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/brit-hacker-loses-us-extradition-appeal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brit Hacker Loses U.S. Extradition Appeal30 Jul 2008 — McKinnon, 42, an unemployed computer administrator, allegedly broke into 97 comput...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: cybereason.com  
    Title: Malicious Life Podcast: The U.S  
-   Link: <a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonHe stole around 950 passwords, trashed around 1,300 user accounts. He deleted files at a naval weapons station, and a U...</p></details>
+   Link:<a href="https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.cybereason.com/blog/malicious-life-podcast-the-u.s-vs.-gary-mckinnon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>vs. Gary McKinnonHe stole around 950 passwords, trashed around 1,300 user accounts. He deleted files at a naval weapons station, and a U...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nypost.com  
    Title: feds bare post 911 hacker hell  
-   Link: <a href="https://nypost.com/2002/11/13/feds-bare-post-911-hacker-hell/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2002/11/13/feds-bare-post-911-hacker-hell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FEDS BARE POST-9/11 HACKER HELL13 Nov 2002 — In April 2001, the feds said, McKinnon hacked into the 300 computers at Naval Weapons Statio...</p></details>
+   Link:<a href="https://nypost.com/2002/11/13/feds-bare-post-911-hacker-hell/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2002/11/13/feds-bare-post-911-hacker-hell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FEDS BARE POST-9/11 HACKER HELL13 Nov 2002 — In April 2001, the feds said, McKinnon hacked into the 300 computers at Naval Weapons Statio...</p></details>
    Published: April 2001  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: en.wikisource.org  
    Title: US v Gary Mc Kinnon Indictment  
-   Link: <a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>v Gary McKinnon Indictment27 Feb 2021 — US v Gary McKinnon Indictment... This work is in the public domain in the United States because...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>v Gary McKinnon Indictment27 Feb 2021 — US v Gary McKinnon Indictment... This work is in the public domain in the United States because...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | Hacking27 Jul 2005 — Mr McKinnon is also accused of deleting files capable of shutting down the...</p></details>
+   Link:<a href="https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/technology/2005/jul/27/hacking.internetcrime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker &#x27;left note on US army computer&#x27; | Hacking27 Jul 2005 — Mr McKinnon is also accused of deleting files capable of shutting down the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2005/jun/08/usa.uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2005/jun/08/usa.uk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Military computer hacker&#x27; faces extradition to US8 Jun 2005 — Gary McKinnon, 39, faces extradition to the US over claims that he accesse...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2005/jun/08/usa.uk" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2005/jun/08/usa.uk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Military computer hacker&#x27; faces extradition to US8 Jun 2005 — Gary McKinnon, 39, faces extradition to the US over claims that he accesse...</p></details>
