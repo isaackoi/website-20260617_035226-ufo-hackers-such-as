@@ -18,7 +18,6 @@ parent_permalink: /human-rights/
 
 The following pages expand on the main **[Human Rights]({{ '/human-rights/' | relative_url }})** page and cover its key branches in.
 
-- [Article 3]({{ '/article-3-912ce8/' | relative_url }})
 - [Forum Bar Cyber Case]({{ '/forum-bar-cyber-case/' | relative_url }})
 - [Lauri Love Successor]({{ '/lauri-love-successor/' | relative_url }})
 - [May Decision]({{ '/may-decision-e19a30/' | relative_url }})
