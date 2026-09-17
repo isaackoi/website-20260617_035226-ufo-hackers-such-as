@@ -1098,7 +1098,7 @@ Gary McKinnon’s case endures because it is not just a UFO story and not just a
 
 53.<a id="endnote-53"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
+   Title: gary [mckinnon timeline]({{ 'timeline/' | relative_url }}) extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 
 54.<a id="endnote-54"></a>

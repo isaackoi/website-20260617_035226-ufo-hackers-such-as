@@ -743,7 +743,7 @@ In doing so, she demonstrated how a determined [family campaign]({{ 'family-camp
 
 3.<a id="endnote-3"></a>
    Source: politics.co.uk  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) halted  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) halted  
    Link:<a href="https://www.politics.co.uk/news/2009/10/27/gary-mckinnon-extradition-halted/" target="_blank" rel="noopener noreferrer nofollow">https://www.politics.co.uk/news/2009/10/27/gary-mckinnon-extradition-halted/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>27 Oct 2009 — The extradition of hacker Gary McKinnon to the US has been halted while Alan Johnson examines new medical evidence.Read more...</p></details>
 
@@ -833,7 +833,7 @@ In doing so, she demonstrated how a determined [family campaign]({{ 'family-camp
 
 19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Title: The Guardian Amber Rudd orders [Lauri Love](&#123;&#123; 'lauri-love/' | relative_url &#125;&#125;) extradition to US on hacking charges  
+   Title: The Guardian Amber Rudd orders [Lauri Love]({{ 'lauri-love/' | relative_url }}) extradition to US on hacking charges  
    Link:<a href="https://www.theguardian.com/law/2016/nov/14/amber-rudd-approves-lauri-love-extradition-to-us-on-hacking-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/law/2016/nov/14/amber-rudd-approves-lauri-love-extradition-to-us-on-hacking-charges</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Love, who could face up to 99 years in prison if convicted, argues that his health conditions, including depression and eczema, could wor...</p></details>
 

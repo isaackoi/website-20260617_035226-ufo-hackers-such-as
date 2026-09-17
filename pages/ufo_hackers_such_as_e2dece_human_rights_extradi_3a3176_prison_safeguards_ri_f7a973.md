@@ -730,7 +730,7 @@ In cyber extradition disputes linked to figures such as Gary McKinnon, this crea
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
 
@@ -764,7 +764,7 @@ In cyber extradition disputes linked to figures such as Gary McKinnon, this crea
 
 7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>But if I compare his condition with those considered in the authorities to which I have referred...Read more...</p></details>
 

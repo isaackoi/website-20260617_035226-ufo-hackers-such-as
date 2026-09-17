@@ -747,7 +747,7 @@ For readers interested in the broader “UFO hacker” narrative, this is one of
 
 4.<a id="endnote-4"></a>
    Source: theguardian.com  
-   Title: The Guardian Hacker's progress: how [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) pierced Pentagon security  
+   Title: The Guardian Hacker's progress: how [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) pierced Pentagon security  
    Link:<a href="https://www.theguardian.com/uk/2007/apr/03/politics.usa" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/uk/2007/apr/03/politics.usa</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianHacker&#x27;s progress: how McKinnon pierced Pentagon securityApril 3, 2007 — 3 Apr 2007 — With such glaring errors leaving the ba...</p></details>
    Published: April 3, 2007  
@@ -795,7 +795,7 @@ For readers interested in the broader “UFO hacker” narrative, this is one of
 12.<a id="endnote-12"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s [Secret Space Fleet](&amp;#123;&amp;#123; &#x27;space-fleet/&#x27; | relative_url &amp;#125;&amp;#125;)...Gary McKinnon hacked into 97 U.S. military and government sites in... The Lone H...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s [Secret Space Fleet]({{ 'space-fleet/' | relative_url }})...Gary McKinnon hacked into 97 U.S. military and government sites in... The Lone H...</p></details>
 
 13.<a id="endnote-13"></a>
    Source: instagram.com  

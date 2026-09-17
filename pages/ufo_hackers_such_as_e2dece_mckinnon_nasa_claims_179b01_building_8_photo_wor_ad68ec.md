@@ -818,7 +818,7 @@ For that reason, the Building 8 episode is best understood not as proof of a UFO
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s Building 8, images were r...</p></details>
 

@@ -928,4 +928,4 @@ For that reason, the Disclosure Project remains significant as a cultural and hi
    Source: supercluster.com  
    Title: the growing uap narrative still lacks hard evidence  
    Link:<a href="https://www.supercluster.com/editorial/the-growing-uap-narrative-still-lacks-hard-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.supercluster.com/editorial/the-growing-uap-narrative-still-lacks-hard-evidence</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP [Whistleblowers](&amp;#123;&amp;#123; &#x27;whistleblowers/&#x27; | relative_url &amp;#125;&amp;#125;) Make Startling Claims During DC Event13 Jun 2023 — The gathering was touted as a “disclosure” event where startling ev...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP [Whistleblowers]({{ 'whistleblowers/' | relative_url }}) Make Startling Claims During DC Event13 Jun 2023 — The gathering was touted as a “disclosure” event where startling ev...</p></details>

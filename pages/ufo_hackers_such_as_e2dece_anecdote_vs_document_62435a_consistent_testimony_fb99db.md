@@ -803,7 +803,7 @@ For that reason, consistency should be viewed as a credibility indicator rather 
 
 9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Title: Does anyone remember Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)?  
+   Title: Does anyone remember Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})?  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16r2dmr/does_anyone_remember_gary_mckinnon_a_british/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>A British hacker...As far as I know, he has yet to speak about this topic in 20 years. I did a small search a few months ago and found v...</p></details>
 

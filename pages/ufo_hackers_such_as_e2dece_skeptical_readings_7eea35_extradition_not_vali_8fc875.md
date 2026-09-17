@@ -738,7 +738,7 @@ Understanding that distinction helps avoid a common logical leap. The 2012 decis
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>But there is also no doubt that he is seriously ill. He has asperger&#x27;s syndrome, and suffers from...Read more...</p></details>
 
@@ -806,7 +806,7 @@ Understanding that distinction helps avoid a common logical leap. The 2012 decis
 
 13.<a id="endnote-13"></a>
    Source: hansard.parliament.uk  
-   Title: uk Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: uk Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — (Urgent Question): To ask the Secretary of State for the Home Department if...</p></details>
 
@@ -859,7 +859,7 @@ Understanding that distinction helps avoid a common logical leap. The 2012 decis
 
 22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
+   Title: gary [mckinnon timeline]({{ 'timeline/' | relative_url }}) extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon timeline: events leading up to extradition...16 Oct 2012 — Key events in the case of the &#x27;biggest military computer hack o...</p></details>
 

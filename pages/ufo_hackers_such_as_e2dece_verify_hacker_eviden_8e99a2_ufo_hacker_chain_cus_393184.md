@@ -856,7 +856,7 @@ For UFO hacker cases, that principle provides a practical rule: before asking wh
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 5.<a id="endnote-5"></a>
@@ -888,7 +888,7 @@ For UFO hacker cases, that principle provides a practical rule: before asking wh
 
 10.<a id="endnote-10"></a>
    Source: nist.gov  
-   Title: provenience based cross verification digital forensic [artifacts](&#123;&#123; 'artifacts/' | relative_url &#125;&#125;) applied ntfs  
+   Title: provenience based cross verification digital forensic [artifacts]({{ 'artifacts/' | relative_url }}) applied ntfs  
    Link:<a href="https://www.nist.gov/publications/provenience-based-cross-verification-digital-forensic-artifacts-applied-ntfs" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/publications/provenience-based-cross-verification-digital-forensic-artifacts-applied-ntfs</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Provenience-based cross-verification of digital forensic...by A Nelson · 2024 — The results of this general workflow form comprise a...</p></details>
 

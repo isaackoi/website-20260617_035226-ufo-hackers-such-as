@@ -803,7 +803,7 @@ Those unresolved disagreements shaped public perception of the case for years. T
 
 8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 9.<a id="endnote-9"></a>
@@ -888,7 +888,7 @@ Those unresolved disagreements shaped public perception of the case for years. T
 
 23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) timeline  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) timeline  
    Link:<a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeline: Gary McKinnon&#x27;s fight against extradition to the US26 Nov 2009 — Between 1 February 2001 and 19 March 2002, Gary McKinnon alleg...</p></details>
    Published: February 2001  

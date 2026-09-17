@@ -782,7 +782,7 @@ For that reason, McKinnon's lasting impact was not primarily technological or ev
 7.<a id="endnote-7"></a>
    Source: publications.parliament.uk  
    Link:<a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentHouse of Lords - Extradition: [UK law](&amp;#123;&amp;#123; &#x27;uk-law/&#x27; | relative_url &amp;#125;&amp;#125;) and practiceDespite this recommendation, a forum bar was introduced into the 2003 Act b...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentHouse of Lords - Extradition: [UK law]({{ 'uk-law/' | relative_url }}) and practiceDespite this recommendation, a forum bar was introduced into the 2003 Act b...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: judiciary.uk  

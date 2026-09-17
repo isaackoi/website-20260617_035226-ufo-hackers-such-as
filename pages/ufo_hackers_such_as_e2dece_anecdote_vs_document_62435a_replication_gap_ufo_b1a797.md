@@ -784,7 +784,7 @@ Within the broader debate over anecdote versus documentation in UFO hacking stor
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 3.<a id="endnote-3"></a>
@@ -819,7 +819,7 @@ Within the broader debate over anecdote versus documentation in UFO hacking stor
 8.<a id="endnote-8"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16in31n/reminder_gary_mckinnon_caught_nasa_editing_uap/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...A NASA photographic expert said that there was a [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;) at Johnson Space Ce...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reminder: Gary McKinnon caught NASA editing UAP out of...A NASA photographic expert said that there was a [Building 8]({{ 'building-8/' | relative_url }}) at Johnson Space Ce...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: spectrum.ieee.org  

@@ -742,7 +742,7 @@ Within the campaign itself, health concerns became the mechanism through which a
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) case home secretarys statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</p></details>
 
@@ -829,7 +829,7 @@ Within the campaign itself, health concerns became the mechanism through which a
 
 16.<a id="endnote-16"></a>
    Source: hansard.parliament.uk  
-   Title: uk Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: uk Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>In its judgment on the Director of Public Prosecution&#x27;s decision that Mr. McKinnon...Read more...</p></details>
 
@@ -896,7 +896,7 @@ Within the campaign itself, health concerns became the mechanism through which a
 27.<a id="endnote-27"></a>
    Source: hrlc.org.au  
    Link:<a href="https://www.hrlc.org.au/case-summaries/european-court-rejects-extradition-request-on-basis-of-acute-mental-illness/" target="_blank" rel="noopener noreferrer nofollow">https://www.hrlc.org.au/case-summaries/european-court-rejects-extradition-request-on-basis-of-acute-mental-illness/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>igh Court upholds lawfulness of refugee deportation to Nauru, despite [health risks](&amp;#123;&amp;#123; &#x27;health-risk/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>igh Court upholds lawfulness of refugee deportation to Nauru, despite [health risks]({{ 'health-risk/' | relative_url }}). Read more...</p></details>
 
 28.<a id="endnote-28"></a>
    Source: libertyhumanrights.org.uk  

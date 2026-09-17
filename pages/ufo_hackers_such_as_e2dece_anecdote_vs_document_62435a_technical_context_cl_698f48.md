@@ -808,7 +808,7 @@ In debates surrounding UFO-related hacking claims, the central mechanism is ther
 
 3.<a id="endnote-3"></a>
    Source: cybernews.com  
-   Title: The Man That Hacked NASA and Found UFOs [Interview w/ Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)]Read more  
+   Title: The Man That Hacked NASA and Found UFOs [Interview w/ Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})]Read more  
    Link:<a href="https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://cybernews.com/news/nasa-gary-mckinnon-hacking-ufo/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Cybernews“Non-terrestrial officers:” the UFO files Gary McKinnon says...2 Mar 2026 — McKinnon further claims that he downloaded an Excel...</p></details>
 
@@ -838,7 +838,7 @@ In debates surrounding UFO-related hacking claims, the central mechanism is ther
    Source: Wikipedia  
    Title: Gary Mc Kinnon  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;), images were r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s [Building 8]({{ 'building-8/' | relative_url }}), images were r...</p></details>
 
 ### Additional References
 

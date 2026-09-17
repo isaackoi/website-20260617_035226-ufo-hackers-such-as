@@ -866,7 +866,7 @@ A UFO hacker claiming to search for hidden truths occupies a different position.
 
 20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
 

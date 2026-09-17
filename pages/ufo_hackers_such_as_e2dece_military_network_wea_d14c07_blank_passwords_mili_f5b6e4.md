@@ -771,7 +771,7 @@ Modern military and government cybersecurity programmes place far greater emphas
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://it.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 6.<a id="endnote-6"></a>
@@ -830,7 +830,7 @@ Modern military and government cybersecurity programmes place far greater emphas
 16.<a id="endnote-16"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s [Secret Space Fleet](&amp;#123;&amp;#123; &#x27;space-fleet/&#x27; | relative_url &amp;#125;&amp;#125;)...Gary McKinnon hacked into 97 U.S. military and government sites in... The Lone H...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Lone Hacker That Found NASA&#x27;s [Secret Space Fleet]({{ 'space-fleet/' | relative_url }})...Gary McKinnon hacked into 97 U.S. military and government sites in... The Lone H...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: futureintelligence.co.uk  

@@ -809,7 +809,7 @@ For UFO-minded hackers and investigators, this creates an enduring attraction. N
 11.<a id="endnote-11"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I really hate it when &quot;it&#x27;s alien&quot; [believers](&amp;#123;&amp;#123; &#x27;believers/&#x27; | relative_url &amp;#125;&amp;#125;) don&#x27;t even want their aliens to be alien. Wh...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...I really hate it when &quot;it&#x27;s alien&quot; [believers]({{ 'believers/' | relative_url }}) don&#x27;t even want their aliens to be alien. Wh...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: reddit.com  

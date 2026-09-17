@@ -844,7 +844,7 @@ For that reason, the absence of publicly discoverable records does not, by itsel
 
 17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
@@ -932,7 +932,7 @@ For that reason, the absence of publicly discoverable records does not, by itsel
 33.<a id="endnote-33"></a>
    Source: britishlegion.org.uk  
    Link:<a href="https://www.britishlegion.org.uk/get-support/expert-guidance/care-caring/tracing-personnel" target="_blank" rel="noopener noreferrer nofollow">https://www.britishlegion.org.uk/get-support/expert-guidance/care-caring/tracing-personnel</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Access to [public records](&amp;#123;&amp;#123; &#x27;public-records/&#x27; | relative_url &amp;#125;&amp;#125;), censuses and medal index cards, in addition to guidance on researching military, family and local history.Read...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Access to [public records]({{ 'public-records/' | relative_url }}), censuses and medal index cards, in addition to guidance on researching military, family and local history.Read...</p></details>
 
 34.<a id="endnote-34"></a>
    Source: youtube.com  

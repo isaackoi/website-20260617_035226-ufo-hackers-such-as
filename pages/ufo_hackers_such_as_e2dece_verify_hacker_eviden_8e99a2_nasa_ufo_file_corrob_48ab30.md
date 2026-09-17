@@ -916,7 +916,7 @@ A claimed image that aligns with those records gains evidential weight. A claime
 21.<a id="endnote-21"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/1tajcu7/two_more_nasa_uap_releasestyle_archive_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tajcu7/two_more_nasa_uap_releasestyle_archive_photos/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Two more [NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) release-style archive photos: r/UFOsThat said, I believe a couple of the pictures from &quot;the release&quot; are truly n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two more [NASA UAP]({{ 'nasa-uap/' | relative_url }}) release-style archive photos: r/UFOsThat said, I believe a couple of the pictures from &quot;the release&quot; are truly n...</p></details>
 
 22.<a id="endnote-22"></a>
    Source: facebook.com  
@@ -946,7 +946,7 @@ A claimed image that aligns with those records gains evidential weight. A claime
 
 27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) interviewed by Richard Dolan  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) interviewed by Richard Dolan  
    Link:<a href="https://www.youtube.com/watch?v=IhUC80M8X1s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IhUC80M8X1s</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Richplanet TV - Gary McKinnon - Parts 1 TO 4...</p></details>
 

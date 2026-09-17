@@ -774,7 +774,7 @@ These concerns explain why password files occupied such a prominent place in off
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon was also accused of copying data, account files and passwords onto his own computer. US authorities stated that...</p></details>
 

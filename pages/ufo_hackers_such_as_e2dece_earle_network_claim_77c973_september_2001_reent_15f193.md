@@ -743,7 +743,7 @@ For that reason, the September 2001 re-entry is often remembered not merely as a
 
 4.<a id="endnote-4"></a>
    Source: rte.ie  
-   Title: 341874 gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: 341874 gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.rte.ie/news/2012/1016/341874-gary-mckinnon-extradition/" target="_blank" rel="noopener noreferrer nofollow">https://www.rte.ie/news/2012/1016/341874-gary-mckinnon-extradition/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>British computer hacker Gary McKinnon wins extradition fight16 Oct 2012 — He was accused of leaving 300 computers at US Naval Weapons Sta...</p></details>
 

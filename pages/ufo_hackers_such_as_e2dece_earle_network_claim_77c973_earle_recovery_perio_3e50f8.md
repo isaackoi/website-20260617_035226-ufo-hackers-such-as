@@ -747,7 +747,7 @@ Those claims are among the strongest and most concrete allegations in the McKinn
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
@@ -768,7 +768,7 @@ Those claims are among the strongest and most concrete allegations in the McKinn
 6.<a id="endnote-6"></a>
    Source: accessnow.org  
    Link:<a href="https://www.accessnow.org/release-type/open-letter/" target="_blank" rel="noopener noreferrer nofollow">https://www.accessnow.org/release-type/open-letter/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Letter ArchivesWe, the undersigned [human rights](&amp;#123;&amp;#123; &#x27;human-rights/&#x27; | relative_url &amp;#125;&amp;#125;) organizations, are writing with great concern regarding media reporting alleging tha...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Open Letter ArchivesWe, the undersigned [human rights]({{ 'human-rights/' | relative_url }}) organizations, are writing with great concern regarding media reporting alleging tha...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: x.com  

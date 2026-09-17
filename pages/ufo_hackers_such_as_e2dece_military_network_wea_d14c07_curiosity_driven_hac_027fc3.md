@@ -766,7 +766,7 @@ In that sense, the case sits at an important intersection between cyber-security
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment]({{ 'indictment/' | relative_url }}) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: casemine.com  
@@ -781,13 +781,13 @@ In that sense, the case sits at an important intersection between cyber-security
 
 8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonThe US government accused McKinnon of hacking into 97 United States military and NASA computers over a 13-month period be...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: itnews.com.au  
-   Title: nasa hacker mckinnon [appeals](&#123;&#123; 'appeals/' | relative_url &#125;&#125;) to the house of lords 88284  
+   Title: nasa hacker mckinnon [appeals]({{ 'appeals/' | relative_url }}) to the house of lords 88284  
    Link:<a href="https://www.itnews.com.au/news/nasa-hacker-mckinnon-appeals-to-the-house-of-lords-88284" target="_blank" rel="noopener noreferrer nofollow">https://www.itnews.com.au/news/nasa-hacker-mckinnon-appeals-to-the-house-of-lords-88284</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa hacker McKinnon appeals to the House of Lords3 Aug 2007 — The US government claims his actions in 2001 and 2002 damaged 97 com...</p></details>
 

@@ -791,7 +791,7 @@ Yet the key distinction remains important. The question is not whether governmen
 
 10.<a id="endnote-10"></a>
    Source: socialecologies.wordpress.com  
-   Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon the ufo image in nasa [building 8]({{ 'building-8/' | relative_url }})  
    Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — The diagnostic conclusion is that McKinnon did not uncover evidence of a se...</p></details>
 

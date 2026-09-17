@@ -1025,7 +1025,7 @@ The safest and strongest form of inquiry is therefore the one that can survive s
 
 17.<a id="endnote-17"></a>
    Source: hansard.parliament.uk  
-   Title: uk Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: uk Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
 18.<a id="endnote-18"></a>
@@ -1084,7 +1084,7 @@ The safest and strongest form of inquiry is therefore the one that can survive s
 
 31.<a id="endnote-31"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
 32.<a id="endnote-32"></a>

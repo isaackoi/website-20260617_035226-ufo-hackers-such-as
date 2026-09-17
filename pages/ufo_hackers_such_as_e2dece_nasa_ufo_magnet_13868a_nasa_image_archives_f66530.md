@@ -794,7 +794,7 @@ For UFO enthusiasts, this means the search never truly ends. Every newly digitis
 4.<a id="endnote-4"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/1tajcu7/two_more_nasa_uap_releasestyle_archive_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1tajcu7/two_more_nasa_uap_releasestyle_archive_photos/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Two more [NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) release-style archive photos: r/UFOsThat said, I believe a couple of the pictures from &quot;the release&quot; are truly n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Two more [NASA UAP]({{ 'nasa-uap/' | relative_url }}) release-style archive photos: r/UFOsThat said, I believe a couple of the pictures from &quot;the release&quot; are truly n...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: space.com  
