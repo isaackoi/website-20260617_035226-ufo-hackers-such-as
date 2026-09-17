@@ -741,7 +741,7 @@ The lasting significance of the disclosure link is therefore not that it proved 
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 3.<a id="endnote-3"></a>
@@ -819,7 +819,7 @@ The lasting significance of the disclosure link is therefore not that it proved 
    Source: reddit.com  
    Title: The Man Who Hacked the U.S  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bmekj3/the_man_who_hacked_the_us_government_looking_for/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Government (looking for...Wired News: What was your [motive](&amp;#123;&amp;#123; &#x27;motive/&#x27; | relative_url &amp;#125;&amp;#125;) or inspiration for carrying out your computer hacking?... The Man That Hacke...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government (looking for...Wired News: What was your [motive]({{ 'motive/' | relative_url }}) or inspiration for carrying out your computer hacking?... The Man That Hacke...</p></details>
 
 17.<a id="endnote-17"></a>
    Source: welivesecurity.com  

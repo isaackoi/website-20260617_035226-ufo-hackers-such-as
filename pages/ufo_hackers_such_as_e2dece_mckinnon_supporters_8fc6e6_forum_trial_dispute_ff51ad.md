@@ -740,13 +740,13 @@ For supporters of Gary McKinnon, this question became the central constitutional
 
 4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>He is alleged to have repeatedly hacked into US Government computer networks over a...Read more...</p></details>
 
@@ -780,7 +780,7 @@ For supporters of Gary McKinnon, this question became the central constitutional
 11.<a id="endnote-11"></a>
    Source: publications.parliament.uk  
    Link:<a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12607.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>of Lords - Extradition: [UK law](&amp;#123;&amp;#123; &#x27;uk-law/&#x27; | relative_url &amp;#125;&amp;#125;) and practiceThe forum bar should not prevent extradition where a prosecution in the UK would not be possible...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Lords - Extradition: [UK law]({{ 'uk-law/' | relative_url }}) and practiceThe forum bar should not prevent extradition where a prosecution in the UK would not be possible...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: hansard.parliament.uk  

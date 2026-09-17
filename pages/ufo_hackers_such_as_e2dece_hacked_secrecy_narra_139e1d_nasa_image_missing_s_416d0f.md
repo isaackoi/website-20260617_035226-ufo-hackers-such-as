@@ -812,7 +812,7 @@ That missing screenshot gap is what makes the NASA image claim such a durable pa
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
    Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — McKinnon claims an image held at the Johnson Space Center&#x27;s [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;) showe...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — McKinnon claims an image held at the Johnson Space Center&#x27;s [Building 8]({{ 'building-8/' | relative_url }}) showe...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: easternsierranow.com  

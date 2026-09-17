@@ -775,7 +775,7 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
 
 6.<a id="endnote-6"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — Given that Lord Justice Stanley Burnton indicated that if Gary M...</p></details>
 
@@ -845,7 +845,7 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
 
 18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
+   Title: gary [mckinnon timeline]({{ 'timeline/' | relative_url }}) extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>European court of human rights to stay the extradition on 28 August. Then-home secretary Jacqui Smith rejects a request from McKinnon&#x27;s...</p></details>
 
@@ -864,7 +864,7 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
 
 21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer hacker Gary M...</p></details>
 
@@ -895,7 +895,7 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
 26.<a id="endnote-26"></a>
    Source: hrlc.org.au  
    Link:<a href="https://www.hrlc.org.au/case-summaries/european-court-rejects-extradition-request-on-basis-of-acute-mental-illness/" target="_blank" rel="noopener noreferrer nofollow">https://www.hrlc.org.au/case-summaries/european-court-rejects-extradition-request-on-basis-of-acute-mental-illness/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>igh Court upholds lawfulness of refugee deportation to Nauru, despite [health risks](&amp;#123;&amp;#123; &#x27;health-risk/&#x27; | relative_url &amp;#125;&amp;#125;). Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>igh Court upholds lawfulness of refugee deportation to Nauru, despite [health risks]({{ 'health-risk/' | relative_url }}). Read more...</p></details>
 
 27.<a id="endnote-27"></a>
    Source: journals.law.unc.edu  
@@ -923,7 +923,7 @@ That contrast explains why the 2012 outcome remains one of the most debated aspe
 31.<a id="endnote-31"></a>
    Source: journals.sagepub.com  
    Link:<a href="https://journals.sagepub.com/doi/10.1177/0022018320902544" target="_blank" rel="noopener noreferrer nofollow">https://journals.sagepub.com/doi/10.1177/0022018320902544</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Forum Bar](&amp;#123;&amp;#123; &#x27;forum-bar/&#x27; | relative_url &amp;#125;&amp;#125;) in UK Extradition Law: An Unnecessary...30 Jan 2020 — Upon appeal, the High Court barred his extradition on the grounds of for...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Forum Bar]({{ 'forum-bar/' | relative_url }}) in UK Extradition Law: An Unnecessary...30 Jan 2020 — Upon appeal, the High Court barred his extradition on the grounds of for...</p></details>
 
 32.<a id="endnote-32"></a>
    Source: learningdisabilitytoday.co.uk  

@@ -830,7 +830,7 @@ That tension between a genuine scientific concept and an unverified conspiracy c
 
 15.<a id="endnote-15"></a>
    Source: hackstory.net  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://hackstory.net/Gary_McKinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://hackstory.net/Gary_McKinnon.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2011 — McKinnon: I knew that governments suppressed antigravity, UFO-related technologies, free energy or what they call zero-poin...</p></details>
    Published: May 2011  

@@ -941,7 +941,7 @@ That is why the McKinnon case still appears in UFO discussions long after the ex
 
 7.<a id="endnote-7"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 
 8.<a id="endnote-8"></a>
@@ -974,7 +974,7 @@ That is why the McKinnon case still appears in UFO discussions long after the ex
 
 15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://www.reddit.com/r/ufo/comments/y8hlap/gary_mckinnon_hacking_ufos_20_years_later/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/y8hlap/gary_mckinnon_hacking_ufos_20_years_later/</a>  
 
 16.<a id="endnote-16"></a>
@@ -1069,7 +1069,7 @@ That is why the McKinnon case still appears in UFO discussions long after the ex
 
 36.<a id="endnote-36"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
+   Title: gary [mckinnon timeline]({{ 'timeline/' | relative_url }}) extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 
 37.<a id="endnote-37"></a>

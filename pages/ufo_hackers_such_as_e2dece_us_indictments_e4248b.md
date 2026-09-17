@@ -963,7 +963,7 @@ That is the clearest way to read the indictments today. They are not evidence th
 
 9.<a id="endnote-9"></a>
    Source: GOV.UK  
-   Title: Theresa May statement on Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) extradition  
+   Title: Theresa May statement on Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) extradition  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 
 10.<a id="endnote-10"></a>
@@ -997,7 +997,7 @@ That is the clearest way to read the indictments today. They are not evidence th
 
 16.<a id="endnote-16"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
 17.<a id="endnote-17"></a>
@@ -1026,7 +1026,7 @@ That is the clearest way to read the indictments today. They are not evidence th
 
 22.<a id="endnote-22"></a>
    Source: theguardian.com  
-   Title: gary mckinnon extradition [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon extradition [timeline]({{ 'timeline/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
 
 23.<a id="endnote-23"></a>

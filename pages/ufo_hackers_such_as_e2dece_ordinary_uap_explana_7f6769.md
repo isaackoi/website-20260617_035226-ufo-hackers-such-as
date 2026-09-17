@@ -1015,7 +1015,7 @@ This is the central lesson for unresolved UAP images in the broader world of UFO
 
 24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;): No hacking charges in UK  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}): No hacking charges in UK  
    Link:<a href="https://www.youtube.com/watch?v=xAhzZRa2aws" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xAhzZRa2aws</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacking for UFOs and fighting for his life. Who is Gary McKinnon? | NordVPN...</p></details>
 

@@ -729,7 +729,7 @@ The lasting importance of this episode lies in the mechanism it highlighted. McK
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 4.<a id="endnote-4"></a>
@@ -765,7 +765,7 @@ The lasting importance of this episode lies in the mechanism it highlighted. McK
 
 9.<a id="endnote-9"></a>
    Source: ein.org.uk  
-   Title: house commons votes through motion [reform](&#123;&#123; 'reform/' | relative_url &#125;&#125;) extradition laws  
+   Title: house commons votes through motion [reform]({{ 'reform/' | relative_url }}) extradition laws  
    Link:<a href="https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws" target="_blank" rel="noopener noreferrer nofollow">https://www.ein.org.uk/news/house-commons-votes-through-motion-reform-extradition-laws</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Electronic Immigration NetworkHouse of Commons agrees motion to reform extradition laws6 Dec 2011 — I believe that our extradition proced...</p></details>
 

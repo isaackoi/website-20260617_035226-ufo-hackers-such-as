@@ -864,7 +864,7 @@ Applied to hacker claims, the same logic leads to a straightforward conclusion. 
 
 17.<a id="endnote-17"></a>
    Source: korben.info  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://korben.info/gary-mckinnon-hacker-nasa-pentagone-ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://korben.info/gary-mckinnon-hacker-nasa-pentagone-ufo.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon - Le hacker qui a cherché les extraterrestres10 Jul 2025 — Un geek autiste a cracké la NASA avec un mot de passe vide et un...</p></details>
 

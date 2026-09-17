@@ -973,7 +973,7 @@ The McKinnon case is therefore best understood as a warning against collapsing t
 
 3.<a id="endnote-3"></a>
    Source: GOV.UK  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) extradition case: Home Secretary's statement  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) extradition case: Home Secretary's statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
 4.<a id="endnote-4"></a>
@@ -1047,7 +1047,7 @@ The McKinnon case is therefore best understood as a warning against collapsing t
 
 18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
 19.<a id="endnote-19"></a>

@@ -829,7 +829,7 @@ The enduring fascination comes from the fact that the phrase “Non-Terrestrial 
 
 11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Title: Hacking for UFOs and fighting for his life. Who is Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)? | Nord VPN  
+   Title: Hacking for UFOs and fighting for his life. Who is Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})? | Nord VPN  
    Link:<a href="https://www.youtube.com/watch?v=OImdnvQx7sQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OImdnvQx7sQ</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UK blocks hacker extradition to U.S...</p></details>
 

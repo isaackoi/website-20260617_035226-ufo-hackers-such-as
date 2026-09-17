@@ -950,7 +950,7 @@ Without those anchors, the claims remain historically notable but evidentially w
 
 4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) extradition case: Home Secretary's statement  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) extradition case: Home Secretary's statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
 5.<a id="endnote-5"></a>
@@ -969,7 +969,7 @@ Without those anchors, the claims remain historically notable but evidentially w
 
 8.<a id="endnote-8"></a>
    Source: justice.gov  
-   Title: edva mckinnon [indictment](&#123;&#123; 'indictment/' | relative_url &#125;&#125;)  
+   Title: edva mckinnon [indictment]({{ 'indictment/' | relative_url }})  
    Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
 
 9.<a id="endnote-9"></a>

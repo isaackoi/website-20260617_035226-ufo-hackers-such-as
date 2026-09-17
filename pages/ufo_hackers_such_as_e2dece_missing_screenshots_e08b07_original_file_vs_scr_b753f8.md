@@ -786,9 +786,9 @@ The result is that the debate remains centred on testimony rather than evidence.
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s [Building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;), images were r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot; He said he investigated a NASA photographic expert&#x27;s claim that at the Johnson Space Center&#x27;s [Building 8]({{ 'building-8/' | relative_url }}), images were r...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: nist.gov  
@@ -822,7 +822,7 @@ The result is that the debate remains centred on testimony rather than evidence.
    Source: hackerfactor.com  
    Title: Say No to Screenshots  
    Link:<a href="https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=" target="_blank" rel="noopener noreferrer nofollow">https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>This effectively removes any pixel-related [artifacts](&amp;#123;&amp;#123; &#x27;artifacts/&#x27; | relative_url &amp;#125;&amp;#125;). none of the metadata will reflect...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This effectively removes any pixel-related [artifacts]({{ 'artifacts/' | relative_url }}). none of the metadata will reflect...</p></details>
 
 12.<a id="endnote-12"></a>
    Source: wired.com  

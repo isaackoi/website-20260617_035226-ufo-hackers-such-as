@@ -894,7 +894,7 @@ For anyone evaluating UFO imagery—whether a smartphone photograph, an infrared
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
    Link:<a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[UAP reports](&amp;#123;&amp;#123; &#x27;uap-report/&#x27; | relative_url &amp;#125;&amp;#125;) are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadata, such...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[UAP reports]({{ 'uap-report/' | relative_url }}) are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadata, such...</p></details>
 
 22.<a id="endnote-22"></a>
    Source: explorescu.org  

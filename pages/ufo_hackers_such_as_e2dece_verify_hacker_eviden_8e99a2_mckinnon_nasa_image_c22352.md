@@ -787,14 +787,14 @@ The enduring significance of the case is therefore not what the image supposedly
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Hi, i'm Gary Mckinnon  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/t0imdw/hi_im_gary_mckinnon_i_was_in_the_news_for_a/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>I was in the news for a decade after...February 24, 2022 — I found [building 8](&amp;#123;&amp;#123; &#x27;building-8/&#x27; | relative_url &amp;#125;&amp;#125;) by reading the comment sections of the PCs via the command...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I was in the news for a decade after...February 24, 2022 — I found [building 8]({{ 'building-8/' | relative_url }}) by reading the comment sections of the PCs via the command...</p></details>
    Published: February 24, 2022  
 
 4.<a id="endnote-4"></a>

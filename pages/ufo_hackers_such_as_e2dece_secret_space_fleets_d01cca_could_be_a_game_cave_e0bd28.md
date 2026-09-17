@@ -777,7 +777,7 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
    Source: wired.com  
    Title: british ufo hac  
    Link:<a href="https://www.wired.com/2008/07/british-ufo-hac/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2008/07/british-ufo-hac/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ker Gary McKinnon Is Coming to AmericaJul 30, 2008 — In [interviews](&amp;#123;&amp;#123; &#x27;interviews/&#x27; | relative_url &amp;#125;&amp;#125;), McKinnon has admitted the hacking spree (though not the damage), whic...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ker Gary McKinnon Is Coming to AmericaJul 30, 2008 — In [interviews]({{ 'interviews/' | relative_url }}), McKinnon has admitted the hacking spree (though not the damage), whic...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: wired.com  
@@ -813,7 +813,7 @@ For anyone assessing claims about secret space programmes after McKinnon, that d
 
 11.<a id="endnote-11"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&quot;Hacker Gary McKinnon will receive no pity, insists US&quot;. The... Retrieved 4 August 2009. ↑ &quot;UFO Hacker&quot; Tells What He Fo...</p></details>
    Published: August 2009  

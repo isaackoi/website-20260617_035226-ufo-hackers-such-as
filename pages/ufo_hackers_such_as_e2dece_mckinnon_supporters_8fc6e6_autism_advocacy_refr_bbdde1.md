@@ -746,7 +746,7 @@ The lasting importance of the case for autism advocates was therefore not the ha
 
 6.<a id="endnote-6"></a>
    Source: wired.com  
-   Title: [Lauri Love](&#123;&#123; 'lauri-love/' | relative_url &#125;&#125;) won't be extradited to the US to face hacking charges  
+   Title: [Lauri Love]({{ 'lauri-love/' | relative_url }}) won't be extradited to the US to face hacking charges  
    Link:<a href="https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Love, accused of hacking US government bodies and facing up to 99 years in prison and significant fines, suffers from Asperger&#x27;s Syndrome...</p></details>
 
@@ -820,7 +820,7 @@ The lasting importance of the case for autism advocates was therefore not the ha
 
 19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonOn 16 October 2012, after a series of legal proceedings in Britain, then Home Secretary Theresa May blocked extradition t...</p></details>
    Published: October 2012  
