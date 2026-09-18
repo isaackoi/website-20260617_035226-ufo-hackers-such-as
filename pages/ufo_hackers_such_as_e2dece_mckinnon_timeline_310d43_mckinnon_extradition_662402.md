@@ -727,7 +727,7 @@ In that sense, the McKinnon affair ultimately became far more than a story about
 
 1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — Mr. McKinnon has challenged his extradition in the district cour...</p></details>
 

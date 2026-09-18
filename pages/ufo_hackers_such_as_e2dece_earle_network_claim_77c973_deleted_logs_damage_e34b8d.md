@@ -773,7 +773,7 @@ As a result, the deleted logs remain at the centre of the dispute. They are simu
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon... &quot;. After the September 11 attacks in 2001, he allegedly deleted weapons logs at the Earle Naval Weapons Station, rend...</p></details>
 
@@ -832,7 +832,7 @@ As a result, the deleted logs remain at the centre of the dispute. They are simu
    Source: media.defense.gov  
    Title: Mc Kinnon comphacker  
    Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — According to the [indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;), between March of...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — According to the [indictment]({{ 'indictment/' | relative_url }}), between March of...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: theregister.com  

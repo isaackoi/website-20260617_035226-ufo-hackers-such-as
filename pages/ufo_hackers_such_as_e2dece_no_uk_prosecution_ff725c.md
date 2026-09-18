@@ -947,7 +947,7 @@ Britain did not prosecute Gary McKinnon because the UK case, after extradition w
 
 5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
 7.<a id="endnote-7"></a>

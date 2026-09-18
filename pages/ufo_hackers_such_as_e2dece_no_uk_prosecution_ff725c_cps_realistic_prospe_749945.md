@@ -750,14 +750,14 @@ That is why the absence of a UK prosecution should not be interpreted as a findi
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonOn 16 October 2012, after a series of legal proceedings in Britain, then Home Secretary Theresa May blocked extradition t...</p></details>
    Published: October 2012  
 
 5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UKDec 14, 2012 — No further legal action will be taken in Britain against the computer...</p></details>
 
@@ -795,7 +795,7 @@ That is why the absence of a UK prosecution should not be interpreted as a findi
    Source: theguardian.com  
    Title: gary mckinnon  
    Link:<a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp](&amp;#123;&amp;#123; &#x27;janis-sharp/&#x27; | relative_url &amp;#125;&amp;#125;). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp]({{ 'janis-sharp/' | relative_url }}). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
    Published: December 2012  
 
 12.<a id="endnote-12"></a>
@@ -848,7 +848,7 @@ That is why the absence of a UK prosecution should not be interpreted as a findi
 20.<a id="endnote-20"></a>
    Source: committees.parliament.uk  
    Link:<a href="https://committees.parliament.uk/writtenevidence/54838/html/" target="_blank" rel="noopener noreferrer nofollow">https://committees.parliament.uk/writtenevidence/54838/html/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukEXL0080 - Evidence on Extradition LawAstoundingly, more than a decade after the U.S [indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;); on the 14th December 2012 th...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>parliament.ukEXL0080 - Evidence on Extradition LawAstoundingly, more than a decade after the U.S [indictment]({{ 'indictment/' | relative_url }}); on the 14th December 2012 th...</p></details>
    Published: December 2012  
 
 21.<a id="endnote-21"></a>

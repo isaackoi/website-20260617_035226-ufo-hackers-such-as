@@ -748,7 +748,7 @@ For that reason, the debate over the software became larger than a discussion of
 
 3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
-   Title: US v Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) Indictment  
+   Title: US v Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) Indictment  
    Link:<a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>US v Gary McKinnon Indictment27 Feb 2021 — RemotelyAnywhere is a software program that provides a remote access and remote admi...</p></details>
 

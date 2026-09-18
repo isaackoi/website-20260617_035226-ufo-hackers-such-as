@@ -736,7 +736,7 @@ For readers interested in McKinnon because of his claims that he searched govern
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
 
@@ -760,7 +760,7 @@ For readers interested in McKinnon because of his claims that he searched govern
 
 5.<a id="endnote-5"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — My decision, based on all the evidence, is that article 3 rights...</p></details>
 
@@ -847,7 +847,7 @@ For readers interested in McKinnon because of his claims that he searched govern
    Source: theguardian.com  
    Title: gary mckinnon extradition theresa may  
    Link:<a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s [campaigners](&amp;#123;&amp;#123; &#x27;campaigners/&#x27; | relative_url &amp;#125;&amp;#125;) have called for support from the n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s [campaigners]({{ 'campaigners/' | relative_url }}) have called for support from the n...</p></details>
    Published: May 2010  
 
 21.<a id="endnote-21"></a>

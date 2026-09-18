@@ -784,7 +784,7 @@ From a historical perspective, the significance of the connection lies less in w
 
 5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;), UFO's, and the Classified Space Program  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}), UFO's, and the Classified Space Program  
    Link:<a href="https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kt5v1j/gary_mckinnon_ufos_and_the_classified_space/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Solar Warden.&quot; I understand this sounds crazy, and being skeptical... non-terrestrial officers&quot; sounds, to me, like something he made...</p></details>
 

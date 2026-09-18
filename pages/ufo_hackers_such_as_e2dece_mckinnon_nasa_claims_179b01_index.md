@@ -4,7 +4,7 @@ title_full: NASA Claims Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufo-hackers-such-as-e2dece-mckinnon/
+permalink: /ufo-hackers-such-as-e2dece-mckinnon-nasa-claims/
 description: Focused pages that expand on NASA Claims.
 date: '2026'
 layout: default

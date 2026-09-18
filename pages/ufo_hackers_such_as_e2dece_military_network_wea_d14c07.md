@@ -952,7 +952,7 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
 
 5.<a id="endnote-5"></a>
    Source: spectrum.ieee.org  
-   Title: Spectrum Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;): The Autistic Hacker  
+   Title: Spectrum Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}): The Autistic Hacker  
    Link:<a href="https://spectrum.ieee.org/the-autistic-hacker" target="_blank" rel="noopener noreferrer nofollow">https://spectrum.ieee.org/the-autistic-hacker</a>  
 
 6.<a id="endnote-6"></a>
@@ -1089,7 +1089,7 @@ That is why “weak security” is not a side detail in the McKinnon story. It i
 
 35.<a id="endnote-35"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
 36.<a id="endnote-36"></a>

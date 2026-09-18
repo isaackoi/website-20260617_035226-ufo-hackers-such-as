@@ -921,7 +921,7 @@ The extradition battle therefore changed the McKinnon story in a lasting way. It
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) case home secretarys statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — Statement made on 16 October 2012 by Home Secretary Theresa May o...</p></details>
    Published: October 2012  
@@ -961,7 +961,7 @@ The extradition battle therefore changed the McKinnon story in a lasting way. It
 
 8.<a id="endnote-8"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
 9.<a id="endnote-9"></a>
@@ -1017,7 +1017,7 @@ The extradition battle therefore changed the McKinnon story in a lasting way. It
 
 20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
 21.<a id="endnote-21"></a>

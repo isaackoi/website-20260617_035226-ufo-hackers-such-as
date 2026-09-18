@@ -779,7 +779,7 @@ Usable logs are not merely records of past events. They are a resilience mechani
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for [intrusions](&amp;#123;&amp;#123; &#x27;intrusions/&#x27; | relative_url &amp;#125;&amp;#125;) into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment]({{ 'indictment/' | relative_url }}) charges McKinnon for [intrusions]({{ 'intrusions/' | relative_url }}) into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
 3.<a id="endnote-3"></a>
    Source: nvlpubs.nist.gov  
@@ -878,7 +878,7 @@ Usable logs are not merely records of past events. They are a resilience mechani
 
 20.<a id="endnote-20"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonIn November 2002, McKinnon was indicted by a federal grand jury in the Eastern District of Virginia. The indictment conta...</p></details>
    Published: November 2002  

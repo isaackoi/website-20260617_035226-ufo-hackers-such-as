@@ -754,7 +754,7 @@ That distinction helps explain why admitting access and proving the full US case
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) case home secretarys statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise t...</p></details>
 
@@ -766,7 +766,7 @@ That distinction helps explain why admitting access and proving the full US case
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 4.<a id="endnote-4"></a>
@@ -795,7 +795,7 @@ That distinction helps explain why admitting access and proving the full US case
 
 8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</p></details>
 
@@ -862,12 +862,12 @@ That distinction helps explain why admitting access and proving the full US case
    Source: theguardian.com  
    Title: gary mckinnon  
    Link:<a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp](&amp;#123;&amp;#123; &#x27;janis-sharp/&#x27; | relative_url &amp;#125;&amp;#125;). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp]({{ 'janis-sharp/' | relative_url }}). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
    Published: December 2012  
 
 20.<a id="endnote-20"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
+   Title: gary [mckinnon timeline]({{ 'timeline/' | relative_url }}) extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon timeline: events leading up to extradition...16 Oct 2012 — British computer hacker Gary McKinnon has been living under the...</p></details>
 
@@ -923,7 +923,7 @@ That distinction helps explain why admitting access and proving the full US case
 
 30.<a id="endnote-30"></a>
    Source: newstatesman.com  
-   Title: theresa may blocks gary mckinnon [extradition human](&#123;&#123; 'extradition-469899/' | relative_url &#125;&#125;) rights grounds  
+   Title: theresa may blocks gary mckinnon [extradition human]({{ 'extradition-469899/' | relative_url }}) rights grounds  
    Link:<a href="https://www.newstatesman.com/politics/2012/10/theresa-may-blocks-gary-mckinnon-extradition-human-rights-grounds" target="_blank" rel="noopener noreferrer nofollow">https://www.newstatesman.com/politics/2012/10/theresa-may-blocks-gary-mckinnon-extradition-human-rights-grounds</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Theresa May blocks Gary McKinnon extradition on &quot;human...16 Oct 2012 — In a statement to the House of Commons, Theresa May has just anno...</p></details>
 

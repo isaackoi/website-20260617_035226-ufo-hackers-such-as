@@ -830,7 +830,7 @@ For readers examining what McKinnon claimed he saw inside NASA, the contrast bet
 
 13.<a id="endnote-13"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
@@ -885,7 +885,7 @@ For readers examining what McKinnon claimed he saw inside NASA, the contrast bet
    Source: youtube.com  
    Title: Did the U.S. Have a Secret Space Program? (S4, E1)On  
    Link:<a href="https://www.youtube.com/watch?v=YYvPk6WrqI4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YYvPk6WrqI4</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>December 20, 2019, the newest branch of the armed services was established--[Space Force](&amp;#123;&amp;#123; &#x27;space-force/&#x27; | relative_url &amp;#125;&amp;#125;). But nearly two decades earlier in 2002...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 20, 2019, the newest branch of the armed services was established--[Space Force]({{ 'space-force/' | relative_url }}). But nearly two decades earlier in 2002...</p></details>
    Published: December 20, 2019  
 
 23.<a id="endnote-23"></a>

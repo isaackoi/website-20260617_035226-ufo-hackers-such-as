@@ -735,7 +735,7 @@ For that reason, the witness question was not a minor procedural detail. It went
 
 1.<a id="endnote-1"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The witnesses who can address the damage done by his offences ar...</p></details>
 
@@ -810,7 +810,7 @@ For that reason, the witness question was not a minor procedural detail. It went
 
 14.<a id="endnote-14"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UKDec 14, 2012 — No further legal action will be taken in Britain against the computer...</p></details>
 
@@ -837,7 +837,7 @@ For that reason, the witness question was not a minor procedural detail. It went
    Source: theguardian.com  
    Title: gary mckinnon  
    Link:<a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp](&amp;#123;&amp;#123; &#x27;janis-sharp/&#x27; | relative_url &amp;#125;&amp;#125;). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp]({{ 'janis-sharp/' | relative_url }}). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
    Published: December 2012  
 
 19.<a id="endnote-19"></a>

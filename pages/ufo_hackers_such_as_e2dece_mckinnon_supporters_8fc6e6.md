@@ -945,7 +945,7 @@ The result was a rare transformation of a cybercrime case into a public human-ri
 
 3.<a id="endnote-3"></a>
    Source: GOV.UK  
-   Title: Latest on Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) case  
+   Title: Latest on Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) case  
    Link:<a href="https://www.gov.uk/government/news/latest-on-gary-mckinnon-case" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/latest-on-gary-mckinnon-case</a>  
 
 4.<a id="endnote-4"></a>

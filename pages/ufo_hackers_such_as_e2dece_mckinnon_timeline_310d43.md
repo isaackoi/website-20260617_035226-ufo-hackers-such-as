@@ -928,7 +928,7 @@ In the broader history of UFO hackers, the timeline leaves a clear distinction. 
 
 4.<a id="endnote-4"></a>
    Source: hansard.parliament.uk  
-   Title: Hansard Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: Hansard Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
 5.<a id="endnote-5"></a>
@@ -991,7 +991,7 @@ In the broader history of UFO hackers, the timeline leaves a clear distinction. 
 
 17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</p></details>
 

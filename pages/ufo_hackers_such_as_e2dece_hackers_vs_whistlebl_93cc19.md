@@ -978,7 +978,7 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
 
 11.<a id="endnote-11"></a>
    Source: GOV.UK  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) case home secretarys statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
 12.<a id="endnote-12"></a>
@@ -1079,7 +1079,7 @@ Gary McKinnon therefore sits near the boundary but not comfortably inside the wh
 
 33.<a id="endnote-33"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 34.<a id="endnote-34"></a>

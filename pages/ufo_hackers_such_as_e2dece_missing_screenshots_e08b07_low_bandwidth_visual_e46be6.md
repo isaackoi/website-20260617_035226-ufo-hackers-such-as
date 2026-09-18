@@ -782,7 +782,7 @@ Because the original file was never preserved, it is impossible to determine whe
 
 3.<a id="endnote-3"></a>
    Source: hackstory.net  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://hackstory.net/Gary_McKinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://hackstory.net/Gary_McKinnon.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>20 May 2011 — Because I was using a Java application, I could only get a screenshot of the picture -- it did not go into my temporary int...</p></details>
    Published: May 2011  
@@ -828,7 +828,7 @@ Because the original file was never preserved, it is impossible to determine whe
 
 11.<a id="endnote-11"></a>
    Source: techcommunity.microsoft.com  
-   Title: remote desktop connection window displays flashing colours and [artifacts](&#123;&#123; 'artifacts/' | relative_url &#125;&#125;)  
+   Title: remote desktop connection window displays flashing colours and [artifacts]({{ 'artifacts/' | relative_url }})  
    Link:<a href="https://techcommunity.microsoft.com/discussions/windows11/remote-desktop-connection-window-displays-flashing-colours-and-artifacts/4291002" target="_blank" rel="noopener noreferrer nofollow">https://techcommunity.microsoft.com/discussions/windows11/remote-desktop-connection-window-displays-flashing-colours-and-artifacts/4291002</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Desktop Connection window displays flashing...10 Nov 2024 — Change Display Settings: Try adjusting the Remote Desktop settings to use a...</p></details>
 
@@ -869,6 +869,6 @@ Because the original file was never preserved, it is impossible to determine whe
 
 18.<a id="endnote-18"></a>
    Source: youtube.com  
-   Title: The Lone Hacker That Found NASA's [Secret Space Fleet](&#123;&#123; 'space-fleet/' | relative_url &#125;&#125;) [Gary Mc Kinnon Interview]  
+   Title: The Lone Hacker That Found NASA's [Secret Space Fleet]({{ 'space-fleet/' | relative_url }}) [Gary Mc Kinnon Interview]  
    Link:<a href="https://www.youtube.com/watch?v=2ttdlCa5ZCI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2ttdlCa5ZCI</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Hacking NASA Secrets (Season 12, Episode 9) | History...</p></details>

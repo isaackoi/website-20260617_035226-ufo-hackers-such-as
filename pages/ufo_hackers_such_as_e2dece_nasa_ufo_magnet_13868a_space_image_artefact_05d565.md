@@ -809,7 +809,7 @@ In practice, the strongest investigations begin with the camera, the lighting an
 
 12.<a id="endnote-12"></a>
    Source: science.nasa.gov  
-   Title: [artifacts](&#123;&#123; 'artifacts/' | relative_url &#125;&#125;) and other imaging anomalies taken by nasas solar imagers  
+   Title: [artifacts]({{ 'artifacts/' | relative_url }}) and other imaging anomalies taken by nasas solar imagers  
    Link:<a href="https://science.nasa.gov/blogs/the-sun-spot/2019/02/08/artifacts-and-other-imaging-anomalies-taken-by-nasas-solar-imagers/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/blogs/the-sun-spot/2019/02/08/artifacts-and-other-imaging-anomalies-taken-by-nasas-solar-imagers/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>and Other Imaging Anomalies Taken by NASA&#x27;s...Feb 8, 2019 — Some of these, known as solar energetic particles, originate from the Sun, w...</p></details>
 

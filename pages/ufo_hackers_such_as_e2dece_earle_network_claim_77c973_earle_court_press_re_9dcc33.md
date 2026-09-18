@@ -767,7 +767,7 @@ The result was that the Earle allegation became one of the defining headlines of
 
 4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 5.<a id="endnote-5"></a>
@@ -795,7 +795,7 @@ The result was that the Earle allegation became one of the defining headlines of
 
 9.<a id="endnote-9"></a>
    Source: telegraph.co.uk  
-   Title: Gary Mc Kinnon [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) of the computer hackers case  
+   Title: Gary Mc Kinnon [timeline]({{ 'timeline/' | relative_url }}) of the computer hackers case  
    Link:<a href="https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/news/worldnews/northamerica/usa/5945693/Gary-McKinnon-timeline-of-the-computer-hackers-case.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The TelegraphGary McKinnon: timeline of the computer hacker&#x27;s case:: Between February 1 2001 and March 19 2002 - The Glasgow-born compute...</p></details>
 

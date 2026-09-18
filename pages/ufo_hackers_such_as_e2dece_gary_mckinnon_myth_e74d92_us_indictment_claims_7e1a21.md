@@ -788,7 +788,7 @@ The result is a sharp divide between myth and documentation. The UFO narrative e
 
 9.<a id="endnote-9"></a>
    Source: vlex.co.uk  
-   Title: v Lex [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) v United States of America  
+   Title: v Lex [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) v United States of America  
    Link:<a href="https://vlex.co.uk/vid/mckinnon-v-usa-818719549" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-usa-818719549</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaOctober 17, 2019 — 30 Jul 2008 — Having gained access to these computers the appellant deleted dat...</p></details>
    Published: October 17, 2019  
@@ -842,7 +842,7 @@ The result is a sharp divide between myth and documentation. The UFO narrative e
 
 18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Title: computer hacker gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: computer hacker gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2009/nov/26/computer-hacker-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/computer-hacker-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer hacker Gary McKinnon to be extradited to USNov 26, 2009 — Home secretary quashes final attempt to halt extradition to US of man...</p></details>
 

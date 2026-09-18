@@ -730,7 +730,7 @@ Security practice eventually evolved in response to exactly this challenge. Mode
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>that time, he is alleged to have installed the software program RemotelyAnywhere on the [Port Services](&amp;#123;&amp;#123; &#x27;port-services/&#x27; | relative_url &amp;#125;&amp;#125;) computer and on other c...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>that time, he is alleged to have installed the software program RemotelyAnywhere on the [Port Services]({{ 'port-services/' | relative_url }}) computer and on other c...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
@@ -740,7 +740,7 @@ Security practice eventually evolved in response to exactly this challenge. Mode
 
 3.<a id="endnote-3"></a>
    Source: en.wikisource.org  
-   Title: US v Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) Indictment  
+   Title: US v Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) Indictment  
    Link:<a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>US v Gary McKinnon Indictment27 Feb 2021 — RemotelyAnywhere is a software program that provides a remote access and remote admi...</p></details>
 
