@@ -969,7 +969,7 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
    Source: wired.com  
    Title: Feds' Computers Feebly Protected  
    Link:<a href="https://www.wired.com/2002/11/feds-computers-feebly-protected" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2002/11/feds-computers-feebly-protected</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO&#x27;s findings were presented to the House Government [Reform](&amp;#123;&amp;#123; &#x27;reform/&#x27; | relative_url &amp;#125;&amp;#125;) subcommittee, which commended the Social Security Administration&#x27;s secur...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GAO&#x27;s findings were presented to the House Government [Reform]({{ 'reform/' | relative_url }}) subcommittee, which commended the Social Security Administration&#x27;s secur...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: gao.gov  
@@ -1053,7 +1053,7 @@ That gap between public curiosity and scientific caution keeps NASA at the centr
 
 26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 27.<a id="endnote-27"></a>

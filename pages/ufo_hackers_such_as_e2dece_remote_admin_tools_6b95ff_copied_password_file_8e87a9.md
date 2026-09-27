@@ -760,7 +760,7 @@ For that reason, the copied password files were not treated as trophies or incid
 
 5.<a id="endnote-5"></a>
    Source: en.wikisource.org  
-   Title: US v Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) Indictment  
+   Title: US v Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) Indictment  
    Link:<a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>US v Gary McKinnon Indictment27 Feb 2021 — RemotelyAnywhere is a software program that provides a remote access and remote admi...</p></details>
 
@@ -783,7 +783,7 @@ For that reason, the copied password files were not treated as trophies or incid
 
 9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
+   Title: gary [mckinnon timeline]({{ 'timeline/' | relative_url }}) extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon timeline: events leading up to extradition...Oct 16, 2012 — British computer hacker Gary McKinnon has been living under th...</p></details>
 

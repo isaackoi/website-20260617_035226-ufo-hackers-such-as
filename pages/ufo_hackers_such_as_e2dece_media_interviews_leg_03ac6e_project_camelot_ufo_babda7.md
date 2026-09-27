@@ -775,7 +775,7 @@ As a result, McKinnon’s story survived not simply because of what he said he s
 
 4.<a id="endnote-4"></a>
    Source: friendfeed.me  
-   Title: Project Camelot interviews Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Project Camelot interviews Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://friendfeed.me/e/64442cb8c4fb092bc95bd13ca62cedf0" target="_blank" rel="noopener noreferrer nofollow">https://friendfeed.me/e/64442cb8c4fb092bc95bd13ca62cedf0</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Camelot interviews Gary McKinnon - FriendFeedGary McKinnon, &quot;most wanted hacker&quot; on how he hacked the pentagon, NASA, etc, and wh...</p></details>
 
@@ -922,7 +922,7 @@ As a result, McKinnon’s story survived not simply because of what he said he s
 
 30.<a id="endnote-30"></a>
    Source: socialecologies.wordpress.com  
-   Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon the ufo image in nasa [building 8]({{ 'building-8/' | relative_url }})  
    Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”Dec 3, 2025 — He browsed a log file referencing “non terrestrial officers,” which has no corr...</p></details>
 

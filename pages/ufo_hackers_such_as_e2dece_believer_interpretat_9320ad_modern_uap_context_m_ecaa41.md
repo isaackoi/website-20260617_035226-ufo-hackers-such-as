@@ -746,7 +746,7 @@ Because modern UAP investigations opened space for discussing uncertainty, belie
 4.<a id="endnote-4"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/UFOs/comments/1rhctqb/he_hacked_nasa_and_saw_a_ufo_gary_mckinnon_didnt/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1rhctqb/he_hacked_nasa_and_saw_a_ufo_gary_mckinnon_didnt/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>He Hacked NASA and Saw a UFO: Gary McKinnon didn&#x27;t...February 28, 2026 — He was searching for proof of [hidden technology](&amp;#123;&amp;#123; &#x27;hidden-tech/&#x27; | relative_url &amp;#125;&amp;#125;) — and wha...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He Hacked NASA and Saw a UFO: Gary McKinnon didn&#x27;t...February 28, 2026 — He was searching for proof of [hidden technology]({{ 'hidden-tech/' | relative_url }}) — and wha...</p></details>
    Published: February 28, 2026  
 
 5.<a id="endnote-5"></a>
@@ -908,7 +908,7 @@ Because modern UAP investigations opened space for discussing uncertainty, belie
 32.<a id="endnote-32"></a>
    Source: theguardian.com  
    Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted [interviews](&amp;#123;&amp;#123; &#x27;interviews/&#x27; | relative_url &amp;#125;&amp;#125;) with of...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted [interviews]({{ 'interviews/' | relative_url }}) with of...</p></details>
 
 33.<a id="endnote-33"></a>
    Source: facebook.com  

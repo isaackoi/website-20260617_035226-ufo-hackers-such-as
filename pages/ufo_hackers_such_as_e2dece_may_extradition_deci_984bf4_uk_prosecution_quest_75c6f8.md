@@ -726,7 +726,7 @@ In practical terms, the outcome left McKinnon neither extradited nor convicted. 
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) extradition case: Home Secretary's statement  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) extradition case: Home Secretary's statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-[mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-[mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statementOctober 16, 2012 — 16 Oct 2012 — Statement made on 16 October 2012 by Home Secr...</p></details>
    Published: October 16, 2012  
@@ -814,7 +814,7 @@ In practical terms, the outcome left McKinnon neither extradited nor convicted. 
    Source: rgu-repository.worktribe.com  
    Title: Output File  
    Link:<a href="https://rgu-repository.worktribe.com/OutputFile/836055" target="_blank" rel="noopener noreferrer nofollow">https://rgu-repository.worktribe.com/OutputFile/836055</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>The [forum bar](&amp;#123;&amp;#123; &#x27;forum-bar/&#x27; | relative_url &amp;#125;&amp;#125;) in UK extradition law: an unnecessary failure.by P ARNELL · 2020 · Cited by 7 — His hacking activities took place in 2001 a...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The [forum bar]({{ 'forum-bar/' | relative_url }}) in UK extradition law: an unnecessary failure.by P ARNELL · 2020 · Cited by 7 — His hacking activities took place in 2001 a...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: belfasttelegraph.co.uk  

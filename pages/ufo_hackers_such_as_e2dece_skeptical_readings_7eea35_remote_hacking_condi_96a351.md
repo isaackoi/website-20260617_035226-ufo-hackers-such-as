@@ -813,7 +813,7 @@ That is why critics often focus less on the reported object and more on the way 
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonhe did not think of capturing the image because he was &quot;bedazzled&quot;, and therefore did not think of securing it with the s...</p></details>
 
@@ -867,7 +867,7 @@ That is why critics often focus less on the reported object and more on the way 
 
 15.<a id="endnote-15"></a>
    Source: socialecologies.wordpress.com  
-   Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon the ufo image in nasa [building 8]({{ 'building-8/' | relative_url }})  
    Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”3 Dec 2025 — He was a lone British hacker with a dial-up connection and an obsessive belief t...</p></details>
 

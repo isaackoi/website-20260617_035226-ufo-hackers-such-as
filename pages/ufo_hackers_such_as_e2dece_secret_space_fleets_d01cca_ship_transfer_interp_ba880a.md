@@ -801,7 +801,7 @@ For that reason, the ship-transfer records occupy an ambiguous position in the w
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
@@ -857,7 +857,7 @@ For that reason, the ship-transfer records occupy an ambiguous position in the w
 17.<a id="endnote-17"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&#x27;s hacking incident &amp; his &#x27;[Solar Warden](&amp;#123;&amp;#123; &#x27;solar-warden/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; discovery. The... Warden space program that McKinnon described &#x27;fleet to fleet tra...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon&#x27;s hacking incident &amp; his &#x27;[Solar Warden]({{ 'solar-warden/' | relative_url }})&#x27; discovery. The... Warden space program that McKinnon described &#x27;fleet to fleet tra...</p></details>
 
 18.<a id="endnote-18"></a>
    Source: cybernews.com  

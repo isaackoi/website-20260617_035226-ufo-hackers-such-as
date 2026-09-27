@@ -935,7 +935,7 @@ McKinnon’s story therefore belongs within the history of UFO hackers, but its 
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 
 2.<a id="endnote-2"></a>
@@ -981,7 +981,7 @@ McKinnon’s story therefore belongs within the history of UFO hackers, but its 
 
 11.<a id="endnote-11"></a>
    Source: hansard.parliament.uk  
-   Title: uk Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: uk Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 
 12.<a id="endnote-12"></a>

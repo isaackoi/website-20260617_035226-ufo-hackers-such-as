@@ -786,9 +786,9 @@ Modern privileged-access management emerged from exactly this recognition. Admin
 
 4.<a id="endnote-4"></a>
    Source: media.defense.gov  
-   Title: [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) comphacker  
+   Title: [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) comphacker  
    Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War[PDF] U.S. Department of Justice United States Attorney Eastern District of...November 12, 2002 — The [indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) allege...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of War[PDF] U.S. Department of Justice United States Attorney Eastern District of...November 12, 2002 — The [indictment]({{ 'indictment/' | relative_url }}) allege...</p></details>
    Published: November 12, 2002  
 
 5.<a id="endnote-5"></a>

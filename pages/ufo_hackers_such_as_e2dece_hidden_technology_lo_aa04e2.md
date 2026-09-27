@@ -953,7 +953,7 @@ That is the lasting mechanism. Anti-gravity promises movement without ordinary l
 
 7.<a id="endnote-7"></a>
    Source: GOV.UK  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) extradition case: Home Secretary's statement  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) extradition case: Home Secretary's statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-[mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-[mckinnon-extradition</a>  
 
 10.<a id="endnote-10"></a>

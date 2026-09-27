@@ -801,7 +801,7 @@ The central lesson is not that every hacked UFO claim is false. It is that hacke
 
 5.<a id="endnote-5"></a>
    Source: media.defense.gov  
-   Title: [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) comphacker  
+   Title: [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) comphacker  
    Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — One count charges McKinnon with accessing wit...</p></details>
 
@@ -835,7 +835,7 @@ The central lesson is not that every hacked UFO claim is false. It is that hacke
    Source: justice.gov  
    Title: British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the [Port Services](&amp;#123;&amp;#123; &#x27;port-services/&#x27; | relative_url &amp;#125;&amp;#125;) comp...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the [Port Services]({{ 'port-services/' | relative_url }}) comp...</p></details>
    Published: April 7, 2001  
 
 12.<a id="endnote-12"></a>
@@ -871,7 +871,7 @@ The central lesson is not that every hacked UFO claim is false. It is that hacke
 
 18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) timeline  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) timeline  
    Link:<a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeline: Gary McKinnon&#x27;s fight against extradition to the US26 Nov 2009 — Between 1 February 2001 and 19 March 2002, Gary McKinnon alleg...</p></details>
    Published: February 2001  

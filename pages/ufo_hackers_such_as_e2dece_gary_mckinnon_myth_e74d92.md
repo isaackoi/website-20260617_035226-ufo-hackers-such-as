@@ -1052,7 +1052,7 @@ That distinction is the key to understanding why Gary McKinnon became the archet
 
 24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Title: gary mckinnon extradition [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon extradition [timeline]({{ 'timeline/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
 
 25.<a id="endnote-25"></a>

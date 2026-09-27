@@ -775,7 +775,7 @@ Court records and indictments in the McKinnon case repeatedly linked the copied 
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval...... 950 passwords stored on server computers connected to the NWS [Earle network](&amp;#123;&amp;#123; &#x27;earle-network/&#x27; | relative_url &amp;#125;&amp;#125;). In addition, the Indictment charges that on Sep...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Naval...... 950 passwords stored on server computers connected to the NWS [Earle network]({{ 'earle-network/' | relative_url }}). In addition, the Indictment charges that on Sep...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: pinsentmasons.com  
@@ -785,7 +785,7 @@ Court records and indictments in the McKinnon case repeatedly linked the copied 
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon was also accused of copying data, account files and passwords onto his own computer. US authorities stated that...</p></details>
 

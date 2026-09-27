@@ -752,7 +752,7 @@ Within the broader story of Pentagon and Defence Department hacking allegations,
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment]({{ 'indictment/' | relative_url }}) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
 4.<a id="endnote-4"></a>
    Source: justice.gov  
@@ -761,7 +761,7 @@ Within the broader story of Pentagon and Defence Department hacking allegations,
 
 5.<a id="endnote-5"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
+   Title: gary [mckinnon timeline]({{ 'timeline/' | relative_url }}) extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon timeline: events leading up to extradition...16 Oct 2012 — US prosecutors also allege he deleted files that sh...</p></details>
 
@@ -773,7 +773,7 @@ Within the broader story of Pentagon and Defence Department hacking allegations,
 
 7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  

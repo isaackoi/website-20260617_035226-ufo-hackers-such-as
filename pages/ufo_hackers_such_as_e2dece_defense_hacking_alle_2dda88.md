@@ -964,7 +964,7 @@ The most reasonable reading is neither the most romantic nor the most alarmist. 
 
 4.<a id="endnote-4"></a>
    Source: GOV.UK  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) extradition case: Home Secretary's statement  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) extradition case: Home Secretary's statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 
 5.<a id="endnote-5"></a>

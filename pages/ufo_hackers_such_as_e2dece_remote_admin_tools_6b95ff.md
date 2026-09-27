@@ -933,7 +933,7 @@ That is why the early-2000s setting matters. Before today’s routine multi-fact
 
 4.<a id="endnote-4"></a>
    Source: en.wikisource.org  
-   Title: US v Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) Indictment  
+   Title: US v Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) Indictment  
    Link:<a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>US v Gary McKinnon IndictmentAugust 5, 2009 — 27 Feb 2021 — RemotelyAnywhere provides the user with the ability to transfer...</p></details>
    Published: August 5, 2009  

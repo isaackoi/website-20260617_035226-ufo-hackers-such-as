@@ -757,7 +757,7 @@ Whether or not any of the UFO-related claims are true, the mythology itself reve
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
@@ -766,7 +766,7 @@ Whether or not any of the UFO-related claims are true, the mythology itself reve
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment]({{ 'indictment/' | relative_url }}) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: science.nasa.gov  
@@ -854,7 +854,7 @@ Whether or not any of the UFO-related claims are true, the mythology itself reve
 20.<a id="endnote-20"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/EverythingScience/comments/16ithu9/nasa_ufo_report_finds_no_evidence_of/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...[NASA UAP](&amp;#123;&amp;#123; &#x27;nasa-uap/&#x27; | relative_url &amp;#125;&amp;#125;) study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...[NASA UAP]({{ 'nasa-uap/' | relative_url }}) study team finds no extraterrestrial origins of UFO sightings in 1st r...</p></details>
 
 21.<a id="endnote-21"></a>
    Source: reddit.com  
@@ -874,7 +874,7 @@ Whether or not any of the UFO-related claims are true, the mythology itself reve
 24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted [interviews](&amp;#123;&amp;#123; &#x27;interviews/&#x27; | relative_url &amp;#125;&amp;#125;) with of...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducted by the All-Domain Anomaly Resolution Office (AARO), the investigation reviewed historical data and conducted [interviews]({{ 'interviews/' | relative_url }}) with of...</p></details>
 
 25.<a id="endnote-25"></a>
    Source: malicious.life  

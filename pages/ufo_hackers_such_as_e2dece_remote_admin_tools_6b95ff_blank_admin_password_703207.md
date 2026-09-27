@@ -729,7 +729,7 @@ The Gary McKinnon case became famous because of UFO-related claims and the scale
 
 3.<a id="endnote-3"></a>
    Source: giac.org  
-   Title: [weak passwords](&#123;&#123; 'weak-passwords/' | relative_url &#125;&#125;) plus null session windows 2000 exploit  
+   Title: [weak passwords]({{ 'weak-passwords/' | relative_url }}) plus null session windows 2000 exploit  
    Link:<a href="https://www.giac.org/paper/gcih/345/weak-passwords-plus-null-session-windows-2000-exploit/101851" target="_blank" rel="noopener noreferrer nofollow">https://www.giac.org/paper/gcih/345/weak-passwords-plus-null-session-windows-2000-exploit/101851</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>GIAC CertificationsWeak Passwords + Null Session = Windows 2000 ExploitApril 9, 2026 — 16 Sept 2002 — This exploit is an easily guessable...</p></details>
    Published: April 9, 2026  
@@ -761,7 +761,7 @@ The Gary McKinnon case became famous because of UFO-related claims and the scale
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for [intrusions](&amp;#123;&amp;#123; &#x27;intrusions/&#x27; | relative_url &amp;#125;&amp;#125;) into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment]({{ 'indictment/' | relative_url }}) charges McKinnon for [intrusions]({{ 'intrusions/' | relative_url }}) into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
 9.<a id="endnote-9"></a>
    Source: justice.gov  
@@ -778,7 +778,7 @@ The Gary McKinnon case became famous because of UFO-related claims and the scale
 
 11.<a id="endnote-11"></a>
    Source: futureintelligence.co.uk  
-   Title: Future Intelligence Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) was unlucky  
+   Title: Future Intelligence Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) was unlucky  
    Link:<a href="https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/" target="_blank" rel="noopener noreferrer nofollow">https://www.futureintelligence.co.uk/2012/10/18/gary-mckinnon-was-unlucky-hes-not-even-a-good-hacker/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>He&#x27;s not even a very good hacker18 Oct 2012 — How he would search for blank passwords and then once inside the US computers, install a re...</p></details>
 

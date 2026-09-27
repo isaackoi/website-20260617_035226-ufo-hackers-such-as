@@ -754,7 +754,7 @@ The legal significance of the no-charge decision was therefore limited but impor
 
 2.<a id="endnote-2"></a>
    Source: GOV.UK  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) case home secretarys statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statement16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise t...</p></details>
 
@@ -783,7 +783,7 @@ The legal significance of the no-charge decision was therefore limited but impor
 
 7.<a id="endnote-7"></a>
    Source: hansard.parliament.uk  
-   Title: uk Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) (Extradition)  
+   Title: uk Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) (Extradition)  
    Link:<a href="https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29" target="_blank" rel="noopener noreferrer nofollow">https://hansard.parliament.uk/commons/2009-12-01/debates/09120144000002/GaryMckinnon%28Extradition%29</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon (Extradition) - Hansard - UK Parliament1 Dec 2009 — The witnesses who can address the damage done by his offences are in America...</p></details>
 
@@ -850,7 +850,7 @@ The legal significance of the no-charge decision was therefore limited but impor
    Source: theguardian.com  
    Title: gary mckinnon  
    Link:<a href="https://www.theguardian.com/world/gary-mckinnon" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/gary-mckinnon</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp](&amp;#123;&amp;#123; &#x27;janis-sharp/&#x27; | relative_url &amp;#125;&amp;#125;). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 2012. Gary McKinnon and his mother [Janis Sharp]({{ 'janis-sharp/' | relative_url }}). My first... Gary McKinnon will face no charges in UK. Dec 14 2012 11.03 EST. No...</p></details>
    Published: December 2012  
 
 19.<a id="endnote-19"></a>
@@ -893,7 +893,7 @@ The legal significance of the no-charge decision was therefore limited but impor
 25.<a id="endnote-25"></a>
    Source: vlex.co.uk  
    Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon now [appeals](&amp;#123;&amp;#123; &#x27;appeals/&#x27; | relative_url &amp;#125;&amp;#125;) against those decisions. The USA has been designated a category 2 territory pu...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon now [appeals]({{ 'appeals/' | relative_url }}) against those decisions. The USA has been designated a category 2 territory pu...</p></details>
 
 26.<a id="endnote-26"></a>
    Source: ukhumanrightsblog.com  

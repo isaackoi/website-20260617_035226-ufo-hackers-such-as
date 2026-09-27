@@ -732,7 +732,7 @@ The lasting importance of celebrity support lies in how it expanded the audience
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>It will now be for the director of public prosecutions to decide whether...Read more...</p></details>
 
@@ -743,7 +743,7 @@ The lasting importance of celebrity support lies in how it expanded the audience
 
 3.<a id="endnote-3"></a>
    Source: theguardian.com  
-   Title: The Guardian Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;): Theresa May urged to block extradition order  
+   Title: The Guardian Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}): Theresa May urged to block extradition order  
    Link:<a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon: Theresa May urged to block extradition orderMay 15, 2010 — 14 May 2010 — Computer hacker&#x27;s campaigners have ca...</p></details>
    Published: May 15, 2010  

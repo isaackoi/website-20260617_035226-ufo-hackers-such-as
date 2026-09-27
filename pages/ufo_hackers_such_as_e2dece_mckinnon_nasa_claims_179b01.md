@@ -931,7 +931,7 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment]({{ 'indictment/' | relative_url }}) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
 5.<a id="endnote-5"></a>
    Source: justice.gov  
@@ -949,7 +949,7 @@ That does not make the story irrelevant. It explains why McKinnon became the arc
 
 8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Title: The Guardian Game over | Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: The Guardian Game over | Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/theguardian/2005/jul/09/weekend7.weekend2</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGame over | Gary McKinnonJuly 9, 2005 — 9 Jul 2005 — At the Johnson Space Centre he spied on photographs of cigar-shaped obje...</p></details>
    Published: July 9, 2005  

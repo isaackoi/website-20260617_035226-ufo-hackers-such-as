@@ -775,7 +775,7 @@ Whether one accepts or rejects his conclusions, the cultural significance of the
 
 3.<a id="endnote-3"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
@@ -795,11 +795,11 @@ Whether one accepts or rejects his conclusions, the cultural significance of the
    Source: publications.parliament.uk  
    Title: UK Parliament House of Lords  
    Link:<a href="https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12620.htm" target="_blank" rel="noopener noreferrer nofollow">https://publications.parliament.uk/pa/ld201415/ldselect/ldextradition/126/12620.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentHouse of Lords - Extradition: [UK law](&amp;#123;&amp;#123; &#x27;uk-law/&#x27; | relative_url &amp;#125;&amp;#125;) and practiceIn 2001-02, Gary McKinnon gained unauthorised access from his home computer...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK ParliamentHouse of Lords - Extradition: [UK law]({{ 'uk-law/' | relative_url }}) and practiceIn 2001-02, Gary McKinnon gained unauthorised access from his home computer...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: justice.gov  
-   Title: edva mckinnon [indictment](&#123;&#123; 'indictment/' | relative_url &#125;&#125;)  
+   Title: edva mckinnon [indictment]({{ 'indictment/' | relative_url }})  
    Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>IndictmentFrom in or about September 2001, through on or about March 19, 2002, within the Eastern District of Virginia, and elsewhere, th...</p></details>
    Published: March 19, 2002  

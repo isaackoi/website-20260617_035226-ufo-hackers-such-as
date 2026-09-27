@@ -763,7 +763,7 @@ For the purposes of the US prosecution, the Virginia indictment was not a statem
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 7.<a id="endnote-7"></a>
@@ -817,7 +817,7 @@ For the purposes of the US prosecution, the Virginia indictment was not a statem
 
 15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) extradition  
+   Title: gary [mckinnon timeline]({{ 'timeline/' | relative_url }}) extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon timeline: events leading up to extradition...Oct 16, 2012 — He is accused of leaving 300 computers at US Naval Weapons Sta...</p></details>
 

@@ -775,7 +775,7 @@ For believers, it hints at hidden institutions beyond public knowledge. For scep
 
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMarch 7, 2026 — Gary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US pr...</p></details>
    Published: March 7, 2026  
@@ -835,7 +835,7 @@ For believers, it hints at hidden institutions beyond public knowledge. For scep
 
 16.<a id="endnote-16"></a>
    Source: socialecologies.wordpress.com  
-   Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon the ufo image in nasa [building 8]({{ 'building-8/' | relative_url }})  
    Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”Dec 3, 2025 — The McKinnon affair lives in the liminal zone between fact, paranoia, bureaucra...</p></details>
 

@@ -777,7 +777,7 @@ Because those questions were separate, UFO evidence was not central to the charg
 
 3.<a id="endnote-3"></a>
    Source: media.defense.gov  
-   Title: [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) comphacker  
+   Title: [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) comphacker  
    Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — One count charges McKinnon with accessing wit...</p></details>
 
@@ -861,7 +861,7 @@ Because those questions were separate, UFO evidence was not central to the charg
 
 17.<a id="endnote-17"></a>
    Source: theguardian.com  
-   Title: computer hacker gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: computer hacker gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2009/nov/26/computer-hacker-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/computer-hacker-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Computer hacker Gary McKinnon to be extradited to USNov 26, 2009 — Home secretary quashes final attempt to halt extradition to US of man...</p></details>
 

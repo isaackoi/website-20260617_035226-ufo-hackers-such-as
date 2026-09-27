@@ -741,7 +741,7 @@ In that sense, McKinnon’s story is not simply about UFO beliefs or computer in
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) case home secretarys statement  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) case home secretarys statement  
    Link:<a href="https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/speeches/gary-mckinnon-extradition-case-home-secretarys-statement</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon extradition case: Home Secretary&#x27;s statementOct 16, 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise...</p></details>
 
@@ -838,7 +838,7 @@ In that sense, McKinnon’s story is not simply about UFO beliefs or computer in
 
 18.<a id="endnote-18"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker who was accused by a US prosecutor in 2...</p></details>
    Published: February 1966  
@@ -852,7 +852,7 @@ In that sense, McKinnon’s story is not simply about UFO beliefs or computer in
    Source: theguardian.com  
    Title: gary mckinnon extradition theresa may  
    Link:<a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s [campaigners](&amp;#123;&amp;#123; &#x27;campaigners/&#x27; | relative_url &amp;#125;&amp;#125;) have called for support from the n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s [campaigners]({{ 'campaigners/' | relative_url }}) have called for support from the n...</p></details>
    Published: May 2010  
 
 21.<a id="endnote-21"></a>

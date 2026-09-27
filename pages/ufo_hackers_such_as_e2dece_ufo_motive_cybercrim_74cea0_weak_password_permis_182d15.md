@@ -776,7 +776,7 @@ The UFO dimension of the case often encouraged a romantic narrative of a curious
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://it.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 3.<a id="endnote-3"></a>
@@ -794,7 +794,7 @@ The UFO dimension of the case often encouraged a romantic narrative of a curious
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>addition, the [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges that on Sept. 23, 2001, McKinnon again broke into the NWS Earle computer network by accessin...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>addition, the [Indictment]({{ 'indictment/' | relative_url }}) charges that on Sept. 23, 2001, McKinnon again broke into the NWS Earle computer network by accessin...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: xiphias.livejournal.com  

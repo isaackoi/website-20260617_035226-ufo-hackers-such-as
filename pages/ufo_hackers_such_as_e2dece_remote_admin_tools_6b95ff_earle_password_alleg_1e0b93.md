@@ -730,7 +730,7 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment](&amp;#123;&amp;#123; &#x27;indictment/&#x27; | relative_url &amp;#125;&amp;#125;) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia [Indictment]({{ 'indictment/' | relative_url }}) charges McKinnon for intrusions into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
 2.<a id="endnote-2"></a>
    Source: publications.parliament.uk  
@@ -745,7 +745,7 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
 
 4.<a id="endnote-4"></a>
    Source: media.defense.gov  
-   Title: [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) comphacker  
+   Title: [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) comphacker  
    Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...November 13, 2002 — 12 Nov 2002 — One count charges McKinno...</p></details>
    Published: November 13, 2002  
@@ -758,7 +758,7 @@ Within the history of the McKinnon case, that is why Naval Weapons Station Earle
 6.<a id="endnote-6"></a>
    Source: vlex.co.uk  
    Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaThis included the Army&#x27;s [Military District](&amp;#123;&amp;#123; &#x27;army-outage-c4f924/&#x27; | relative_url &amp;#125;&amp;#125;) of Washington network and the Naval Weapons Station Ear...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaThis included the Army&#x27;s [Military District]({{ 'army-outage-c4f924/' | relative_url }}) of Washington network and the Naval Weapons Station Ear...</p></details>
 
 7.<a id="endnote-7"></a>
    Source: kuna.net.kw  

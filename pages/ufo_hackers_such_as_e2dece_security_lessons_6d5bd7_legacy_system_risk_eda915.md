@@ -847,7 +847,7 @@ Modern security programmes frequently focus on new threats, new tools and new te
 
 1.<a id="endnote-1"></a>
    Source: justice.gov  
-   Title: Department of Justice [Indictment](&#123;&#123; 'indictment/' | relative_url &#125;&#125;)  
+   Title: Department of Justice [Indictment]({{ 'indictment/' | relative_url }})  
    Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — **. GARY MCKINNON. Defendant. } Criminal No. } 18 U.S.C. § 1030. } Fraud and... Remot...</p></details>
    Published: January 24, 2012  
@@ -956,7 +956,7 @@ Modern security programmes frequently focus on new threats, new tools and new te
 
 20.<a id="endnote-20"></a>
    Source: schneier.com  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html" target="_blank" rel="noopener noreferrer nofollow">https://www.schneier.com/blog/archives/2008/08/garuy_mckinnon.html</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon - Schneier on SecurityAugust 4, 2008 — The interview I saw with McKinnon implied that he just hit systems with the default...</p></details>
    Published: August 4, 2008  

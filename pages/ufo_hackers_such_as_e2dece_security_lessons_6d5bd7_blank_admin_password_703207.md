@@ -837,7 +837,7 @@ In that sense, the real danger was never the blank password itself. It was the d
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://it.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Gary_McKinnon</a>  
 
 7.<a id="endnote-7"></a>

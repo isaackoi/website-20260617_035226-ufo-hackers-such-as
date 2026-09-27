@@ -733,7 +733,7 @@ The case became a reference point for later debates involving alleged hackers su
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
 
@@ -862,7 +862,7 @@ The case became a reference point for later debates involving alleged hackers su
 
 24.<a id="endnote-24"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer h...</p></details>
 
@@ -892,7 +892,7 @@ The case became a reference point for later debates involving alleged hackers su
    Source: theguardian.com  
    Title: gary mckinnon extradition theresa may  
    Link:<a href="https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2010/may/15/gary-mckinnon-extradition-theresa-may</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s [campaigners](&amp;#123;&amp;#123; &#x27;campaigners/&#x27; | relative_url &amp;#125;&amp;#125;) have called for support from the n...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon: Theresa May urged to block extradition order14 May 2010 — Computer hacker&#x27;s [campaigners]({{ 'campaigners/' | relative_url }}) have called for support from the n...</p></details>
    Published: May 2010  
 
 30.<a id="endnote-30"></a>
@@ -903,7 +903,7 @@ The case became a reference point for later debates involving alleged hackers su
 
 31.<a id="endnote-31"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonOn 16 October 2012, after a series of legal proceedings in Britain, then Home Secretary Theresa May blocked extradition t...</p></details>
    Published: October 2012  
@@ -930,7 +930,7 @@ The case became a reference point for later debates involving alleged hackers su
 35.<a id="endnote-35"></a>
    Source: vlex.co.uk  
    Link:<a href="https://vlex.co.uk/vid/mckinnon-v-united-states-793612009" target="_blank" rel="noopener noreferrer nofollow">https://vlex.co.uk/vid/mckinnon-v-united-states-793612009</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon now [appeals](&amp;#123;&amp;#123; &#x27;appeals/&#x27; | relative_url &amp;#125;&amp;#125;) against those decisions. The USA has been designated a category 2 territory pu...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon v United States of AmericaMr McKinnon now [appeals]({{ 'appeals/' | relative_url }}) against those decisions. The USA has been designated a category 2 territory pu...</p></details>
 
 36.<a id="endnote-36"></a>
    Source: mytheresa.com  

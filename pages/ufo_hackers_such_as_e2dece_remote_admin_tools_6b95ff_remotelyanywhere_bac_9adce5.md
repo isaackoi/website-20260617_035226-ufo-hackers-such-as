@@ -730,7 +730,7 @@ The significance of RemotelyAnywhere therefore lies not in what the software was
 
 2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
-   Title: US v Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) Indictment  
+   Title: US v Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) Indictment  
    Link:<a href="https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/US_v_Gary_McKinnon_Indictment</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>v Gary McKinnon Indictment27 Feb 2021 — Once installed on a host computer, RemotelyAnywhere allows the user to remotely control the host...</p></details>
 
@@ -767,7 +767,7 @@ The significance of RemotelyAnywhere therefore lies not in what the software was
    Source: justice.gov  
    Title: Department of Justice British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the [Port Services](&amp;#123;&amp;#123; &#x27;port-services/&#x27; | relative_url &amp;#125;&amp;#125;) comp...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Indictment charges that on April 7, 2001, McKinnon hacked into the NWS Earle computer network through the [Port Services]({{ 'port-services/' | relative_url }}) comp...</p></details>
    Published: April 7, 2001  
 
 9.<a id="endnote-9"></a>

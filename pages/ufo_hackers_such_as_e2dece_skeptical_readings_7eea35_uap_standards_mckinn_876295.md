@@ -786,7 +786,7 @@ From the perspective of current NASA and Pentagon methodologies, the central pro
    Source: jbsa.mil  
    Title: dod examining unidentified anomalous phenomena  
    Link:<a href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;For every [UAP report](&amp;#123;&amp;#123; &#x27;uap-report/&#x27; | relative_url &amp;#125;&amp;#125;), operational or...Read more...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;For every [UAP report]({{ 'uap-report/' | relative_url }}), operational or...Read more...</p></details>
 
 8.<a id="endnote-8"></a>
    Source: war.gov  
@@ -841,7 +841,7 @@ From the perspective of current NASA and Pentagon methodologies, the central pro
 
 17.<a id="endnote-17"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonGary McKinnon (born February 1966) is a Scottish systems administrator and hacker... ^ &quot;UFO Hacker&quot; Tells What He Found...</p></details>
    Published: February 1966  

@@ -828,7 +828,7 @@ For anyone comparing UFO hackers with whistleblowers, that remains the central l
    Source: sentencing.uk  
    Title: cyber crime unauthorised access  
    Link:<a href="https://sentencing.uk/offences/cyber-crime-unauthorised-access" target="_blank" rel="noopener noreferrer nofollow">https://sentencing.uk/offences/cyber-crime-unauthorised-access</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Maximum sentence: 2 years&#x27; [custody](&amp;#123;&amp;#123; &#x27;custody/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Maximum sentence: 2 years&#x27; [custody]({{ 'custody/' | relative_url }})...</p></details>
 
 16.<a id="endnote-16"></a>
    Source: computerweekly.com  
@@ -864,7 +864,7 @@ For anyone comparing UFO hackers with whistleblowers, that remains the central l
    Source: computerweekly.com  
    Title: Computer Misuse Act reform to move forward in National Security Bill  
    Link:<a href="https://www.computerweekly.com/news/366642884/Computer-Misuse-Act-reform-to-move-forward-in-National-Security-Bill" target="_blank" rel="noopener noreferrer nofollow">https://www.computerweekly.com/news/366642884/Computer-Misuse-Act-reform-to-move-forward-in-National-Security-Bill</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act reform to move forward in National...5 days ago — January 2020: A group of [campaigners](&amp;#123;&amp;#123; &#x27;campaigners/&#x27; | relative_url &amp;#125;&amp;#125;) says the Computer Misuse Act...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Computer Misuse Act reform to move forward in National...5 days ago — January 2020: A group of [campaigners]({{ 'campaigners/' | relative_url }}) says the Computer Misuse Act...</p></details>
    Published: January 2020  
 
 22.<a id="endnote-22"></a>

@@ -808,7 +808,7 @@ For modern organisations, the lesson is straightforward. Remote administration s
 
 3.<a id="endnote-3"></a>
    Source: justice.gov  
-   Title: Department of Justice [Indictment](&#123;&#123; 'indictment/' | relative_url &#125;&#125;)  
+   Title: Department of Justice [Indictment]({{ 'indictment/' | relative_url }})  
    Link:<a href="https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/usao/nj/Press/files/pdffiles/Older/edva_mckinnon_indictment.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of JusticeIndictmentJanuary 24, 2012 — RemotelyAnywhere is a software program that provides a remote access and remote adminis...</p></details>
    Published: January 24, 2012  
@@ -831,7 +831,7 @@ For modern organisations, the lesson is straightforward. Remote administration s
 
 7.<a id="endnote-7"></a>
    Source: media.defense.gov  
-   Title: [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) comphacker  
+   Title: [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) comphacker  
    Link:<a href="https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2002/Nov/12/2001711901/-1/-1/1/McKinnon_comphacker.pdf</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarU.S. Department of Justice United States Attorney Eastern...12 Nov 2002 — Once he was able to access the computers, McK...</p></details>
 

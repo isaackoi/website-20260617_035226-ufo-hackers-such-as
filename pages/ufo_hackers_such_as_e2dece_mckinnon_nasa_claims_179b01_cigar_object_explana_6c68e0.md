@@ -875,6 +875,6 @@ The result is a claim that is difficult either to confirm or to completely dismi
 
 12.<a id="endnote-12"></a>
    Source: socialecologies.wordpress.com  
-   Title: gary mckinnon the ufo image in nasa [building 8](&#123;&#123; 'building-8/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon the ufo image in nasa [building 8]({{ 'building-8/' | relative_url }})  
    Link:<a href="https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/03/gary-mckinnon-the-ufo-image-in-nasa-building-8/</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>McKinnon: The UFO Image in Nasa Building “8”03 Dec,2025 — Gary McKinnon: The UFO Image in Nasa Building &quot;8&quot; - A Chronosphere Case Study i...</p></details>

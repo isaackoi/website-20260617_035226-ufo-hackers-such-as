@@ -840,4 +840,4 @@ For readers evaluating claims about secret UFO programmes, hidden spacecraft or 
 19.<a id="endnote-19"></a>
    Source: youtube.com  
    Link:<a href="https://www.youtube.com/watch?v=Dcigf4t3I3E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Dcigf4t3I3E</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>[Space Force](&amp;#123;&amp;#123; &#x27;space-force/&#x27; | relative_url &amp;#125;&amp;#125;) Readiness and Political Shifts on Disclosure Examined | Backscroll...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[Space Force]({{ 'space-force/' | relative_url }}) Readiness and Political Shifts on Disclosure Examined | Backscroll...</p></details>

@@ -791,7 +791,7 @@ The indictment and related legal proceedings provide evidence that McKinnon acce
    Source: justice.gov  
    Title: British National Charged with Hacking Into N.J  
    Link:<a href="https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/archive/criminal/cybercrime/press-releases/2002/mckinnonIndict2.htm</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for [intrusions](&amp;#123;&amp;#123; &#x27;intrusions/&#x27; | relative_url &amp;#125;&amp;#125;) into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>seven-count Virginia Indictment charges McKinnon for [intrusions]({{ 'intrusions/' | relative_url }}) into 92 computer systems belonging to the U.S. Army, Navy, A...</p></details>
 
 6.<a id="endnote-6"></a>
    Source: pinsentmasons.com  
@@ -814,7 +814,7 @@ The indictment and related legal proceedings provide evidence that McKinnon acce
 
 9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Title: gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;) timeline  
+   Title: gary [mckinnon extradition]({{ 'reform/' | relative_url }}) timeline  
    Link:<a href="https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2009/nov/26/gary-mckinnon-extradition-timeline</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Timeline: Gary McKinnon&#x27;s fight against extradition to the US26 Nov 2009 — Between 1 February 2001 and 19 March 2002, Gary McKinnon alleg...</p></details>
    Published: February 2001  
@@ -832,7 +832,7 @@ The indictment and related legal proceedings provide evidence that McKinnon acce
 
 12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnon will face no charges in UK14 Dec 2012 — No further legal action will be taken in Britain against the computer hacker Gary M...</p></details>
 

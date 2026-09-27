@@ -932,7 +932,7 @@ For readers following the UFO-hacker angle, the lasting significance is therefor
 
 6.<a id="endnote-6"></a>
    Source: wired.com  
-   Title: Pentagon Hacker [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) Wins 10-Year Extradition Battle  
+   Title: Pentagon Hacker [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) Wins 10-Year Extradition Battle  
    Link:<a href="https://www.wired.com/2012/10/mckinnon-extradition-win" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2012/10/mckinnon-extradition-win</a>  
 
 7.<a id="endnote-7"></a>
@@ -990,7 +990,7 @@ For readers following the UFO-hacker angle, the lasting significance is therefor
 
 18.<a id="endnote-18"></a>
    Source: theguardian.com  
-   Title: gary mckinnon no [uk charges](&#123;&#123; 'uk-charges/' | relative_url &#125;&#125;)  
+   Title: gary mckinnon no [uk charges]({{ 'uk-charges/' | relative_url }})  
    Link:<a href="https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/dec/14/gary-mckinnon-no-uk-charges</a>  
 
 19.<a id="endnote-19"></a>

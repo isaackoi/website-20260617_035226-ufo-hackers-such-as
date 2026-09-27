@@ -944,7 +944,7 @@ The most balanced reading is therefore narrow but significant. Earle shows why U
 
 9.<a id="endnote-9"></a>
    Source: pinsentmasons.com  
-   Title: Pinsent Masons Pentagon hacker [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) earns extradition delay  
+   Title: Pinsent Masons Pentagon hacker [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) earns extradition delay  
    Link:<a href="https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-earns-extradition-delay" target="_blank" rel="noopener noreferrer nofollow">https://www.pinsentmasons.com/out-law/news/pentagon-hacker-mckinnon-earns-extradition-delay</a>  
 
 10.<a id="endnote-10"></a>

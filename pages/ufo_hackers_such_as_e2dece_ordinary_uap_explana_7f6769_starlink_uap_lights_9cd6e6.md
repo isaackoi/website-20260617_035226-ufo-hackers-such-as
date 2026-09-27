@@ -810,7 +810,7 @@ As a result, many contemporary UAP investigations now begin with orbital trackin
 9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Link:<a href="https://www.aaro.mil/Resources/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Resources/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesINFORMATION PAPERS, Effect of Forced Perspective and [Parallax](&amp;#123;&amp;#123; &#x27;parallax/&#x27; | relative_url &amp;#125;&amp;#125;) View on UAP Observations · Correlations of Starlink Satellite Flar...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ResourcesINFORMATION PAPERS, Effect of Forced Perspective and [Parallax]({{ 'parallax/' | relative_url }}) View on UAP Observations · Correlations of Starlink Satellite Flar...</p></details>
 
 10.<a id="endnote-10"></a>
    Source: arxiv.org  

@@ -813,7 +813,7 @@ The lasting legacy of the venue dispute was therefore not a definitive answer ab
 
 17.<a id="endnote-17"></a>
    Source: wilmerhale.com  
-   Title: [lauri love](&#123;&#123; 'lauri-love/' | relative_url &#125;&#125;) the forum bar shows its mettle  
+   Title: [lauri love]({{ 'lauri-love/' | relative_url }}) the forum bar shows its mettle  
    Link:<a href="https://www.wilmerhale.com/en/insights/blogs/wilmerhale-w-i-r-e-uk/lauri-love-the-forum-bar-shows-its-mettle" target="_blank" rel="noopener noreferrer nofollow">https://www.wilmerhale.com/en/insights/blogs/wilmerhale-w-i-r-e-uk/lauri-love-the-forum-bar-shows-its-mettle</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Lauri Love: The Forum Bar Shows its Mettle16 Mar 2018 — May concluded that the extradition of McKinnon, who suffered from Asperger syndro...</p></details>
 
@@ -830,7 +830,7 @@ The lasting legacy of the venue dispute was therefore not a definitive answer ab
 
 20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) wins extradition battle  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) wins extradition battle  
    Link:<a href="https://www.youtube.com/watch?v=y4lecD44F5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=y4lecD44F5E</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>UK hacker&#x27;s extradition to US blocked...</p></details>
 

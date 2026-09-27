@@ -739,7 +739,7 @@ As a result, Gary McKinnon occupies two distinct places in public memory. Within
 
 1.<a id="endnote-1"></a>
    Source: GOV.UK  
-   Title: theresa may statement on gary [mckinnon extradition](&#123;&#123; 'reform/' | relative_url &#125;&#125;)  
+   Title: theresa may statement on gary [mckinnon extradition]({{ 'reform/' | relative_url }})  
    Link:<a href="https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/news/theresa-may-statement-on-gary-mckinnon-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>16 Oct 2012 — I have concluded that Mr McKinnon&#x27;s extradition would give rise to such a high risk of him ending his life that a decision...</p></details>
 
@@ -790,7 +790,7 @@ As a result, Gary McKinnon occupies two distinct places in public memory. Within
 
 10.<a id="endnote-10"></a>
    Source: wired.com  
-   Title: [Lauri Love](&#123;&#123; 'lauri-love/' | relative_url &#125;&#125;) won't be extradited to the US to face hacking charges  
+   Title: [Lauri Love]({{ 'lauri-love/' | relative_url }}) won't be extradited to the US to face hacking charges  
    Link:<a href="https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/lauri-love-hacker-appeal-decision-extradition-court-uk</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Love, accused of hacking US government bodies and facing up to 99 years in prison and significant fines, suffers from Asperger&#x27;s Syndrome...</p></details>
 

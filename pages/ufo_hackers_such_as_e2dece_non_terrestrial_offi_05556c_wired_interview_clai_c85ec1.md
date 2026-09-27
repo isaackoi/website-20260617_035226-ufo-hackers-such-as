@@ -814,7 +814,7 @@ At the same time, the interview establishes clear limits on what can be known. I
 
 16.<a id="endnote-16"></a>
    Source: Wikipedia  
-   Title: Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;)  
+   Title: Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }})  
    Link:<a href="https://en.wikipedia.org/wiki/Gary_McKinnon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gary_McKinnon</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Gary McKinnonMcKinnon said that he was looking for evidence of free energy suppression and a cover-up of UFO activity and other techno...</p></details>
 
@@ -833,7 +833,7 @@ At the same time, the interview establishes clear limits on what can be known. I
 19.<a id="endnote-19"></a>
    Source: reddit.com  
    Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/ybzdq1/why_i_believe_theres_some_truth_to_mckinnons/</a>  
-<details class="endnote-snippet"><summary>Source snippet</summary><p>Why I believe theres some truth to McKinnons claim of...The only thing I&#x27;ve found regarding [Solar Warden](&amp;#123;&amp;#123; &#x27;solar-warden/&#x27; | relative_url &amp;#125;&amp;#125;) was an investigative journalist...</p></details>
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why I believe theres some truth to McKinnons claim of...The only thing I&#x27;ve found regarding [Solar Warden]({{ 'solar-warden/' | relative_url }}) was an investigative journalist...</p></details>
 
 20.<a id="endnote-20"></a>
    Source: spreaker.com  

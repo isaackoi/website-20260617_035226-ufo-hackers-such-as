@@ -792,7 +792,7 @@ Because the extradition proceedings never resulted in a US criminal trial, the g
 
 9.<a id="endnote-9"></a>
    Source: theguardian.com  
-   Title: The Guardian Gary [Mc Kinnon](&#123;&#123; 'mc-kinnon/' | relative_url &#125;&#125;) [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;): events leading up to extradition  
+   Title: The Guardian Gary [Mc Kinnon]({{ 'mc-kinnon/' | relative_url }}) [timeline]({{ 'timeline/' | relative_url }}): events leading up to extradition  
    Link:<a href="https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2012/oct/16/gary-mckinnon-timeline-extradition</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianGary McKinnon timeline: events leading up to extradition...October 16, 2012 — 16 Oct 2012 — US prosecutors also allege he de...</p></details>
    Published: October 16, 2012  
