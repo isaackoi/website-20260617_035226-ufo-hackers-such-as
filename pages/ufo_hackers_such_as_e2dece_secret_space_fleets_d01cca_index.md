@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-secret/
 description: Focused pages that expand on Secret Fleets.
-date: '2026'
+date: '2026-01-01 00:00:00'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_secret_space_fleets_d01cca
 parent_title: Secret Fleets

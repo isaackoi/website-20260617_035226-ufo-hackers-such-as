@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-hacked/
 description: Focused pages that expand on Secrecy Stories.
-date: '2026'
+date: '2026-01-01 00:00:00'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_hacked_secrecy_narra_139e1d
 parent_title: Secrecy Stories
