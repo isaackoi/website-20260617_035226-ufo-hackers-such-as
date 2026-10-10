@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-human/
 description: Focused pages that expand on Human Rights.
-date: '2026'
+date: '2026-01-01 00:00:00'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_human_rights_extradi_3a3176
 parent_title: Human Rights

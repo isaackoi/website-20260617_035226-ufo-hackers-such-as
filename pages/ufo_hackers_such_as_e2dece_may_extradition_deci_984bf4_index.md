@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-may/
 description: Focused pages that expand on May Decision.
-date: '2026'
+date: '2026-01-01 00:00:00'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece_may_extradition_deci_984bf4
 parent_title: May Decision

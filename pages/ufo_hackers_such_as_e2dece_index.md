@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ufo-hackers-such-as-e2dece-index/
 description: Focused pages that expand on UFO Hackers Such.
-date: '2026'
+date: '2026-01-01 00:00:00'
 layout: default
 parent_basename: ufo_hackers_such_as_e2dece
 parent_title: UFO Hackers Such
